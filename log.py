@@ -10,6 +10,10 @@ def logError(text):
     if DISABLED: return
     print("ERROR: %s" % text)
 
+def logBot(text):
+    if DISABLED: return
+    print("BOT: %s" % text)
+
 def logCards(cards, label):
     if DISABLED: return
     print("%s: " % label, end = "")

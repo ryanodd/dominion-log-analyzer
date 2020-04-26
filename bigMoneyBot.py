@@ -1,10 +1,10 @@
-import log
+from log import *
 from card import *
 
 class BigMoneyBot:
     def __init__(self, name, options):
         self.name = "BM_%s" % name
-        
+
         self.options = options
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
 
@@ -13,7 +13,6 @@ class BigMoneyBot:
             # ensure no conflicts
             pass
         self.provincePatience_waited = 0
-        
 
     def choose(self, choice, player, board):
         if (choice == 'action'):
@@ -43,6 +42,7 @@ class BigMoneyBot:
             # provincePatience waits to buy its first province
             if (self.provincePatience_waited < self.options['provincePatience']):
                 self.provincePatience_waited += 1
+                logBot("Province Patience: wait #%s" % self.provincePatience_waited)
                 return 6 # gold
 
             return 2 # province

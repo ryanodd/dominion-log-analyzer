@@ -1,3 +1,5 @@
+import copy
+
 from log import *
 from board import *
 from player import *
@@ -7,7 +9,7 @@ class Game:
         self.board = Board(cards, len(bots))
         self.players = []
         for b in bots:
-            self.players.append(Player(self.board, b))
+            self.players.append(Player(self.board, copy.deepcopy(b)))
 
     # Current win condition is owning 4 provinces
     def isOver(self):

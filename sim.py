@@ -50,5 +50,3 @@ for g in games:
     plotDataFrame = pd.DataFrame({"Rounds": list(g.roundDist.keys()), "Frequency": list(g.roundDist.values())})
     sns.lineplot(data=plotDataFrame, x="Rounds", y="Frequency", label=g.name), 
 plt.show()
-
-
