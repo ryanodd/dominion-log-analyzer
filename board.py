@@ -9,6 +9,7 @@ class Board:
     def __init__(self, cards, numPlayers):
         self.shop = []
         self.trash = []
+        self.round = 0
 
         victoryAmount = 12
         if (numPlayers <= 2):

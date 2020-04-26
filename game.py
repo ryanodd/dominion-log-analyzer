@@ -6,9 +6,8 @@ class Game:
     def __init__(self, bots, cards):
         self.board = Board(cards, len(bots))
         self.players = []
-        for i in range(len(bots)):
-            self.players.append(Player(self.board, bots[i], "Bot"))
-        self.round = 0
+        for b in bots:
+            self.players.append(Player(self.board, b))
 
     # Current win condition is owning 4 provinces
     def isOver(self):
@@ -24,11 +23,11 @@ class Game:
 
     def run(self):
         while True:
-            self.round += 1
-            log("Round %s begins" % self.round)
+            self.board.round += 1
+            log("Round %s begins" % self.board.round)
             for i in range(len(self.players)):
                 self.players[i].turn()
                 log("-")
                 if self.isOver():
-                    log("Game Over! Ended after round %s" % self.round)
+                    log("Game Over! Ended after round %s" % self.board.round)
                     return

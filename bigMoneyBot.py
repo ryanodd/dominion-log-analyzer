@@ -2,9 +2,18 @@ import log
 from card import *
 
 class BigMoneyBot:
-    def __init__(self):
-        # uhhhhhhh. Does this need to be an object?
-        pass
+    def __init__(self, name, options):
+        self.name = "BM_%s" % name
+        
+        self.options = options
+        if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
+
+        # int representing how many turns to buy gold instead of a province
+        if (self.options['provincePatience'] > 0):
+            # ensure no conflicts
+            pass
+        self.provincePatience_waited = 0
+        
 
     def choose(self, choice, player, board):
         if (choice == 'action'):
@@ -30,6 +39,12 @@ class BigMoneyBot:
     
     def chooseBuy(self, player, board):
         if (player.money >= 8):
+            
+            # provincePatience waits to buy its first province
+            if (self.provincePatience_waited < self.options['provincePatience']):
+                self.provincePatience_waited += 1
+                return 6 # gold
+
             return 2 # province
         elif (player.money >= 6):
             return 6 # gold

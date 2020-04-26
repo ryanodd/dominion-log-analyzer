@@ -5,10 +5,9 @@ from card import *
 import factory
 
 class Player:
-    def __init__(self, board, bot, name):
+    def __init__(self, board, bot):
         self.board = board
         self.bot = bot
-        self.name = name
 
         self.deck = []
         self.deck.append(factory.copper())
@@ -52,7 +51,7 @@ class Player:
         self.money = 0
         self.actions = 1
         self.buys = 1
-        # log("%s's turn begins" % self.name)
+        # log("%s's turn begins" % self.bot.name)
         logCards(self.hand, "Hand")
 
         # Actions
@@ -66,7 +65,7 @@ class Player:
                 actionCard = self.hand.pop(actionChoice)
                 self.play.append(actionCard)
                 self.actions -= 1
-                log("%s plays action: %s" % (self.name, actionCard.name))
+                log("%s plays action: %s" % (self.bot.name, actionCard.name))
                 actionCard.steps(self, self.board)
             else:
                 logError("Invalid action choice: %s" % actionChoice)
@@ -81,7 +80,7 @@ class Player:
                 # play treasure
                 treasureCard = self.hand.pop(treasureChoice)
                 self.play.append(treasureCard)
-                # log("%s plays treasure: %s" % (self.name, treasureCard.name))
+                # log("%s plays treasure: %s" % (self.bot.name, treasureCard.name))
                 treasureCard.steps(self, self.board)
             else:
                 logError("Invalid treasure choice: %s" % treasureChoice)
@@ -98,7 +97,7 @@ class Player:
                 self.money -= buyCard.cost
                 self.discard.append(buyCard)
                 self.buys -= 1
-                log("%s buys: %s" % (self.name, buyCard.name))
+                log("%s buys: %s" % (self.bot.name, buyCard.name))
             else:
                 logError("Invalid buy choice: %s" % buyChoice)
 
@@ -109,7 +108,7 @@ class Player:
             self.discard.append(self.hand.pop())
         self.draw(5)
 
-        # log("%s's turn ends" % self.name)
+        # log("%s's turn ends" % self.bot.name)
         # Necessary?
         self.money = 0
         self.actions = 0
