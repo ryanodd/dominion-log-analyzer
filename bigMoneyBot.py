@@ -1,6 +1,9 @@
+import copy
+
 from log import *
 from card import *
-import botUtils
+from botUtils import isCardTerminal, terminalCount
+from botKnowledge import getCardInfo
 
 class BigMoneyBot:
     def __init__(self, name, options):
@@ -60,10 +63,25 @@ class BigMoneyBot:
             if (card.cost > player.money): continue
 
             # Don't get this terminal if we already have too many terminals
-            if (botUtils.isCardTerminal(card) and (len(player.totalDeck()) / self.options["cardsPerTerminal"] <= botUtils.terminalCount(player.totalDeck()))): continue
+            if (isCardTerminal(card) and (len(player.totalDeck()) / self.options["cardsPerTerminal"] <= terminalCount(player.totalDeck()))): continue
             
-            valueIncrease = botUtils.deckValueIncrease(player.totalDeck(), card)
+            valueIncrease = self.deckValueIncrease(player.totalDeck(), card)
             if (valueIncrease > bestValueIncrease):
                 bestValueIncrease = valueIncrease
                 bestIndex = i
         return bestIndex
+
+    # I don't like this formula
+    def deckValue(self, deck):
+        deckSize = len(deck)
+        totalMoney = 0.0
+        totalDraws = 0.0
+        for card in deck:
+            totalMoney += getCardInfo(card.name).money
+            totalDraws += getCardInfo(card.name).draws
+        return totalMoney / max(1, (deckSize - totalDraws))
+
+    def deckValueIncrease(self, deck, card):
+        potentialDeck = copy.copy(deck)
+        potentialDeck.append(card)
+        return self.deckValue(potentialDeck) - self.deckValue(deck)
