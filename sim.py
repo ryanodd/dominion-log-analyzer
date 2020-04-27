@@ -4,8 +4,9 @@ import matplotlib.pyplot as plt
 
 from game import *
 from bigMoneyBot import BigMoneyBot
+import factory
 
-NUM_SAMPLES = 5000
+NUM_SAMPLES = 1000
 
 # Not sure if this class should store roundDist like this... Scores may be measured differently later. Store outside?
 class GameSet:
@@ -20,10 +21,13 @@ games = []
 
 basicBot = BigMoneyBot("BigMoney_Basic", {})
 games.append(GameSet("Basic", [basicBot], []))
-onePatienceBot = BigMoneyBot("BigMoney_1Patience", {"provincePatience": 1})
-games.append(GameSet("1Patience", [onePatienceBot], []))
-twoPatienceBot = BigMoneyBot("BigMoney_2Patience", {"provincePatience": 2})
-games.append(GameSet("2Patience", [twoPatienceBot], []))
+smithyBot = BigMoneyBot("BigMoney_Smithy", {})
+games.append(GameSet("Smithy", [smithyBot], [factory.smithy()]))
+
+# onePatienceBot = BigMoneyBot("BigMoney_1Patience", {"provincePatience": 1})
+# games.append(GameSet("1Patience", [onePatienceBot], []))
+# twoPatienceBot = BigMoneyBot("BigMoney_2Patience", {"provincePatience": 2})
+# games.append(GameSet("2Patience", [twoPatienceBot], []))
 
 # Run games
 for g in games:

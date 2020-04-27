@@ -1,5 +1,6 @@
 from log import *
 from card import *
+import botUtils
 
 class BigMoneyBot:
     def __init__(self, name, options):
@@ -7,6 +8,7 @@ class BigMoneyBot:
 
         self.options = options
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
+        if ("cardsPerTerminal" not in self.options): self.options["cardsPerTerminal"] = 8
 
         # int representing how many turns to buy gold instead of a province
         if (self.options['provincePatience'] > 0):
@@ -25,7 +27,10 @@ class BigMoneyBot:
             logError("unrecognized choice type: %s" % choice)
 
     def chooseAction(self, player, board):
-        # Never perform actions
+        # Always plays first available action
+        for i in range(len(player.hand)):
+            if (CardType.ACTION in player.hand[i].types):
+                return i
         return -1
 
     def chooseTreasure(self, player, board):
@@ -46,9 +51,19 @@ class BigMoneyBot:
                 return 6 # gold
 
             return 2 # province
-        elif (player.money >= 6):
-            return 6 # gold
-        elif (player.money >= 3):
-            return 5 # silver
-        else:
-            return -1
+
+        # Otherwise choose a card based on best value added to deck
+        bestIndex = -1
+        bestValueIncrease = 0
+        for i in range(len(board.shop)):
+            card = board.shop[i].card
+            if (card.cost > player.money): continue
+
+            # Don't get this terminal if we already have too many terminals
+            if (botUtils.isCardTerminal(card) and (len(player.totalDeck()) / self.options["cardsPerTerminal"] <= botUtils.terminalCount(player.totalDeck()))): continue
+            
+            valueIncrease = botUtils.deckValueIncrease(player.totalDeck(), card)
+            if (valueIncrease > bestValueIncrease):
+                bestValueIncrease = valueIncrease
+                bestIndex = i
+        return bestIndex
