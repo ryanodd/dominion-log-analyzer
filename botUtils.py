@@ -1,3 +1,4 @@
+from log import *
 from card import *
 from botKnowledge import getCardInfo
 

@@ -6,8 +6,8 @@ from botUtils import isCardTerminal, terminalCount
 from botKnowledge import getCardInfo
 
 class BigMoneyBot:
-    def __init__(self, name, options):
-        self.name = "BM_%s" % name
+    def __init__(self, options):
+        self.name = "BigMoneyBot"
 
         self.options = options
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
@@ -67,13 +67,15 @@ class BigMoneyBot:
             card = board.shop[i].card
             if (card.cost > player.money): continue
             # Don't get this terminal if we already have too many terminals
-            if (isCardTerminal(card) and (len(player.totalDeck()) / self.options["cardsPerTerminal"] <= terminalCount(player.totalDeck()))): continue
+            if (isCardTerminal(card) and (terminalCount(player.totalDeck()) >= len(player.totalDeck()) // self.options["cardsPerTerminal"])): continue
             
             potentialDeck.append(card)
             valueIncrease = self.calcATM(potentialDeck) - self.calcATM(player.totalDeck())
+            del potentialDeck[-1]
             if (valueIncrease > bestValueIncrease):
                 bestValueIncrease = valueIncrease
                 bestIndex = i
+        logBot("Choosing to buy %s based on its increase of %.2f to our ATM" % (board.shop[bestIndex].card.name, bestValueIncrease))
         return bestIndex
 
     # Calculate ATM - Average Turn Money
