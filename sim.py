@@ -6,7 +6,7 @@ from game import *
 from bigMoneyBot import BigMoneyBot
 import factory
 
-NUM_SAMPLES = 1000
+NUM_SAMPLES = 50
 
 # Not sure if this class should store roundDist like this... Scores may be measured differently later. Store outside?
 class GameSet:
@@ -21,8 +21,14 @@ games = []
 
 basicBot = BigMoneyBot("BigMoney_Basic", {})
 games.append(GameSet("Basic", [basicBot], []))
-smithyBot = BigMoneyBot("BigMoney_Smithy", {})
-games.append(GameSet("Smithy", [smithyBot], [factory.smithy()]))
+smithyBot = BigMoneyBot("BigMoney_Smithy_4", {"cardsPerTerminal": 4})
+games.append(GameSet("Smithy_4", [smithyBot], [factory.smithy()]))
+smithyBot = BigMoneyBot("BigMoney_Smithy_6", {"cardsPerTerminal": 6})
+games.append(GameSet("Smithy_6", [smithyBot], [factory.smithy()]))
+smithyBot = BigMoneyBot("BigMoney_Smithy_8", {"cardsPerTerminal": 8})
+games.append(GameSet("Smithy_8", [smithyBot], [factory.smithy()]))
+smithyBot = BigMoneyBot("BigMoney_Smithy_10", {"cardsPerTerminal": 10})
+games.append(GameSet("Smithy_10", [smithyBot], [factory.smithy()]))
 
 # onePatienceBot = BigMoneyBot("BigMoney_1Patience", {"provincePatience": 1})
 # games.append(GameSet("1Patience", [onePatienceBot], []))

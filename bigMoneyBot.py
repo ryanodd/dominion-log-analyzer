@@ -55,33 +55,35 @@ class BigMoneyBot:
 
             return 2 # province
 
+        # Should be able to remove this when we fix calcATM
+        if (player.money >= 6):
+            return 6 # gold
+
         # Otherwise choose a card based on best value added to deck
+        potentialDeck = copy.copy(player.totalDeck())
         bestIndex = -1
         bestValueIncrease = 0
         for i in range(len(board.shop)):
             card = board.shop[i].card
             if (card.cost > player.money): continue
-
             # Don't get this terminal if we already have too many terminals
             if (isCardTerminal(card) and (len(player.totalDeck()) / self.options["cardsPerTerminal"] <= terminalCount(player.totalDeck()))): continue
             
-            valueIncrease = self.deckValueIncrease(player.totalDeck(), card)
+            potentialDeck.append(card)
+            valueIncrease = self.calcATM(potentialDeck) - self.calcATM(player.totalDeck())
             if (valueIncrease > bestValueIncrease):
                 bestValueIncrease = valueIncrease
                 bestIndex = i
         return bestIndex
 
-    # I don't like this formula
-    def deckValue(self, deck):
+    # Calculate ATM - Average Turn Money
+    # important algorithm , currently O(n)
+    # TODO: account for action chaining and terminals somehow
+    def calcATM(self, deck):
         deckSize = len(deck)
         totalMoney = 0.0
-        totalDraws = 0.0
+        drawsPerTurn = 0.0
         for card in deck:
             totalMoney += getCardInfo(card.name).money
-            totalDraws += getCardInfo(card.name).draws
-        return totalMoney / max(1, (deckSize - totalDraws))
-
-    def deckValueIncrease(self, deck, card):
-        potentialDeck = copy.copy(deck)
-        potentialDeck.append(card)
-        return self.deckValue(potentialDeck) - self.deckValue(deck)
+            drawsPerTurn += getCardInfo(card.name).draws * (5.0 / deckSize) # assumes no terminal-crashes (and no draws this turn!? solution involves limits?)
+        return totalMoney * ((5.0 + drawsPerTurn) / deckSize)
