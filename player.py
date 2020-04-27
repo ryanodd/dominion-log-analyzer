@@ -55,7 +55,7 @@ class Player:
         logCards(self.hand, "Hand")
 
         # Actions
-        while self.actions:
+        while self.actions and self.hasTypeInHand(CardType.ACTION):
             actionChoice = self.bot.choose('action', self, self.board)
             if (actionChoice == -1):
                 break
@@ -71,7 +71,7 @@ class Player:
                 logError("Invalid action choice: %s" % actionChoice)
 
         # Playing Treasures
-        while True:
+        while self.hasTypeInHand(CardType.TREASURE):
             treasureChoice = self.bot.choose('treasure', self, self.board)
             if (treasureChoice == -1):
                 break
@@ -116,3 +116,9 @@ class Player:
 
     def totalDeck(self):
         return self.deck + self.hand + self.discard + self.play
+
+    def hasTypeInHand(self, type):
+        for card in self.hand:
+            if(type in card.types):
+                return True
+        return False
