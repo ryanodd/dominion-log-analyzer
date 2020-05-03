@@ -1,3 +1,4 @@
+# Data display
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -6,7 +7,7 @@ from game import *
 from bigMoneyBot import BigMoneyBot
 import factory
 
-NUM_SAMPLES = 1000
+NUM_SAMPLES = 2000
 
 # Not sure if this class should store roundDist like this... Scores may be measured differently later. Store outside?
 class GameSet:
@@ -19,19 +20,23 @@ class GameSet:
 
 games = []
 
-basicBot = BigMoneyBot({})
-games.append(GameSet("Basic", [basicBot], []))
-smithyBot = BigMoneyBot({"cardsPerTerminal": 6})
-games.append(GameSet("Smithy_6", [smithyBot], [factory.smithy()]))
-smithyBot = BigMoneyBot({"cardsPerTerminal": 8})
-games.append(GameSet("Smithy_8", [smithyBot], [factory.smithy()]))
-smithyBot = BigMoneyBot({"cardsPerTerminal": 10})
-games.append(GameSet("Smithy_10", [smithyBot], [factory.smithy()]))
+# basicBot = BigMoneyBot({})
+# games.append(GameSet("Basic", [basicBot], []))
 
-# onePatienceBot = BigMoneyBot("BigMoney_1Patience", {"provincePatience": 1})
-# games.append(GameSet("1Patience", [onePatienceBot], []))
-# twoPatienceBot = BigMoneyBot("BigMoney_2Patience", {"provincePatience": 2})
-# games.append(GameSet("2Patience", [twoPatienceBot], []))
+# smithyBot = BigMoneyBot({})
+# games.append(GameSet("Smithy", [smithyBot], [factory.smithy()]))
+
+# marketBot = BigMoneyBot({"cardsPerTerminal": 8})
+# games.append(GameSet("Market", [marketBot], [factory.market()]))
+
+# laboratoryBot = BigMoneyBot({"cardsPerTerminal": 8})
+# games.append(GameSet("Laboratory", [laboratoryBot], [factory.laboratory()]))
+
+# chapelBot = BigMoneyBot({"chapelEnabled": True})
+# games.append(GameSet("Chapel", [chapelBot], [factory.chapel()]))
+
+chapelSmithyBot = BigMoneyBot({"chapelEnabled": True})
+games.append(GameSet("Chapel/Smithy", [chapelSmithyBot], [factory.chapel(), factory.smithy()]))
 
 # Run games
 for g in games:

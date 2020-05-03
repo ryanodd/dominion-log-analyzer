@@ -48,7 +48,13 @@ def curse():
 
 # def cellar():
 
-# def chapel():
+def chapel():
+    def chapel_steps(player, board):
+        trashChoices = player.bot.choose('chapel', player, board)
+        for i in sorted(trashChoices, reverse=True):
+            board.trash.append(player.hand.pop(i))
+
+    return Card("Chapel", 2, [CardType.ACTION], chapel_steps, None)
 
 # def councilRoom():
 

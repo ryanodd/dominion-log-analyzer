@@ -20,6 +20,7 @@ info['Copper'] = CardInfo(money=1)
 info['Silver'] = CardInfo(money=2)
 info['Gold'] = CardInfo(money=3)
 
+info['Chapel'] = CardInfo()
 info['Festival'] = CardInfo(money=2, buys=1)
 info['Gardens'] = CardInfo(vp=3) # wrong for now. Where should the math be done?
 info['Laboratory'] = CardInfo(draws=2, actions=1)

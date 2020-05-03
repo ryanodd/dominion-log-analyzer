@@ -12,7 +12,7 @@ def logError(text):
 
 def logBot(text):
     if DISABLED: return
-    print("BOT: %s" % text)
+    print("    BOT: %s" % text)
 
 def logCards(cards, label):
     if DISABLED: return

@@ -1,0 +1,16 @@
+Terminal crashes: has to account for drawing, villages.
+- chances of a specific card being the turn's terminal? (e.g. even if a smithy draws another action, it was terminal. no actions left)
+- chances of a specific card NOT being possible to play (due to lacking actions)
+- in this algorithm, cards with [1 action, 1 card] should be equivalent to not being in the deck
+- cards with +2 actions (or more) should lower the chances of a terminal crash somehow.
+
+Assess the value of things that don't immediately improve the deck (e.g. moneylender)
+
+assessing the value of a gain (workshop is not as good as gaining 4 money)
+
+For things that depend on deck size, calculate expected deck sizes throughout the game based on buys, gains
+- notably assessing how many times you think a card will played in the future (for assessing moneylender value)
+
+attacks
+
+alternate vp approaches
