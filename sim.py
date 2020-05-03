@@ -20,11 +20,11 @@ class GameSet:
 
 games = []
 
-# basicBot = BigMoneyBot({})
-# games.append(GameSet("Basic", [basicBot], []))
+basicBot = BigMoneyBot({})
+games.append(GameSet("Basic", [basicBot], []))
 
-# smithyBot = BigMoneyBot({})
-# games.append(GameSet("Smithy", [smithyBot], [factory.smithy()]))
+smithyBot = BigMoneyBot({})
+games.append(GameSet("Smithy", [smithyBot], [factory.smithy()]))
 
 # marketBot = BigMoneyBot({"cardsPerTerminal": 8})
 # games.append(GameSet("Market", [marketBot], [factory.market()]))
@@ -32,10 +32,10 @@ games = []
 # laboratoryBot = BigMoneyBot({"cardsPerTerminal": 8})
 # games.append(GameSet("Laboratory", [laboratoryBot], [factory.laboratory()]))
 
-# chapelBot = BigMoneyBot({"chapelEnabled": True})
-# games.append(GameSet("Chapel", [chapelBot], [factory.chapel()]))
+chapelBot = BigMoneyBot({"chapelEnabled": True})
+games.append(GameSet("Chapel", [chapelBot], [factory.chapel()]))
 
-chapelSmithyBot = BigMoneyBot({"chapelEnabled": True})
+chapelSmithyBot = BigMoneyBot({"chapelEnabled": True, "provincePatience": 1})
 games.append(GameSet("Chapel/Smithy", [chapelSmithyBot], [factory.chapel(), factory.smithy()]))
 
 # Run games

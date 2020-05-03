@@ -34,10 +34,11 @@ class BigMoneyBot:
 
     def chooseAction(self, player, board):
         # Always plays first available action
+        actionPriorities = {}
         for i in range(len(player.hand)):
             if (CardType.ACTION in player.hand[i].types):
-                return i
-        return -1
+                actionPriorities[i] = self.actionPriority(player.hand[i].name)
+        return max(actionPriorities, key=actionPriorities.get)
 
     def chooseTreasure(self, player, board):
         # Always play first available treasure. More choices come later for the rest
@@ -67,11 +68,13 @@ class BigMoneyBot:
         bestIndex = -1
         bestValueIncrease = 0
         for i in range(len(board.shop)):
-            if (board.shop[i].card.name == "Chapel" and cardCountByName(player.totalDeck(), "Chapel") == 0 and self.options["chapelEnabled"]):
-                logBot("Choosing to buy chapel since we don't have one yet")
-                return i
             card = board.shop[i].card
             if (card.cost > player.money): continue
+
+            if (card.name == "Chapel" and cardCountByName(player.totalDeck(), "Chapel") == 0 and self.options["chapelEnabled"]):
+                logBot("Choosing to buy chapel since we don't have one yet")
+                return i
+
             # Don't get this terminal if we already have too many terminals
             if (isCardTerminal(card) and (terminalCount(player.totalDeck()) >= len(player.totalDeck()) // self.options["cardsPerTerminal"])): continue
             
@@ -126,3 +129,19 @@ class BigMoneyBot:
             totalMoney += getCardInfo(card.name).money
             drawsPerTurn += getCardInfo(card.name).draws * (5.0 / deckSize) # assumes no terminal-crashes (and no draws this turn!? solution involves limits?)
         return totalMoney * ((5.0 + drawsPerTurn) / deckSize)
+
+    def actionPriority(self, name):
+        if (name == "Chapel"):
+            return 1
+        elif (name == "Festival"):
+            return 5
+        elif (name == "Laboratory"):
+            return 20
+        elif (name == "Market"):
+            return 20
+        elif (name == "Smithy"):
+            return 10
+        elif (name == "Village"):
+            return 20
+        else:
+            return 1
