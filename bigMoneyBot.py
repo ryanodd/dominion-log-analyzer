@@ -11,7 +11,7 @@ class BigMoneyBot:
 
         self.options = options
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
-        if ("cardsPerTerminal" not in self.options): self.options["cardsPerTerminal"] = 8
+        if ("cardsPerTerminal" not in self.options): self.options["cardsPerTerminal"] = 0
         if ("chapelEnabled" not in self.options): self.options["chapelEnabled"] = False
 
         # int representing how many turns to buy gold instead of a province
@@ -65,6 +65,7 @@ class BigMoneyBot:
 
         # Otherwise choose a card based on best value added to deck
         potentialDeck = copy.copy(player.totalDeck())
+        noBuyATM = self.calcATM(potentialDeck)
         bestIndex = -1
         bestValueIncrease = 0
         for i in range(len(board.shop)):
@@ -76,10 +77,11 @@ class BigMoneyBot:
                 return i
 
             # Don't get this terminal if we already have too many terminals
-            if (isCardTerminal(card) and (terminalCount(player.totalDeck()) >= len(player.totalDeck()) // self.options["cardsPerTerminal"])): continue
+            if (isCardTerminal(card) and self.options["cardsPerTerminal"]):
+                if (terminalCount(player.totalDeck()) >= (len(player.totalDeck()) // self.options["cardsPerTerminal"])): continue
             
             potentialDeck.append(card)
-            valueIncrease = self.calcATM(potentialDeck) - self.calcATM(player.totalDeck())
+            valueIncrease = self.calcATM(potentialDeck) - noBuyATM
             del potentialDeck[-1]
             if (valueIncrease > bestValueIncrease):
                 bestValueIncrease = valueIncrease
@@ -117,18 +119,42 @@ class BigMoneyBot:
         logBot("Choosing to trash: %s" % str(namesTrashing))
         return indexesTrashing
 
-
     # Calculate ATM - Average Turn Money
     # important algorithm , currently O(n)
-    # TODO: account for action chaining and terminals somehow
+    # TODO: incorporate terminals, connect actions & draws (draws can't happen without actions)
+    # TODO: separate future draws by what we know is in the discard pile vs deck, changing our odds
     def calcATM(self, deck):
         deckSize = len(deck)
+        handSize = 5.0 # This can be more accurate
         totalMoney = 0.0
         drawsPerTurn = 0.0
+
+        totalDraws = 0.0
+        totalMoney = 0.0
+        totalActions = 0.0
+
+        # collect some data
         for card in deck:
+            totalDraws += getCardInfo(card.name).draws
             totalMoney += getCardInfo(card.name).money
-            drawsPerTurn += getCardInfo(card.name).draws * (5.0 / deckSize) # assumes no terminal-crashes (and no draws this turn!? solution involves limits?)
-        return totalMoney * ((5.0 + drawsPerTurn) / deckSize)
+            totalActions += getCardInfo(card.name).actions
+        drawsPerCard = totalDraws / deckSize
+        moneyPerCard = totalMoney / deckSize
+        actionsPerCard = totalActions / deckSize
+
+        # cardsPerTurn is sum(n=0 to infinity, handSize * drawsPerCard^n) 
+        # representing your opening hand, plus the cards you draw with your opening hand,
+        # plus the cards you draw with those new cards, plus the cards you draw with THOSE new cards, etc
+        if (drawsPerCard < 1): # converges
+            cardsPerTurn = min(deckSize, (handSize/(1-drawsPerCard)))
+        else: # diverges
+            cardsPerTurn = deckSize
+
+        moneyPerTurn = moneyPerCard * cardsPerTurn
+        actionsPerTurn = actionsPerCard * cardsPerTurn
+
+        logBot("calcATM: cardsPerTurn: %s, moneyPerTurn: %s, actionsPerTurn: %s" % (cardsPerTurn, moneyPerTurn, actionsPerTurn))
+        return moneyPerTurn
 
     def actionPriority(self, name):
         if (name == "Chapel"):
