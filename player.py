@@ -5,10 +5,10 @@ from card import *
 import factory
 
 class Player:
-    def __init__(self, board, bot, log):
+    def __init__(self, board, bot):
         self.board = board
         self.bot = bot
-        self.log = log
+        self.log = PlayerLog()
 
         self.deck = []
         self.deck.append(factory.copper())
