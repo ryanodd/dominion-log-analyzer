@@ -5,22 +5,26 @@ from card import *
 import factory
 
 class Player:
-    def __init__(self, board, bot):
+    def __init__(self, board, bot, deck = []):
         self.board = board
         self.bot = bot
         self.log = PlayerLog()
 
-        self.deck = []
-        self.deck.append(factory.copper())
-        self.deck.append(factory.copper())
-        self.deck.append(factory.copper())
-        self.deck.append(factory.copper())
-        self.deck.append(factory.copper())
-        self.deck.append(factory.copper())
-        self.deck.append(factory.copper())
-        self.deck.append(factory.estate())
-        self.deck.append(factory.estate())
-        self.deck.append(factory.estate())
+        if (deck):
+            self.deck = deck
+        else:
+            self.deck = []
+            self.deck.append(factory.copper())
+            self.deck.append(factory.copper())
+            self.deck.append(factory.copper())
+            self.deck.append(factory.copper())
+            self.deck.append(factory.copper())
+            self.deck.append(factory.copper())
+            self.deck.append(factory.copper())
+            self.deck.append(factory.estate())
+            self.deck.append(factory.estate())
+            self.deck.append(factory.estate())
+        
         self.discard = []
         self.hand = []
         self.play = []
