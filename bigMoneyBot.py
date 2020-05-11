@@ -3,7 +3,7 @@ import copy
 from log import *
 from card import *
 from botUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
-from botKnowledge import getCardInfo
+from objectiveCardInfo import getCardInfo
 
 class BigMoneyBot:
     def __init__(self, options):

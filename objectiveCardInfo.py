@@ -8,7 +8,6 @@ class CardInfo:
         self.buys = buys
         self.vp = vp
 
-
 # Maps card names to CardInfo objects
 info = {}
 

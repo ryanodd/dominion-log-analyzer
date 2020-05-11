@@ -1,6 +1,6 @@
 from log import *
 from card import *
-from botKnowledge import getCardInfo
+from objectiveCardInfo import getCardInfo
 
 # O(n^2) !!!!
 # Returns a new deck list, does not modify input deck
