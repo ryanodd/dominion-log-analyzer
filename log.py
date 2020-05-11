@@ -4,28 +4,38 @@ from card import *
 
 DISABLED = True
 
+class TurnLog:
+    def __init__(self):
+        self.startingHand = []
+        self.actionsPlayed = []
+        self.treasuresPlayed = []
+        self.boughtCards = []
+        self.moneyAvailable = 0
+        self.buysAvailable = 0
+        self.endingHand = []
 
 class PlayerLog:
     def __init__(self):
-        self.turnStarts = {} # round number -> hand
-        self.actions = {} # round number -> list of action cards played
-        self.buys = {} # round number -> list of cards bought
-        self.turnEnds = {} # round number -> list of cards discarded (e.g. victory cards & unused actions)
-    def turnStart(self, round, hand):
-        self.turnStarts[round] = copy.copy(hand)
+        self.turns = [] # TurnLogs
+    def turnStart(self, hand):
+        self.turns.append(TurnLog())
+        self.turns[-1].startingHand = copy.copy(hand)
         logCards(hand, "Turn Start")
-    def playAction(self, round, card):
-        if (round not in self.actions):
-            self.actions[round] = []
-        self.actions[round].append(card)
+    def playAction(self, card):
+        self.turns[-1].actionsPlayed.append(card)
         log("Action: %s" % card.name)
-    def buy(self, round, card):
-        if (round not in self.buys):
-            self.buys[round] = []
-        self.buys[round].append(card)
+    def playTreasure(self, card):
+        self.turns[-1].treasuresPlayed.append(card)
+        log("Treasure: %s" % card.name)
+    def buyStart(self, money, buys):
+        self.turns[-1].moneyAvailable = money
+        self.turns[-1].buysAvailable = buys
+        log("Money: %s, Buys: %s" % (money, buys))
+    def buy(self, card):
+        self.turns[-1].boughtCards.append(card)
         log("Buy: %s" % card.name)
-    def turnEnd(self, round, discards):
-        self.turnEnds[round] = copy.copy(discards)
+    def turnEnd(self, discards):
+        self.turns[-1].endingHand = copy.copy(discards)
         logCards(discards, "Turn End")
 
 def log(text):

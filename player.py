@@ -57,7 +57,7 @@ class Player:
         self.actions = 1
         self.buys = 1
         # log("%s's turn begins" % self.bot.name)
-        self.log.turnStart(self.board.round, self.hand)
+        self.log.turnStart(self.hand)
 
         # Actions
         while self.actions and self.hasTypeInHand(CardType.ACTION):
@@ -70,7 +70,7 @@ class Player:
                 actionCard = self.hand.pop(actionChoice)
                 self.play.append(actionCard)
                 self.actions -= 1
-                self.log.playAction(self.board.round, actionCard)
+                self.log.playAction(actionCard)
                 actionCard.steps(self, self.board)
             else:
                 logError("Invalid action choice: %s" % actionChoice)
@@ -85,11 +85,12 @@ class Player:
                 # play treasure
                 treasureCard = self.hand.pop(treasureChoice)
                 self.play.append(treasureCard)
-                # log("%s plays treasure: %s" % (self.bot.name, treasureCard.name))
+                self.log.playTreasure(treasureCard)
                 treasureCard.steps(self, self.board)
             else:
                 logError("Invalid treasure choice: %s" % treasureChoice)
         # Buys
+        self.log.buyStart(self.money, self.buys)
         while self.buys:
             buyChoice = self.bot.choose('buy', self, self.board)
             if (buyChoice == -1):
@@ -102,12 +103,12 @@ class Player:
                 self.money -= buyCard.cost
                 self.discard.append(buyCard)
                 self.buys -= 1
-                self.log.buy(self.board.round, buyCard)
+                self.log.buy(buyCard)
             else:
                 logError("Invalid buy choice: %s" % buyChoice)
 
         # Cleanup
-        self.log.turnEnd(self.board.round, self.hand)
+        self.log.turnEnd(self.hand)
         while self.play:
             self.discard.append(self.play.pop())
         while self.hand:
