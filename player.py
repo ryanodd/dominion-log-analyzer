@@ -1,13 +1,14 @@
 import random
 
-from log import *
+from log import PlayerLog
 from card import *
 import factory
 
 class Player:
-    def __init__(self, board, bot):
+    def __init__(self, board, bot, log):
         self.board = board
         self.bot = bot
+        self.log = log
 
         self.deck = []
         self.deck.append(factory.copper())
@@ -52,7 +53,7 @@ class Player:
         self.actions = 1
         self.buys = 1
         # log("%s's turn begins" % self.bot.name)
-        logCards(self.hand, "Hand")
+        self.log.turnStart(self.board.round, self.hand)
 
         # Actions
         while self.actions and self.hasTypeInHand(CardType.ACTION):
@@ -65,7 +66,7 @@ class Player:
                 actionCard = self.hand.pop(actionChoice)
                 self.play.append(actionCard)
                 self.actions -= 1
-                log("%s plays action: %s" % (self.bot.name, actionCard.name))
+                self.log.playAction(self.board.round, actionCard)
                 actionCard.steps(self, self.board)
             else:
                 logError("Invalid action choice: %s" % actionChoice)
@@ -97,11 +98,12 @@ class Player:
                 self.money -= buyCard.cost
                 self.discard.append(buyCard)
                 self.buys -= 1
-                log("%s buys: %s" % (self.bot.name, buyCard.name))
+                self.log.buy(self.board.round, buyCard)
             else:
                 logError("Invalid buy choice: %s" % buyChoice)
 
         # Cleanup
+        self.log.turnEnd(self.board.round, self.hand)
         while self.play:
             self.discard.append(self.play.pop())
         while self.hand:
