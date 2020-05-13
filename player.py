@@ -1,6 +1,6 @@
 import random
 
-from log import PlayerLog
+from log import PlayerLog, logError
 from card import *
 import cardFactory
 

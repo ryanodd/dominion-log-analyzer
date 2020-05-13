@@ -1,4 +1,5 @@
 import cardFactory
+from log import logError
 
 class Listing:
     def __init__(self, card, quantity):

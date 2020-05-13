@@ -1,4 +1,4 @@
-from objectiveCardInfo import getInfo
+from objectiveCardInfo import getCardInfo
 import copy
 
 # Wraps objectiveCardInfo
@@ -10,8 +10,8 @@ class BotCardInfoDecorator:
         self.buysFunction = {}
         self.vpFunction = {}
     
-    def getInfo(name, deck):
-        objectiveInfo = getInfo(name)
+    def getCardInfo(self, name, deck):
+        objectiveInfo = getCardInfo(name)
         returnInfo = copy.copy(objectiveInfo)
         if (self.moneyFunction[name]):
             returnInfo.money = self.moneyFunction[name](deck)
@@ -25,13 +25,13 @@ class BotCardInfoDecorator:
             returnInfo.vp = self.vpFunction[name](deck)
         return returnInfo
         
-    def assignMoneyFunction(name, moneyFunction):
+    def assignMoneyFunction(self, name, moneyFunction):
         self.moneyFunction[name] = moneyFunction
-    def assignDrawsFunction(name, drawsFunction):
+    def assignDrawsFunction(self, name, drawsFunction):
         self.drawsFunction[name] = drawsFunction
-    def assignActionsFunction(name, actionsFunction):
+    def assignActionsFunction(self, name, actionsFunction):
         self.actionsFunction[name] = actionsFunction
-    def assignBuysFunction(name, buysFunction):
+    def assignBuysFunction(self, name, buysFunction):
         self.buysFunction[name] = buysFunction
-    def assignVPFunction(name, vpFunction):
+    def assignVPFunction(self, name, vpFunction):
         self.vpFunction[name] = vpFunction
