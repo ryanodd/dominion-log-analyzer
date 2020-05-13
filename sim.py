@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 from game import *
-from bigMoneyBot import BigMoneyBot
+from bigMoneyBot import Bot
 import cardFactory
 
 NUM_SAMPLES = 2000
@@ -20,22 +20,22 @@ class GameSet:
 
 games = []
 
-basicBot = BigMoneyBot({})
+basicBot = Bot({})
 games.append(GameSet("Basic", [basicBot], []))
 
-smithyBot = BigMoneyBot({})
+smithyBot = Bot({})
 games.append(GameSet("Smithy", [smithyBot], [cardFactory.smithy()]))
 
-# marketBot = BigMoneyBot({"cardsPerTerminal": 8})
+# marketBot = Bot({"cardsPerTerminal": 8})
 # games.append(GameSet("Market", [marketBot], [cardFactory.market()]))
 
-# laboratoryBot = BigMoneyBot({"cardsPerTerminal": 8})
+# laboratoryBot = Bot({"cardsPerTerminal": 8})
 # games.append(GameSet("Laboratory", [laboratoryBot], [cardFactory.laboratory()]))
 
-chapelBot = BigMoneyBot({"chapelEnabled": True})
+chapelBot = Bot({"chapelEnabled": True})
 games.append(GameSet("Chapel", [chapelBot], [cardFactory.chapel()]))
 
-chapelSmithyBot = BigMoneyBot({"chapelEnabled": True, "provincePatience": 1})
+chapelSmithyBot = Bot({"chapelEnabled": True, "provincePatience": 1})
 games.append(GameSet("Chapel/Smithy", [chapelSmithyBot], [cardFactory.chapel(), cardFactory.smithy()]))
 
 # Run games

@@ -5,9 +5,9 @@ from card import Card, CardType
 from botUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
 from objectiveCardInfo import getCardInfo
 
-class BigMoneyBot:
+class Bot:
     def __init__(self, options):
-        self.name = "BigMoneyBot"
+        self.name = "Bot"
 
         self.options = options
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
@@ -131,6 +131,7 @@ class BigMoneyBot:
     # TODO: separate future draws by what we know is in the discard pile vs deck, changing our odds
     def calcATM(self, deck):
         deckSize = len(deck)
+        actionPlayProbability = self.actionPlayProbability(deck)
         handSize = 5.0 # This can be more accurate
         totalMoney = 0.0
         drawsPerTurn = 0.0
@@ -162,6 +163,22 @@ class BigMoneyBot:
         logBot("calcATM: cardsPerTurn: %s, moneyPerTurn: %s, actionsPerTurn: %s" % (cardsPerTurn, moneyPerTurn, actionsPerTurn))
         return moneyPerTurn
 
+    # The chances [0, 1] of being able to play a particular action in the deck due to terminals.
+    # Having + actions (villages) in the deck should increase this value.
+    # If there are 0 or 1 terminal actions in the deck, this should be 1.
+    # I think this function should treat a (1 draw 2 action) card differently than a (2 action) ie. incorporate draw. BUT does this function describe the probability of being able to play the card IF DRAWN or regarless of whether drawn?
+    # BUT, this function should treat a drawing terminal the same as a non-drawing terminal (since it doesn't affect actionPlayProbability).
+    def actionPlayProbability(self, deck):
+        deckSize = len(deck)
+        handSize = 5.0 # This can be more accurate
+
+        # t terminals: chances of a particular t being drawn in the same hand as our played t
+        # we assume we played 1 t already (otherwise no cards are affected by this equation)
+        # 1 guaranteed, plus (handSize - 1) attempts of being one of the (t - 1) terminals (failures) out of (deckSize - 1). Account for getting multiple
+
+        # for now...
+        return 1
+    
     def actionPriority(self, name):
         if (name == "Chapel"):
             return 1

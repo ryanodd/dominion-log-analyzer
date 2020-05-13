@@ -5,12 +5,12 @@ import matplotlib.pyplot as plt
 
 from card import CardType
 from game import *
-from bigMoneyBot import BigMoneyBot
+from bigMoneyBot import Bot
 from objectiveCardInfo import getCardInfo
 import cardFactory
 from stringUtils import cardsFromDeckString
 
-NUM_SAMPLES = 10000
+NUM_SAMPLES = 1000
 
 class TurnSet:
     def __init__(self, name, bot, deck):
@@ -26,13 +26,15 @@ class TurnSet:
 
 turns = []
 
-BMBot = BigMoneyBot({})
+calcATMBot = Bot({"useCalcATM": True})
 
 deckStrings = []
-deckStrings.append("19 Copper, 9 Smithy, 2 Laboratory")
+deckStrings.append("12 Copper, 2 Laboratory")
+deckStrings.append("8 Copper, 2 Village")
+deckStrings.append("14 Copper, 2 Smithy")
 
 for deckString in deckStrings:
-    turns.append(TurnSet(deckString, BMBot, cardsFromDeckString(deckString)))
+    turns.append(TurnSet(deckString, calcATMBot, cardsFromDeckString(deckString)))
 
 # Run turns
 for t in turns:
