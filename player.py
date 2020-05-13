@@ -2,7 +2,7 @@ import random
 
 from log import PlayerLog
 from card import *
-import factory
+import cardFactory
 
 class Player:
     def __init__(self, board, bot, deck = []):
@@ -14,16 +14,16 @@ class Player:
             self.deck = deck
         else:
             self.deck = []
-            self.deck.append(factory.copper())
-            self.deck.append(factory.copper())
-            self.deck.append(factory.copper())
-            self.deck.append(factory.copper())
-            self.deck.append(factory.copper())
-            self.deck.append(factory.copper())
-            self.deck.append(factory.copper())
-            self.deck.append(factory.estate())
-            self.deck.append(factory.estate())
-            self.deck.append(factory.estate())
+            self.deck.append(cardFactory.copper())
+            self.deck.append(cardFactory.copper())
+            self.deck.append(cardFactory.copper())
+            self.deck.append(cardFactory.copper())
+            self.deck.append(cardFactory.copper())
+            self.deck.append(cardFactory.copper())
+            self.deck.append(cardFactory.copper())
+            self.deck.append(cardFactory.estate())
+            self.deck.append(cardFactory.estate())
+            self.deck.append(cardFactory.estate())
         
         self.discard = []
         self.hand = []

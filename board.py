@@ -1,4 +1,4 @@
-import factory
+import cardFactory
 
 class Listing:
     def __init__(self, card, quantity):
@@ -15,13 +15,13 @@ class Board:
         if (numPlayers <= 2):
             victoryAmount = 8
             
-        self.shop.append(Listing(factory.estate(), victoryAmount))
-        self.shop.append(Listing(factory.duchy(), victoryAmount))
-        self.shop.append(Listing(factory.province(), victoryAmount))
-        self.shop.append(Listing(factory.curse(), 30))
-        self.shop.append(Listing(factory.copper(), 60))
-        self.shop.append(Listing(factory.silver(), 40))
-        self.shop.append(Listing(factory.gold(), 30))
+        self.shop.append(Listing(cardFactory.estate(), victoryAmount))
+        self.shop.append(Listing(cardFactory.duchy(), victoryAmount))
+        self.shop.append(Listing(cardFactory.province(), victoryAmount))
+        self.shop.append(Listing(cardFactory.curse(), 30))
+        self.shop.append(Listing(cardFactory.copper(), 60))
+        self.shop.append(Listing(cardFactory.silver(), 40))
+        self.shop.append(Listing(cardFactory.gold(), 30))
 
         for i in range(len(cards)):
             self.shop.append(Listing(cards[i], 10))

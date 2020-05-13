@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 from game import *
 from bigMoneyBot import BigMoneyBot
-import factory
+import cardFactory
 
 NUM_SAMPLES = 2000
 
@@ -24,19 +24,19 @@ basicBot = BigMoneyBot({})
 games.append(GameSet("Basic", [basicBot], []))
 
 smithyBot = BigMoneyBot({})
-games.append(GameSet("Smithy", [smithyBot], [factory.smithy()]))
+games.append(GameSet("Smithy", [smithyBot], [cardFactory.smithy()]))
 
 # marketBot = BigMoneyBot({"cardsPerTerminal": 8})
-# games.append(GameSet("Market", [marketBot], [factory.market()]))
+# games.append(GameSet("Market", [marketBot], [cardFactory.market()]))
 
 # laboratoryBot = BigMoneyBot({"cardsPerTerminal": 8})
-# games.append(GameSet("Laboratory", [laboratoryBot], [factory.laboratory()]))
+# games.append(GameSet("Laboratory", [laboratoryBot], [cardFactory.laboratory()]))
 
 chapelBot = BigMoneyBot({"chapelEnabled": True})
-games.append(GameSet("Chapel", [chapelBot], [factory.chapel()]))
+games.append(GameSet("Chapel", [chapelBot], [cardFactory.chapel()]))
 
 chapelSmithyBot = BigMoneyBot({"chapelEnabled": True, "provincePatience": 1})
-games.append(GameSet("Chapel/Smithy", [chapelSmithyBot], [factory.chapel(), factory.smithy()]))
+games.append(GameSet("Chapel/Smithy", [chapelSmithyBot], [cardFactory.chapel(), cardFactory.smithy()]))
 
 # Run games
 for g in games:

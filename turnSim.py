@@ -7,7 +7,7 @@ from card import CardType
 from game import *
 from bigMoneyBot import BigMoneyBot
 from objectiveCardInfo import getCardInfo
-import factory
+import cardFactory
 
 NUM_SAMPLES = 10000
 
