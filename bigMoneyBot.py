@@ -2,7 +2,7 @@ import copy
 
 from log import logBot, logError
 from card import Card, CardType
-from botUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
+from cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
 from objectiveCardInfo import getCardInfo
 
 class Bot:
