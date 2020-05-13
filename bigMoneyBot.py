@@ -1,7 +1,7 @@
 import copy
 
-from log import *
-from card import *
+from log import logBot, logError
+from card import Card, CardType
 from botUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
 from objectiveCardInfo import getCardInfo
 
@@ -13,6 +13,7 @@ class BigMoneyBot:
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
         if ("cardsPerTerminal" not in self.options): self.options["cardsPerTerminal"] = 0
         if ("chapelEnabled" not in self.options): self.options["chapelEnabled"] = False
+        if ("useCalcATM" not in self.options): self.options["useCalcATM"] = True
 
         # int representing how many turns to buy gold instead of a province
         if (self.options['provincePatience'] > 0):
@@ -50,20 +51,25 @@ class BigMoneyBot:
     
     def chooseBuy(self, player, board):
         if (player.money >= 8):
-            
             # provincePatience waits to buy its first province
             if (self.provincePatience_waited < self.options['provincePatience']):
                 self.provincePatience_waited += 1
                 logBot("Province Patience: wait #%s" % self.provincePatience_waited)
-                return 6 # gold
+            else:
+                return 2 # province
 
-            return 2 # province
+        if (self.options["useCalcATM"]):
+            return self.chooseBuySmartly(player, board)
+        else:
+            return self.chooseBuyBigMoney(player, board)
 
-        # Should be able to remove this when we fix calcATM
+    def chooseBuyBigMoney(self, player, board):
         if (player.money >= 6):
             return 6 # gold
+        if (player.money >= 3):
+            return 6 # silver
 
-        # Otherwise choose a card based on best value added to deck
+    def chooseBuySmartly(self, player, board):
         potentialDeck = copy.copy(player.totalDeck())
         noBuyATM = self.calcATM(potentialDeck)
         bestIndex = -1
