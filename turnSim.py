@@ -4,13 +4,15 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 from card import CardType
-from game import *
+from board import Board
+from player import Player
 from bigMoneyBot import Bot
 from objectiveCardInfo import getCardInfo
 import cardFactory
 from stringUtils import cardsFromDeckString
+import welfordAlg
 
-NUM_SAMPLES = 1000
+NUM_SAMPLES = 2000
 
 class TurnSet:
     def __init__(self, name, bot, deck):
@@ -29,9 +31,8 @@ turns = []
 calcATMBot = Bot({"useCalcATM": True})
 
 deckStrings = []
-deckStrings.append("12 Copper, 2 Laboratory")
-deckStrings.append("8 Copper, 2 Village")
-deckStrings.append("14 Copper, 2 Smithy")
+deckStrings.append("1 Copper, 10 Silver, 1 Gold")
+deckStrings.append("6 Copper, 6 Gold")
 
 for deckString in deckStrings:
     turns.append(TurnSet(deckString, calcATMBot, cardsFromDeckString(deckString)))
@@ -49,16 +50,19 @@ for t in turns:
     totalMoney = 0
     totalActionsPlayed = 0
     totalActionsDiscarded = 0
+    t.moneyDist = [0, 0, 0]
+    t.actionDist = [0, 0, 0]
     for sample in t.samples:
-        totalMoney += sample.log.turns[0].moneyAvailable
+        moneyAvailable = sample.log.turns[0].moneyAvailable
+        t.moneyDist = welfordAlg.update(t.moneyDist, moneyAvailable)
 
         totalActionsPlayed += len(sample.log.turns[0].actionsPlayed)
+        t.actionDist = welfordAlg.update(t.actionDist, totalActionsPlayed)
 
         cardsDiscarded = sample.log.turns[0].endingHand
         for card in cardsDiscarded:
             if (CardType.ACTION in card.types):
                 totalActionsDiscarded += 1
-    t.averageMoney = totalMoney / len(t.samples)
     t.averageActionsPlayed = totalActionsPlayed / len(t.samples)
     t.averageActionsDiscarded = totalActionsDiscarded / len(t.samples)
 
@@ -68,4 +72,4 @@ for t in turns:
         actionPlayRate = -1
     else:
         actionPlayRate = t.averageActionsPlayed / (t.averageActionsPlayed + t.averageActionsDiscarded)
-    print("%s: ATM(calcATM): %.2f(%.2f) actionRte: %.2f" % (t.name, t. averageMoney, t.bot.calcATM(t.deck), actionPlayRate))
+    print("%s: ATM(M2) %.2f(%.0f) calcATM: %.2f actionRte(M2): %.2f(%.0f)" % (t.name, t.moneyDist[1], t.moneyDist[2], t.bot.calcATM(t.deck), actionPlayRate, t.actionDist[2]))
