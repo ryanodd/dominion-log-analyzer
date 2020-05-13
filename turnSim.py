@@ -1,4 +1,5 @@
 # Data display
+import math
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -31,8 +32,8 @@ turns = []
 calcATMBot = Bot({"useCalcATM": True})
 
 deckStrings = []
-deckStrings.append("1 Copper, 10 Silver, 1 Gold")
-deckStrings.append("6 Copper, 6 Gold")
+deckStrings.append("7 Copper, 3 Estate, 4 Silver, 2 Gold")
+deckStrings.append("7 Copper, 3 Estate, 3 Silver, 2 Smithy, 1 Gold")
 
 for deckString in deckStrings:
     turns.append(TurnSet(deckString, calcATMBot, cardsFromDeckString(deckString)))
@@ -72,4 +73,4 @@ for t in turns:
         actionPlayRate = -1
     else:
         actionPlayRate = t.averageActionsPlayed / (t.averageActionsPlayed + t.averageActionsDiscarded)
-    print("%s: ATM(M2) %.2f(%.0f) calcATM: %.2f actionRte(M2): %.2f(%.0f)" % (t.name, t.moneyDist[1], t.moneyDist[2], t.bot.calcATM(t.deck), actionPlayRate, t.actionDist[2]))
+    print("%s: ATM(M2) %.2f(%.0f) calcATM: %.2f actionRte(M2): %.2f(%.0f)" % (t.name, t.moneyDist[1], math.sqrt(t.moneyDist[2]), t.bot.calcATM(t.deck), actionPlayRate, math.sqrt(t.actionDist[2])))
