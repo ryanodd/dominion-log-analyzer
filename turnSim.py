@@ -8,6 +8,7 @@ from game import *
 from bigMoneyBot import BigMoneyBot
 from objectiveCardInfo import getCardInfo
 import cardFactory
+from stringUtils import cardsFromDeckString
 
 NUM_SAMPLES = 10000
 
@@ -25,28 +26,13 @@ class TurnSet:
 
 turns = []
 
-copper = factory.copper()
-smithy = factory.smithy()
-market = factory.market()
-village = factory.village()
+BMBot = BigMoneyBot({})
 
-basicBot = BigMoneyBot({})
-turns.append(TurnSet("10C 1M", basicBot, (10 * [copper]) + [market]))
+deckStrings = []
+deckStrings.append("19 Copper, 9 Smithy, 2 Laboratory")
 
-# basicBot = BigMoneyBot({})
-# turns.append(TurnSet("19C 1M", basicBot, [market] + (19 * [copper])))
-
-# basicBot = BigMoneyBot({})
-# turns.append(TurnSet("9C 1D", basicBot, [copper, copper, copper, copper, copper, copper, copper, copper, copper, smithy]))
-
-# basicBot = BigMoneyBot({})
-# turns.append(TurnSet("8C 2D", basicBot, [copper, copper, copper, copper, copper, copper, copper, copper, smithy, smithy]))
-
-# basicBot = BigMoneyBot({})
-# turns.append(TurnSet("8C 4D", basicBot, [copper, copper, copper, copper, copper, copper, copper, copper, smithy, smithy, smithy, smithy]))
-
-# basicBot = BigMoneyBot({})
-# turns.append(TurnSet("7C 4D 1V", basicBot, [copper, copper, copper, copper, copper, copper, copper, copper, village, smithy, smithy, smithy, smithy]))
+for deckString in deckStrings:
+    turns.append(TurnSet(deckString, BMBot, cardsFromDeckString(deckString)))
 
 # Run turns
 for t in turns:
@@ -80,4 +66,4 @@ for t in turns:
         actionPlayRate = -1
     else:
         actionPlayRate = t.averageActionsPlayed / (t.averageActionsPlayed + t.averageActionsDiscarded)
-    print("%s: average money(calcATM): %.4f(%.4f) action rate: %.4f" % (t.name, t. averageMoney, t.bot.calcATM(t.deck), actionPlayRate))
+    print("%s: ATM(calcATM): %.2f(%.2f) actionRte: %.2f" % (t.name, t. averageMoney, t.bot.calcATM(t.deck), actionPlayRate))
