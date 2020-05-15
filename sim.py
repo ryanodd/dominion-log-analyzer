@@ -4,10 +4,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 from game import *
-from bigMoneyBot import Bot
+from bot import Bot
 import cardFactory
 
-NUM_SAMPLES = 2000
+NUM_SAMPLES = 50
 
 # Not sure if this class should store roundDist like this... Scores may be measured differently later. Store outside?
 class GameSet:
@@ -32,11 +32,11 @@ games.append(GameSet("Smithy", [smithyBot], [cardFactory.smithy()]))
 # laboratoryBot = Bot({"cardsPerTerminal": 8})
 # games.append(GameSet("Laboratory", [laboratoryBot], [cardFactory.laboratory()]))
 
-chapelBot = Bot({"chapelEnabled": True})
-games.append(GameSet("Chapel", [chapelBot], [cardFactory.chapel()]))
+# chapelBot = Bot({"chapelEnabled": True})
+# games.append(GameSet("Chapel", [chapelBot], [cardFactory.chapel()]))
 
-chapelSmithyBot = Bot({"chapelEnabled": True, "provincePatience": 1})
-games.append(GameSet("Chapel/Smithy", [chapelSmithyBot], [cardFactory.chapel(), cardFactory.smithy()]))
+# chapelSmithyBot = Bot({"chapelEnabled": True, "provincePatience": 1})
+# games.append(GameSet("Chapel/Smithy", [chapelSmithyBot], [cardFactory.chapel(), cardFactory.smithy()]))
 
 # Run games
 for g in games:

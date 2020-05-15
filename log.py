@@ -43,7 +43,6 @@ def log(text):
     print(text)
 
 def logError(text):
-    if DISABLED: return
     print("ERROR: %s" % text)
 
 def logBot(text):

@@ -4,6 +4,7 @@ from log import logBot, logError
 from card import Card, CardType
 from cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
 from objectiveCardInfo import getCardInfo
+from botActions import getBotAction
 
 class Bot:
     def __init__(self, options):
@@ -28,10 +29,8 @@ class Bot:
             return self.chooseTreasure(player, board)
         elif (choice == 'buy'):
             return self.chooseBuy(player, board)
-        elif (choice == 'chapel'):
-            return self.chooseChapel(player, board)
         else:
-            logError("unrecognized choice type: %s" % choice)
+            return getBotAction(choice)(player, board, self)
 
     def chooseAction(self, player, board):
         # Always plays first available action
@@ -67,7 +66,9 @@ class Bot:
         if (player.money >= 6):
             return 6 # gold
         if (player.money >= 3):
-            return 6 # silver
+            return 5 # silver
+        else:
+            return -1
 
     def chooseBuySmartly(self, player, board):
         potentialDeck = copy.copy(player.totalDeck())
@@ -95,46 +96,19 @@ class Bot:
         logBot("Choosing to buy %s based on its increase of %.2f to our ATM" % (board.shop[bestIndex].card.name, bestValueIncrease))
         return bestIndex
 
-    def chooseChapel(self, player, board):
-        indexesTrashing = []
-        indexesCopper = []
-        namesTrashing = []
-        for i in range(len(player.hand)):
-            if (player.hand[i].name == "Estate" or player.hand[i].name == "Curse"):
-                indexesTrashing.append(i)
-                namesTrashing.append(player.hand[i].name)
-            elif (player.hand[i].name == "Copper"):
-                if (len(indexesCopper) < 3):
-                    # (Up to 3 coppers): Don't trash yet, consider keeping
-                    indexesCopper.append(i)
-                else:
-                    indexesTrashing.append(i)
-                    namesTrashing.append("Copper")
-        # If adding a silver is more valuable than removing 3 coppers, keep 3 coppers
-        # TODO: generalize to arbitrary number of coppers by going over all buy options (not just silver)
-        if (len(indexesCopper) >= 3):
-            newDeckWithCoppers = trimFromDeck(player.totalDeck(), namesTrashing)
-            newDeckWithCoppers.append(board.shop[5].card) # Sliver
-            atmWithCoppers = self.calcATM(newDeckWithCoppers)
-            newDeckWithoutCoppers = trimFromDeck(newDeckWithCoppers, ["Copper", "Copper", "Copper"])
-            newDeckWithoutCoppers.remove(board.shop[5].card) # Silver
-            atmWithoutCoppers = self.calcATM(newDeckWithoutCoppers)
-            if (atmWithoutCoppers > atmWithCoppers):
-                indexesTrashing.extend(indexesCopper)
-                namesTrashing.extend(["Copper", "Copper", "Copper"])
-        logBot("Choosing to trash: %s" % str(namesTrashing))
-        return indexesTrashing
+    def calcATM(self, deck):
+        import turnSim
+        return turnSim.simDeckTurn(deck, 10).moneyDist[1]
 
     # Calculate ATM - Average Turn Money
     # important algorithm , currently O(n)
     # TODO: incorporate terminals, connect actions & draws (draws can't happen without actions)
     # TODO: separate future draws by what we know is in the discard pile vs deck, changing our odds
-    def calcATM(self, deck):
+    def calcATM_Math(self, deck):
         deckSize = len(deck)
         actionPlayProbability = self.actionPlayProbability(deck)
         handSize = 5.0 # This can be more accurate
         totalMoney = 0.0
-        drawsPerTurn = 0.0
 
         totalDraws = 0.0
         totalMoney = 0.0

@@ -1,5 +1,4 @@
 # Data display
-import math
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -7,70 +6,46 @@ import matplotlib.pyplot as plt
 from card import CardType
 from board import Board
 from player import Player
-from bigMoneyBot import Bot
+from bot import Bot
 from objectiveCardInfo import getCardInfo
 import cardFactory
-from stringUtils import cardsFromDeckString
 import welfordAlg
 
-NUM_SAMPLES = 2000
+class TurnSimInfo:
+    def __init__(self, moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded):
+        self.moneyDist = moneyDist
+        self.actionDist = actionDist
+        self.averageActionsPlayed = averageActionsPlayed
+        self.averageActionsDiscarded = averageActionsDiscarded
 
-class TurnSet:
-    def __init__(self, name, bot, deck):
-        self.name = name
-        self.bot = bot
-        self.deck = deck
-        self.samples = []
-    
-        # May want to separate these into another class?
-        self.averageMoney = 0
-        self.averageActionsPlayed = 0
-        self.averageActionsDiscarded = 0
+def simDeckTurn(deck, numSamples):
+    samples = []
+    bot = Bot({"useCalcATM": False}) # Hardcoding the bot to avoid infinite recursion when the bot tries to use us
 
-turns = []
-
-calcATMBot = Bot({"useCalcATM": True})
-
-deckStrings = []
-deckStrings.append("7 Copper, 3 Estate, 4 Silver, 2 Gold")
-deckStrings.append("7 Copper, 3 Estate, 3 Silver, 2 Smithy, 1 Gold")
-
-for deckString in deckStrings:
-    turns.append(TurnSet(deckString, calcATMBot, cardsFromDeckString(deckString)))
-
-# Run turns
-for t in turns:
-    for i in range(NUM_SAMPLES):
+    # Run turns
+    for i in range(numSamples):
         b = Board([], 1)
-        t.samples.append(Player(b, t.bot, t.deck.copy()))
-        t.samples[-1].turn()
-        
+        samples.append(Player(b, bot, deck.copy()))
+        samples[-1].turn()
 
-# Collect Stats
-for t in turns:
-    totalMoney = 0
+    # Collect Stats
     totalActionsPlayed = 0
     totalActionsDiscarded = 0
-    t.moneyDist = [0, 0, 0]
-    t.actionDist = [0, 0, 0]
-    for sample in t.samples:
+    moneyDist = [0, 0, 0]
+    actionDist = [0, 0, 0]
+    for sample in samples:
         moneyAvailable = sample.log.turns[0].moneyAvailable
-        t.moneyDist = welfordAlg.update(t.moneyDist, moneyAvailable)
+        moneyDist = welfordAlg.update(moneyDist, moneyAvailable)
 
         totalActionsPlayed += len(sample.log.turns[0].actionsPlayed)
-        t.actionDist = welfordAlg.update(t.actionDist, totalActionsPlayed)
+        actionDist = welfordAlg.update(actionDist, totalActionsPlayed)
 
         cardsDiscarded = sample.log.turns[0].endingHand
         for card in cardsDiscarded:
             if (CardType.ACTION in card.types):
                 totalActionsDiscarded += 1
-    t.averageActionsPlayed = totalActionsPlayed / len(t.samples)
-    t.averageActionsDiscarded = totalActionsDiscarded / len(t.samples)
+    averageActionsPlayed = totalActionsPlayed / len(samples)
+    averageActionsDiscarded = totalActionsDiscarded / len(samples)
 
-# Display Stats
-for t in turns:
-    if (t.averageActionsPlayed + t.averageActionsDiscarded == 0):
-        actionPlayRate = -1
-    else:
-        actionPlayRate = t.averageActionsPlayed / (t.averageActionsPlayed + t.averageActionsDiscarded)
-    print("%s: ATM(M2) %.2f(%.0f) calcATM: %.2f actionRte(M2): %.2f(%.0f)" % (t.name, t.moneyDist[1], math.sqrt(t.moneyDist[2]), t.bot.calcATM(t.deck), actionPlayRate, math.sqrt(t.actionDist[2])))
+    # Unused: actionDist, money M2, averageActions played/discarded
+    return TurnSimInfo(moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded)
