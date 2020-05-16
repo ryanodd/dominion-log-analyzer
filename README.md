@@ -5,3 +5,7 @@ The goal is to use simulation statistics to show which strategies are the best o
 Bot (strategy) types:
 - Big Money (always buy the highest treaure available, except for provinces)
 - More coming
+
+#Installation
+This script requires the python packages `seaborn`:
+pip install seaborn
