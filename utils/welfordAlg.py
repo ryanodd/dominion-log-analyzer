@@ -2,7 +2,7 @@
 # mean accumulates the mean of the entire dataset
 # M2 aggregates the squared distance from the mean
 # count aggregates the number of samples seen so far
-def update(existingAggregate, newValue):
+def welfordUpdate(existingAggregate, newValue):
     (count, mean, M2) = existingAggregate
     count += 1
     delta = newValue - mean
@@ -13,7 +13,7 @@ def update(existingAggregate, newValue):
     return (count, mean, M2)
 
 # Retrieve the mean, variance and sample variance from an aggregate
-def finalize(existingAggregate):
+def welfordFinalize(existingAggregate):
     (count, mean, M2) = existingAggregate
     if count < 2:
         return float('nan')

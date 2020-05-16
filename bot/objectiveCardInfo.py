@@ -1,4 +1,4 @@
-from log import logError
+from utils.log import logError
 
 # This class makes card-agnostic algorithms possible. I'm down to rename it
 class CardInfo:

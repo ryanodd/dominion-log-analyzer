@@ -1,8 +1,8 @@
 import random
 
-from log import PlayerLog, logError
-from card import *
-import cardFactory
+from utils.log import PlayerLog, logError
+from game.card import CardType
+from game.cardFactory import getCard
 
 class Player:
     def __init__(self, board, bot, deck = []):
@@ -14,16 +14,16 @@ class Player:
             self.deck = deck
         else:
             self.deck = []
-            self.deck.append(cardFactory.copper())
-            self.deck.append(cardFactory.copper())
-            self.deck.append(cardFactory.copper())
-            self.deck.append(cardFactory.copper())
-            self.deck.append(cardFactory.copper())
-            self.deck.append(cardFactory.copper())
-            self.deck.append(cardFactory.copper())
-            self.deck.append(cardFactory.estate())
-            self.deck.append(cardFactory.estate())
-            self.deck.append(cardFactory.estate())
+            self.deck.append(getCard('Copper'))
+            self.deck.append(getCard('Copper'))
+            self.deck.append(getCard('Copper'))
+            self.deck.append(getCard('Copper'))
+            self.deck.append(getCard('Copper'))
+            self.deck.append(getCard('Copper'))
+            self.deck.append(getCard('Copper'))
+            self.deck.append(getCard('Estate'))
+            self.deck.append(getCard('Estate'))
+            self.deck.append(getCard('Estate'))
         
         self.discard = []
         self.hand = []
@@ -35,7 +35,7 @@ class Player:
         self.draw(5)
 
     def draw(self, num):
-        for i in range(num):
+        for _ in range(num):
             if (len(self.deck) <= 0):
                 self.reshuffle()
                 if (len(self.deck) <= 0):

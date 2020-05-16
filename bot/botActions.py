@@ -1,5 +1,5 @@
-from cardUtils import trimFromDeck
-from log import logBot, logError
+from utils.cardUtils import trimFromDeck
+from utils.log import logBot, logError
 
 botActions = {}
 

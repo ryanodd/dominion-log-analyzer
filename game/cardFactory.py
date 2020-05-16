@@ -1,50 +1,51 @@
-from card import *
+from game.card import Card, CardType
+from utils.log import logError
 
-cardFactoryList = []
+cardNameDict = {}
 ######################### Essentials ###############################
 
 def estate():
     def estate_vsteps(player, board):
         player.vp += 1
     return Card("Estate", 2, [CardType.VICTORY], None, estate_vsteps)
-cardFactoryList.append(estate)
+cardNameDict['Estate'] = estate
 
 
 def duchy():
     def duchy_vsteps(player, board):
         player.vp += 3
     return Card("Duchy", 5, [CardType.VICTORY], None, duchy_vsteps)
-cardFactoryList.append(duchy)
+cardNameDict['Duchy'] = duchy
 
 def province():
     def province_vsteps(player, board):
         player.vp += 6
     return Card("Province", 8, [CardType.VICTORY], None, province_vsteps)
-cardFactoryList.append(province)
+cardNameDict['Province'] = province
 
 def copper():
     def copper_steps(player, board):
         player.money += 1
     return Card("Copper", 0, [CardType.TREASURE], copper_steps, None)
-cardFactoryList.append(copper)
+cardNameDict['Copper'] = copper
 
 def silver():
     def silver_steps(player, board):
         player.money += 2
     return Card("Silver", 3, [CardType.TREASURE], silver_steps, None)
-cardFactoryList.append(silver)
+cardNameDict['Silver'] = silver
 
 def gold():
     def gold_steps(player, board):
         player.money += 3
     return Card("Gold", 6, [CardType.TREASURE], gold_steps, None)
-cardFactoryList.append(gold)
+cardNameDict['Gold'] = gold
 
 def curse():
     def curse_vsteps(player, board):
         player.vp -= 1
     return Card("Curse", 0, [CardType.CURSE], None, curse_vsteps)
-cardFactoryList.append(curse)
+cardNameDict['Curse'] = curse
 
 
 ######################### Base Set 2ed ############################
@@ -64,7 +65,7 @@ def chapel():
             board.trash.append(player.hand.pop(i))
 
     return Card("Chapel", 2, [CardType.ACTION], chapel_steps, None)
-cardFactoryList.append(chapel)
+cardNameDict['Chapel'] = chapel
 
 # def councilRoom():
 
@@ -74,13 +75,13 @@ def festival():
         player.buys += 1
         player.money += 2
     return Card("Festival", 5, [CardType.ACTION], festival_steps, None)
-cardFactoryList.append(festival)
+cardNameDict['Festival'] = festival
 
 def gardens():
     def garden_vsteps(player, board):
         player.vp += len(player.totalDeck) / 10
     return Card("Gardens", 4, [CardType.VICTORY], None, garden_vsteps)
-cardFactoryList.append(gardens)
+cardNameDict['Gardens'] = gardens
 
 # def harbinger():
 
@@ -89,7 +90,7 @@ def laboratory():
         player.draw(2)
         player.actions += 1
     return Card("Laboratory", 5, [CardType.ACTION], laboratory_steps, None)
-cardFactoryList.append(laboratory)
+cardNameDict['Laboratory'] = laboratory
 
 # def library():
 
@@ -100,7 +101,7 @@ def market():
         player.buys += 1
         player.money += 1
     return Card("Market", 5, [CardType.ACTION], market_steps, None)
-cardFactoryList.append(market)
+cardNameDict['Market'] = market
 
 # def merchant():
 
@@ -122,7 +123,7 @@ def smithy():
     def smithy_steps(player, board):
         player.draw(3)
     return Card("Smithy", 4, [CardType.ACTION], smithy_steps, None)
-cardFactoryList.append(smithy)
+cardNameDict['Smithy'] = smithy
 
 # def throneRoom():
 
@@ -133,20 +134,18 @@ def village():
         player.draw(1)
         player.actions += 2
     return Card("Village", 3, [CardType.ACTION], village_steps, None)
-cardFactoryList.append(village)
+cardNameDict['Village'] = village
 
 # def witch():
 
 # def workshop():
 
-def getCardFactoryList():
-    return cardFactoryList
-
 def getCardNameDict():
-    cardNameDict = {}
-    for cardFactory in cardFactoryList:
-        card = cardFactory()
-        cardNameDict[card.name] = card
     return cardNameDict
+
+def getCard(name):
+    if (name not in cardNameDict):
+        logError("Name %s not found in cardNameDict")
+    return cardNameDict[name]()
 
 cardNameDict = getCardNameDict()

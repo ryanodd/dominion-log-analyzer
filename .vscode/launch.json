@@ -4,9 +4,8 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {"name":"Game Sim","type":"python","request":"launch","module":"sim"},
         {
-            "name": "Turn Sim",
+            "name": "Say Go",
             "type": "python",
             "request": "launch",
             "module": "playground"

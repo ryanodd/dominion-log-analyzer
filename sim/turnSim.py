@@ -3,13 +3,12 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-from card import CardType
-from board import Board
-from player import Player
-from bot import Bot
-from objectiveCardInfo import getCardInfo
-import cardFactory
-import welfordAlg
+from game.card import CardType
+from game.board import Board
+from game.player import Player
+from bot.bot import Bot
+from bot.objectiveCardInfo import getCardInfo
+from utils.welfordAlg import welfordUpdate, welfordFinalize
 
 class TurnSimInfo:
     def __init__(self, moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded):
@@ -23,7 +22,7 @@ def simDeckTurn(deck, numSamples):
     bot = Bot({"useCalcATM": False}) # Hardcoding the bot to avoid infinite recursion when the bot tries to use us
 
     # Run turns
-    for i in range(numSamples):
+    for _ in range(numSamples):
         b = Board([], 1)
         samples.append(Player(b, bot, deck.copy()))
         samples[-1].turn()
@@ -35,17 +34,18 @@ def simDeckTurn(deck, numSamples):
     actionDist = [0, 0, 0]
     for sample in samples:
         moneyAvailable = sample.log.turns[0].moneyAvailable
-        moneyDist = welfordAlg.update(moneyDist, moneyAvailable)
+        moneyDist = welfordUpdate(moneyDist, moneyAvailable)
 
         totalActionsPlayed += len(sample.log.turns[0].actionsPlayed)
-        actionDist = welfordAlg.update(actionDist, totalActionsPlayed)
+        actionDist = welfordUpdate(actionDist, totalActionsPlayed)
 
         cardsDiscarded = sample.log.turns[0].endingHand
         for card in cardsDiscarded:
             if (CardType.ACTION in card.types):
                 totalActionsDiscarded += 1
+    moneyDist = welfordFinalize(moneyDist)
+    actionDist = welfordFinalize(actionDist)
     averageActionsPlayed = totalActionsPlayed / len(samples)
     averageActionsDiscarded = totalActionsDiscarded / len(samples)
 
-    # Unused: actionDist, money M2, averageActions played/discarded
     return TurnSimInfo(moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded)

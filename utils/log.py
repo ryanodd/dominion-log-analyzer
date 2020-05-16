@@ -1,7 +1,5 @@
 import copy
 
-from card import *
-
 DISABLED = True
 
 class TurnLog:
@@ -48,6 +46,10 @@ def logError(text):
 def logBot(text):
     if DISABLED: return
     print("    BOT: %s" % text)
+
+def logGame(text):
+    if DISABLED: return
+    print("%s" % text)
 
 def logCards(cards, label):
     if DISABLED: return

@@ -1,8 +1,8 @@
-from log import *
-from card import *
-from objectiveCardInfo import getCardInfo
+from utils.log import logError
+from game.card import CardType
+from bot.objectiveCardInfo import getCardInfo
 
-# O(n^2) !!!!
+# O(n*m) !!!!
 # Returns a new deck list, does not modify input deck
 def trimFromDeck(deck, inputNames):
     names = inputNames.copy()

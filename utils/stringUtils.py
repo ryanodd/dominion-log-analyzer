@@ -1,13 +1,11 @@
 from enum import Enum
-import cardFactory
-from log import *
+from game.cardFactory import getCard, cardNameDict
+from utils.log import logError
 
 # DeckString Format: "12 Copper, 2 Silver, 2 Smithy"
 def cardsFromDeckString(deckString):
-    cardNameDict = cardFactory.cardNameDict
     returnCards = []
 
-    success = True
     class State(Enum):
         NUMBER_START = 1
         NUMBER_CONTINUE = 2

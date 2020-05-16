@@ -1,10 +1,10 @@
 import copy
 
-from log import logBot, logError
-from card import Card, CardType
-from cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
-from objectiveCardInfo import getCardInfo
-from botActions import getBotAction
+from utils.log import logBot, logError
+from game.card import Card, CardType
+from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
+from bot.objectiveCardInfo import getCardInfo
+from bot.botActions import getBotAction
 
 class Bot:
     def __init__(self, options):
@@ -14,7 +14,8 @@ class Bot:
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
         if ("cardsPerTerminal" not in self.options): self.options["cardsPerTerminal"] = 0
         if ("chapelEnabled" not in self.options): self.options["chapelEnabled"] = False
-        if ("useCalcATM" not in self.options): self.options["useCalcATM"] = True
+        if ("CalcATMMath" not in self.options): self.options["CalcATMMath"] = False
+        if ("calcATMSim" not in self.options): self.options["calcATMSim"] = False
 
         # int representing how many turns to buy gold instead of a province
         if (self.options['provincePatience'] > 0):
@@ -57,7 +58,7 @@ class Bot:
             else:
                 return 2 # province
 
-        if (self.options["useCalcATM"]):
+        if (self.options["calcATMMath"] or self.options["calcATMSim"]):
             return self.chooseBuySmartly(player, board)
         else:
             return self.chooseBuyBigMoney(player, board)
@@ -97,6 +98,14 @@ class Bot:
         return bestIndex
 
     def calcATM(self, deck):
+        if (self.options["calcATMMath"]):
+            return self.calcATM_Math(deck)
+        elif (self.options["calcATMSim"]):
+            return self.calcATM_Sim(deck)
+        else:
+            return logError("No calcATM method set")
+    
+    def calcATM_Sim(self, deck):
         import turnSim
         return turnSim.simDeckTurn(deck, 10).moneyDist[1]
 
@@ -106,7 +115,7 @@ class Bot:
     # TODO: separate future draws by what we know is in the discard pile vs deck, changing our odds
     def calcATM_Math(self, deck):
         deckSize = len(deck)
-        actionPlayProbability = self.actionPlayProbability(deck)
+        _ = self.actionPlayProbability(deck)
         handSize = 5.0 # This can be more accurate
         totalMoney = 0.0
 
@@ -143,8 +152,8 @@ class Bot:
     # I think this function should treat a (1 draw 2 action) card differently than a (2 action) ie. incorporate draw. BUT does this function describe the probability of being able to play the card IF DRAWN or regarless of whether drawn?
     # BUT, this function should treat a drawing terminal the same as a non-drawing terminal (since it doesn't affect actionPlayProbability).
     def actionPlayProbability(self, deck):
-        deckSize = len(deck)
-        handSize = 5.0 # This can be more accurate
+        _ = len(deck)
+        _ = 5.0 # This can be more accurate
 
         # t terminals: chances of a particular t being drawn in the same hand as our played t
         # we assume we played 1 t already (otherwise no cards are affected by this equation)

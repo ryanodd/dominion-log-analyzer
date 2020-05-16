@@ -1,8 +1,8 @@
 import copy
 
-from log import *
-from board import *
-from player import *
+from utils.log import logError, logGame
+from game.board import Board
+from game.player import Player
 
 class Game:
     def __init__(self, bots, cards):
@@ -26,10 +26,9 @@ class Game:
     def run(self):
         while True:
             self.board.round += 1
-            log("Round %s begins" % self.board.round)
+            logGame("Round %s begins" % self.board.round)
             for i in range(len(self.players)):
                 self.players[i].turn()
-                log("-")
                 if self.isOver():
-                    log("Game Over! Ended after round %s" % self.board.round)
+                    logGame("Game Over! Ended after round %s" % self.board.round)
                     return
