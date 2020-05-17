@@ -34,7 +34,7 @@ def cardsFromDeckString(deckString):
                 currentName += deckString[i]
                 if (currentName in cardNameDict):
                     numCardsToInsert = int(currentNum)
-                    returnCards += (numCardsToInsert * [cardNameDict[currentName]])
+                    returnCards += (numCardsToInsert * [getCard(currentName)])
                     currentNum = ""
                     currentName = ""
                     state = State.COMMA

@@ -14,7 +14,7 @@ class Bot:
         if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
         if ("cardsPerTerminal" not in self.options): self.options["cardsPerTerminal"] = 0
         if ("chapelEnabled" not in self.options): self.options["chapelEnabled"] = False
-        if ("CalcATMMath" not in self.options): self.options["CalcATMMath"] = False
+        if ("calcATMMath" not in self.options): self.options["calcATMMath"] = False
         if ("calcATMSim" not in self.options): self.options["calcATMSim"] = False
 
         # int representing how many turns to buy gold instead of a province
@@ -103,7 +103,7 @@ class Bot:
         elif (self.options["calcATMSim"]):
             return self.calcATM_Sim(deck)
         else:
-            return logError("No calcATM method set")
+            logError("No calcATM method set")
     
     def calcATM_Sim(self, deck):
         import turnSim

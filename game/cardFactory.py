@@ -140,12 +140,7 @@ cardNameDict['Village'] = village
 
 # def workshop():
 
-def getCardNameDict():
-    return cardNameDict
-
 def getCard(name):
     if (name not in cardNameDict):
         logError("Name %s not found in cardNameDict")
     return cardNameDict[name]()
-
-cardNameDict = getCardNameDict()

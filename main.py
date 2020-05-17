@@ -9,8 +9,10 @@ from sim.turnSim import simDeckTurn
 from bot.bot import Bot
 
 class GameTestSet:
-    bots = []
-    shopCards = []
+    def __init__(self, name, bots, shopCards):
+        self.name = name
+        self.bots = bots
+        self.shopCards = shopCards
 
 def gameTests():
 
@@ -23,7 +25,7 @@ def gameTests():
     
 
     games = []
-    games.append(GameTestSet([mathBot], [cardsFromDeckString(shopStrings['classic'])]))
+    games.append(GameTestSet("MathBot", [mathBot], cardsFromDeckString(shopStrings['classic'])))
 
     # Display Stats
     for g in games:
@@ -55,7 +57,7 @@ def turnTests():
             actionPlayRate = -1
         else:
             actionPlayRate = res.averageActionsPlayed / (res.averageActionsPlayed + res.averageActionsDiscarded)
-        print("%s: ATM(M2) %.2f(%.0f) calcATM: %.2f actionRte(M2): %.2f(%.0f)" % (deckString, res.moneyDist[1], math.sqrt(res.moneyDist[2]), calcATMReferenceBot.calcATM(deck), actionPlayRate, math.sqrt(res.actionDist[2])))
+        print("%s: ATM(M2) %.2f(%.0f) calcATM: %.2f actionRte(M2): %.2f(%.0f)" % (deckString, res.moneyDist[1], math.sqrt(res.moneyDist[2]), calcATMReferenceBot.calcATM_Math(deck), actionPlayRate, math.sqrt(res.actionDist[2])))
 
 # GO
-turnTests()
+gameTests()

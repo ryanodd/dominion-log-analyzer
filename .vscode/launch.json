@@ -8,7 +8,7 @@
             "name": "Say Go",
             "type": "python",
             "request": "launch",
-            "module": "playground"
+            "module": "main"
         }
     ]
 }
