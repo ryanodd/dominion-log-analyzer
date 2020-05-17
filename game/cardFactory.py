@@ -56,7 +56,16 @@ cardNameDict['Curse'] = curse
 
 # def bureaucrat():
 
-# def cellar():
+def cellar():
+    def cellar_steps(player, board):
+        player.actions += 1
+        discardChoices = player.bot.choose('cellar', player, board)
+        numDiscarded = len(discardChoices)
+        for i in sorted(discardChoices, reverse=True):
+            player.discard.append(player.hand.pop(i))
+        player.draw(numDiscarded)
+    return Card("Cellar", 2, [CardType.ACTION], cellar_steps, None)
+cardNameDict['Cellar'] = cellar
 
 def chapel():
     def chapel_steps(player, board):
@@ -67,7 +76,14 @@ def chapel():
     return Card("Chapel", 2, [CardType.ACTION], chapel_steps, None)
 cardNameDict['Chapel'] = chapel
 
-# def councilRoom():
+def councilRoom():
+    def councilRoom_steps(player, board):
+        player.draw(4)
+        player.buys += 1
+        for opponent in board.otherPlayers(player):
+            opponent.draw(1)
+    return Card("Council Room", 5, [CardType.ACTION], councilRoom_steps, None)
+cardNameDict['Council Room'] = councilRoom
 
 def festival():
     def festival_steps(player, board):
