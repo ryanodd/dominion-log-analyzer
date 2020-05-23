@@ -14,3 +14,15 @@ For things that depend on deck size, calculate expected deck sizes throughout th
 attacks
 
 alternate vp approaches
+
+Choices:
+- Card/Cards/Nothing from hand/deck/discard
+- Card Action Choice
+- Gain up to X
+- Gain costing X (to opponent)
+- Card/Cards/Nothing in temp storage of some sort (e.g. look at the top 2 cards of your deck)
+- Y/N Deny Attack
+- Name a Card (Wishing Well)
+- Position in deck to put new card (n+1 choices)
+- "May"s (always allow response of -1? Are all responses by index? What about wishing well)
+- Choosing order of cards (1 by 1 answer indexes without replacement?)

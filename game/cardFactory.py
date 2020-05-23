@@ -1,4 +1,5 @@
 from game.card import Card, CardType
+from game.choices import Choice
 from utils.log import logError
 
 cardNameDict = {}
@@ -59,7 +60,7 @@ cardNameDict['Curse'] = curse
 def cellar():
     def cellar_steps(player, board):
         player.actions += 1
-        discardChoices = player.bot.choose('cellar', player, board)
+        discardChoices = player.bot.choose(Choice.CELLAR, player, board)
         numDiscarded = len(discardChoices)
         for i in sorted(discardChoices, reverse=True):
             player.discard.append(player.hand.pop(i))

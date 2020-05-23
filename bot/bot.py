@@ -23,7 +23,7 @@ class Bot:
             pass
         self.provincePatience_waited = 0
 
-    def choose(self, choice, player, board):
+    def choose(self, choice, player, board, data = []):
         if (choice == 'action'):
             return self.chooseAction(player, board)
         elif (choice == 'treasure'):
@@ -31,7 +31,7 @@ class Bot:
         elif (choice == 'buy'):
             return self.chooseBuy(player, board)
         else:
-            return getBotAction(choice)(player, board, self)
+            return getBotAction(choice)(player, board, data, self)
 
     def chooseAction(self, player, board):
         # Always plays first available action

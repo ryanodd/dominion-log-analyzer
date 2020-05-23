@@ -3,6 +3,7 @@ import random
 from utils.log import PlayerLog, logError
 from game.card import CardType
 from game.cardFactory import getCard
+from game.choices import Choice
 
 class Player:
     def __init__(self, board, bot, deck = []):
@@ -61,7 +62,7 @@ class Player:
 
         # Actions
         while self.actions and self.hasTypeInHand(CardType.ACTION):
-            actionChoice = self.bot.choose('action', self, self.board)
+            actionChoice = self.bot.choose(Choice.ACTION, self, self.board)
             if (actionChoice == -1):
                 break
             elif (actionChoice >= 0 and actionChoice < len(self.hand)
@@ -77,7 +78,7 @@ class Player:
 
         # Playing Treasures
         while self.hasTypeInHand(CardType.TREASURE):
-            treasureChoice = self.bot.choose('treasure', self, self.board)
+            treasureChoice = self.bot.choose(Choice.TREASURE, self, self.board)
             if (treasureChoice == -1):
                 break
             elif (treasureChoice >= 0 and treasureChoice < len(self.hand)
@@ -92,7 +93,7 @@ class Player:
         # Buys
         self.log.buyStart(self.money, self.buys)
         while self.buys:
-            buyChoice = self.bot.choose('buy', self, self.board)
+            buyChoice = self.bot.choose(Choice.BUY, self, self.board)
             if (buyChoice == -1):
                 break
             elif (buyChoice >= 0 and buyChoice < len(self.board.shop)
