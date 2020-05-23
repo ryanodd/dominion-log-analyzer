@@ -5,7 +5,7 @@ from utils.log import logBot, logError
 botActions = {}
 
 # shit
-def chooseChapel(player, board, bot):
+def chooseChapel(player, game, bot):
         indexesTrashing = []
         indexesCopper = []
         namesTrashing = []
@@ -24,10 +24,10 @@ def chooseChapel(player, board, bot):
         # TODO: generalize to arbitrary number of coppers by going over all buy options (not just silver)
         if (len(indexesCopper) >= 3):
             newDeckWithCoppers = trimFromDeck(player.totalDeck(), namesTrashing)
-            newDeckWithCoppers.append(board.shop[5].card) # Sliver
+            newDeckWithCoppers.append(game.shop.listings[5].card) # Sliver
             atmWithCoppers = bot.calcATM(newDeckWithCoppers)
             newDeckWithoutCoppers = trimFromDeck(newDeckWithCoppers, ["Copper", "Copper", "Copper"])
-            newDeckWithoutCoppers.remove(board.shop[5].card) # Silver
+            newDeckWithoutCoppers.remove(game.shop.listings[5].card) # Silver
             atmWithoutCoppers = bot.calcATM(newDeckWithoutCoppers)
             if (atmWithoutCoppers > atmWithCoppers):
                 indexesTrashing.extend(indexesCopper)

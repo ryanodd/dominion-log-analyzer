@@ -17,7 +17,7 @@ def simGame(bots, shopCards, numSamples):
     # Collect Stats
     roundDist = {}
     for sample in samples:
-        roundsTaken = sample.board.round
+        roundsTaken = sample.round
         if (roundsTaken in roundDist):
             roundDist[roundsTaken] += 1
         else:

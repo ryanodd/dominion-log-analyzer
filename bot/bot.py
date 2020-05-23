@@ -2,6 +2,7 @@ import copy
 
 from utils.log import logBot, logError
 from game.card import Card, CardType
+from game.choices import Choice
 from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName
 from bot.objectiveCardInfo import getCardInfo
 from bot.botActions import getBotAction
@@ -23,17 +24,17 @@ class Bot:
             pass
         self.provincePatience_waited = 0
 
-    def choose(self, choice, player, board, data = []):
-        if (choice == 'action'):
-            return self.chooseAction(player, board)
-        elif (choice == 'treasure'):
-            return self.chooseTreasure(player, board)
-        elif (choice == 'buy'):
-            return self.chooseBuy(player, board)
+    def choose(self, choice, player, game, data = []):
+        if (choice == Choice.ACTION):
+            return self.chooseAction(player, game)
+        elif (choice == Choice.TREASURE):
+            return self.chooseTreasure(player, game)
+        elif (choice == Choice.BUY):
+            return self.chooseBuy(player, game)
         else:
-            return getBotAction(choice)(player, board, data, self)
+            return getBotAction(choice)(player, game, data, self)
 
-    def chooseAction(self, player, board):
+    def chooseAction(self, player, game):
         # Always plays first available action
         actionPriorities = {}
         for i in range(len(player.hand)):
@@ -41,7 +42,7 @@ class Bot:
                 actionPriorities[i] = self.actionPriority(player.hand[i].name)
         return max(actionPriorities, key=actionPriorities.get)
 
-    def chooseTreasure(self, player, board):
+    def chooseTreasure(self, player, game):
         # Always play first available treasure. More choices come later for the rest
         for i in range(len(player.hand)):
             if (CardType.TREASURE in player.hand[i].types):
@@ -49,7 +50,7 @@ class Bot:
         # No treasures found
         return -1
     
-    def chooseBuy(self, player, board):
+    def chooseBuy(self, player, game):
         if (player.money >= 8):
             # provincePatience waits to buy its first province
             if (self.provincePatience_waited < self.options['provincePatience']):
@@ -59,11 +60,11 @@ class Bot:
                 return 2 # province
 
         if (self.options["calcATMMath"] or self.options["calcATMSim"]):
-            return self.chooseBuySmartly(player, board)
+            return self.chooseBuySmartly(player, game)
         else:
-            return self.chooseBuyBigMoney(player, board)
+            return self.chooseBuyBigMoney(player, game)
 
-    def chooseBuyBigMoney(self, player, board):
+    def chooseBuyBigMoney(self, player, game):
         if (player.money >= 6):
             return 6 # gold
         if (player.money >= 3):
@@ -71,14 +72,15 @@ class Bot:
         else:
             return -1
 
-    def chooseBuySmartly(self, player, board):
+    def chooseBuySmartly(self, player, game):
         potentialDeck = copy.copy(player.totalDeck())
+        shopListings = game.shop.listings
         noBuyATM = self.calcATM(potentialDeck)
         bestIndex = -1
         bestValueIncrease = 0
-        for i in range(len(board.shop)):
-            card = board.shop[i].card
-            if (card.cost > player.money): continue
+        for i in range(len(game.shop.listings)):
+            card = shopListings[i].card
+            if (shopListings[i].cost > player.money): continue
 
             if (card.name == "Chapel" and cardCountByName(player.totalDeck(), "Chapel") == 0 and self.options["chapelEnabled"]):
                 logBot("Choosing to buy chapel since we don't have one yet")
@@ -94,7 +96,7 @@ class Bot:
             if (valueIncrease > bestValueIncrease):
                 bestValueIncrease = valueIncrease
                 bestIndex = i
-        logBot("Choosing to buy %s based on its increase of %.2f to our ATM" % (board.shop[bestIndex].card.name, bestValueIncrease))
+        logBot("Choosing to buy %s based on its increase of %.2f to our ATM" % (shopListings[bestIndex].card.name, bestValueIncrease))
         return bestIndex
 
     def calcATM(self, deck):

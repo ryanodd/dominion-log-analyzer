@@ -6,44 +6,44 @@ cardNameDict = {}
 ######################### Essentials ###############################
 
 def estate():
-    def estate_vsteps(player, board):
+    def estate_vsteps(player, game):
         player.vp += 1
     return Card("Estate", 2, [CardType.VICTORY], None, estate_vsteps)
 cardNameDict['Estate'] = estate
 
 
 def duchy():
-    def duchy_vsteps(player, board):
+    def duchy_vsteps(player, game):
         player.vp += 3
     return Card("Duchy", 5, [CardType.VICTORY], None, duchy_vsteps)
 cardNameDict['Duchy'] = duchy
 
 def province():
-    def province_vsteps(player, board):
+    def province_vsteps(player, game):
         player.vp += 6
     return Card("Province", 8, [CardType.VICTORY], None, province_vsteps)
 cardNameDict['Province'] = province
 
 def copper():
-    def copper_steps(player, board):
+    def copper_steps(player, game):
         player.money += 1
     return Card("Copper", 0, [CardType.TREASURE], copper_steps, None)
 cardNameDict['Copper'] = copper
 
 def silver():
-    def silver_steps(player, board):
+    def silver_steps(player, game):
         player.money += 2
     return Card("Silver", 3, [CardType.TREASURE], silver_steps, None)
 cardNameDict['Silver'] = silver
 
 def gold():
-    def gold_steps(player, board):
+    def gold_steps(player, game):
         player.money += 3
     return Card("Gold", 6, [CardType.TREASURE], gold_steps, None)
 cardNameDict['Gold'] = gold
 
 def curse():
-    def curse_vsteps(player, board):
+    def curse_vsteps(player, game):
         player.vp -= 1
     return Card("Curse", 0, [CardType.CURSE], None, curse_vsteps)
 cardNameDict['Curse'] = curse
@@ -52,27 +52,27 @@ cardNameDict['Curse'] = curse
 ######################### Base Set 2ed ############################
 
 def artisan():
-    def artisan_steps(player, board):
+    def artisan_steps(player, game):
         # Gain card costing up to 5
-        gainChoice = player.bot.choose(Choice.ARTISAN1, player, board)
-        if (board.shop[gainChoice].cost > 5):
+        gainChoice = player.bot.choose(Choice.ARTISAN1, player, game)
+        if (game.shop.listings[gainChoice].cost > 5):
             logError("Cheater! Invalid artisan gain choice")
-        gainedCard = board.gain(gainChoice, player)
+        gainedCard = game.gain(gainChoice, player)
         player.gain(gainedCard)
 
         # Put a card from your hand onto your deck
-        topdeckChoice = player.bot.choose(Choice.ARTISAN2, player, board)
+        topdeckChoice = player.bot.choose(Choice.ARTISAN2, player, game)
         topdeckCard = player.hand.pop(topdeckChoice)
         player.deck.append(topdeckCard)
     return Card("Artisan", 6, [CardType.ACTION], artisan_steps, None)
 cardNameDict['Artisan'] = artisan
 
 def bandit():
-    def bandit_steps(player, board):
-        goldCard = board.gain(6, player)
+    def bandit_steps(player, game):
+        goldCard = game.gain(6, player)
         player.gain(goldCard)
 
-        for opponent in board.otherPlayers(player):
+        for opponent in game.otherPlayers(player):
             topTwoCards = []
             topTwoCards.append(opponent.deck.pop())
             topTwoCards.append(opponent.deck.pop())
@@ -86,8 +86,8 @@ def bandit():
             if (len(trashCandidates) > 0):
                 trashChoice = 0
                 if (len(trashCandidates) > 1):
-                    trashChoice = player.bot.choose(Choice.BANDIT, opponent, board, trashCandidates)
-                board.trash.append(topTwoCards[trashCandidatesMap[trashChoice]])
+                    trashChoice = player.bot.choose(Choice.BANDIT, opponent, game, trashCandidates)
+                game.trash.append(topTwoCards[trashCandidatesMap[trashChoice]])
                 trashCandidates.remove(trashChoice)
             opponent.discard += trashCandidates # discard the rest
     return Card("Bandit", 5, [CardType.ACTION], bandit_steps, None)
@@ -95,11 +95,11 @@ cardNameDict['Bandit'] = bandit
                     
 
 def bureaucrat():
-    def bureaucrat_steps(player, board):
-        silverCard = board.gain(5, player)
+    def bureaucrat_steps(player, game):
+        silverCard = game.gain(5, player)
         player.deck.append(silverCard) # not being logged as a gain for player?
 
-        for opponent in board.otherPlayers(player):
+        for opponent in game.otherPlayers(player):
             topDeckCandidates = []
             topDeckCandidatesMap = {} # maps topDeckCoices indices to hand indices
             for i in range(opponent.hand):
@@ -110,16 +110,16 @@ def bureaucrat():
             if (topDeckCandidates > 0):
                 topDeckChoice = 0
                 if (topDeckCandidates > 1):
-                    topDeckChoice = player.bot.choose(Choice.BUREAUCRAT, opponent, board)
+                    topDeckChoice = player.bot.choose(Choice.BUREAUCRAT, opponent, game)
                 topDeckCard = opponent.hand.pop(topDeckCandidatesMap[topDeckChoice])
                 opponent.deck.append(topDeckCard)
     return Card("Bureaucrat", 4, [CardType.ACTION], bureaucrat_steps, None)
 cardNameDict['Bureaucrat'] = bureaucrat
 
 def cellar():
-    def cellar_steps(player, board):
+    def cellar_steps(player, game):
         player.actions += 1
-        discardChoices = player.bot.choose(Choice.CELLAR, player, board)
+        discardChoices = player.bot.choose(Choice.CELLAR, player, game)
         numDiscarded = len(discardChoices)
         for i in sorted(discardChoices, reverse=True):
             player.discard.append(player.hand.pop(i))
@@ -128,25 +128,25 @@ def cellar():
 cardNameDict['Cellar'] = cellar
 
 def chapel():
-    def chapel_steps(player, board):
-        trashChoices = player.bot.choose('chapel', player, board)
+    def chapel_steps(player, game):
+        trashChoices = player.bot.choose('chapel', player, game)
         for i in sorted(trashChoices, reverse=True):
-            board.trash.append(player.hand.pop(i))
+            game.trash.append(player.hand.pop(i))
 
     return Card("Chapel", 2, [CardType.ACTION], chapel_steps, None)
 cardNameDict['Chapel'] = chapel
 
 def councilRoom():
-    def councilRoom_steps(player, board):
+    def councilRoom_steps(player, game):
         player.draw(4)
         player.buys += 1
-        for opponent in board.otherPlayers(player):
+        for opponent in game.otherPlayers(player):
             opponent.draw(1)
     return Card("Council Room", 5, [CardType.ACTION], councilRoom_steps, None)
 cardNameDict['Council Room'] = councilRoom
 
 def festival():
-    def festival_steps(player, board):
+    def festival_steps(player, game):
         player.actions += 2
         player.buys += 1
         player.money += 2
@@ -154,7 +154,7 @@ def festival():
 cardNameDict['Festival'] = festival
 
 def gardens():
-    def garden_vsteps(player, board):
+    def garden_vsteps(player, game):
         player.vp += len(player.totalDeck) / 10
     return Card("Gardens", 4, [CardType.VICTORY], None, garden_vsteps)
 cardNameDict['Gardens'] = gardens
@@ -162,7 +162,7 @@ cardNameDict['Gardens'] = gardens
 # def harbinger():
 
 def laboratory():
-    def laboratory_steps(player, board):
+    def laboratory_steps(player, game):
         player.draw(2)
         player.actions += 1
     return Card("Laboratory", 5, [CardType.ACTION], laboratory_steps, None)
@@ -171,7 +171,7 @@ cardNameDict['Laboratory'] = laboratory
 # def library():
 
 def market():
-    def market_steps(player, board):
+    def market_steps(player, game):
         player.draw(1)
         player.actions += 1
         player.buys += 1
@@ -196,7 +196,7 @@ cardNameDict['Market'] = market
 # def sentry():
 
 def smithy():
-    def smithy_steps(player, board):
+    def smithy_steps(player, game):
         player.draw(3)
     return Card("Smithy", 4, [CardType.ACTION], smithy_steps, None)
 cardNameDict['Smithy'] = smithy
@@ -206,7 +206,7 @@ cardNameDict['Smithy'] = smithy
 # def vassal():
 
 def village():
-    def village_steps(player, board):
+    def village_steps(player, game):
         player.draw(1)
         player.actions += 2
     return Card("Village", 3, [CardType.ACTION], village_steps, None)

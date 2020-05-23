@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 from game.card import CardType
-from game.board import Board
+from game.game import Game
 from game.player import Player
 from bot.bot import Bot
 from bot.objectiveCardInfo import getCardInfo
@@ -23,8 +23,8 @@ def simDeckTurn(deck, numSamples):
 
     # Run turns
     for _ in range(numSamples):
-        b = Board([], 1)
-        samples.append(Player(b, bot, deck.copy()))
+        g = Game([], [])
+        samples.append(Player(g, bot, deck.copy()))
         samples[-1].turn()
 
     # Collect Stats

@@ -1,15 +1,18 @@
 import copy
 
 from utils.log import logError, logGame
-from game.board import Board
+from game.shop import Shop
 from game.player import Player
 
 class Game:
     def __init__(self, bots, cards):
-        self.board = Board(cards, len(bots))
+        self.shop = Shop(cards, len(bots))
         self.players = []
         for b in bots:
-            self.players.append(Player(self.board, copy.deepcopy(b))) # This copy doesn't need to be deep at the moment.
+            self.players.append(Player(self, copy.deepcopy(b))) # This copy doesn't need to be deep at the moment.
+        self.shop = Shop(cards, len(self.players))
+        self.trash = []
+        self.round = 0
 
     # Current win condition is owning 4 provinces
     def isOver(self):
@@ -25,10 +28,23 @@ class Game:
 
     def run(self):
         while True:
-            self.board.round += 1
-            logGame("Round %s begins" % self.board.round)
+            self.round += 1
+            logGame("Round %s begins" % self.round)
             for i in range(len(self.players)):
                 self.players[i].turn()
                 if self.isOver():
-                    logGame("Game Over! Ended after round %s" % self.board.round)
+                    logGame("Game Over! Ended after round %s" % self.round)
                     return
+
+    def otherPlayers(self, originalPlayer):
+        returnPlayers = []
+        for player in self.players:
+            if (player != originalPlayer):
+                returnPlayers.append(player)
+        if (len(returnPlayers) == len(self.players)):
+            logError("otherPlayers: did not find match...")
+        return returnPlayers
+
+    def gain(self, shopIndex):
+        # log?
+        return self.shop.pop(shopIndex)
