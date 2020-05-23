@@ -51,9 +51,36 @@ cardNameDict['Curse'] = curse
 
 ######################### Base Set 2ed ############################
 
-# def artisan():
+def artisan():
+    def artisan_steps(player, board):
+        gainChoice = player.bot.choose(Choice.ARTISAN1, player, board)
+        board.gainTo(gainChoice, player)
+        topdeckChoice = player.bot.choose(Choice.ARTISAN2, player, board)
+        topdeckCard = player.hand.pop(topdeckChoice)
+        player.deck.append(topdeckCard)
+    return Card("Artisan", 6, [CardType.ACTION], artisan_steps, None)
+cardNameDict['Artisan'] = artisan
 
-# def bandit():
+def bandit():
+    def bandit_steps(player, board):
+        board.gainTo(6, player)
+        for opponent in board.otherPlayers(player):
+            topTwoCards = []
+            topTwoCards.append(opponent.deck.pop())
+            topTwoCards.append(opponent.deck.pop())
+            trashCandidates = []
+            for card in topTwoCards:
+                if (CardType.TREASURE in card.types and card.name != "Copper"):
+                    trashCandidates.append(card)
+            if (len(trashCandidates) > 1):
+                trashChoice = player.bot.choose(Choice.BANDIT, player, board) # This obviously won't work. We need better params
+                board.trash.append(trashCandidates[trashChoice])
+                trashCandidates.remove(trashChoice)
+                opponent.discard += trashCandidates # discard the rest
+            elif (len(trashCandidates) == 1):
+                
+            
+                    
 
 # def bureaucrat():
 
