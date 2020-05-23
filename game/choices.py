@@ -8,5 +8,6 @@ class Choice(Enum):
     ARTISAN1: 4
     ARTISAN2: 5
     BANDIT: 6
-    CELLAR: 7
-    CHAPEL: 8
+    BUREACRAT: 7
+    CELLAR: 8
+    CHAPEL: 9

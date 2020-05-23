@@ -53,8 +53,14 @@ cardNameDict['Curse'] = curse
 
 def artisan():
     def artisan_steps(player, board):
+        # Gain card costing up to 5
         gainChoice = player.bot.choose(Choice.ARTISAN1, player, board)
-        board.gainTo(gainChoice, player)
+        if (board.shop[gainChoice].cost > 5):
+            logError("Cheater! Invalid artisan gain choice")
+        gainedCard = board.gain(gainChoice, player)
+        player.gain(gainedCard)
+
+        # Put a card from your hand onto your deck
         topdeckChoice = player.bot.choose(Choice.ARTISAN2, player, board)
         topdeckCard = player.hand.pop(topdeckChoice)
         player.deck.append(topdeckCard)
@@ -63,26 +69,52 @@ cardNameDict['Artisan'] = artisan
 
 def bandit():
     def bandit_steps(player, board):
-        board.gainTo(6, player)
+        goldCard = board.gain(6, player)
+        player.gain(goldCard)
+
         for opponent in board.otherPlayers(player):
             topTwoCards = []
             topTwoCards.append(opponent.deck.pop())
             topTwoCards.append(opponent.deck.pop())
             trashCandidates = []
-            for card in topTwoCards:
+            trashCandidatesMap = {} # maps trashCandidates indices to topTwoCards indices
+            for i in range(topTwoCards):
+                card = topTwoCards[i]
                 if (CardType.TREASURE in card.types and card.name != "Copper"):
+                    trashCandidatesMap[len(trashCandidates)] = i
                     trashCandidates.append(card)
-            if (len(trashCandidates) > 1):
-                trashChoice = player.bot.choose(Choice.BANDIT, player, board) # This obviously won't work. We need better params
-                board.trash.append(trashCandidates[trashChoice])
+            if (len(trashCandidates) > 0):
+                trashChoice = 0
+                if (len(trashCandidates) > 1):
+                    trashChoice = player.bot.choose(Choice.BANDIT, opponent, board, trashCandidates)
+                board.trash.append(topTwoCards[trashCandidatesMap[trashChoice]])
                 trashCandidates.remove(trashChoice)
-                opponent.discard += trashCandidates # discard the rest
-            elif (len(trashCandidates) == 1):
-                
-            
+            opponent.discard += trashCandidates # discard the rest
+    return Card("Bandit", 5, [CardType.ACTION], bandit_steps, None)
+cardNameDict['Bandit'] = bandit
                     
 
-# def bureaucrat():
+def bureaucrat():
+    def bureaucrat_steps(player, board):
+        silverCard = board.gain(5, player)
+        player.deck.append(silverCard) # not being logged as a gain for player?
+
+        for opponent in board.otherPlayers(player):
+            topDeckCandidates = []
+            topDeckCandidatesMap = {} # maps topDeckCoices indices to hand indices
+            for i in range(opponent.hand):
+                card = opponent.hand[i]
+                if CardType.VICTORY in card.types:
+                    topDeckCandidatesMap[len(topDeckCandidates)] = i
+                    topDeckCandidates.append(card)
+            if (topDeckCandidates > 0):
+                topDeckChoice = 0
+                if (topDeckCandidates > 1):
+                    topDeckChoice = player.bot.choose(Choice.BUREAUCRAT, opponent, board)
+                topDeckCard = opponent.hand.pop(topDeckCandidatesMap[topDeckChoice])
+                opponent.deck.append(topDeckCard)
+    return Card("Bureaucrat", 4, [CardType.ACTION], bureaucrat_steps, None)
+cardNameDict['Bureaucrat'] = bureaucrat
 
 def cellar():
     def cellar_steps(player, board):

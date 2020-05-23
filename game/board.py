@@ -31,3 +31,8 @@ class Board:
         if (buyChoice < 0 or buyChoice >= len(self.shop)):
             logError("Invalid buy choice: %s" % buyChoice)
         return self.shop[buyChoice].card
+
+    def gain(self, gainChoice):
+        if (gainChoice < 0 or gainChoice >= len(self.shop)):
+            logError("Invalid gain choice: %s" % gainChoice)
+        return self.shop[gainChoice].card
