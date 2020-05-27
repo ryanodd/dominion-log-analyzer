@@ -16,7 +16,7 @@ class GameTestSet:
 
 def gameTests():
 
-    NUM_SAMPLES = 2000
+    NUM_SAMPLES = 50
 
     mathBot = Bot({"calcATMMath": True})
 
@@ -40,13 +40,15 @@ def gameTests():
     plt.show()
 
 def turnTests():
-    NUM_SAMPLES = 100000
+    NUM_SAMPLES = 4000
 
     calcATMReferenceBot = Bot({"useCalcATM": False})
 
     deckStrings = []
-    deckStrings.append("7 Copper, 3 Estate, 4 Silver, 2 Gold")
+    #deckStrings.append("7 Copper, 3 Estate, 4 Silver, 2 Gold")
     deckStrings.append("7 Copper, 3 Estate, 3 Silver, 2 Smithy, 1 Gold")
+    #deckStrings.append("7 Copper, 3 Estate, 3 Silver, 4 Smithy, 1 Gold")
+    #deckStrings.append("7 Copper, 3 Estate, 3 Silver, 2 Smithy, 1 Gold, 2 Village")
 
     for deckString in deckStrings:
         deck = cardsFromDeckString(deckString)
@@ -57,7 +59,8 @@ def turnTests():
             actionPlayRate = -1
         else:
             actionPlayRate = res.averageActionsPlayed / (res.averageActionsPlayed + res.averageActionsDiscarded)
-        print("%s: ATM(M2) %.2f(%.0f) calcATM: %.2f actionRte(M2): %.2f(%.0f)" % (deckString, res.moneyDist[1], math.sqrt(res.moneyDist[2]), calcATMReferenceBot.calcATM_Math(deck), actionPlayRate, math.sqrt(res.actionDist[2])))
+        print("%s: ATM(calcATM) %.2f(%.2f) actionRate(calcTerminalRate): %.2f(%.2f)" % (deckString, res.moneyDist[0], calcATMReferenceBot.calcATM_Math(deck), actionPlayRate, calcATMReferenceBot.terminalPlayProbability(deck)))
 
 # GO
-gameTests()
+# gameTests()
+turnTests()

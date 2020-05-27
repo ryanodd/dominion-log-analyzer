@@ -42,13 +42,13 @@ def terminalCount(cards):
             count += 1
     return count
 
-def extraActionsCount(cards):
+def extraActionCount(cards):
     count = 0
     for card in cards:
         if (CardType.ACTION in card.types and getCardInfo(card.name).actions >= 2):
-            count += 1
+            count += (getCardInfo(card.name).actions - 1)
     return count
 
 def isCardTerminal(card):
     if (CardType.ACTION not in card.types): return False
-    return getCardInfo(card.name).actions <= 0
+    return getCardInfo(card.name).actions == 0
