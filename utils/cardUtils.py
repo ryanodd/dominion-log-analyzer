@@ -29,6 +29,12 @@ def cardCountByType(cards, type):
             count += 1
     return count
 
+def totalDraws(cards):
+    total = 0
+    for card in cards:
+        total += getCardInfo(card.name).draws
+    return total
+
 def totalMoney(cards):
     total  = 0
     for card in cards:

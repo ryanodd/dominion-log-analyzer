@@ -1,9 +1,10 @@
 import copy
+from utils.mathUtils import nCr
 
-from utils.log import logBot, logError
+from utils.log import logBot, logError, logNoisy
 from game.card import Card, CardType
 from game.choices import Choice
-from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName, extraActionCount
+from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
 from bot.objectiveCardInfo import getCardInfo
 from bot.botActions import getBotAction
 
@@ -117,62 +118,69 @@ class Bot:
     # TODO: separate future draws by what we know is in the discard pile vs deck, changing our odds
     def calcATM_Math(self, deck):
         deckSize = len(deck)
-        terminalPlayProbability = self.terminalPlayProbability(deck)
-        handSize = 5.0 # This can be more accurate
-        totalMoney = 0.0
+        handSize = 5.0 # This can be more accurate. Subtract it from deckSize for perCard calculations? "extra cards" could be a valuable concept
+        totalTerminals = terminalCount(deck)
+        totalNonTerminals = deckSize - totalTerminals
 
-        totalDraws = 0.0
-        totalMoney = 0.0
+        totalNonTerminalDraws = 0.0
+        totalNonTerminalMoney = 0.0
+        totalTerminalDraws = 0.0
+        totalTerminalMoney = 0.0
 
-        # collect some data
         for card in deck:
             if (isCardTerminal(card)):
-                totalDraws += (getCardInfo(card.name).draws * terminalPlayProbability)
-                totalMoney += (getCardInfo(card.name).money * terminalPlayProbability)
+                totalTerminalDraws +=getCardInfo(card.name).draws
+                totalTerminalMoney += getCardInfo(card.name).money
             else:
-                totalDraws += getCardInfo(card.name).draws
-                totalMoney += getCardInfo(card.name).money
-        drawsPerCard = totalDraws / deckSize
-        moneyPerCard = totalMoney / deckSize
+                totalNonTerminalDraws += getCardInfo(card.name).draws
+                totalNonTerminalMoney += getCardInfo(card.name).money
 
-        # cardsPerTurn is sum(n=0 to infinity, handSize * drawsPerCard^n) 
+        terminalsPerCard = totalTerminals / deckSize
+        drawsPerTerminal = totalTerminalDraws / totalTerminals
+        nonTerminalDrawsPerCard = totalNonTerminalDraws / deckSize
+
+        totalExtraActions = extraActionCount(deck)
+        
+        # cardsPerTurnBeforeTerminals is sum(n=0 to infinity, handSize * nonTerminalDrawsPerCard^n) 
         # representing your opening hand, plus the cards you draw with your opening hand,
         # plus the cards you draw with those new cards, plus the cards you draw with THOSE new cards, etc
-        if (drawsPerCard < 1): # converges
-            cardsPerTurn = min(deckSize, (handSize/(1-drawsPerCard)))
+        if (nonTerminalDrawsPerCard < 1): # converges
+            cardsPerTurnBeforeTerminals = min(deckSize, (handSize/(1-nonTerminalDrawsPerCard)))
         else: # diverges
-            cardsPerTurn = deckSize
+            cardsPerTurnBeforeTerminals = deckSize
 
-        moneyPerTurn = moneyPerCard * cardsPerTurn
+        # how likely are extra terminals to be playable? This needs to be improved involving consistency
+        estimatedExtraTerminalPlayProbability = min(1, (totalExtraActions / totalTerminals) * 0.75)
 
-        logBot("calcATM: cardsPerTurn: %s, moneyPerTurn: %s" % (cardsPerTurn, moneyPerTurn))
+        hasOneTerminalProbability = 1 - (nCr(totalNonTerminals, cardsPerTurnBeforeTerminals) * nCr(totalTerminals, 0) / nCr(deckSize, cardsPerTurnBeforeTerminals))
+        cardsPerTurnAfterOneTerminal = cardsPerTurnBeforeTerminals + (hasOneTerminalProbability * drawsPerTerminal)
+
+        remainingTerminalDrawsPerCard = (totalTerminalDraws - drawsPerTerminal) / (deckSize - 1)
+
+        effectiveRemainingTerminalDrawsPerCard = remainingTerminalDrawsPerCard * (estimatedExtraTerminalPlayProbability)
+        # cardsPerTurnAfterTerminals is sum(n=0 to infinity, cardsPerTurnAfterOneTerminal * effectiveRemainingTerminalDrawsPerCard^n)
+        if (effectiveRemainingTerminalDrawsPerCard < 1): # converges
+            cardsPerTurnAfterTerminals = min(deckSize, (cardsPerTurnAfterOneTerminal/(1-effectiveRemainingTerminalDrawsPerCard)))
+        else: # diverges
+            cardsPerTurnAfterTerminals = deckSize
+
+        nonTerminalMoneyPerCard = totalNonTerminalMoney / deckSize
+        nonTerminalMoneyPerTurn = nonTerminalMoneyPerCard * cardsPerTurnAfterTerminals
+        
+        moneyPerTerminal = totalTerminalMoney / totalTerminals
+        firstTerminalMoney = hasOneTerminalProbability * moneyPerTerminal
+        
+        remainingTerminalMoneyPerCard = (totalTerminalMoney - moneyPerTerminal) / (deckSize - 1)
+        extraTerminalMoney = remainingTerminalMoneyPerCard * cardsPerTurnAfterTerminals
+
+        moneyPerTurn = nonTerminalMoneyPerTurn + firstTerminalMoney + extraTerminalMoney
+        logNoisy("calcATM: cardsPerTurn: %s, moneyPerTurn: %s" % (cardsPerTurnAfterTerminals, moneyPerTurn))
         return moneyPerTurn
-
-    # The chances [0, 1] of being able to play a particular action in the deck due to terminals.
-    # Having + actions (villages) in the deck should increase this value.
-    # If there are 0 or 1 terminal actions in the deck, this should be 1.
-    # I think this function should treat a (1 draw 2 action) card differently than a (2 action) ie. incorporate draw. BUT does this function describe the probability of being able to play the card IF DRAWN or regarless of whether drawn?
-    # BUT, this function should treat a drawing terminal the same as a non-drawing terminal (since it doesn't affect actionPlayProbability). This isn't tru dumbass
-    def terminalPlayProbability(self, deck):
-        deckSize = len(deck)
-        _ = 5.0 # This can be more accurate
-        numTerminals = terminalCount(deck)
-        numExtraActions = extraActionCount(deck)
-        idealTerminalsPerCard = (1 / self.options["cardsPerTerminal"]) # THIS is what incorporates handSize into our equation. I think this is supposed to be expected cards per turn?
-
-        terminalsPerCard = numTerminals / deckSize
-        extraActionsPerCard = numExtraActions / deckSize
-        actualTerminalsPerCard = min(0, terminalsPerCard - extraActionsPerCard)
-        exceededTerminalsPerCard = max(0, (actualTerminalsPerCard - idealTerminalsPerCard))
-
-        return (1 - exceededTerminalsPerCard)
+        
 
         # t terminals: chances of a particular t being drawn in the same hand as our played t
         # we assume we played 1 t already (otherwise no cards are affected by this equation)
         # 1 guaranteed, plus (handSize - 1) attempts of being one of the (t - 1) terminals (failures) out of (deckSize - 1). Account for getting multiple
-
-        # for now...
-        return 1
     
     def actionPriority(self, name):
         if (name == "Chapel"):
