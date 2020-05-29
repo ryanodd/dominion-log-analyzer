@@ -46,10 +46,19 @@ def turnTests():
 
     deckStrings = []
     #deckStrings.append("7 Copper, 3 Estate, 4 Silver, 2 Gold")
-    deckStrings.append("7 Copper, 3 Estate, 3 Silver, 2 Smithy, 1 Gold")
+    #deckStrings.append("7 Copper, 3 Estate, 3 Silver, 2 Smithy, 1 Gold")
     #deckStrings.append("7 Copper, 3 Estate, 3 Silver, 4 Smithy, 1 Gold")
     #deckStrings.append("7 Copper, 3 Estate, 3 Silver, 2 Smithy, 1 Gold, 2 Village")
-
+    deckStrings.append("19 Copper, 1 Smithy")
+    deckStrings.append("18 Copper, 2 Smithy")
+    deckStrings.append("17 Copper, 3 Smithy")
+    deckStrings.append("16 Copper, 4 Smithy")
+    deckStrings.append("15 Copper, 5 Smithy")
+    deckStrings.append("15 Copper, 4 Smithy")
+    deckStrings.append("15 Copper, 3 Smithy")
+    deckStrings.append("15 Copper, 2 Smithy")
+    deckStrings.append("15 Copper, 1 Smithy")
+    
     for deckString in deckStrings:
         deck = cardsFromDeckString(deckString)
         res = simDeckTurn(deck, NUM_SAMPLES)
@@ -59,7 +68,7 @@ def turnTests():
             actionPlayRate = -1
         else:
             actionPlayRate = res.averageActionsPlayed / (res.averageActionsPlayed + res.averageActionsDiscarded)
-        print("%s: ATM(calcATM) %.2f(%.2f) actionRate(calcTerminalRate): %.2f(%.2f)" % (deckString, res.moneyDist[0], calcATMReferenceBot.calcATM_Math(deck), actionPlayRate, calcATMReferenceBot.terminalPlayProbability(deck)))
+        print("%s: ATM(calcATM) %.2f(%.2f) actionRate: %.2f ATC: %.2f" % (deckString, res.moneyDist[0], calcATMReferenceBot.calcATM_Math(deck), actionPlayRate, res.averageCards))
 
 # GO
 # gameTests()

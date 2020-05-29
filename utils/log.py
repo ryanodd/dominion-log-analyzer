@@ -33,8 +33,13 @@ class PlayerLog:
         self.turns[-1].boughtCards.append(card)
         log("Buy: %s" % card.name)
     def turnEnd(self, discards):
-        self.turns[-1].endingHand = copy.copy(discards)
+        self.turns[-1].endingHand = copy.copy(discards) # necessary?
+        self.turns[-1].cards = self.turns[-1].endingHand + self.turns[-1].actionsPlayed + self.turns[-1].treasuresPlayed
+        
         logCards(discards, "Turn End")
+
+def logNoisy(text):
+    print(text)
 
 def log(text):
     if DISABLED: return

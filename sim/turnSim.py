@@ -11,11 +11,12 @@ from bot.objectiveCardInfo import getCardInfo
 from utils.welfordAlg import welfordUpdate, welfordFinalize
 
 class TurnSimInfo:
-    def __init__(self, moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded):
+    def __init__(self, moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded, averageCards):
         self.moneyDist = moneyDist
         self.actionDist = actionDist
         self.averageActionsPlayed = averageActionsPlayed
         self.averageActionsDiscarded = averageActionsDiscarded
+        self.averageCards = averageCards
 
 def simDeckTurn(deck, numSamples):
     samples = []
@@ -32,6 +33,8 @@ def simDeckTurn(deck, numSamples):
     totalActionsDiscarded = 0
     moneyDist = [0, 0, 0]
     actionDist = [0, 0, 0]
+    totalCards = 0
+
     for sample in samples:
         moneyAvailable = sample.log.turns[0].moneyAvailable
         moneyDist = welfordUpdate(moneyDist, moneyAvailable)
@@ -43,9 +46,12 @@ def simDeckTurn(deck, numSamples):
         for card in cardsDiscarded:
             if (CardType.ACTION in card.types):
                 totalActionsDiscarded += 1
+        
+        totalCards += len(sample.log.turns[0].cards)
     moneyDist = welfordFinalize(moneyDist)
     actionDist = welfordFinalize(actionDist)
     averageActionsPlayed = totalActionsPlayed / len(samples)
     averageActionsDiscarded = totalActionsDiscarded / len(samples)
+    averageCards = totalCards / len(samples)
 
-    return TurnSimInfo(moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded)
+    return TurnSimInfo(moneyDist, actionDist, averageActionsPlayed, averageActionsDiscarded, averageCards)
