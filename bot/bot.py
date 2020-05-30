@@ -186,7 +186,7 @@ class Bot:
         if (name == "Chapel"):
             return 1
         elif (name == "Festival"):
-            return 5
+            return 15
         elif (name == "Laboratory"):
             return 20
         elif (name == "Market"):
