@@ -1,18 +1,18 @@
 from utils.log import logError
 
 class CardInfoValue:
-    def __init__(self, value, subjective=False):
+    def __init__(self, value, calculationNeeded=False, subjective=False):
         self.value = value
+        self.calculationNeeded = calculationNeeded
         self.subjective = subjective
-        self.calculationNeeded = subjective # Unused. Could be needed someday
 
 class CardInfoParams:
     def __init__(self):
-        self.money = CardInfoValue(0, False)
-        self.draws = CardInfoValue(0, False)
-        self.actions = CardInfoValue(0, False)
-        self.buys = CardInfoValue(0, False)
-        self.vp = CardInfoValue(0, False)
+        self.money = CardInfoValue(0)
+        self.draws = CardInfoValue(0)
+        self.actions = CardInfoValue(0)
+        self.buys = CardInfoValue(0)
+        self.vp = CardInfoValue(0)
 
     # Woah. I wonder if this is good or bad. memory & performance
     def reset(self):
