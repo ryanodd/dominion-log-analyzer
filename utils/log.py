@@ -1,6 +1,6 @@
 import copy
 
-DISABLED = True
+ENABLED = True
 
 class TurnLog:
     def __init__(self):
@@ -24,7 +24,7 @@ class PlayerLog:
         log("Action: %s" % card.name)
     def playTreasure(self, card):
         self.turns[-1].treasuresPlayed.append(card)
-        log("Treasure: %s" % card.name)
+        #log("Treasure: %s" % card.name)
     def buyStart(self, money, buys):
         self.turns[-1].moneyAvailable = money
         self.turns[-1].buysAvailable = buys
@@ -41,23 +41,23 @@ class PlayerLog:
 def logNoisy(text):
     print(text)
 
-def log(text):
-    if DISABLED: return
-    print(text)
-
 def logError(text):
     print("ERROR: %s" % text)
 
+def log(text):
+    if not ENABLED: return
+    print(text)
+
 def logBot(text):
-    if DISABLED: return
+    if not ENABLED: return
     print("    BOT: %s" % text)
 
 def logGame(text):
-    if DISABLED: return
+    if not ENABLED: return
     print("%s" % text)
 
 def logCards(cards, label):
-    if DISABLED: return
+    if not ENABLED: return
     print("%s: " % label, end = "")
     for i in range(len(cards)):
         print(cards[i].name, end = "")
