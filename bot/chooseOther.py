@@ -2,7 +2,7 @@ from game.choices import Choice
 from utils.cardUtils import trimFromDeck
 from utils.log import logBot, logError
 
-botActions = {}
+botChoices = {}
 
 # shit
 def chooseChapel(player, game, bot):
@@ -34,9 +34,9 @@ def chooseChapel(player, game, bot):
                 namesTrashing.extend(["Copper", "Copper", "Copper"])
         logBot("Choosing to trash: %s" % str(namesTrashing))
         return indexesTrashing
-botActions[Choice.CHAPEL] = chooseChapel
+botChoices[Choice.CHAPEL] = chooseChapel
 
-def getBotAction(actionName):
-    if (actionName not in botActions):
-        logError("Could not find bot action %s" % actionName)
-    return botActions[actionName]
+def chooseOther(choiceName):
+    if (choiceName not in botChoices):
+        logError("Could not find bot action %s" % choiceName)
+    return botChoices[choiceName]
