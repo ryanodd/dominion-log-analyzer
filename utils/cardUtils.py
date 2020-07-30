@@ -1,5 +1,5 @@
 from utils.log import logError
-from game.card import CardType
+from card.card import CardType
 from bot.objectiveCardInfo import getCardInfo
 
 # O(n*m) !!!!

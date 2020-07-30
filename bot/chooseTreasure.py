@@ -1,4 +1,4 @@
-from game.card import CardType
+from card.card import CardType
 
 def chooseTreasure(player, game):
     # Always play first available treasure. More choices come later for the rest

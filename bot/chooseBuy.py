@@ -2,7 +2,7 @@ import copy
 from utils.mathUtils import nCr
 
 from utils.log import logBot, logError, logNoisy
-from game.card import Card, CardType
+from card.card import Card, CardType
 from game.choices import Choice
 from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
 from bot.objectiveCardInfo import getCardInfo

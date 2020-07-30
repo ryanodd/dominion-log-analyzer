@@ -1,8 +1,8 @@
 import random
 
 from utils.log import PlayerLog, logError
-from game.card import CardType
-from game.cardFactory import getCard
+from card.card import CardType
+from card.cardFactory import getCard
 from game.choices import Choice
 
 class Player:

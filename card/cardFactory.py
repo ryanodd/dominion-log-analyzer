@@ -1,4 +1,4 @@
-from game.card import Card, CardType
+from card.card import Card, CardType
 from game.choices import Choice
 from utils.log import logError
 
