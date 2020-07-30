@@ -1,6 +1,6 @@
 from utils.log import logError
 from card.card import CardType
-from bot.objectiveCardInfo import getCardInfo
+from bot.botCardInfo import getCardInfo
 
 # O(n*m) !!!!
 # Returns a new deck list, does not modify input deck
@@ -32,29 +32,29 @@ def cardCountByType(cards, type):
 def totalDraws(cards):
     total = 0
     for card in cards:
-        total += getCardInfo(card.name).draws
+        total += getCardInfo(card.name).draws.value
     return total
 
 def totalMoney(cards):
     total  = 0
     for card in cards:
-        total += getCardInfo(card.name).money
+        total += getCardInfo(card.name).money.value
     return total
 
 def terminalCount(cards):
     count = 0
     for card in cards:
-        if (CardType.ACTION in card.types and getCardInfo(card.name).actions == 0):
+        if (CardType.ACTION in card.types and getCardInfo(card.name).actions.value == 0):
             count += 1
     return count
 
 def extraActionCount(cards):
     count = 0
     for card in cards:
-        if (CardType.ACTION in card.types and getCardInfo(card.name).actions >= 2):
-            count += (getCardInfo(card.name).actions - 1)
+        if (CardType.ACTION in card.types and getCardInfo(card.name).actions.value >= 2):
+            count += (getCardInfo(card.name).actions.value - 1)
     return count
 
 def isCardTerminal(card):
     if (CardType.ACTION not in card.types): return False
-    return getCardInfo(card.name).actions == 0
+    return getCardInfo(card.name).actions.value == 0

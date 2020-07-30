@@ -5,7 +5,7 @@ from utils.log import logBot, logError, logNoisy
 from card.card import Card, CardType
 from game.choices import Choice
 from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
-from bot.objectiveCardInfo import getCardInfo
+from bot.botCardInfo import getCardInfo
 
 def chooseBuy(player, game):
     if (player.money >= 8):
@@ -69,11 +69,11 @@ def calcATM_Math(deck):
 
     for card in deck:
         if (isCardTerminal(card)):
-            totalTerminalDraws +=getCardInfo(card.name).draws
-            totalTerminalMoney += getCardInfo(card.name).money
+            totalTerminalDraws +=getCardInfo(card.name).draws.value
+            totalTerminalMoney += getCardInfo(card.name).money.value
         else:
-            totalNonTerminalDraws += getCardInfo(card.name).draws
-            totalNonTerminalMoney += getCardInfo(card.name).money
+            totalNonTerminalDraws += getCardInfo(card.name).draws.value
+            totalNonTerminalMoney += getCardInfo(card.name).money.value
 
     terminalsPerCard = totalTerminals / deckSize
     drawsPerTerminal = totalTerminalDraws / totalTerminals

@@ -1,4 +1,4 @@
-from bot.objectiveCardInfo import getCardInfo
+from bot.botCardInfo import getCardInfo
 import copy
 
 # Wraps objectiveCardInfo

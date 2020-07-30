@@ -7,7 +7,7 @@ from card.card import CardType
 from game.game import Game
 from game.player import Player
 from bot.bot import Bot
-from bot.objectiveCardInfo import getCardInfo
+from bot.botCardInfo import getCardInfo
 from utils.welfordAlg import welfordUpdate, welfordFinalize
 
 class TurnSimInfo:
