@@ -1,25 +1,24 @@
 from card.card import CardType
+from bot.botCardInfo import getCardInfo
 
 def chooseAction(player, game):
-    # Always plays first available action
     actionPriorities = {}
     for i in range(len(player.hand)):
         if (CardType.ACTION in player.hand[i].types):
             actionPriorities[i] = actionPriority(player.hand[i].name)
-    return max(actionPriorities, key=actionPriorities.get)
+
+    if (not actionPriorities):
+        return -1 # None to choose.
+    bestChoice = max(actionPriorities, key=actionPriorities.get)
+    if (bestChoice == 0):
+        return -1
+    else: bestChoice  
 
 def actionPriority(name):
-    if (name == "Chapel"):
-        return 1 # Lowest. Should be conditional
-    elif (name == "Festival"):
-        return 20 # always safe
-    elif (name == "Laboratory"):
-        return 20 # always safe
-    elif (name == "Market"):
-        return 20 # always safe
-    elif (name == "Smithy"):
-        return 10 # safe with actions
-    elif (name == "Village"):
-        return 20 # always safe
+    cardInfo = getCardInfo(name)
+    if not cardInfo.beneficial:
+        return 0
+    elif cardInfo.actions >= 1:
+        return 2
     else:
-        return 1
+        return 1 # TODO: should somehow tiebreak terminals when it matters
