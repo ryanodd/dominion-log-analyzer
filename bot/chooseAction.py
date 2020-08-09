@@ -7,10 +7,10 @@ def chooseAction(player, game):
         if (CardType.ACTION in player.hand[i].types):
             actionPriorities[i] = actionPriority(player.hand[i].name)
 
-    if (not actionPriorities):
-        return -1 # None to choose.
+    if (not actionPriorities): # None to choose.
+        return -1
     bestChoice = max(actionPriorities, key=actionPriorities.get)
-    if (bestChoice == 0):
+    if (bestChoice == 0): # 0 means it's not beneficial to play
         return -1
     else: bestChoice  
 

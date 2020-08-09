@@ -39,7 +39,7 @@ class CardInfo:
 info = {}
 cardInfoParams = CardInfoParams()
 
-# Default Values for subjecctive Cards should be worst-case scenario. Hopefully that's always a thing.
+# Default Values for subjecctive Cards should be worst-case scenario?
 # We need them even when calculationNeeded for non-recursive mode
 
 #-------------Base--------------------
