@@ -1,5 +1,5 @@
 from card.card import CardType
-from bot.botCardInfo import getCardInfo
+from bot.cardInfo import getCardInfo
 
 def chooseAction(player, game):
     actionPriorities = {}

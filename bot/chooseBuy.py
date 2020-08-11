@@ -5,7 +5,7 @@ from utils.log import logBot, logError, logNoisy
 from card.card import Card, CardType
 from game.choices import Choice
 from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
-from bot.botCardInfo import getCardInfo
+from bot.cardInfo import getCardInfo
 
 def chooseBuy(player, game):
     if (player.money >= 8):
