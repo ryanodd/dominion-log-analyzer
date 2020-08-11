@@ -1,23 +1,17 @@
 from utils.log import logError
-
-class CardInfoValue:
-    def __init__(self, value, calculationNeeded=False, subjective=False):
-        self.value = value
-        self.calculationNeeded = calculationNeeded
-        self.subjective = subjective
-
+from bot.botTypes import botValue
 
 class CardInfoParams:
     def __init__(self):
-        self.money = CardInfoValue(0)
-        self.draws = CardInfoValue(0)
-        self.actions = CardInfoValue(0)
-        self.buys = CardInfoValue(0)
-        self.vp = CardInfoValue(0)
+        self.money = botValue(0)
+        self.draws = botValue(0)
+        self.actions = botValue(0)
+        self.buys = botValue(0)
+        self.vp = botValue(0)
 
-        # Careful with this default. Not sure about it
-        self.cantrip = CardInfoValue((self.draws > 0 and self.actions > 0 ))
-        self.beneficial = CardInfoValue(True)
+        # Careful with these defaults. Not sure about them. Can have card-for-card overriding or one universal alg hmmmmm
+        self.cantrip = botValue(False, (self.draws.value > 0 and self.actions.value > 0 ))
+        self.beneficial = botValue(True)
 
     # Woah. I wonder if this is good or bad. memory & performance
     def reset(self):
@@ -45,60 +39,60 @@ cardInfoParams = CardInfoParams()
 #-------------Base--------------------
 
 cardInfoParams.reset()
-cardInfoParams.vp = CardInfoValue(1)
+cardInfoParams.vp = botValue(1)
 info['Estate'] = CardInfo(CardInfoParams())
 
 cardInfoParams.reset()
-cardInfoParams.vp = CardInfoValue(3)
+cardInfoParams.vp = botValue(3)
 info['Duchy'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.vp = CardInfoValue(6)
+cardInfoParams.vp = botValue(6)
 info['Province'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.vp = CardInfoValue(-1)
+cardInfoParams.vp = botValue(-1)
 info['Curse'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoValue(1)
+cardInfoParams.money = botValue(1)
 info['Copper'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoValue(2)
+cardInfoParams.money = botValue(2)
 info['Silver'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoValue(3)
+cardInfoParams.money = botValue(3)
 info['Gold'] = CardInfo(cardInfoParams)
 
 #-----------------Dominion---------------
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(1, True, True)
+cardInfoParams.draws = botValue(1, None)
 info['Cellar'] = CardInfo(cardInfoParams)
 # Incomplete - Discards
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(2)
+cardInfoParams.draws = botValue(2)
 info['Moat'] = CardInfo(cardInfoParams)
 # Incomplete - defense
 
 cardInfoParams.reset()
-cardInfoParams.beneficial = CardInfoValue(False, True, True)
+cardInfoParams.beneficial = botValue(False, None)
 info['Chapel'] = CardInfo(cardInfoParams)
 # Incomplete - trashing
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(1)
-cardInfoParams.actions = CardInfoValue(1)
+cardInfoParams.draws = botValue(1)
+cardInfoParams.actions = botValue(1)
 info['Harbinger'] = CardInfo(cardInfoParams)
 # Incomplete - put on top
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(1)
-cardInfoParams.actions = CardInfoValue(1)
-cardInfoParams.money = CardInfoValue(0, True, True)
+cardInfoParams.draws = botValue(1)
+cardInfoParams.actions = botValue(1)
+cardInfoParams.money = botValue(0, None)
 info['Merchant'] = CardInfo(cardInfoParams)
 # Incomplete - extra money
 
@@ -107,17 +101,17 @@ info['Workshop'] = CardInfo(cardInfoParams)
 # Incomplete - gain
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(1)
-cardInfoParams.actions = CardInfoValue(2)
+cardInfoParams.draws = botValue(1)
+cardInfoParams.actions = botValue(2)
 info['Village'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoParams(2, True, True)
-cardInfoParams.actions = CardInfoParams(0, True, True)
-cardInfoParams.draws = CardInfoParams(0, True, True)
-cardInfoParams.buys = CardInfoParams(0, True, True)
-cardInfoParams.vp = CardInfoParams(0, True, True)
-cardInfoParams.cantrip(False, True, True)
+cardInfoParams.money = CardInfoParams(2, None)
+cardInfoParams.actions = CardInfoParams(0, None)
+cardInfoParams.draws = CardInfoParams(0, None)
+cardInfoParams.buys = CardInfoParams(0, None)
+cardInfoParams.vp = CardInfoParams(0, None)
+cardInfoParams.cantrip(False, None)
 info['Vassal'] = CardInfo(cardInfoParams)
 # Incomplete - uhhhh
 
@@ -126,65 +120,65 @@ info['Bureaucrat'] = CardInfo(cardInfoParams)
 # Incomplete - gain silver to deck, attack
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoValue(2)
+cardInfoParams.money = botValue(2)
 info['Militia'] = CardInfo(cardInfoParams)
 # Incomplete - attack
 
 cardInfoParams.reset()
-cardInfoParams.vp = CardInfoValue(0, True)
+cardInfoParams.vp = botValue(0, None, 100)
 info['Gardens'] = CardInfo(cardInfoParams)
 # Incomplete - vp calc
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(3)
+cardInfoParams.draws = botValue(3)
 info['Smithy'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoValue(0, True, True)
-cardInfoParams.beneficial = CardInfoValue(False, True, True)
+cardInfoParams.money = botValue(0, None)
+cardInfoParams.beneficial = botValue(False, None)
 info['Moneylender'] = CardInfo(cardInfoParams)
 # Incomplete - trashing, decision
 
 cardInfoParams.reset()
-cardInfoParams.beneficial = CardInfoValue(False, True, True)
+cardInfoParams.beneficial = botValue(False, None)
 info['Remodel'] = CardInfo(cardInfoParams)
 # Incomplete - gain, decision
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoParams(0, True, True)
-cardInfoParams.actions = CardInfoParams(0, True, True)
-cardInfoParams.draws = CardInfoParams(0, True, True)
-cardInfoParams.buys = CardInfoParams(0, True, True)
-cardInfoParams.vp = CardInfoParams(0, True, True)
-cardInfoParams.cantrip(False, True, True)
-cardInfoParams.beneficial(False, True, True)
+cardInfoParams.money = CardInfoParams(0, None)
+cardInfoParams.actions = CardInfoParams(0, None)
+cardInfoParams.draws = CardInfoParams(0, None)
+cardInfoParams.buys = CardInfoParams(0, True)
+cardInfoParams.vp = CardInfoParams(0, True)
+cardInfoParams.cantrip(False, True)
+cardInfoParams.beneficial(False, True)
 info['Throne Room'] = CardInfo(cardInfoParams)
 # Incomplete - uhhhh
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(1)
-cardInfoParams.actions = CardInfoValue(1)
-cardInfoParams.money = CardInfoValue(1)
+cardInfoParams.draws = botValue(1)
+cardInfoParams.actions = botValue(1)
+cardInfoParams.money = botValue(1)
 info['Poacher'] = CardInfo(cardInfoParams)
 # Incomplete - discarding
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(2)
-cardInfoParams.actions = CardInfoValue(1)
+cardInfoParams.draws = botValue(2)
+cardInfoParams.actions = botValue(1)
 info['Laboratory'] = CardInfo(cardInfoParams)
 
 
 cardInfoParams.reset()
-cardInfoParams.actions = CardInfoValue(2)
-cardInfoParams.money = CardInfoValue(2)
-cardInfoParams.buys = CardInfoValue(1)
+cardInfoParams.actions = botValue(2)
+cardInfoParams.money = botValue(2)
+cardInfoParams.buys = botValue(1)
 info['Festival'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoValue(1)
-cardInfoParams.draws = CardInfoValue(1)
-cardInfoParams.actions = CardInfoValue(1)
-cardInfoParams.buys = CardInfoValue(1)
+cardInfoParams.money = botValue(1)
+cardInfoParams.draws = botValue(1)
+cardInfoParams.actions = botValue(1)
+cardInfoParams.buys = botValue(1)
 info['Market'] = CardInfo(cardInfoParams)
 
 cardInfoParams.reset()
@@ -192,36 +186,35 @@ info['Bandit'] = CardInfo(cardInfoParams)
 # Incomplete - gain gold, attack
 
 cardInfoParams.reset()
-cardInfoParams.money = CardInfoValue(0, True, True)
+cardInfoParams.money = botValue(0, None, 100)
 info['Mine'] = CardInfo(cardInfoParams)
 # Incomplete - trash, beneficial???
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(4)
-cardInfoParams.buys = CardInfoValue(1)
+cardInfoParams.draws = botValue(4)
+cardInfoParams.buys = botValue(1)
 info['Council Room'] = CardInfo(cardInfoParams)
 # Incomplete - Opponent Gain
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(1)
-cardInfoParams.actions = CardInfoValue(1)
+cardInfoParams.draws = botValue(1)
+cardInfoParams.actions = botValue(1)
 info['Sentry'] = CardInfo(cardInfoParams)
 # Incomplete - trashing/discarding/ordering
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(0, True, True)
+cardInfoParams.draws = botValue(0, None)
 info['Library'] = CardInfo(cardInfoParams)
 # Incomplete - drawing, discarding?
 
 cardInfoParams.reset()
-cardInfoParams.draws = CardInfoValue(2)
+cardInfoParams.draws = botValue(2)
 info['Witch'] = CardInfo(cardInfoParams)
 # Incomplete - attack
 
 cardInfoParams.reset()
 info['Artisan'] = CardInfo(cardInfoParams)
 # Incomplete - gain to hand
-
 
 def getCardInfo(name):
     if name not in info:
