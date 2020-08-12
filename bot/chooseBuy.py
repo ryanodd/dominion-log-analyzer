@@ -10,8 +10,8 @@ from bot.cardInfo import getCardInfo
 def chooseBuy(player, game):
     if (player.money >= 8):
         return 2 # province
-    if (True):
-        return chooseBuySmartly(player, game)
+    if (False):
+        return chooseBuyNextTurnATM(player, game)
     else:
         return chooseBuyBigMoney(player, game)
 
@@ -23,7 +23,7 @@ def chooseBuyBigMoney(player, game):
     else:
         return -1
 
-def chooseBuySmartly(player, game):
+def chooseBuyNextTurnATM(player, game):
     potentialDeck = copy.copy(player.totalDeck())
     shopListings = game.shop.listings
     noBuyATM = calcATM(potentialDeck)
