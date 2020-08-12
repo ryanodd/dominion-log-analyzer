@@ -6,7 +6,7 @@ class GameInfoParams:
     def reset(self):
         self.__init__()
 
-# This class makes card-agnostic algorithms possible. I'm down to rename it
 class GameInfo:
     def __init__(self, gameInfoParams):
         self.vpRemaining = gameInfoParams.vpRemaining
+        

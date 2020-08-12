@@ -68,7 +68,7 @@ def turnTests():
             actionPlayRate = -1
         else:
             actionPlayRate = res.averageActionsPlayed / (res.averageActionsPlayed + res.averageActionsDiscarded)
-        print("%s: ATM(calcATM) %.2f(%.2f) actionRate: %.2f ATC: %.2f" % (deckString, res.moneyDist[0], calcATMReferenceBot.calcATM_Math(deck), actionPlayRate, res.averageCards))
+        print("%s: ATM: %.2f actionRate: %.2f ATC: %.2f" % (deckString, res.moneyDist[0], actionPlayRate, res.averageCards))
 
 # GO
 # gameTests()

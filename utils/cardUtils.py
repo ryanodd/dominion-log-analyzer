@@ -1,6 +1,6 @@
 from utils.log import logError
 from card.card import CardType
-from bot.botCardInfo import getCardInfo
+from bot.cardInfo import getCardInfo
 
 # O(n*m) !!!!
 # Returns a new deck list, does not modify input deck

@@ -12,13 +12,14 @@ def chooseAction(player, game):
     bestChoice = max(actionPriorities, key=actionPriorities.get)
     if (bestChoice == 0): # 0 means it's not beneficial to play
         return -1
-    else: bestChoice  
+    else:
+        return bestChoice  
 
 def actionPriority(name):
     cardInfo = getCardInfo(name)
-    if not cardInfo.beneficial:
+    if not cardInfo.beneficial.value:
         return 0
-    elif cardInfo.actions >= 1:
+    elif cardInfo.actions.value >= 1:
         return 2
     else:
         return 1 # TODO: should somehow tiebreak terminals when it matters

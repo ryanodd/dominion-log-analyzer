@@ -1,6 +1,6 @@
 import copy
 
-ENABLED = True
+ENABLED = False
 
 class TurnLog:
     def __init__(self):

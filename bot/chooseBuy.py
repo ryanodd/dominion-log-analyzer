@@ -1,7 +1,7 @@
 import copy
 from utils.mathUtils import nCr
 
-from utils.log import logBot, logError, logNoisy
+from utils.log import logBot, logError
 from card.card import Card, CardType
 from game.choices import Choice
 from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
@@ -114,7 +114,7 @@ def calcATM_Math(deck):
     extraTerminalMoney = remainingTerminalMoneyPerCard * cardsPerTurnAfterTerminals
 
     moneyPerTurn = nonTerminalMoneyPerTurn + firstTerminalMoney + extraTerminalMoney
-    logNoisy("calcATM: cardsPerTurn: %s, moneyPerTurn: %s" % (cardsPerTurnAfterTerminals, moneyPerTurn))
+    logBot("calcATM: cardsPerTurn: %s, moneyPerTurn: %s" % (cardsPerTurnAfterTerminals, moneyPerTurn))
     return moneyPerTurn
     
 
