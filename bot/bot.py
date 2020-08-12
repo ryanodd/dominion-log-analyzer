@@ -1,9 +1,9 @@
 from game.choices import Choice
 
-from bot.chooseAction import chooseAction
-from bot.chooseTreasure import chooseTreasure
-from bot.chooseBuy import chooseBuy
-from bot.chooseOther import chooseOther
+from bot.choose.chooseAction import chooseAction
+from bot.choose.chooseTreasure import chooseTreasure
+from bot.choose.chooseBuy import chooseBuy
+from bot.choose.chooseOther import chooseOther
 
 # self.options = options
 # if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
