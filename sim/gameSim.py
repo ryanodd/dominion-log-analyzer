@@ -1,6 +1,6 @@
 from game.game import Game
 from bot.bot import Bot
-from card.cardFactory import getCard
+from game.card.cardFactory import getCard
 
 class GameSimInfo:
     def __init__(self, roundDist):

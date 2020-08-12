@@ -71,5 +71,5 @@ def turnTests():
         print("%s: ATM: %.2f actionRate: %.2f ATC: %.2f" % (deckString, res.moneyDist[0], actionPlayRate, res.averageCards))
 
 # GO
-# gameTests()
-turnTests()
+gameTests()
+#turnTests()

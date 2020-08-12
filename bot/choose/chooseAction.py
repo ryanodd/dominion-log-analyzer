@@ -1,4 +1,4 @@
-from card.card import CardType
+from game.card.card import CardType
 from bot.cardInfo import getCardInfo
 
 def chooseAction(player, game):

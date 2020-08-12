@@ -1,4 +1,4 @@
-from card.cardFactory import getCard
+from game.card.cardFactory import getCard
 from utils.log import logError
 
 class Listing:

@@ -1,8 +1,8 @@
 import random
 
 from utils.log import PlayerLog, logError
-from card.card import CardType
-from card.cardFactory import getCard
+from game.card.card import CardType
+from game.card.cardFactory import getCard
 from game.choices import Choice
 
 class Player:
@@ -52,75 +52,6 @@ class Player:
         self.discard = []
         # MAKE SURE THIS WORKS^^^ PASS BY REF SCARES ME
         self.shuffleDeck()
-
-    def turn(self):
-        self.money = 0
-        self.actions = 1
-        self.buys = 1
-        # log("%s's turn begins" % self.bot.name)
-        self.log.turnStart(self.hand)
-
-        # Actions
-        while self.actions and self.hasTypeInHand(CardType.ACTION):
-            actionChoice = self.bot.choose(Choice.ACTION, self, self.game)
-            if (actionChoice == -1):
-                break
-            elif (actionChoice >= 0 and actionChoice < len(self.hand)
-            and CardType.ACTION in self.hand[actionChoice].types):
-                # perform action
-                actionCard = self.hand.pop(actionChoice)
-                self.play.append(actionCard)
-                self.actions -= 1
-                self.log.playAction(actionCard)
-                actionCard.steps(self, self.game)
-            else:
-                logError("Invalid action choice: %s" % actionChoice)
-
-        # Playing Treasures
-        while self.hasTypeInHand(CardType.TREASURE):
-            treasureChoice = self.bot.choose(Choice.TREASURE, self, self.game)
-            if (treasureChoice == -1):
-                break
-            elif (treasureChoice >= 0 and treasureChoice < len(self.hand)
-            and CardType.TREASURE in self.hand[treasureChoice].types):
-                # play treasure
-                treasureCard = self.hand.pop(treasureChoice)
-                self.play.append(treasureCard)
-                self.log.playTreasure(treasureCard)
-                treasureCard.steps(self, self.game)
-            else:
-                logError("Invalid treasure choice: %s" % treasureChoice)
-        # Buys
-        self.log.buyStart(self.money, self.buys)
-        while self.buys:
-            buyChoice = self.bot.choose(Choice.BUY, self, self.game)
-            if (buyChoice == -1):
-                break
-            elif (buyChoice >= 0 and buyChoice < len(self.game.shop.listings)
-            and self.money >= self.game.shop.listings[buyChoice].card.cost
-            and self.game.shop.listings[buyChoice].quantity > 0):
-                # perform buy
-                buyCard = self.game.gain(buyChoice)
-                self.money -= buyCard.cost
-                self.discard.append(buyCard)
-                self.buys -= 1
-                self.log.buy(buyCard)
-            else:
-                logError("Invalid buy choice: %s" % buyChoice)
-
-        # Cleanup
-        self.log.turnEnd(self.hand)
-        while self.play:
-            self.discard.append(self.play.pop())
-        while self.hand:
-            self.discard.append(self.hand.pop())
-        self.draw(5)
-
-        # log("%s's turn ends" % self.bot.name)
-        # Necessary?
-        self.money = 0
-        self.actions = 0
-        self.buys = 0
 
     def totalDeck(self):
         return self.deck + self.hand + self.discard + self.play

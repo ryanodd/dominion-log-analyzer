@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-from card.card import CardType
+from game.card.card import CardType
 from game.game import Game
 from game.player import Player
 from bot.bot import Bot
