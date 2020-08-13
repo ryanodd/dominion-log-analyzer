@@ -1,4 +1,6 @@
-class Choice:
+from enum import Enum
+
+class ChoiceID(Enum):
     ACTION = 1
     TREASURE = 2
     BUY = 3
@@ -24,3 +26,10 @@ class Choice:
     THRONEROOM = 22
     VASSAL = 23
     WORKSHOP = 24
+
+# TODO: some sort of response interface for each choice..
+class Choice:
+    def __init__(self, choiceID, gameState, chooserPlayerIndex):
+        self.id = choiceID
+        self.gameState = gameState
+        self.chooserPlayerIndex = chooserPlayerIndex

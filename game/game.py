@@ -11,10 +11,12 @@ class Game:
         self.shop = Shop(cards, len(bots))
         self.players = []
         for b in bots:
-            self.players.append(Player(self, b)) # This copy doesn't need to be deep at the moment.
+            self.players.append(Player(self, b))
         self.shop = Shop(cards, len(self.players))
         self.trash = []
         self.round = 0
+        self.currentPlayerIndex = 0
+        # TODO: store stack for things like the 2 sentry cards. Cards should not briefly live inside card.steps().
 
     def shouldStopGame(self):
         if (True):
@@ -49,11 +51,11 @@ class Game:
         while True:
             self.round += 1
             logGame("Round %s begins" % self.round)
-            for i in range(len(self.players)):
-                self.playerTurn(self.players[i])
-                if self.shouldStopGame():
-                    logGame("Game Over! Ended after round %s" % self.round)
-                    return
+            while not self.shouldStopGame:
+                self.playerTurn(self.players[self.currentPlayerIndex])
+                self.currentPlayerIndex = (currentPlayerIndex + 1) % len(self.players)
+            logGame("Game Over! Ended after round %s" % self.round)
+            return
 
     def playerTurn(self, player):
         player.money = 0
@@ -69,7 +71,7 @@ class Game:
     def playerActionPhase(self, player):
         # Actions
         while player.actions and player.hasTypeInHand(CardType.ACTION):
-            actionChoice = player.bot.choose(Choice.ACTION, player, self)
+            actionChoice = player.bot.choose(Choice.ACTION, GameState(self))
             if (actionChoice == -1):
                 break
             elif (actionChoice >= 0 and actionChoice < len(player.hand)
@@ -83,11 +85,10 @@ class Game:
             else:
                 logError("Invalid action choice: %s" % actionChoice)
 
-    # TODO: wait can you buy -> treasure -> buy? I forget
     def playerBuyPhase(self, player): 
         # Playing Treasures
         while player.hasTypeInHand(CardType.TREASURE):
-            treasureChoice = player.bot.choose(Choice.TREASURE, player, self)
+            treasureChoice = player.bot.choose(Choice.TREASURE, GameState(self))
             if (treasureChoice == -1):
                 break
             elif (treasureChoice >= 0 and treasureChoice < len(player.hand)
@@ -102,7 +103,7 @@ class Game:
         # Buys
         player.log.buyStart(player.money, player.buys)
         while player.buys:
-            buyChoice = player.bot.choose(Choice.BUY, player, self)
+            buyChoice = player.bot.choose(Choice.BUY, GameState(self))
             if (buyChoice == -1):
                 break
             elif (buyChoice >= 0 and buyChoice < len(self.shop.listings)
@@ -130,6 +131,9 @@ class Game:
         player.money = 0
         player.actions = 0
         player.buys = 0
+
+    def currentPlayer(self):
+            return self.players[self.currentPlayerIndex]
 
     # TODO: move into gameUtils
     def otherPlayers(self, originalPlayer):
