@@ -6,13 +6,14 @@ from game.player import Player
 from game.card.card import CardType
 from game.choices import Choice
 
-# TODO: make this cleaner, this is code dependency
+# TODO: These should take over the data model for Game & Player
+
 class PlayerState:
   def __init__(self, player):
     self.deck = player.deck
     self.discard = player.discard
     self.hand = player.hand
-    self.vp = player.vp # this may not end up being stored here
+    self.vpTokens = player.vp
     
     # mid-turn relevance?
     self.play = player.play
@@ -22,6 +23,7 @@ class PlayerState:
 class GameState:
     def __init__(self, game):
         self.shop = game.shop
+        self.players = []
         for player in game.players:
             self.players.append(PlayerState(player))
 
@@ -42,8 +44,7 @@ class GameState:
 
     def currentPlayer(self):
         return self.players[self.currentPlayerIndex]
-    
-    # TODO: move into gameUtils
+
     def otherPlayers(self, originalPlayer):
         returnPlayers = []
         for player in self.players:

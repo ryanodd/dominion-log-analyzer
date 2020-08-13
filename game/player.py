@@ -30,7 +30,7 @@ class Player:
         self.hand = []
         self.play = []
         self.money = 0
-        self.vp = 0
+        self.vpTokens = 0
 
         self.shuffleDeck()
         self.draw(5)

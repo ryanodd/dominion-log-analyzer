@@ -4,7 +4,8 @@ from utils.log import logError, logGame
 from game.shop import Shop
 from game.player import Player
 from game.card.card import CardType
-from game.choices import Choice
+from game.choices import Choice, ChoiceID
+from game.gameState import GameState
 
 class Game:
     def __init__(self, bots, cards):
@@ -37,11 +38,11 @@ class Game:
 
     def isGameOver(self):
         # Assumes that this is only called at the end of every turn
-        if shop.listings['Province'].quantity == 0: # TODO: Check for Colony
+        if self.shop.listings['Province'].quantity == 0: # TODO: Check for Colony
             return True
 
         depletedPileCount = 0
-        for listing in shop.listings:
+        for listing in self.shop.listings:
             if listing.quantity == 0: # TODO: make sure not to check non-pileout piles e.g. Tournament Prizes
                 depletedPileCount += 1
         return depletedPileCount >= 3
@@ -53,7 +54,7 @@ class Game:
             logGame("Round %s begins" % self.round)
             while not self.shouldStopGame:
                 self.playerTurn(self.players[self.currentPlayerIndex])
-                self.currentPlayerIndex = (currentPlayerIndex + 1) % len(self.players)
+                self.currentPlayerIndex = (self.currentPlayerIndex + 1) % len(self.players)
             logGame("Game Over! Ended after round %s" % self.round)
             return
 
@@ -71,7 +72,7 @@ class Game:
     def playerActionPhase(self, player):
         # Actions
         while player.actions and player.hasTypeInHand(CardType.ACTION):
-            actionChoice = player.bot.choose(Choice.ACTION, GameState(self))
+            actionChoice = player.bot.choose(Choice(ChoiceID.ACTION, GameState(self), self.currentPlayerIndex))
             if (actionChoice == -1):
                 break
             elif (actionChoice >= 0 and actionChoice < len(player.hand)
@@ -88,7 +89,7 @@ class Game:
     def playerBuyPhase(self, player): 
         # Playing Treasures
         while player.hasTypeInHand(CardType.TREASURE):
-            treasureChoice = player.bot.choose(Choice.TREASURE, GameState(self))
+            treasureChoice = player.bot.choose(Choice(ChoiceID.TREASURE, GameState(self), self.currentPlayerIndex))
             if (treasureChoice == -1):
                 break
             elif (treasureChoice >= 0 and treasureChoice < len(player.hand)
@@ -103,7 +104,7 @@ class Game:
         # Buys
         player.log.buyStart(player.money, player.buys)
         while player.buys:
-            buyChoice = player.bot.choose(Choice.BUY, GameState(self))
+            buyChoice = player.bot.choose(Choice(ChoiceID.BUY, GameState(self), self.currentPlayerIndex))
             if (buyChoice == -1):
                 break
             elif (buyChoice >= 0 and buyChoice < len(self.shop.listings)
@@ -119,7 +120,7 @@ class Game:
                 logError("Invalid buy choice: %s" % buyChoice)
 
     def playerCleanupPhase(self, player):
-        player.log.turnEnd(self.hand)
+        player.log.turnEnd(player.hand)
         while player.play:
             player.discard.append(player.play.pop())
         while player.hand:

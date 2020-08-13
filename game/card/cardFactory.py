@@ -1,5 +1,6 @@
 from game.card.card import Card, CardType
-from game.choices import Choice
+from game.choices import Choice, ChoiceID
+from game.gameState import GameState
 from utils.log import logError
 
 cardNameDict = {}
@@ -52,23 +53,27 @@ cardNameDict['Curse'] = curse
 ######################### Base Set 2ed ############################
 
 def artisan():
-    def artisan_steps(player, game):
+    def artisan_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         # Gain card costing up to 5
-        gainChoice = player.bot.choose(Choice.ARTISAN1, player, game)
+        gainChoice = player.bot.choose(Choice(ChoiceID.ARTISAN1, GameState(game), playerIndex))
         if (game.shop.listings[gainChoice].cost > 5):
             logError("Cheater! Invalid artisan gain choice")
         gainedCard = game.gain(gainChoice, player)
         player.gain(gainedCard)
 
         # Put a card from your hand onto your deck
-        topdeckChoice = player.bot.choose(Choice.ARTISAN2, player, game)
+        topdeckChoice = player.bot.choose(Choice(ChoiceID.ARTISAN2, GameState(game), playerIndex))
         topdeckCard = player.hand.pop(topdeckChoice)
         player.deck.append(topdeckCard)
     return Card("Artisan", 6, [CardType.ACTION], artisan_steps, None)
 cardNameDict['Artisan'] = artisan
 
 def bandit():
-    def bandit_steps(player, game):
+    def bandit_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         goldCard = game.gain(6, player)
         player.gain(goldCard)
 
@@ -86,7 +91,7 @@ def bandit():
             if (len(trashCandidates) > 0):
                 trashChoice = 0
                 if (len(trashCandidates) > 1):
-                    trashChoice = player.bot.choose(Choice.BANDIT, opponent, game, trashCandidates)
+                    trashChoice = player.bot.choose(Choice(ChoiceID.BANDIT, GameState(game), playerIndex))
                 game.trash.append(topTwoCards[trashCandidatesMap[trashChoice]])
                 trashCandidates.remove(trashChoice)
             opponent.discard += trashCandidates # discard the rest
@@ -95,7 +100,9 @@ cardNameDict['Bandit'] = bandit
                     
 
 def bureaucrat():
-    def bureaucrat_steps(player, game):
+    def bureaucrat_steps(playerIndex, game):
+        player = game.players[playerIndex]
+        
         silverCard = game.gain(5, player)
         player.deck.append(silverCard) # not being logged as a gain for player?
 
@@ -110,16 +117,18 @@ def bureaucrat():
             if (topDeckCandidates > 0):
                 topDeckChoice = 0
                 if (topDeckCandidates > 1):
-                    topDeckChoice = player.bot.choose(Choice.BUREAUCRAT, opponent, game, topDeckCandidates)
+                    topDeckChoice = player.bot.choose(Choice(ChoiceID.BUREAUCRAT, GameState(game), playerIndex))
                 topDeckCard = opponent.hand.pop(topDeckCandidatesMap[topDeckChoice])
                 opponent.deck.append(topDeckCard)
     return Card("Bureaucrat", 4, [CardType.ACTION], bureaucrat_steps, None)
 cardNameDict['Bureaucrat'] = bureaucrat
 
 def cellar():
-    def cellar_steps(player, game):
+    def cellar_steps(playerIndex, game):
+        player = game.players[playerIndex]
+        
         player.actions += 1
-        discardChoices = player.bot.choose(Choice.CELLAR, player, game)
+        discardChoices = player.bot.choose(Choice(ChoiceID.CELLAR, GameState(game), playerIndex))
         numDiscarded = len(discardChoices)
         for i in sorted(discardChoices, reverse=True):
             player.discard.append(player.hand.pop(i))
@@ -128,8 +137,10 @@ def cellar():
 cardNameDict['Cellar'] = cellar
 
 def chapel():
-    def chapel_steps(player, game):
-        trashChoices = player.bot.choose('chapel', player, game)
+    def chapel_steps(playerIndex, game):
+        player = game.players[playerIndex]
+        
+        trashChoices = player.bot.choose(Choice(ChoiceID.CHAPEL, GameState(game), playerIndex))
         for i in sorted(trashChoices, reverse=True):
             game.trash.append(player.hand.pop(i))
 
@@ -137,7 +148,9 @@ def chapel():
 cardNameDict['Chapel'] = chapel
 
 def councilRoom():
-    def councilRoom_steps(player, game):
+    def councilRoom_steps(playerIndex, game):
+        player = game.players[playerIndex]
+        
         player.draw(4)
         player.buys += 1
         for opponent in game.otherPlayers(player):
@@ -146,7 +159,9 @@ def councilRoom():
 cardNameDict['Council Room'] = councilRoom
 
 def festival():
-    def festival_steps(player, game):
+    def festival_steps(playerIndex, game):
+        player = game.players[playerIndex]
+        
         player.actions += 2
         player.buys += 1
         player.money += 2
@@ -154,36 +169,44 @@ def festival():
 cardNameDict['Festival'] = festival
 
 def gardens():
-    def garden_vsteps(player, game):
+    def garden_vsteps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.vp += len(player.totalDeck) / 10
     return Card("Gardens", 4, [CardType.VICTORY], None, garden_vsteps)
 cardNameDict['Gardens'] = gardens
 
 def harbinger():
-    def harbinger_steps(player, game):
+    def harbinger_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(1)
         player.actions += 1
 
-        topDeckChoice = player.bot.choose(Choice.HARBINGER, player, game)
+        topDeckChoice = player.bot.choose(Choice(ChoiceID.HARBINGER, GameState(game), playerIndex))
         topDeckCard = player.discard.pop(topDeckChoice)
         player.deck.append(topDeckCard)
     return Card("Harbinger", 3, [CardType.ACTION], harbinger_steps, None)
 cardNameDict['Harbinger'] = harbinger
 
 def laboratory():
-    def laboratory_steps(player, game):
+    def laboratory_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(2)
         player.actions += 1
     return Card("Laboratory", 5, [CardType.ACTION], laboratory_steps, None)
 cardNameDict['Laboratory'] = laboratory
 
 def library():
-    def library_steps(player, game):
+    def library_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         cardsToDiscard = []
         while len(player.hand < 7):
             drawnCard = player.deck.pop()
             if (CardType.ACTION in drawnCard.types):
-                willDiscard = player.bot.choose(Choice.LIBRARY, player, game, drawnCard)
+                willDiscard = player.bot.choose(Choice(ChoiceID.LIBRARY, GameState(game), playerIndex))
                 if (willDiscard):
                     cardsToDiscard.append(drawnCard)
                 else:
@@ -193,7 +216,9 @@ def library():
 cardNameDict['Library'] = library
 
 def market():
-    def market_steps(player, game):
+    def market_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(1)
         player.actions += 1
         player.buys += 1
@@ -205,18 +230,22 @@ cardNameDict['Market'] = market
 # def merchant():
 
 def militia():
-    def militia_steps(player, game):
+    def militia_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.money += 2
 
         for opponent in game.otherPlayers(player):
             while (len(opponent.hand) > 3):
-                discardChoice = opponent.bot.choose(Choice.MILITIA, opponent, game)
+                discardChoice = opponent.bot.choose(Choice(ChoiceID.MILITIA, GameState(game), playerIndex))
                 opponent.discard.append(opponent.hand.pop(discardChoice))
     return Card("Militia", 4, [CardType.ACTION, CardType.ATTACK], militia_steps, None)
 cardNameDict['Militia'] = militia
 
 def mine():
-    def mine_steps(player, game):
+    def mine_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         trashCandidates = []
         trashCandidatesMap = {} # maps trashCandidates indices to hand indices
         for i in range(len(player.hand)):
@@ -227,7 +256,7 @@ def mine():
         if (len(trashCandidates) > 0):
             trashChoice = 0
             if (len(trashCandidates) > 1):
-                trashChoice = player.bot.choose(Choice.MINE1, player, game, trashCandidates)
+                trashChoice = player.bot.choose(Choice(ChoiceID.MINE1, GameState(game), playerIndex))
             if (trashChoice != -1):
                 trashCard = player.hand.pop(trashChoice)
                 game.trash.append(trashCard)
@@ -241,7 +270,7 @@ def mine():
                 if (len(gainCandidates) > 0):
                     gainChoice = 0
                     if (len(gainCandidates) > 1):
-                        gainChoice = player.bot.choose(Choice.MINE2, player, game, gainCandidates)
+                        gainChoice = player.bot.choose(Choice(ChoiceID.MINE2, GameState(game), playerIndex))
                     player.discard.append(game.gain(gainCandidatesMap[gainChoice]))
     return Card("Mine", 5, [CardType.ACTION], mine_steps, None)
 cardNameDict['Mine'] = mine
@@ -249,7 +278,9 @@ cardNameDict['Mine'] = mine
 # def moat():
 
 def moneylender():
-    def moneylender_steps(player, game):
+    def moneylender_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         trashCandidates = []
         trashCandidatesMap = {} # maps trashCandidates indices to hand indices
         for i in range(len(player.hand)):
@@ -260,7 +291,7 @@ def moneylender():
         if (len(trashCandidates) > 0):
             trashChoice = 0
             if (len(trashCandidates) > 1):
-                trashChoice = player.bot.choose(Choice.MONEYLENDER, player, game, trashCandidates)
+                trashChoice = player.bot.choose(Choice(ChoiceID.MONEYLENDER, GameState(game), playerIndex))
             if (trashChoice != -1):
                 trashCard = player.hand.pop(trashChoice)
                 game.trash.append(trashCard)
@@ -269,7 +300,9 @@ def moneylender():
 cardNameDict['Moneylender'] = moneylender
 
 def poacher():
-    def poacher_steps(player, game):
+    def poacher_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(1)
         player.actions += 1
         player.money += 1
@@ -279,15 +312,17 @@ def poacher():
                 numToDiscard += 1
         for _ in range(numToDiscard):
             if (len(player.hand) > 0):
-                discardChoice = player.bot.choose(Choice.POACHER, player, game)
+                discardChoice = player.bot.choose(Choice(ChoiceID.POACHER, GameState(game), playerIndex))
                 player.discard.append(player.hand.pop(discardChoice))
     return Card("Poacher", 4, [CardType.ACTION], poacher_steps, None)
 cardNameDict['Poacher'] = poacher
 
 def remodel():
-    def remodel_steps(player, game):
+    def remodel_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         if (len(player.hand) > 0):
-            trashChoice = player.bot.choose(Choice.REMODEL1, player, game)
+            trashChoice = player.bot.choose(Choice(ChoiceID.REMODEL1, GameState(game), playerIndex))
             trashCard = player.hand.pop(trashChoice)
             game.trash.append(trashCard)
 
@@ -301,13 +336,15 @@ def remodel():
             if (len(gainCandidates) > 0):
                 gainChoice = 0
                 if (len(gainCandidates) > 1):
-                    gainChoice = player.bot.choose(Choice.REMODEL2, player, game, gainCandidates)
+                    gainChoice = player.bot.choose(Choice(ChoiceID.REMODEL2, GameState(game), playerIndex))
                 player.discard.append(game.gain(gainCandidatesMap[gainChoice]))
     return Card("Remodel", 4, [CardType.ACTION], remodel_steps, None)
 cardNameDict['Remodel'] = remodel
 
 def sentry():
-    def sentry_steps(player, game):
+    def sentry_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(1)
         player.actions += 1
         sentryCards = []
@@ -318,17 +355,17 @@ def sentry():
                 sentryCards.append(player.deck.pop())
 
         if (len(sentryCards) > 0):
-            trashChoices = player.bot.choose(Choice.SENTRY1, player, game, sentryCards)
+            trashChoices = player.bot.choose(Choice(ChoiceID.SENTRY1, GameState(game), playerIndex))
             for i in sorted(trashChoices, reverse=True):
                 game.trash.append(sentryCards.pop(i))
         if (len(sentryCards) > 0):
-            discardChoices = player.bot.choose(Choice.SENTRY2, player, game, sentryCards)
+            discardChoices = player.bot.choose(Choice(ChoiceID.SENTRY2, GameState(game), playerIndex))
             for i in sorted(discardChoices, reverse=True):
                 player.discard.append(sentryCards.pop(i))
         if (len(sentryCards) > 0):
             orderChoice = [0]
             if (len(sentryCards) > 1):
-                orderChoice = player.bot.choose(Choice.SENTRY3, player, game, sentryCards)
+                orderChoice = player.bot.choose(Choice(ChoiceID.SENTRY3, GameState(game), playerIndex))
             # Thinkin bout having SENTRY3 (order choice) be 1 card choice at a time?
             # To preserve index correctness, we don't pop from sentryCards (it dies after this function anyway)
             for o in orderChoice:
@@ -337,13 +374,17 @@ def sentry():
 cardNameDict['Sentry'] = sentry
 
 def smithy():
-    def smithy_steps(player, game):
+    def smithy_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(3)
     return Card("Smithy", 4, [CardType.ACTION], smithy_steps, None)
 cardNameDict['Smithy'] = smithy
 
 def throneRoom():
-    def throneRoom_steps(player, game):
+    def throneRoom_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         playCandidates = []
         playCandidatesMap = {} # maps playCandidates indices to hand indices
         for i in range(len(player.hand)):
@@ -352,7 +393,7 @@ def throneRoom():
                 playCandidatesMap[len(playCandidates)] = i
                 playCandidates.append(card)
         if (len(playCandidates) > 0):
-            playChoice = player.bot.choose(Choice.THRONEROOM, player, game, playCandidates)
+            playChoice = player.bot.choose(Choice(ChoiceID.THRONEROOM, GameState(game), playerIndex))
             if (playChoice != -1):
                 playCard = player.hand.pop(playCandidatesMap[playChoice])
                 player.play.append(playCard)
@@ -362,13 +403,15 @@ def throneRoom():
 cardNameDict['Throne Room'] = throneRoom
 
 def vassal():
-    def vassal_steps(player, game):
+    def vassal_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.money += 2
         if (len(player.deck) == 0):
             player.reshuffle()
         if (len(player.deck) > 0):
             discardCard = player.deck.pop()
-            willPlay = player.bot.choose(Choice.VASSAL, player, game, discardCard)
+            willPlay = player.bot.choose(Choice(ChoiceID.VASSAL, GameState(game), playerIndex))
             if (willPlay):
                 player.play.append(discardCard)
                 discardCard.steps()
@@ -378,14 +421,18 @@ def vassal():
 cardNameDict['Vassal'] = vassal
 
 def village():
-    def village_steps(player, game):
+    def village_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(1)
         player.actions += 2
     return Card("Village", 3, [CardType.ACTION], village_steps, None)
 cardNameDict['Village'] = village
 
 def witch():
-    def witch_steps(player, game):
+    def witch_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         player.draw(2)
         for opponent in game.otherPlayers(player):
             if (game.shop.listings[3].quantity > 0):
@@ -394,7 +441,9 @@ def witch():
 cardNameDict['Witch'] = witch
 
 def workshop():
-    def workshop_steps(player, game):
+    def workshop_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
         gainCandidates = []
         gainCandidatesMap = {} # maps gainCandidates indices to shop listing indices
         for i in range(len(game.shop.listings)):
@@ -405,7 +454,7 @@ def workshop():
         if (len(gainCandidates) > 0):
             gainChoice = 0
             if (len(gainCandidates) > 1):
-                gainChoice = player.bot.choose(Choice.WORKSHOP, player, game, gainCandidates)
+                gainChoice = player.bot.choose(Choice(ChoiceID.WORKSHOP, GameState(game), playerIndex))
             player.discard.append(game.gain(gainCandidatesMap[gainChoice]))
     return Card("Workshop", 3, [CardType.ACTION, CardType.ATTACK], workshop_steps, None)
 cardNameDict['Workshop'] = workshop

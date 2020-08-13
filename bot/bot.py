@@ -1,4 +1,4 @@
-from game.choices import Choice
+from game.choices import Choice, ChoiceID
 
 from bot.choose.chooseAction import chooseAction
 from bot.choose.chooseTreasure import chooseTreasure
@@ -17,14 +17,14 @@ class Bot:
         # TODO: load choice config here
         return
 
-    def choose(self, choice, player, game, data = []):
-        if (choice == Choice.ACTION):
-            return chooseAction(player, game)
-        elif (choice == Choice.TREASURE):
-            return chooseTreasure(player, game)
-        elif (choice == Choice.BUY):
-            return chooseBuy(player, game)
+    def choose(self, choice):
+        if (choice.id == ChoiceID.ACTION):
+            return chooseAction(choice)
+        elif (choice.id == ChoiceID.TREASURE):
+            return chooseTreasure(choice)
+        elif (choice.id == Choice.BUY):
+            return chooseBuy(choice)
         else:
-            return chooseOther(choice)(player, game, data, self)
+            return chooseOther(choiceID)(choice, self)
 
 

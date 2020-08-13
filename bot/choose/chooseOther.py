@@ -5,7 +5,7 @@ from utils.log import logBot, logError
 botChoices = {}
 
 # shit
-def chooseChapel(player, game, bot):
+def chooseChapel(game, bot):
         indexesTrashing = []
         indexesCopper = []
         namesTrashing = []
