@@ -17,14 +17,15 @@ class Bot:
         # TODO: load choice config here
         return
 
-    def choose(self, choice):
+    # TODO: Nothing special about actions, treasures, buys
+    def choose(self, choice, gameState, choosingPlayer):
         if (choice.id == ChoiceID.ACTION):
-            return chooseAction(choice)
+            return chooseAction(choice, gameState, choosingPlayer)
         elif (choice.id == ChoiceID.TREASURE):
-            return chooseTreasure(choice)
-        elif (choice.id == Choice.BUY):
-            return chooseBuy(choice)
+            return chooseTreasure(choice, gameState, choosingPlayer)
+        elif (choice.id == ChoiceID.BUY):
+            return chooseBuy(choice, gameState, choosingPlayer)
         else:
-            return chooseOther(choiceID)(choice, self)
+            return chooseOther(choice, gameState, choosingPlayer)
 
 

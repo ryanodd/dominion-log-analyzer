@@ -52,12 +52,13 @@ cardNameDict['Curse'] = curse
 
 ######################### Base Set 2ed ############################
 
+
 def artisan():
     def artisan_steps(playerIndex, game):
         player = game.players[playerIndex]
 
         # Gain card costing up to 5
-        gainChoice = player.bot.choose(Choice(ChoiceID.ARTISAN1, GameState(game), playerIndex))
+        gainChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN1) gameState, chooserPlayerIndex)
         if (game.shop.listings[gainChoice].cost > 5):
             logError("Cheater! Invalid artisan gain choice")
         gainedCard = game.gain(gainChoice, player)
@@ -108,7 +109,7 @@ def bureaucrat():
 
         for opponent in game.otherPlayers(player):
             topDeckCandidates = []
-            topDeckCandidatesMap = {} # maps topDeckCoices indices to hand indices
+            topDeckCandidatesMap = {} # maps topDeckChoices indices to hand indices
             for i in range(opponent.hand):
                 card = opponent.hand[i]
                 if CardType.VICTORY in card.types:
