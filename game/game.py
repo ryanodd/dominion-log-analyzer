@@ -4,7 +4,7 @@ from utils.log import logError, logGame
 from game.shop import Shop
 from game.player import Player
 from game.card.card import CardType
-from game.choices import Choice, ChoiceID
+from game.choice import Choice, ChoiceID
 from game.gameState import GameState
 
 class Game:
@@ -15,9 +15,9 @@ class Game:
             self.players.append(Player(self, b))
         self.shop = Shop(cards, len(self.players))
         self.trash = []
+        self.cardStoreStack = {} # stores "buckets" of cards in a stack
         self.round = 0
         self.currentPlayerIndex = 0
-        # TODO: store stack for things like the 2 sentry cards. Cards should not briefly live inside card.steps().
 
     def shouldStopGame(self):
         if (True):

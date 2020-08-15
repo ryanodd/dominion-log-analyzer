@@ -3,7 +3,7 @@ import random
 from utils.log import PlayerLog, logError
 from game.card.card import CardType
 from game.card.cardFactory import getCard
-from game.choices import Choice
+from game.choice import Choice
 
 class Player:
     def __init__(self, game, bot, deck = []):

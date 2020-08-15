@@ -1,4 +1,4 @@
-from game.choices import Choice, ChoiceID
+from game.choice import Choice, ChoiceID
 
 from bot.choose.chooseAction import chooseAction
 from bot.choose.chooseTreasure import chooseTreasure

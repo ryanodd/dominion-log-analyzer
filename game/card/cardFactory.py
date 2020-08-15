@@ -1,5 +1,5 @@
 from game.card.card import Card, CardType
-from game.choices import Choice, ChoiceID
+from game.choice import Choice, ChoiceID
 from game.gameState import GameState
 from utils.log import logError
 

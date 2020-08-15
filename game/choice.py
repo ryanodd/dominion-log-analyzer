@@ -27,7 +27,7 @@ class ChoiceID(Enum):
     VASSAL = 23
     WORKSHOP = 24
 
-# TODO: some sort of response interface for each choice..
+# TODO: some sort of response interface for each choice?
 class Choice:
     def __init__(self, choiceID, gameState, chooserPlayerIndex):
         self.id = choiceID
