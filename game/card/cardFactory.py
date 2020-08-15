@@ -63,36 +63,21 @@ def artisan():
 
         # Put a card from your hand onto your deck
         topdeckChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN2), GameState(game), playerIndex)
-        topdeckCard = player.hand.pop(topdeckChoice)
-        player.deck.append(topdeckCard)
+        player.deck.append(player.hand.pop(topdeckChoice))
     return Card("Artisan", 6, [CardType.ACTION], artisan_steps, None)
 cardNameDict['Artisan'] = artisan
 
 def bandit():
     def bandit_steps(playerIndex, game):
         player = game.players[playerIndex]
-
-        goldCard = game.gain(6, player)
-        player.gain(goldCard)
-
+        game.gain('Gold', player)
         for opponent in game.otherPlayers(player):
-            topTwoCards = []
-            topTwoCards.append(opponent.deck.pop())
-            topTwoCards.append(opponent.deck.pop())
-            trashCandidates = []
-            trashCandidatesMap = {} # maps trashCandidates indices to topTwoCards indices
-            for i in range(topTwoCards):
-                card = topTwoCards[i]
-                if (CardType.TREASURE in card.types and card.name != "Copper"):
-                    trashCandidatesMap[len(trashCandidates)] = i
-                    trashCandidates.append(card)
-            if (len(trashCandidates) > 0):
-                trashChoice = 0
-                if (len(trashCandidates) > 1):
-                    trashChoice = player.bot.choose(getChoice(ChoiceID.BANDIT), GameState(game), playerIndex)
-                game.trash.append(topTwoCards[trashCandidatesMap[trashChoice]])
-                trashCandidates.remove(trashChoice)
-            opponent.discard += trashCandidates # discard the rest
+            topTwoCards = game.cardStoreStack.append([])[-1] # make a better interface fn in game
+            topTwoCards.append([opponent.deck.pop(), opponent.deck.pop()])
+            if typeInCards(CardType.TREASURE, topTwoCards) and not nameInCards('Copper', topTwoCards):
+                trashChoice = player.bot.choose(getChoice(ChoiceID.BANDIT), GameState(game), playerIndex)
+                game.trash.append(topTwoCards.pop(trashChoice))
+            opponent.discard += topTwoCards
     return Card("Bandit", 5, [CardType.ACTION], bandit_steps, None)
 cardNameDict['Bandit'] = bandit
                     
