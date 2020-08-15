@@ -59,10 +59,7 @@ def artisan():
 
         # Gain card costing up to 5
         gainChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN1), GameState(game), playerIndex)
-        if (game.shop.listings[gainChoice].cost > 5):
-            logError("Cheater! Invalid artisan gain choice")
-        gainedCard = game.gain(gainChoice, player)
-        player.gain(gainedCard)
+        game.gain(gainChoice, player)
 
         # Put a card from your hand onto your deck
         topdeckChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN2), GameState(game), playerIndex)

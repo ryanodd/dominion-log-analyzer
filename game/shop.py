@@ -5,7 +5,7 @@ class Listing:
     def __init__(self, card, quantity):
         self.card = card
         self.quantity = quantity
-        self.cost = card.cost
+        self.cost = card.cost # I think altered costs will live in the card (or a decorator ?here?) later. Bridge
 
 class Shop:
     def __init__(self, cards, numPlayers):
@@ -15,8 +15,7 @@ class Shop:
         if (numPlayers <= 2):
             victoryAmount = 8
 
-        # TODO: Eventually, this shouldn't live here (and this shouldn't take in numPlayers)
-        # make shop listings hash by name
+        # TODO: Eventually, this shouldn't live here? (and this shouldn't take in numPlayers)
         self.listings['Estate'] = Listing(getCard('Estate'), victoryAmount)
         self.listings['Duchy'] = Listing(getCard('Duchy'), victoryAmount)
         self.listings['Province'] = Listing(getCard('Province'), victoryAmount)
@@ -30,6 +29,9 @@ class Shop:
             self.listings[cards[i].name] = Listing(cards[i], 10)
 
     def pop(self, name):
-        if (index < 0 or index >= len(self.listings)):
+        if (name not in self.listings):
             logError("Invalid shop pop choice: %s" % name)
-        return self.listings[index].card
+        if (self.listings[name].quantity <= 0):
+            logError("Invalid shop pop choice: %s, pile empty" % name)
+        self.listings[name].quantity -= 0
+        return self.listings[name].card

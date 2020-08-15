@@ -146,6 +146,6 @@ class Game:
             logError("otherPlayers: did not find match...")
         return returnPlayers
 
-    def gain(self, shopIndex):
+    def gain(self, shopIndex, player):
         # log?
-        return self.shop.pop(shopIndex)
+        player.gain(self.shop.pop(shopIndex))
