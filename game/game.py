@@ -1,11 +1,16 @@
 import copy
+from enum import Enum
 
 from utils.log import logError, logGame
 from game.shop import Shop
 from game.player import Player
 from game.card.card import CardType
-from game.choice import Choice, ChoiceID
+from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
+
+class GainType(Enum):
+    DISCARD = 0
+    DECK = 1
 
 class Game:
     def __init__(self, bots, cards):
@@ -15,7 +20,7 @@ class Game:
             self.players.append(Player(self, b))
         self.shop = Shop(cards, len(self.players))
         self.trash = []
-        self.cardStoreStack = {} # stores "buckets" of cards in a stack
+        self.cardStoreStack = [] # stores "buckets" of cards in a stack
         self.round = 0
         self.currentPlayerIndex = 0
 
@@ -72,7 +77,7 @@ class Game:
     def playerActionPhase(self, player):
         # Actions
         while player.actions and player.hasTypeInHand(CardType.ACTION):
-            actionChoice = player.bot.choose(Choice(ChoiceID.ACTION, GameState(self), self.currentPlayerIndex))
+            actionChoice = player.bot.choose(getChoice(ChoiceID.ACTION), GameState(self), self.currentPlayerIndex)
             if (actionChoice == -1):
                 break
             elif (actionChoice >= 0 and actionChoice < len(player.hand)
@@ -89,7 +94,7 @@ class Game:
     def playerBuyPhase(self, player): 
         # Playing Treasures
         while player.hasTypeInHand(CardType.TREASURE):
-            treasureChoice = player.bot.choose(Choice(ChoiceID.TREASURE, GameState(self), self.currentPlayerIndex))
+            treasureChoice = player.bot.choose(getChoice(ChoiceID.TREASURE), GameState(self), self.currentPlayerIndex)
             if (treasureChoice == -1):
                 break
             elif (treasureChoice >= 0 and treasureChoice < len(player.hand)
@@ -104,14 +109,14 @@ class Game:
         # Buys
         player.log.buyStart(player.money, player.buys)
         while player.buys:
-            buyChoice = player.bot.choose(Choice(ChoiceID.BUY, GameState(self), self.currentPlayerIndex))
+            buyChoice = player.bot.choose(getChoice(ChoiceID.BUY), GameState(self), self.currentPlayerIndex)
             if (buyChoice == -1):
                 break
             elif (buyChoice >= 0 and buyChoice < len(self.shop.listings)
             and player.money >= self.shop.listings[buyChoice].card.cost
             and self.shop.listings[buyChoice].quantity > 0):
                 # perform buy
-                buyCard = self.gain(buyChoice)
+                buyCard = self.gain(buyChoice, self.currentPlayer)
                 player.money -= buyCard.cost
                 player.discard.append(buyCard)
                 player.buys -= 1
@@ -146,6 +151,13 @@ class Game:
             logError("otherPlayers: did not find match...")
         return returnPlayers
 
-    def gain(self, shopIndex, player):
+    #Returns a reference to the gained card for convenience
+    def gain(self, cardName, player, gainType=GainType.DISCARD):
         # log?
-        player.gain(self.shop.pop(shopIndex))
+        return player.gain(self.shop.pop(cardName), gainType)
+
+    def newCardStore(self):
+        return self.cardStoreStack.append([])[-1]
+
+    def popCardStore(self):
+        return self.cardStoreStack.pop()

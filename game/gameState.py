@@ -4,7 +4,7 @@ from utils.log import logError, logGame
 from game.shop import Shop
 from game.player import Player
 from game.card.card import CardType
-from game.choices import Choice
+from game.choice import Choice
 
 # TODO: These should take over the data model for Game & Player
 

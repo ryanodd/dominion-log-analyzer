@@ -2,19 +2,22 @@ from enum import Enum
 from game.card.card import CardType
 from game.choice import ChoiceID
 
-verifiers = {}
+# For picks where there is only one valid option.
 
-def verify_action(game, response):
+forces = {}
+
+
+def force_action(game, response):
     return CardType.ACTION in game.currentPlayer.hand[response].types
-verifiers[ChoiceID.ACTION] = verify_action
+forces[ChoiceID.ACTION] = force_action
 
-def verify_treasure(game, response):
+def force_treasure(game, response):
     return CardType.TREASURE in game.currentPlayer.hand[response].types
-verifiers[ChoiceID.TREASURE] = verify_treasure
+forces[ChoiceID.TREASURE] = force_treasure
 
-def verify_buy(game, response):
+def force_buy(game, response):
     return game.currentPlayer.action in game.currentPlayer.hand[response].types
-verifiers[ChoiceID.BUY] = verify_buy
+forces[ChoiceID.BUY] = force_buy
 
 #------------
 
@@ -22,8 +25,8 @@ verifiers[ChoiceID.BUY] = verify_buy
 
 #------------
 
-def getVerifier(choiceID):
-  if choiceID in verifiers:
-    return verifiers[choiceID]
+def getForce(choiceID):
+  if choiceID in forces:
+    return forces[choiceID]
   else:
     return None

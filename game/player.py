@@ -4,6 +4,7 @@ from utils.log import PlayerLog, logError
 from game.card.card import CardType
 from game.card.cardFactory import getCard
 from game.choice import Choice
+from game.game import GainType
 
 class Player:
     def __init__(self, game, bot, deck = []):
@@ -52,6 +53,14 @@ class Player:
         self.discard = []
         # MAKE SURE THIS WORKS^^^ PASS BY REF SCARES ME
         self.shuffleDeck()
+
+    # Returns reference to card for convenience
+    def gain(self, card, gainType=GainType.DISCARD):
+        if gainType == GainType.DISCARD:
+            self.discard.append(card)
+        elif gainType == GainType.DECK:
+            self.deck.append(card)
+        return card
 
     def totalDeck(self):
         return self.deck + self.hand + self.discard + self.play
