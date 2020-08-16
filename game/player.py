@@ -1,10 +1,15 @@
 import random
+from enum import Enum
 
 from utils.log import PlayerLog, logError
 from game.card.card import CardType
 from game.card.cardFactory import getCard
 from game.choice import Choice
-from game.game import GainType
+
+class GainType(Enum):
+    DISCARD = 0
+    DECK = 1
+    HAND = 2
 
 class Player:
     def __init__(self, game, bot, deck = []):
@@ -44,6 +49,13 @@ class Player:
                     #still empty after reshuffling, can't draw
                     return
             self.hand.append(self.deck.pop())
+
+    def deckPop(self):
+        if len(self.deck) <= 0:
+            self.reshuffle()
+            if len(self.deck) <= 0:
+                return None
+        return self.deck.pop()
 
     def shuffleDeck(self):
         random.shuffle(self.deck)

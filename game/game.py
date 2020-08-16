@@ -1,16 +1,11 @@
 import copy
-from enum import Enum
 
 from utils.log import logError, logGame
 from game.shop import Shop
-from game.player import Player
+from game.player import Player, GainType
 from game.card.card import CardType
 from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
-
-class GainType(Enum):
-    DISCARD = 0
-    DECK = 1
 
 class Game:
     def __init__(self, bots, cards):
@@ -152,9 +147,9 @@ class Game:
         return returnPlayers
 
     #Returns a reference to the gained card for convenience
-    def gain(self, cardName, player, gainType=GainType.DISCARD):
+    def gain(self, cardName, playerIndex, gainType=GainType.DISCARD):
         # log?
-        return player.gain(self.shop.pop(cardName), gainType)
+        return self.players[playerIndex].gain(self.shop.pop(cardName), gainType)
 
     def newCardStore(self):
         return self.cardStoreStack.append([])[-1]
