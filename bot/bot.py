@@ -1,9 +1,5 @@
 from game.choice import Choice, ChoiceID
-
-from bot.choose.chooseAction import chooseAction
-from bot.choose.chooseTreasure import chooseTreasure
-from bot.choose.chooseBuy import chooseBuy
-from bot.choose.chooseOther import chooseOther
+from bot.choose.choosers import getChooser
 
 # self.options = options
 # if ("provincePatience" not in self.options): self.options["provincePatience"] = 0
@@ -17,15 +13,7 @@ class Bot:
         # TODO: load choice config here
         return
 
-    # TODO: Nothing special about actions, treasures, buys
-    def choose(self, choice, gameState, choosingPlayer):
-        if (choice.id == ChoiceID.ACTION):
-            return chooseAction(choice, gameState, choosingPlayer)
-        elif (choice.id == ChoiceID.TREASURE):
-            return chooseTreasure(choice, gameState, choosingPlayer)
-        elif (choice.id == ChoiceID.BUY):
-            return chooseBuy(choice, gameState, choosingPlayer)
-        else:
-            return chooseOther(choice, gameState, choosingPlayer)
+    def choose(self, choice, gameState, choosingPlayerIndex):
+        return getChooser(choice.ChoiceID)(choice, gameState, choosingPlayerIndex)
 
 

@@ -3,17 +3,18 @@ from utils.mathUtils import nCr
 
 from utils.log import logBot, logError
 from game.card.card import Card, CardType
-from game.choices import Choice
+from game.choice import Choice
 from utils.cardUtils import trimFromDeck, isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
 from bot.cardInfo import getCardInfo
 
-def chooseBuy(player, game):
+def chooseBuy(choice, gameState, choosingPlayerIndex):
+    player = gameState.player[choosingPlayerIndex]
     if (player.money >= 8):
         return 2 # province
     if (False):
-        return chooseBuyNextTurnATM(player, game)
+        return chooseBuyNextTurnATM(player, gameState)
     else:
-        return chooseBuyBigMoney(player, game)
+        return chooseBuyBigMoney(player, gameState)
 
 def chooseBuyBigMoney(player, game):
     if (player.money >= 6):

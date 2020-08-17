@@ -1,11 +1,12 @@
 from game.card.card import CardType
 from bot.cardInfo import getCardInfo
 
-def chooseAction(gameState, choosingPlayer):
+def chooseAction(choice, gameState, choosingPlayerIndex):
+    player = gameState.players[choosingPlayerIndex]
     actionPriorities = {}
-    for i in range(len(choosingPlayer.hand)):
-        if (CardType.ACTION in choosingPlayer.hand[i].types):
-            actionPriorities[i] = actionPriority(choosingPlayer.hand[i].name)
+    for i in range(len(player.hand)):
+        if (CardType.ACTION in player.hand[i].types):
+            actionPriorities[i] = actionPriority(player.hand[i].name)
 
     if (not actionPriorities): # None to choose.
         return -1
