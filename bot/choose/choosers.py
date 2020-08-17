@@ -14,26 +14,42 @@ choosers[ChoiceID.BUY] = chooseBuy # Imported
 
 #------------
 
-    # ARTISAN2 = 5
-    # BANDIT = 6
-    # BUREAUCRAT = 7
-    # CELLAR = 8
-    # CHAPEL = 9
-    # HARBINGER = 10
-    # LIBRARY = 11
-    # MILITIA = 12
-    # MINE1 = 13
-    # MINE2 = 14
-    # MONEYLENDER = 15
-    # POACHER = 16
-    # REMODEL1 = 17
-    # REMODEL2 = 18
-    # SENTRY1 = 19
-    # SENTRY2 = 20
-    # SENTRY3 = 21
-    # THRONEROOM = 22
-    # VASSAL = 23
-    # WORKSHOP = 24
+# Brain blast theor: weigh between:
+# 1. thing you want to do with it this turn
+# 2. The thing you would do otherwise
+# Opportunity cost compare??
+
+# TODO: use cardInfo something like 'isBeneficialToHaveInHandThisTurn' calculatable.
+# For now, this could discard Distant Lands over Estate
+def chooseBureaucrat(choice, gameState, choosingPlayerIndex):
+  player = gameState.players[choosingPlayerIndex]
+  for handIndex in range(len(player.hand)):
+    if CardType.VICTORY in player.hand[handIndex].types:
+      return handIndex
+choosers[ChoiceID.BUREAUCRAT] = chooseBureaucrat
+
+
+    # ARTISAN1
+    # ARTISAN2
+    # BANDIT
+      # BUREAUCRAT
+    # CELLAR
+    # CHAPEL
+    # HARBINGER
+    # LIBRARY
+    # MILITIA
+    # MINE1
+    # MINE2
+    # MONEYLENDER
+    # POACHER
+    # REMODEL1
+    # REMODEL2
+    # SENTRY1
+    # SENTRY2
+    # SENTRY3
+    # THRONEROOM
+    # VASSAL
+    # WORKSHOP
 #------------
 
 def getChooser(choiceID):
