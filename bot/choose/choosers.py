@@ -28,6 +28,7 @@ def chooseBanditByHighestMoney(choice, gameState, choosingPlayerIndex):
       maxCost = card.cost
       bestCardIndex = cardIndex
   return bestCardIndex
+choosers[ChoiceID.BANDIT] = chooseBanditByHighestMoney
 
 # TODO: use cardInfo something like 'isBeneficialToHaveInHandThisTurn' calculatable.
 # For now, this could discard Distant Lands over Estate
@@ -86,24 +87,24 @@ choosers[ChoiceID.VASSAL] = chooseVassalByBeneficial
 
     # ARTISAN1 - gain to hand LT + ST value compare
     # ARTISAN2 - topdeck: ST + 1 (with extra ST next turn)
-      # BANDIT - trash opponent treasure: reasonable hardcode (for now)
-      # BUREAUCRAT - topdeck victory: reasonable hardcode (for now)
-    # CELLAR - compare discarded vs potential draw: ST
+        # BANDIT - trash opponent treasure: reasonable hardcode (for now)
+        # BUREAUCRAT - topdeck victory: reasonable hardcode (for now)
+      # CELLAR - compare discarded vs potential draw: ST
     # CHAPEL - ST + LT
-    # HARBINGER - ST (+1?)
-    # LIBRARY - ST (could be hardcodeed)
-    # MILITIA - generic discard choice: ST
-      # MINE1
-      # MINE2
-      # MONEYLENDER
-    # POACHER - absolute ST
+      # HARBINGER - ST (+1?)
+      # LIBRARY - ST (could be hardcodeed)
+      # MILITIA - generic discard choice: ST
+        # MINE1
+        # MINE2
+        # MONEYLENDER
+      # POACHER - absolute ST
     # REMODEL1 - trash, with gain cost in mind: LT
     # REMODEL2 - gain: LT
     # SENTRY1  - trash: LT + ST (of drawing it)
-    # SENTRY2 - discard: ST + 1 probably
-    # SENTRY3 - order: ST, could probably be hardcoded well
-    # THRONEROOM - isBeneficial spectrum? ST or LT, whetever your cloning
-      # VASSAL
+      # SENTRY2 - discard: ST + 1 probably
+      # SENTRY3 - order: ST, could probably be hardcoded well-
+    # THRONEROOM - isBeneficial spectrum? ST or LT, whetever youre cloning
+        # VASSAL
     # WORKSHOP - gain: LT
 #------------
 
