@@ -5,6 +5,8 @@ from game.player import GainType
 from utils.cardUtils import cardCountByName, cardCountByType
 from utils.log import logError
 
+# TODO: if we want gamestates to be continuable mid-choice then we need to break up card steps before & after choices
+
 cardNameDict = {}
 ######################### Essentials ###############################
 

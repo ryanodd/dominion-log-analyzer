@@ -11,35 +11,24 @@ class GainType(Enum):
     DECK = 1
     HAND = 2
 
-class Player:
-    def __init__(self, game, bot, deck = []):
-        self.game = game
-        self.bot = bot
-        self.log = PlayerLog()
+class PlayerState:
+  def __init__(self, deck = []):
+    if deck:
+        self.deck = deck
+    else:
+        for _ in range(7):
+            self.deck.append(getCard('Copper'))
+        for _ in range(3):
+            self.deck.append(getCard('Estate'))
+    self.discard = []
+    self.hand = []
+    self.play = []
+    
+    self.money = 0
+    self.actions = 0
+    self.buys = 0
 
-        if (deck):
-            self.deck = deck
-        else:
-            self.deck = []
-            self.deck.append(getCard('Copper'))
-            self.deck.append(getCard('Copper'))
-            self.deck.append(getCard('Copper'))
-            self.deck.append(getCard('Copper'))
-            self.deck.append(getCard('Copper'))
-            self.deck.append(getCard('Copper'))
-            self.deck.append(getCard('Copper'))
-            self.deck.append(getCard('Estate'))
-            self.deck.append(getCard('Estate'))
-            self.deck.append(getCard('Estate'))
-        
-        self.discard = []
-        self.hand = []
-        self.play = []
-        self.money = 0
-        self.vpTokens = 0
-
-        self.shuffleDeck()
-        self.draw(5)
+    self.vpTokens = 0
 
     def draw(self, num):
         for _ in range(num):

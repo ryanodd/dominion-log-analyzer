@@ -7,17 +7,10 @@ from game.card.card import CardType
 from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
 
-class Game:
-    def __init__(self, bots, cards):
-        self.shop = Shop(cards, len(bots))
-        self.players = []
-        for b in bots:
-            self.players.append(Player(self, b))
-        self.shop = Shop(cards, len(self.players))
-        self.trash = []
-        self.cardStoreStack = [] # stores "buckets" of cards in a stack
-        self.round = 0
-        self.currentPlayerIndex = 0
+class GameController:
+    def __init__(self, gameState, bots):
+        self.gameState = gameState
+        self.bots = bots
 
     def shouldStopGame(self):
         if (True):
@@ -36,26 +29,18 @@ class Game:
                 return True
         return False
 
-    def isGameOver(self):
-        # Assumes that this is only called at the end of every turn
-        if self.shop.listings['Province'].quantity == 0: # TODO: Check for Colony
-            return True
-
-        depletedPileCount = 0
-        for listing in self.shop.listings:
-            if listing.quantity == 0: # TODO: make sure not to check non-pileout piles e.g. Tournament Prizes
-                depletedPileCount += 1
-        return depletedPileCount >= 3
-            
-    # TODO: move player turn logic into this class
     def run(self):
+        game = self.gameState
+        for player in game.players:
+            player.shuffleDeck()
+            player.draw(5)
         while True:
-            self.round += 1
-            logGame("Round %s begins" % self.round)
+            game.round += 1
+            logGame("Round %s begins" % game.round)
             while not self.shouldStopGame:
-                self.playerTurn(self.players[self.currentPlayerIndex])
-                self.currentPlayerIndex = (self.currentPlayerIndex + 1) % len(self.players)
-            logGame("Game Over! Ended after round %s" % self.round)
+                game.playerTurn(game.players[game.currentPlayerIndex])
+                game.currentPlayerIndex = (game.currentPlayerIndex + 1) % len(game.players)
+            logGame("Game Over! Ended after round %s" % game.round)
             return
 
     def playerTurn(self, player):
@@ -63,7 +48,7 @@ class Game:
         player.actions = 1
         player.buys = 1
         # log("%s's turn begins" % self.bot.name)
-        player.log.turnStart(player.hand)
+        # player.log.turnStart(player.hand)
         self.playerActionPhase(player)
         self.playerBuyPhase(player)
         self.playerCleanupPhase(player)
