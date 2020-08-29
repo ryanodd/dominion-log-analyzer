@@ -9,6 +9,7 @@ from game.choice import Choice
 
 # TODO: TRULY figure out what information needed to run the game is not captured by GameState.
 # Approach: Implement GameLog to make games continuable if you have GameState + GameLog?
+# ^ GameLog could be good anyway for analytics
 # Approach: Store everrrryything in the state. Current turn phase, currently played card choice #, etc, SOMETHING UNFORSEEN
 # Snowy Village
 # Merchant (if you implement it properly)
