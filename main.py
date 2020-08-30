@@ -1,7 +1,6 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import math
 
 from utils.stringUtils import cardsFromDeckString
 from sim.gameSim import simGame

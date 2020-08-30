@@ -1,34 +1,23 @@
 import random
 from enum import Enum
 
-from utils.log import PlayerLog, logError
-from game.card.card import CardType
-from game.card.cardFactory import getCard
-from game.choice import Choice
-
 class GainType(Enum):
     DISCARD = 0
     DECK = 1
     HAND = 2
 
 class PlayerState:
-  def __init__(self, deck = []):
-    if deck:
+    def __init__(self, deck):
         self.deck = deck
-    else:
-        for _ in range(7):
-            self.deck.append(getCard('Copper'))
-        for _ in range(3):
-            self.deck.append(getCard('Estate'))
-    self.discard = []
-    self.hand = []
-    self.play = []
-    
-    self.money = 0
-    self.actions = 0
-    self.buys = 0
+        self.discard = []
+        self.hand = []
+        self.play = []
+        
+        self.money = 0
+        self.actions = 0
+        self.buys = 0
 
-    self.vpTokens = 0
+        self.vpTokens = 0
 
     def draw(self, num):
         for _ in range(num):
@@ -66,8 +55,8 @@ class PlayerState:
     def totalDeck(self):
         return self.deck + self.hand + self.discard + self.play
 
-    def hasTypeInHand(self, type):
+    def hasTypeInHand(self, cardType):
         for card in self.hand:
-            if(type in card.types):
+            if(cardType in card.types):
                 return True
         return False

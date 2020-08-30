@@ -1,6 +1,5 @@
-from enum import Enum
 from game.card.card import CardType
-from game.choice import ChoiceID
+from game.choiceID import ChoiceID
 
 verifiers = {}
 

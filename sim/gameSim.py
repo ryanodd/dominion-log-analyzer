@@ -1,4 +1,4 @@
-from game.game import Game
+from game.gameController import GameController
 from bot.bot import Bot
 from game.card.cardFactory import getCard
 

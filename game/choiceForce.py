@@ -1,6 +1,5 @@
-from enum import Enum
 from game.card.card import CardType
-from game.choice import ChoiceID
+from game.choiceID import ChoiceID
 
 # For picks where there is only one valid option.
 
@@ -26,7 +25,7 @@ forces[ChoiceID.BUY] = force_buy
 #------------
 
 def getForce(choiceID):
-  if choiceID in forces:
-    return forces[choiceID]
-  else:
-    return None
+    if choiceID in forces:
+        return forces[choiceID]
+    else:
+        return None

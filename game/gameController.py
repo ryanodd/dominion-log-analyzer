@@ -1,12 +1,9 @@
-import copy
 from enum import Enum
 
 from utils.log import logError, logGame
-from game.shop import Shop
-from game.playerState import PlayerState, GainType
+from game.playerState import GainType
 from game.card.card import CardType
-from game.choice import Choice, ChoiceID, getChoice
-from game.gameState import GameState
+from game.choice import ChoiceID, getChoice
 
 class GameEvent(Enum):
     GAME_START = 0

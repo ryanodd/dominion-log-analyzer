@@ -1,7 +1,7 @@
 from game.card.card import Card, CardType
 from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
-from game.player import GainType
+from game.playerState import GainType
 from utils.cardUtils import cardCountByName, cardCountByType
 from utils.log import logError
 
@@ -62,11 +62,11 @@ def artisan():
         player = game.players[playerIndex]
 
         # Gain card costing up to 5
-        gainChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN1), GameState(game), playerIndex)
+        gainChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN1), game.gameState, playerIndex)
         game.gain(gainChoice, playerIndex)
 
         # Put a card from your hand onto your deck
-        topdeckChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN2), GameState(game), playerIndex)
+        topdeckChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN2), game.gameState, playerIndex)
         player.deck.append(player.hand.pop(topdeckChoice))
     return Card("Artisan", 6, [CardType.ACTION], artisan_steps, None)
 cardNameDict['Artisan'] = artisan
@@ -78,7 +78,7 @@ def bandit():
         for opponent in game.otherPlayers(player):
             topTwoCards = game.newCardStore()
             if cardCountByType(CardType.TREASURE, topTwoCards) > cardCountByName('Copper', topTwoCards):
-                trashChoice = player.bot.choose(getChoice(ChoiceID.BANDIT), GameState(game), playerIndex)
+                trashChoice = player.bot.choose(getChoice(ChoiceID.BANDIT), game.gameState, playerIndex)
                 game.trash.append(topTwoCards.pop(trashChoice))
             opponent.discard += topTwoCards
             game.popCardStore()
@@ -94,7 +94,7 @@ def bureaucrat():
 
         for opponent in game.otherPlayers(player):
             if cardCountByType(opponent.hand, CardType.VICTORY) >= 1:
-                topDeckChoice = player.bot.choose(getChoice(ChoiceID.BUREAUCRAT), GameState(game), playerIndex)
+                topDeckChoice = player.bot.choose(getChoice(ChoiceID.BUREAUCRAT), game.gameState, playerIndex)
                 opponent.deck.append(opponent.hand.pop(topDeckChoice))
             # TODO: else reveal? Patron trigger
     return Card("Bureaucrat", 4, [CardType.ACTION], bureaucrat_steps, None)
@@ -105,7 +105,7 @@ def cellar():
         player = game.players[playerIndex]
         
         player.actions += 1
-        discardChoices = player.bot.choose(getChoice(ChoiceID.CELLAR), GameState(game), playerIndex)
+        discardChoices = player.bot.choose(getChoice(ChoiceID.CELLAR), game.gameState, playerIndex)
         numDiscarded = len(discardChoices)
         # TODO: oh no this backward index loop is unsafe? this is used everywhere
         for i in sorted(discardChoices, reverse=True):
@@ -118,7 +118,7 @@ def chapel():
     def chapel_steps(playerIndex, game):
         player = game.players[playerIndex]
         
-        trashChoices = player.bot.choose(getChoice(ChoiceID.CHAPEL), GameState(game), playerIndex)
+        trashChoices = player.bot.choose(getChoice(ChoiceID.CHAPEL), game.gameState, playerIndex)
         for i in sorted(trashChoices, reverse=True):
             game.trash.append(player.hand.pop(i))
 
@@ -161,7 +161,7 @@ def harbinger():
         player.draw(1)
         player.actions += 1
 
-        topDeckChoice = player.bot.choose(getChoice(ChoiceID.HARBINGER), GameState(game), playerIndex)
+        topDeckChoice = player.bot.choose(getChoice(ChoiceID.HARBINGER), game.gameState, playerIndex)
         player.deck.append(player.discard.pop(topDeckChoice))
 
     return Card("Harbinger", 3, [CardType.ACTION], harbinger_steps, None)
@@ -184,7 +184,7 @@ def library():
         while len(player.hand < 7):
             drawnCard = player.deck.pop()
             if (CardType.ACTION in drawnCard.types):
-                willDiscard = player.bot.choose(getChoice(ChoiceID.LIBRARY), GameState(game), playerIndex)
+                willDiscard = player.bot.choose(getChoice(ChoiceID.LIBRARY), game.gameState, playerIndex)
                 if (willDiscard):
                     cardsToDiscard.append(drawnCard)
                 else:
@@ -216,7 +216,7 @@ def militia():
 
         for opponent in game.otherPlayers(player):
             if (len(opponent.hand) > 3):
-                discardChoices = opponent.bot.choose(getChoice(ChoiceID.MILITIA), GameState(game), opponent.playerIndex)
+                discardChoices = opponent.bot.choose(getChoice(ChoiceID.MILITIA), game.gameState, opponent.playerIndex)
                 for i in sorted(discardChoices, reverse=True):
                     player.discard.append(player.hand.pop(i))
 
@@ -228,10 +228,10 @@ def mine():
         player = game.players[playerIndex]
 
         if cardCountByType(player.hand, CardType.TREASURE) >= 1:
-            trashChoice = player.bot.choose(getChoice(ChoiceID.MINE1), GameState(game), playerIndex)
+            trashChoice = player.bot.choose(getChoice(ChoiceID.MINE1), game.gameState, playerIndex)
             if trashChoice:
                 game.trash.append(player.hand.pop(trashChoice))
-                gainChoice = player.bot.choose(getChoice(ChoiceID.MINE2), GameState(game), playerIndex)
+                gainChoice = player.bot.choose(getChoice(ChoiceID.MINE2), game.gameState, playerIndex)
                 game.gain(gainChoice, playerIndex, GainType.HAND)
 
     return Card("Mine", 5, [CardType.ACTION], mine_steps, None)
@@ -244,7 +244,7 @@ def moneylender():
         player = game.players[playerIndex]
 
         if cardCountByName(player.hand, 'Copper') >= 1:
-            trashChoice = player.bot.choose(getChoice(ChoiceID.MONEYLENDER), GameState(game), playerIndex)
+            trashChoice = player.bot.choose(getChoice(ChoiceID.MONEYLENDER), game.gameState, playerIndex)
             if trashChoice:
                 game.trash.append(player.hand.pop(trashChoice))
                 player.money += 3
@@ -261,7 +261,7 @@ def poacher():
         player.money += 1
 
         if game.shop.numEmptySupplyPiles >= 1:
-            discardChoices = player.bot.choose(getChoice(ChoiceID.POACHER), GameState(game), playerIndex)
+            discardChoices = player.bot.choose(getChoice(ChoiceID.POACHER), game.gameState, playerIndex)
             for i in sorted(discardChoices, reverse=True):
                 player.discard.append(player.hand.pop(i))
 
@@ -273,9 +273,9 @@ def remodel():
         player = game.players[playerIndex]
 
         if (len(player.hand) > 0):
-            trashChoice = player.bot.choose(getChoice(ChoiceID.REMODEL1), GameState(game), playerIndex)
+            trashChoice = player.bot.choose(getChoice(ChoiceID.REMODEL1), game.gameState, playerIndex)
             game.trash.append(player.hand.pop(trashChoice))
-            gainChoice = player.bot.choose(getChoice(ChoiceID.REMODEL2), GameState(game), playerIndex)
+            gainChoice = player.bot.choose(getChoice(ChoiceID.REMODEL2), game.gameState, playerIndex)
             if gainChoice:
                 game.gain(gainChoice, playerIndex)
 
@@ -293,17 +293,17 @@ def sentry():
         topTwoCards = [player.deckPop(), player.deckPop()]
 
         if (len(topTwoCards) > 0):
-            trashChoices = player.bot.choose(getChoice(ChoiceID.SENTRY1), GameState(game), playerIndex)
+            trashChoices = player.bot.choose(getChoice(ChoiceID.SENTRY1), game.gameState, playerIndex)
             for i in sorted(trashChoices, reverse=True):
                 game.trash.append(topTwoCards.pop(i))
         if (len(topTwoCards) > 0):
-            discardChoices = player.bot.choose(getChoice(ChoiceID.SENTRY2), GameState(game), playerIndex)
+            discardChoices = player.bot.choose(getChoice(ChoiceID.SENTRY2), game.gameState, playerIndex)
             for i in sorted(discardChoices, reverse=True):
                 player.discard.append(topTwoCards.pop(i))
         if (len(topTwoCards) > 0):
             orderChoice = [0]
             if (len(topTwoCards) > 1):
-                orderChoice = player.bot.choose(getChoice(ChoiceID.SENTRY3), GameState(game), playerIndex)
+                orderChoice = player.bot.choose(getChoice(ChoiceID.SENTRY3), game.gameState, playerIndex)
             # Thinkin bout having SENTRY3 (order choice) be 1 card choice at a time?
             for o in orderChoice:
                 player.deck.append(topTwoCards[o])
@@ -324,7 +324,7 @@ def throneRoom():
         player = game.players[playerIndex]
 
         if cardCountByType(player.hand, CardType.ACTION) >= 1:
-            playChoice = player.bot.choose(getChoice(ChoiceID.THRONEROOM), GameState(game), playerIndex)
+            playChoice = player.bot.choose(getChoice(ChoiceID.THRONEROOM), game.gameState, playerIndex)
             if playChoice:
                 player.play.append(playCard)
                 playCard.steps()
@@ -341,7 +341,7 @@ def vassal():
         discardCard = player.deckPop()
         if discardCard:
             player.discard.append(discardCard)
-            willPlay = player.bot.choose(getChoice(ChoiceID.VASSAL), GameState(game), playerIndex)
+            willPlay = player.bot.choose(getChoice(ChoiceID.VASSAL), game.gameState, playerIndex)
             if willPlay:
                 player.play.append(player.discard.pop())
                 discardCard.steps()
@@ -371,7 +371,7 @@ def workshop():
     def workshop_steps(playerIndex, game):
         player = game.players[playerIndex]
 
-        gainChoice = player.bot.choose(getChoice(ChoiceID.WORKSHOP), GameState(game), playerIndex)
+        gainChoice = player.bot.choose(getChoice(ChoiceID.WORKSHOP), game.gameState, playerIndex)
         game.gain(gainChoice, playerIndex)
 
     return Card("Workshop", 3, [CardType.ACTION, CardType.ATTACK], workshop_steps, None)

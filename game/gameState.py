@@ -1,11 +1,6 @@
-import copy
 from enum import Enum
 
-from utils.log import logError, logGame
-from game.shop import Shop
-from game.playerState import PlayerState
-from game.card.card import CardType
-from game.choice import Choice
+from utils.log import logError
 
 # TODO: TRULY figure out what information needed to run the game is not captured by GameState.
 # Approach: Implement GameLog to make games continuable if you have GameState + GameLog?

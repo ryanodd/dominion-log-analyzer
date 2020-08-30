@@ -4,8 +4,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 from game.card.card import CardType
-from game.game import Game
-from game.player import Player
+from game.gameController import GameController
+from game.playerState import PlayerState
 from bot.bot import Bot
 from bot.cardInfo import getCardInfo
 from utils.welfordAlg import welfordUpdate, welfordFinalize
