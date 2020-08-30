@@ -1,5 +1,6 @@
 from enum import Enum
 
+# TODO: These need homes
 class AlgorithmComplexity(Enum):
   ONE = 1
   LOGN = 2
@@ -8,7 +9,7 @@ class AlgorithmComplexity(Enum):
   NSQUARED = 5
 
 class botValue:
-  def __init__(self, value, evaluator=None , importance=100, complexity=AlgorithmComplexity.ONE):
+  def __init__(self, value, evaluator=None, importance=100, complexity=AlgorithmComplexity.ONE):
     self.value = value
 
     self.evaluator = evaluator # function to evaluate with

@@ -3,20 +3,20 @@ from game.choiceID import ChoiceID
 
 # For picks where there is only one valid option.
 
-forces = {}
+forcers = {}
 
 
-def force_action(game, response):
+def forcer_action(game, response):
     return CardType.ACTION in game.currentPlayer.hand[response].types
-forces[ChoiceID.ACTION] = force_action
+forcers[ChoiceID.ACTION] = forcer_action
 
-def force_treasure(game, response):
+def forcer_treasure(game, response):
     return CardType.TREASURE in game.currentPlayer.hand[response].types
-forces[ChoiceID.TREASURE] = force_treasure
+forcers[ChoiceID.TREASURE] = forcer_treasure
 
-def force_buy(game, response):
+def forcer_buy(game, response):
     return game.currentPlayer.action in game.currentPlayer.hand[response].types
-forces[ChoiceID.BUY] = force_buy
+forcers[ChoiceID.BUY] = forcer_buy
 
 #------------
 
@@ -24,7 +24,7 @@ forces[ChoiceID.BUY] = force_buy
 
 #------------
 
-def getForce(choiceID):
+def getChoiceForcer(choiceID):
     if choiceID in forces:
         return forces[choiceID]
     else:
