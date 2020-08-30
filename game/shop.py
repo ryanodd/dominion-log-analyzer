@@ -1,6 +1,9 @@
 from game.card.cardFactory import getCard
 from utils.log import logError
 
+# TODO: piles of non-duplicate cards need to be supported
+# split piles, Knights, Ruins
+
 class Listing:
     def __init__(self, card, quantity):
         self.card = card

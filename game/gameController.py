@@ -1,11 +1,26 @@
 import copy
+from enum import Enum
 
 from utils.log import logError, logGame
 from game.shop import Shop
-from game.player import Player, GainType
+from game.playerState import PlayerState, GainType
 from game.card.card import CardType
 from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
+
+class GameEvent(Enum):
+    GAME_START = 0
+    GAME_END = 1
+    TURN_START = 2
+    TURN_END = 3
+    CARD_PLAY = 4
+    CARD_LEAVE_PLAY = 5 # ?? should this be a thing ??
+    CARD_BUY = 5
+    CARD_GAIN = 6
+    CARD_DISCARD = 7
+    CARD_REVEAL = 8
+    # What to do about attacks? Skipping the steps is tough.
+    # Trader introduces a similar challenge ^ things need to be cancellable on reaction
 
 class GameController:
     def __init__(self, gameState, bots):
@@ -14,13 +29,13 @@ class GameController:
 
     def shouldStopGame(self):
         if (True):
-            return self.isGameOver()
+            return self.gameState.isGameOver()
         else:
             return self.hasSomeoneGainedFourProvinces()
 
     def hasSomeoneGainedFourProvinces(self):
-        for i in range(len(self.players)):
-            deck = self.players[i].totalDeck()
+        for i in range(len(self.gameState.players)):
+            deck = self.gameState.players[i].totalDeck()
             provinces = 0
             for j in range(len(deck)):
                 if (deck[j].name == "Province"):
@@ -38,26 +53,30 @@ class GameController:
             game.round += 1
             logGame("Round %s begins" % game.round)
             while not self.shouldStopGame:
-                game.playerTurn(game.players[game.currentPlayerIndex])
+                game.currentPlayerTurn(game.players[game.currentPlayerIndex])
                 game.currentPlayerIndex = (game.currentPlayerIndex + 1) % len(game.players)
             logGame("Game Over! Ended after round %s" % game.round)
             return
 
-    def playerTurn(self, player):
+    def currentPlayerTurn(self):
+        game = self.gameState
+        player = game.players[game.currentPlayerIndex]
+        
         player.money = 0
         player.actions = 1
         player.buys = 1
         # log("%s's turn begins" % self.bot.name)
         # player.log.turnStart(player.hand)
-        self.playerActionPhase(player)
-        self.playerBuyPhase(player)
-        self.playerCleanupPhase(player)
+        self.currentPlayerActionPhase()
+        self.currentPlayerBuyPhase()
+        self.currentPlayerCleanupPhase()
 
 
-    def playerActionPhase(self, player):
-        # Actions
+    def currentPlayerActionPhase(self):
+        game = self.gameState
+        player = game.players[game.currentPlayerIndex]
         while player.actions and player.hasTypeInHand(CardType.ACTION):
-            actionChoice = player.bot.choose(getChoice(ChoiceID.ACTION), GameState(self), self.currentPlayerIndex)
+            actionChoice = self.bots[game.currentPlayerIndex].choose(getChoice(ChoiceID.ACTION), game, game.currentPlayerIndex)
             if (actionChoice == -1):
                 break
             elif (actionChoice >= 0 and actionChoice < len(player.hand)
@@ -67,14 +86,16 @@ class GameController:
                 player.play.append(actionCard)
                 player.actions -= 1
                 player.log.playAction(actionCard)
-                actionCard.steps(player, self)
+                actionCard.steps(player, game)
             else:
                 logError("Invalid action choice: %s" % actionChoice)
 
-    def playerBuyPhase(self, player): 
+    def currentPlayerBuyPhase(self):
+        game = self.gameState
+        player = game.players[game.currentPlayerIndex]
         # Playing Treasures
         while player.hasTypeInHand(CardType.TREASURE):
-            treasureChoice = player.bot.choose(getChoice(ChoiceID.TREASURE), GameState(self), self.currentPlayerIndex)
+            treasureChoice = self.bots[game.currentPlayerIndex].choose(getChoice(ChoiceID.TREASURE), game, game.currentPlayerIndex)#!!!!!!!!!!
             if (treasureChoice == -1):
                 break
             elif (treasureChoice >= 0 and treasureChoice < len(player.hand)
@@ -83,20 +104,20 @@ class GameController:
                 treasureCard = player.hand.pop(treasureChoice)
                 player.play.append(treasureCard)
                 player.log.playTreasure(treasureCard)
-                treasureCard.steps(player, self)
+                treasureCard.steps(player, game)
             else:
                 logError("Invalid treasure choice: %s" % treasureChoice)
         # Buys
         player.log.buyStart(player.money, player.buys)
         while player.buys:
-            buyChoice = player.bot.choose(getChoice(ChoiceID.BUY), GameState(self), self.currentPlayerIndex)
+            buyChoice = self.bots[game.currentPlayerIndex].choose(getChoice(ChoiceID.BUY), game, game.currentPlayerIndex)
             if (buyChoice == -1):
                 break
-            elif (buyChoice >= 0 and buyChoice < len(self.shop.listings)
-            and player.money >= self.shop.listings[buyChoice].card.cost
-            and self.shop.listings[buyChoice].quantity > 0):
+            elif (buyChoice >= 0 and buyChoice < len(game.shop.listings)
+            and player.money >= game.shop.listings[buyChoice].card.cost
+            and game.shop.listings[buyChoice].quantity > 0):
                 # perform buy
-                buyCard = self.gain(buyChoice, self.currentPlayer)
+                buyCard = game.player.gain(buyChoice, game.currentPlayer)
                 player.money -= buyCard.cost
                 player.discard.append(buyCard)
                 player.buys -= 1
@@ -104,12 +125,13 @@ class GameController:
             else:
                 logError("Invalid buy choice: %s" % buyChoice)
 
-    def playerCleanupPhase(self, player):
-        player.log.turnEnd(player.hand)
+    def currentPlayerCleanupPhase(self):
+        game = self.gameState
+        player = game.players[game.currentPlayerIndex]
+        while player.hand: # This order is correct: see Alchemist
+            player.discard.append(player.hand.pop())
         while player.play:
             player.discard.append(player.play.pop())
-        while player.hand:
-            player.discard.append(player.hand.pop())
         player.draw(5)
 
         # log("%s's turn ends" % self.bot.name)
@@ -118,26 +140,7 @@ class GameController:
         player.actions = 0
         player.buys = 0
 
-    def currentPlayer(self):
-            return self.players[self.currentPlayerIndex]
-
-    # TODO: move into gameUtils
-    def otherPlayers(self, originalPlayer):
-        returnPlayers = []
-        for player in self.players:
-            if (player != originalPlayer):
-                returnPlayers.append(player)
-        if (len(returnPlayers) == len(self.players)):
-            logError("otherPlayers: did not find match...")
-        return returnPlayers
-
-    #Returns a reference to the gained card for convenience
+    # Returns a reference to the gained card for convenience
     def gain(self, cardName, playerIndex, gainType=GainType.DISCARD):
         # log?
-        return self.players[playerIndex].gain(self.shop.pop(cardName), gainType)
-
-    def newCardStore(self):
-        return self.cardStoreStack.append([])[-1]
-
-    def popCardStore(self):
-        return self.cardStoreStack.pop()
+        return self.gameState.players[playerIndex].gain(self.gameState.shop.pop(cardName), gainType)

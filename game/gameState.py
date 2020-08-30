@@ -11,14 +11,31 @@ from game.choice import Choice
 # Approach: Implement GameLog to make games continuable if you have GameState + GameLog?
 # ^ GameLog could be good anyway for analytics
 # Approach: Store everrrryything in the state. Current turn phase, currently played card choice #, etc, SOMETHING UNFORSEEN
+
+# (UP TO DARK AGES) things that can't be implemented:
 # Snowy Village
 # Merchant (if you implement it properly)
-#
+# Duration
+# Conspirator (if you implement it properly)
+# Bridge!!!!! Not just the shop
+# Haven needs changes to CardStoreStack? Or should it be in play. Where does that card go? Where is its info (to hand next turn) stored?
+# Moat / Lighthouse obvi
+# Outpost
+# "When you discard this from play" Alchemist, Herbalist
+# Posession
+# Grand Market
+# Fool's Gold
+# "When you buy a card" Goons/Merchant Guild/Lackeys/Hoard/Duchess
+# "when you buy this card" Lackeys/Silk Merchant/Cache/IGG
+# Young Witch (bane card)
+# Inn "when you gain" has to happen AFTER the gain
+# Hermit is a big challenge
 
 class TurnPhase(Enum):
     ACTION: 0
     BUY: 1
-    BOUGHT: 2 # After first buy (can't play treasure)
+    BOUGHT: 2 # After first buy (can't play treasure). Could replace with 'hasBoughtThisTurn' flag
+    CLEANUP: 3
 
 class GameState:
     def __init__(self, shop, players):
