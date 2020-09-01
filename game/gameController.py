@@ -8,16 +8,20 @@ from game.choice import ChoiceID, getChoice
 class GameEvent(Enum):
     GAME_START = 0
     GAME_END = 1
+
     TURN_START = 2
     TURN_END = 3
+
     CARD_PLAY = 4
     CARD_LEAVE_PLAY = 5 # ?? should this be a thing ??
-    CARD_BUY = 5
-    CARD_GAIN = 6
-    CARD_DISCARD = 7
-    CARD_REVEAL = 8
+    CARD_BUY = 6
+    CARD_GAIN = 7
+    CARD_DISCARD = 8
+    CARD_REVEAL = 9
+
+    PLAYER_ATTACK = 10
     # What to do about attacks? Skipping the steps is tough.
-    # Trader introduces a similar challenge ^ things need to be cancellable on reaction
+    # Trader introduces a similar challenge ^ things (so far, attacks & gains) need to be cancellable on reaction
 
 class GameController:
     def __init__(self, gameState, bots):
@@ -58,7 +62,7 @@ class GameController:
     def currentPlayerTurn(self):
         game = self.gameState
         player = game.players[game.currentPlayerIndex]
-        
+
         player.money = 0
         player.actions = 1
         player.buys = 1

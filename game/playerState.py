@@ -7,7 +7,8 @@ class GainType(Enum):
     HAND = 2
 
 class PlayerState:
-    def __init__(self, deck):
+    def __init__(self, name, deck):
+        self.name = name
         self.deck = deck
         self.discard = []
         self.hand = []

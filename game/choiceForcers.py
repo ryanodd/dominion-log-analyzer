@@ -25,7 +25,7 @@ forcers[ChoiceID.BUY] = forcer_buy
 #------------
 
 def getChoiceForcer(choiceID):
-    if choiceID in forces:
-        return forces[choiceID]
+    if choiceID in forcers:
+        return forcers[choiceID]
     else:
         return None

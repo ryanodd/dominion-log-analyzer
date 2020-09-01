@@ -1,4 +1,6 @@
 from game.gameController import GameController
+from game.gameState import GameState
+from game.playerState import PlayerState
 from bot.bot import Bot
 from game.card.cardFactory import getCard
 
@@ -6,12 +8,16 @@ class GameSimInfo:
     def __init__(self, roundDist):
         self.roundDist = roundDist
 
-def simGame(bots, shopCards, numSamples):
+def simGame(bots, deckCards, shopCards, numSamples):
     samples = []
 
     # Run games
     for _ in range(numSamples):
-        samples.append(Game(bots, shopCards))
+        players = []
+        for _ in range(len(bots)):
+            players.append(PlayerState('bob', deckCards))
+        game = GameState(players, shopCards)
+        samples.append(GameController(game, bots))
         samples[-1].run()
 
     # Collect Stats

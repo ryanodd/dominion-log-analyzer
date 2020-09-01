@@ -24,7 +24,7 @@ from utils.log import logError
 # "when you buy this card" Lackeys/Silk Merchant/Cache/IGG
 # Young Witch (bane card)
 # Inn "when you gain" has to happen AFTER the gain
-# Hermit is a big challenge
+# Hermit is a big challenge "If you bought a card this turn"
 
 class TurnPhase(Enum):
     ACTION: 0
@@ -42,6 +42,14 @@ class GameState:
         self.currentPlayerIndex = 0
         self.currentTurnPhase = TurnPhase.ACTION # is this right?
         # self.log = ?
+
+    def incrementTurn(self):
+        self.currentTurnPhase = TurnPhase.ACTION
+        if self.currentPlayerIndex == len(self.players) - 1:
+            self.round += 1
+            self.currentPlayerIndex = 0
+        else:
+            self.currentPlayerIndex = 0
 
     def isGameOverAtEndOfTurn(self):
         if self.shop.listings['Province'].quantity == 0: # TODO: Check for Colony

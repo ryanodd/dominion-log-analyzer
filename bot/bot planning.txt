@@ -1,28 +1,29 @@
-Terminal crashes: has to account for drawing, villages.
-- chances of a specific card being the turn's terminal? (e.g. even if a smithy draws another action, it was terminal. no actions left)
-- chances of a specific card NOT being possible to play (due to lacking actions)
-- in this algorithm, cards with [1 action, 1 card] should be equivalent to not being in the deck
-- cards with +2 actions (or more) should lower the chances of a terminal crash somehow.
+DECK DRAWING CONSISTENCY (AverageTurnPayload):
+- just use monte carlo lol. Need to ensure that action-choosing is O(1)
 
-Assess the value of things that don't immediately improve the deck (e.g. moneylender)
+ASSESSING LONG-TERM DECISIONS (trashing, gains):
+- far lookahead?
+- a far lookahead will usually involve more long-term decisions to make (exponential complexity boooooo)
 
-assessing the value of a gain (workshop is not as good as gaining 4 money)
+Remember to consider the "How many times will I play this card before the game ends" paradigm
 
-For things that depend on deck size, calculate expected deck sizes throughout the game based on buys, gains
-- notably assessing how many times you think a card will played in the future (for assessing moneylender value)
+GAME LOG:
+- A log would prooooobably be a good idea
+- Outpost and Hermit rely on information from the past
+  - miiiiight be able to get away with preparing this information in the gameState
 
-attacks
+REACTIONS (the Merchant problem):
+- When you play a Merchant, there is suddenly a listener in the game (the effect is NOT tied to the card)
+- For example if you Throne Room a Merchant, there are 2 listeners and 1 Merchant
+- Therefore the gameState needs to hold information about these listeners.
+- Listeners can be functions which are called when certain events occur
+- These listeners can be added to the "listener queue"
+- whose order is controlled by the player who controls the effect? Dominion Online uses this, what are the rules
 
-alternate vp approaches
+ATTACKS:
+- Plan: every attack has its own separate function that is referenced in the card steps.
+  - the attacks go through an attack interface (always every other player?)
+  - this lets others react to the attack and potentially cancel it
+    - this "cancellable" event should also apply to gains because of Trader
 
-Choices:
-- Card/Cards/Nothing from hand/deck/discard
-- Card Action Choice
-- Gain up to X
-- Gain costing X (to opponent)
-- Card/Cards/Nothing in temp storage of some sort (e.g. look at the top 2 cards of your deck)
-- Y/N Deny Attack
-- Name a Card (Wishing Well)
-- Position in deck to put new card (n+1 choices)
-- "May"s (always allow response of -1? Are all responses by index? What about wishing well)
-- Choosing order of cards (1 by 1 answer indexes without replacement?)
+VP / GAME END:
