@@ -113,4 +113,4 @@ nameToCard['Witch'] = getCard('Witch')
 namePluralToCard['Witches'] = getCard('Witch')
 
 nameToCard['Artisan'] = getCard('Artisan')
-namePluralToCard['Artisan'] = getCard('Artisan')
+namePluralToCard['Artisans'] = getCard('Artisan')

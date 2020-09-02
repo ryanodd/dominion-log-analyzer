@@ -1,6 +1,6 @@
 from enum import Enum
-from game.choiceVerifier import getVerifier
-from game.choiceForce import getForce
+from game.choiceVerifiers import getChoiceVerifier
+from game.choiceForcers import getChoiceForcer
 from game.choiceID import ChoiceID
 
 class ResponseType(Enum):
@@ -14,8 +14,8 @@ class Choice:
     def __init__(self, choiceID, responseType):
         self.id = choiceID
         self.responseType = responseType
-        self.verifier = getVerifier(choiceID)
-        self.force = getForce(choiceID)
+        self.verifier = getChoiceVerifier(choiceID)
+        self.force = getChoiceForcer(choiceID)
 
 choices = {}
 

@@ -21,7 +21,7 @@ verifiers[ChoiceID.BUY] = verify_buy
 
 #------------
 
-def geChoicetVerifier(choiceID):
+def getChoiceVerifier(choiceID):
   if choiceID in verifiers:
     return verifiers[choiceID]
   else:
