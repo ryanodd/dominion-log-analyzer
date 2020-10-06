@@ -20,6 +20,7 @@ s_shuffles = 'shuffles'
 s_plays = 'plays'
 s_buys = 'buys'
 s_gains = 'gains'
+s_trashes = 'trashes'
 
 s_card = 'card'
 s_cards = 'cards'

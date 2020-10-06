@@ -2,17 +2,12 @@ from utils.log import logError
 from game.card.card import CardType
 from bot.cardInfo import getCardInfo
 
-# O(n*m) !!!!
-# Returns a new deck list, does not modify input deck
-def trimFromDeck(deck, inputNames):
-    names = inputNames.copy()
-    returnDeck = []
-    for card in deck:
-        if (card.name not in names):
-            returnDeck.append(card)
-        else:
-            names.remove(card.name)
-    return returnDeck
+def removeCardsFromListByNames(cardList, nameList):
+    for name in nameList:
+        for i in range(len(cardList)):
+            if cardList[i].name == name:
+                cardList.pop(i)
+                break
 
 
 def cardCountByName(cards, name):

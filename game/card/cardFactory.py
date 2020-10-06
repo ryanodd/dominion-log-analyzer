@@ -8,6 +8,11 @@ from utils.log import logError
 # TODO: if we want gamestates to be continuable mid-choice then we need to break up card steps before & after choices
 
 cardNameDict = {}
+
+def getCard(name):
+    if (name not in cardNameDict):
+        logError("Name %s not found in cardNameDict")
+    return cardNameDict[name]()
 ######################### Essentials ###############################
 
 def estate():
@@ -205,8 +210,16 @@ def market():
     return Card("Market", 5, [CardType.ACTION], market_steps, None)
 cardNameDict['Market'] = market
 
-# This one is trouble. Needs event triggers
-# def merchant():
+# TODO: For now, just +1 card&action. This one is trouble. Needs event triggers
+def merchant():
+    def merchant_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
+        player.draw(1)
+        player.actions += 1
+
+    return Card("Merchant", 3, [CardType.ACTION], merchant_steps, None)
+cardNameDict['Merchant'] = merchant
 
 def militia():
     def militia_steps(playerIndex, game):
@@ -237,7 +250,15 @@ def mine():
     return Card("Mine", 5, [CardType.ACTION], mine_steps, None)
 cardNameDict['Mine'] = mine
 
-# def moat():
+# TODO: for now, it's just +2 cards
+def moat():
+    def moat_steps(playerIndex, game):
+        player = game.players[playerIndex]
+
+        player.draw(2)
+
+    return Card("Moat", 2, [CardType.ACTION, CardType.REACTION], moat_steps, None)
+cardNameDict['Moat'] = moat
 
 def moneylender():
     def moneylender_steps(playerIndex, game):
@@ -326,9 +347,9 @@ def throneRoom():
         if cardCountByType(player.hand, CardType.ACTION) >= 1:
             playChoice = player.bot.choose(getChoice(ChoiceID.THRONEROOM), game.gameState, playerIndex)
             if playChoice:
-                player.play.append(playCard)
-                playCard.steps()
-                playCard.steps()
+                player.play.append(player.hand.pop(playChoice))
+                player.play[-1].steps() # TODO: unsafe, need instance reference eventually
+                player.play[-1].steps() # TODO: unsafe, need instance reference eventually
     return Card("Throne Room", 4, [CardType.ACTION], throneRoom_steps, None)
 cardNameDict['Throne Room'] = throneRoom
 
@@ -376,8 +397,3 @@ def workshop():
 
     return Card("Workshop", 3, [CardType.ACTION, CardType.ATTACK], workshop_steps, None)
 cardNameDict['Workshop'] = workshop
-
-def getCard(name):
-    if (name not in cardNameDict):
-        logError("Name %s not found in cardNameDict")
-    return cardNameDict[name]()

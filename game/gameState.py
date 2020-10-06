@@ -27,10 +27,10 @@ from utils.log import logError
 # Hermit is a big challenge "If you bought a card this turn"
 
 class TurnPhase(Enum):
-    ACTION: 0
-    BUY: 1
-    BOUGHT: 2 # After first buy (can't play treasure). Could replace with 'hasBoughtThisTurn' flag
-    CLEANUP: 3
+    ACTION = 0
+    BUY = 1
+    BOUGHT = 2 # After first buy (can't play treasure). Could replace with 'hasBoughtThisTurn' flag
+    CLEANUP = 3
 
 class GameState:
     def __init__(self, shop, players):
@@ -38,14 +38,16 @@ class GameState:
         self.players = players
         self.trash = []
         self.cardStoreStack = [] # stores "buckets" of cards in a stack
-        self.round = 0
+        self.round = 0 # actually starts at 1
         self.currentPlayerIndex = 0
         self.currentTurnPhase = TurnPhase.ACTION # is this right?
         # self.log = ?
 
     def incrementTurn(self):
         self.currentTurnPhase = TurnPhase.ACTION
-        if self.currentPlayerIndex == len(self.players) - 1:
+        if self.round == 0:
+            self.round = 1
+        elif self.currentPlayerIndex == len(self.players) - 1:
             self.round += 1
             self.currentPlayerIndex = 0
         else:

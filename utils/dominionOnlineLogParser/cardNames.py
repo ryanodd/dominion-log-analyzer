@@ -1,11 +1,11 @@
 from game.card.cardFactory import getCard
 
 
-
+# Unlike CardFactory's getCard, this works on pluralized versions of card names
 def getCardByName(testString):
-  if nameToCard[testString]:
+  if testString in nameToCard:
     return nameToCard[testString]
-  elif namePluralToCard[testString]:
+  elif testString in namePluralToCard:
     return namePluralToCard[testString]
   return None
 
