@@ -71,7 +71,11 @@ def turnTests():
 
 
 def logTest():
-    gameState = logToGameState(logStr)
+    #gameState = logToGameState(logStr)
+    f = open("utils/dominionOnlineLogParser/sample.txt", "r")
+    textLogStr = f.read()
+    f.close()
+    gameState = logToGameState(textLogStr)
     for player in gameState.players:
         print(player.name + ": ")
         print("----------")

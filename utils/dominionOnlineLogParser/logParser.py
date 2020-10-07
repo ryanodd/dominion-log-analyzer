@@ -38,6 +38,12 @@ def cardsFromLogStrings(line, firstWordIndex, shouldReturnNames=False):
       cardQuantity = 1
     i += 1 # processed qty
     nameString = words[i]
+    # loop, adding words until we know we can't
+    while(True):
+      if i == (len(words)-1) or (getCardByName(nameString) is not None and getCardByName(nameString + ' ' + words[i+1]) is None):
+        break
+      nameString = nameString + ' ' + words[i+1]
+      i += 1
     if nameString[-1] == '.' or nameString[-1] == ',':
       nameString = nameString[0:-1]
     card = getCardByName(nameString)
