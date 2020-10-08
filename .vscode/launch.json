@@ -9,6 +9,12 @@
             "type": "python",
             "request": "launch",
             "module": "main"
-        }
+        },
+        {
+            "name": "Server",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/server/server.py"
+        },
     ]
 }
