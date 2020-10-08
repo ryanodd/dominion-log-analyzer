@@ -54,9 +54,14 @@ def cardsFromLogStrings(line, firstWordIndex, shouldReturnNames=False):
     i += 1
   return listToReturn
 
+# Global Data, careful
 playersByInitial = {}
 
 def logToGameState(logString):
+  # Reset Global Data
+  global playersByInitial
+  playersByInitial = {}  
+
   NUM_PLAYERS = 2 # TODO: could probably find this from first few lines
   players = []
   for _ in range(NUM_PLAYERS):
