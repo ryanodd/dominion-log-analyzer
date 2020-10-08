@@ -10,18 +10,18 @@ def parseThatLogBoi():
     response.headers['Content-Type'] = "application/json"
     
     payload = json.load(request.body)
-    print(payload['logStr'])
     gameState = logToGameState(payload['logStr'])
-    
-    if gameState.players != 2:
+    print(gameState)
+    if len(gameState.players) != 2:
         response.status = 500
         return {"error": "you messed up! this log is not a 2p game"}
-    deck1List = gameState.players[0].deck
-    deck2List = gameState.players[1].deck
+    deck1List = []
+    for card in gameState.players[0].deck:
+        deck1List.append(card.name)
+    deck2List = []
+    for card in gameState.players[1].deck:
+        deck2List.append(card.name)
 
-    print('got here')
-
-    returnPayload = {"deck1List": deck1List, "deck2List": deck2List}
-    return {"payload": returnPayload}#template('<b>Hello dooooood</b>!')
+    return {"deck1List": deck1List, "deck2List": deck2List}
     
 run(host='localhost', port=3993, debug=True)
