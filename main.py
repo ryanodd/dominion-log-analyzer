@@ -3,6 +3,7 @@ import json
 
 from game.gameState import GameState
 from utils.dominionOnlineLogParser.logParser import logToGameState
+from utils.cardSorter import sortCardsByTypeThenCost
 
 @route('/logParser', method=['POST'])
 def parseThatLogBoi():
@@ -28,11 +29,13 @@ def parseThatLogBoi():
         deckInfo = {}
         deckInfo['playerName'] = player.name
         deckInfo['playerInitial'] = player.name[0]
+        
         deckInfo['cardNameList'] = []
+        player.deck = sortCardsByTypeThenCost(player.deck)
         for card in player.deck:
             deckInfo['cardNameList'].append(card.name)
-        deckInfo['numCards'] = len(player.deck)
         
+        deckInfo['numCards'] = len(player.deck)
         deckInfo['totalMoney'] = 0
         deckInfo['totalStops'] = 0
         deckInfo['totalDraw'] = 0
