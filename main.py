@@ -39,9 +39,10 @@ def parseThatLogBoi():
         deckInfo['totalMoney'] = 0
         deckInfo['totalStops'] = 0
         deckInfo['totalDraw'] = 0
+        deckInfo['totalExtraDraw'] = 0
         deckInfo['totalActions'] = 0
         deckInfo['totalTerminals'] = 0
-        deckInfo['totalVillages'] = 0
+        deckInfo['totalExtraActions'] = 0
         deckInfo['totalBuys'] = 0
 
         deckInfos.append(deckInfo)
