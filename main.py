@@ -6,20 +6,45 @@ from utils.dominionOnlineLogParser.logParser import logToGameState
 
 @route('/logParser', method=['POST'])
 def parseThatLogBoi():
-    response.headers['Bing-Bong-Test-Header'] = "aboobidydoo"
-    response.headers['Content-Type'] = "application/json"
-    
     payload = json.load(request.body)
+
     gameState = logToGameState(payload['logStr'])
-    if len(gameState.players) != 2:
+    if False:
         response.status = 500
-        return {"error": "you messed up! this log is not a 2p game"}
-    deck1List = []
-    for card in gameState.players[0].deck:
-        deck1List.append(card.name)
-    deck2List = []
-    for card in gameState.players[1].deck:
-        deck2List.append(card.name)
-    return {"deck1List": deck1List, "deck2List": deck2List}
+
+    #   DeckInfo:
+    #   playerName: string
+    #   playerInitial: string
+    #   cardNameList: string[]
+    #   numCards: number
+    #   totalMoney: number
+    #   totalStops: number
+    #   totalDraw: number
+    #   totalTerminals: number
+    #   totalVillages: number
+
+    deckInfos = []
+    for player in gameState.players:
+        deckInfo = {}
+        deckInfo['playerName'] = player.name
+        deckInfo['playerInitial'] = player.name[0]
+        deckInfo['cardNameList'] = []
+        for card in player.deck:
+            deckInfo['cardNameList'].append(card.name)
+        deckInfo['numCards'] = len(player.deck)
+        
+        deckInfo['totalMoney'] = 0
+        deckInfo['totalStops'] = 0
+        deckInfo['totalDraw'] = 0
+        deckInfo['totalActions'] = 0
+        deckInfo['totalTerminals'] = 0
+        deckInfo['totalVillages'] = 0
+        deckInfo['totalBuys'] = 0
+
+        deckInfos.append(deckInfo)
+
+    response.headers['Content-Type'] = "application/json"
+    return {'deckInfos': deckInfos}
     
 run(host='localhost', port=3993, debug=True)
+
