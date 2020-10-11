@@ -66,7 +66,7 @@ def parseThatLogBoi():
     response.headers['Content-Type'] = "application/json"
     return {'deckInfos': deckInfos}
 
-if 'IS_PROD' in os.environ.keys():
-    run(host='0.0.0.0', port=80)
+if 'PORT' in os.environ.keys():
+    run(host='0.0.0.0', port=os.environ['PORT'])
 else:
     run(host='localhost', port=3993)
