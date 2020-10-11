@@ -5,7 +5,22 @@ from game.gameState import GameState
 from utils.dominionOnlineLogParser.logParser import logToGameState
 from utils.cardSorter import sortCardsByTypeThenCost
 
+# CORS decorator
+def enable_cors(fn):
+    def _enable_cors(*args, **kwargs):
+        # set CORS headers
+        response.headers['Access-Control-Allow-Origin'] = 'https://councilroom.herokuapp.com'
+        response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, OPTIONS'
+        response.headers['Access-Control-Allow-Headers'] = 'Origin, Accept, Content-Type, X-Requested-With, X-CSRF-Token'
+
+        if request.method != 'OPTIONS':
+            # actual request; reply with the actual response
+            return fn(*args, **kwargs)
+
+    return _enable_cors
+
 @route('/logParser', method=['POST'])
+@enable_cors
 def parseThatLogBoi():
     payload = json.load(request.body)
 
