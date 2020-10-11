@@ -20,7 +20,7 @@ def enable_cors(fn):
 
     return _enable_cors
 
-@route('/logParser', method=['POST'])
+@route('/logParser', method=['POST', 'OPTIONS'])
 @enable_cors
 def parseThatLogBoi():
     payload = json.load(request.body)
