@@ -1,5 +1,6 @@
 from bottle import route, run, template, response, request
 import json
+import os
 
 from game.gameState import GameState
 from utils.dominionOnlineLogParser.logParser import logToGameState
@@ -64,6 +65,8 @@ def parseThatLogBoi():
 
     response.headers['Content-Type'] = "application/json"
     return {'deckInfos': deckInfos}
-    
-run(host='localhost', port=3993, debug=True)
 
+if 'IS_PROD' in os.environ.keys():
+    run(host='0.0.0.0', port=80)
+else:
+    run(host='localhost', port=3993)
