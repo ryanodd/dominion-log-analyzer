@@ -14,10 +14,10 @@ choosers[ChoiceID.BUY] = chooseBuy # Imported
 
 #------------
 
-# Brain blast theory: weigh between:
-# 1. thing you want to do with it this turn
-# 2. The thing you would do otherwise
-# Opportunity cost compare??
+# weigh between:
+# - thing you want to do with it this turn
+# - The things you would do otherwise
+# Opportunity cost compare?
 
 def chooseBanditByHighestMoney(choice, gameState, choosingPlayerIndex):
   maxCost = 0
