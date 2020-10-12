@@ -10,7 +10,7 @@ from utils.cardSorter import sortCardsByTypeThenCost
 def enable_cors(fn):
     def _enable_cors(*args, **kwargs):
         # set CORS headers
-        if request.getHeader('Origin').startswith('https'):
+        if request.get_header('Origin').startswith('https'):
             response.headers['Access-Control-Allow-Origin'] = 'https://councilroom.herokuapp.com'
         else:
             response.headers['Access-Control-Allow-Origin'] = 'http://councilroom.herokuapp.com'
