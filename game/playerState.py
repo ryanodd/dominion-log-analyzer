@@ -61,3 +61,6 @@ class PlayerState:
             if(cardType in card.types):
                 return True
         return False
+
+    def initial(self):
+        return self.name[0]

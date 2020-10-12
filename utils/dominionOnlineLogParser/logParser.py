@@ -54,21 +54,29 @@ def cardsFromLogStrings(line, firstWordIndex, shouldReturnNames=False):
     i += 1
   return listToReturn
 
-# Global Data, careful
-playersByInitial = {}
+# The initial parse , used for gathering # of players and their initials
+# Not using getFunctionForLine approach, since this parse is so janky (yet short).
+# Returns a GameState with:
+# - players with names and initials, but empty decks.
+# Needs to construct the gameState itself since GameState init needs to know # of players to construct them
+def playerNamesParse(logString):
+  lines = logString.split('\n')
+  players = []
+
+  for line in lines:
+    words = line.split(' ')
+    if len(words) >= 2 and validateWordSequence(words[0:3], [s_turn, '1', s_hyphen]):
+      players.append(PlayerState(' '.join(words[3:]), []))
+      players[-1].initial = players[-1].name[0]
+      # TODO: error-checking for players having the same initials (lots of work to get around)
+  
+  return GameState([], players)
 
 def logToGameState(logString):
-  # Reset Global Data
-  global playersByInitial
-  playersByInitial = {}  
 
-  NUM_PLAYERS = 2 # TODO: could probably find this from first few lines
-  players = []
-  for _ in range(NUM_PLAYERS):
-      players.append(PlayerState('bob', []))
-  game = GameState([], players)
+  game = playerNamesParse(logString)
+
   lines = logString.split('\n')
-
   for line in lines:
       functionToCall = getFunctionForLine(line, game)
       if functionToCall is not None:
@@ -96,9 +104,7 @@ def getFunctionForLine(line, game):
 def parseDeckStartLine(line, game):
   words = line.split(' ')
   playerInitial = words[0]
-  if playerInitial not in playersByInitial: # Add this player to our initials map
-    playersByInitial[playerInitial] = game.players[len(playersByInitial)]
-  playersByInitial[playerInitial].deck += (cardsFromLogStrings(line, 3))
+  game.playerByInitial(playerInitial).deck += (cardsFromLogStrings(line, 3))
 
 def parseTurnLine(line, game):
   words = line.split(' ')
@@ -107,12 +113,12 @@ def parseTurnLine(line, game):
 
 def parseBuyLine(line, game):
   words = line.split(' ')
-  playersByInitial[words[0]].deck += cardsFromLogStrings(line, 4)
+  game.playerByInitial(words[0]).deck += cardsFromLogStrings(line, 4)
 
 def parseGainLine(line, game):
   words = line.split(' ')
-  playersByInitial[words[0]].deck += cardsFromLogStrings(line, 2)
+  game.playerByInitial(words[0]).deck += cardsFromLogStrings(line, 2)
 
 def parseTrashLine(line, game):
   words = line.split(' ')
-  removeCardsFromListByNames(playersByInitial[words[0]].deck, cardsFromLogStrings(line, 2, True))
+  removeCardsFromListByNames(game.playerByInitial(words[0]).deck, cardsFromLogStrings(line, 2, True))

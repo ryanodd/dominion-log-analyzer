@@ -75,3 +75,10 @@ class GameState:
         if (len(returnPlayers) == len(self.players)):
             logError("otherPlayers: did not find match...")
         return returnPlayers
+
+    def playerByInitial(self, initial):
+        for player in self.players:
+            if player.initial == initial:
+                return player
+        print('PLAYERS HAVE THE SAME INITIAL!!! IM CROSSING MY ARMS AND ASSERTING FALSE')
+        assert False
