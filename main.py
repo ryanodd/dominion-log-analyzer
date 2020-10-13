@@ -47,15 +47,15 @@ def parseThatLogBoi():
         for card in player.deck:
             deckInfo['cardNameList'].append(card.name)
         
-        deckInfo['numCards'] = json.dumps(CardInfoSumReport(len(player.deck)).__dict__)
-        deckInfo['totalMoney'] = json.dumps(getCardInfoSumReport(player.deck, 'money').__dict__)
-        deckInfo['totalStops'] = json.dumps(getCardInfoSumReport(player.deck, 'stop').__dict__)
-        deckInfo['totalDraws'] = json.dumps(getCardInfoSumReport(player.deck, 'draws').__dict__)
-        deckInfo['totalExtraDraws'] = json.dumps(getCardInfoSumReport(player.deck, 'extraDraws').__dict__)
-        deckInfo['totalActions'] = json.dumps(getCardInfoSumReport(player.deck, 'actions').__dict__)
-        deckInfo['totalTerminals'] = json.dumps(getCardInfoSumReport(player.deck, 'terminal').__dict__)
-        deckInfo['totalExtraActions'] = json.dumps(getCardInfoSumReport(player.deck, 'extraActions').__dict__)
-        deckInfo['totalBuys'] = json.dumps(getCardInfoSumReport(player.deck, 'buys').__dict__)
+        deckInfo['numCards'] = CardInfoSumReport(len(player.deck)).__dict__
+        deckInfo['totalMoney'] = getCardInfoSumReport(player.deck, 'money').__dict__
+        deckInfo['totalStops'] = getCardInfoSumReport(player.deck, 'stop').__dict__
+        deckInfo['totalDraws'] = getCardInfoSumReport(player.deck, 'draws').__dict__
+        deckInfo['totalExtraDraws'] = getCardInfoSumReport(player.deck, 'extraDraws').__dict__
+        deckInfo['totalActions'] = getCardInfoSumReport(player.deck, 'actions').__dict__
+        deckInfo['totalTerminals'] = getCardInfoSumReport(player.deck, 'terminal').__dict__
+        deckInfo['totalExtraActions'] = getCardInfoSumReport(player.deck, 'extraActions').__dict__
+        deckInfo['totalBuys'] = getCardInfoSumReport(player.deck, 'buys').__dict__
 
         deckInfos.append(deckInfo)
 

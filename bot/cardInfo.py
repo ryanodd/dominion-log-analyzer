@@ -11,12 +11,6 @@ class CardInfoParams:
         self.buys = botValue(0)
         self.vp = botValue(0)
 
-        # Careful with these defaults. Not sure about them. Can have card-for-card overriding or one universal alg hmmmmm
-        self.cantrip = botValue(False, (self.draws.value > 0 and self.actions.value > 0 ))
-        self.extraDraws = botValue(max(0, self.draws.value - 1), self.draws.evaluator, self.draws.message, self.draws.importance)
-        self.extraActions = botValue(max(0, self.actions.value - 1), self.actions.evaluator, self.actions.message, self.actions.importance)
-        self.terminal = botValue(self.actions == 0)
-        self.stop = botValue(self.draws == 0)
         self.beneficial = botValue(True)
 
     # Woah. I wonder if this is good or bad. memory & performance
@@ -32,12 +26,15 @@ class CardInfo:
         self.buys = cardInfoParams.buys
         self.vp = cardInfoParams.vp
 
-        self.cantrip = cardInfoParams.cantrip
-        self.extraDraws = cardInfoParams.extraDraws
-        self.extraActions = cardInfoParams.extraActions
-        self.terminal = cardInfoParams.terminal
-        self.stop = cardInfoParams.stop
+        # Funny one. Used for bot logic only
         self.beneficial = cardInfoParams.beneficial
+
+        # Careful with these defaults. Not sure about them. Can have card-for-card overriding or one universal alg hmmmmm
+        self.cantrip = botValue(False, (self.draws.value > 0 and self.actions.value > 0 ))
+        self.extraDraws = botValue(max(0, self.draws.value - 1), self.draws.evaluator, self.draws.message, self.draws.importance)
+        self.extraActions = botValue(max(0, self.actions.value - 1), self.actions.evaluator, self.actions.message, self.actions.importance)
+        self.terminal = botValue(self.actions.value == 0)
+        self.stop = botValue(self.draws.value == 0)
 
 # Maps card names to CardInfo objects
 info = {}
@@ -213,7 +210,7 @@ info['Sentry'] = CardInfo(cardInfoParams)
 # Incomplete - trashing/discarding/ordering
 
 cardInfoParams.reset()
-cardInfoParams.draws = botValue(2, lambda: None, 'Draws up to 7')
+cardInfoParams.draws = botValue(3, lambda: None, 'Draws up to 7')
 info['Library'] = CardInfo(cardInfoParams)
 # Incomplete - drawing, discarding?
 

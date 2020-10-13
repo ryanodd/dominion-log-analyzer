@@ -12,5 +12,7 @@ def getCardInfoSumReport(cards, fieldName):
         valueObj = getattr(getCardInfo(card.name), fieldName)
         valueSum += valueObj.value
         if valueObj.message != '':
-            messages.append(card.name + ' (counts as ' + str(valueObj.value) + ' ' + fieldName + '): ' + valueObj.message)
+            messageToAdd = (card.name + ' (counts as ' + str(valueObj.value) + ' ' + fieldName + '): ' + valueObj.message)
+            if messageToAdd not in messages:
+                messages.append(messageToAdd)
     return CardInfoSumReport(valueSum, messages)
