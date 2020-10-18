@@ -23,8 +23,8 @@ def validateWordSequence(testWords, referenceWords):
         return False
   return len(testWords) == len(referenceWords)
 
-def cardsFromLogStrings(line, firstWordIndex, shouldReturnNames=False):
-  words = line.split(' ')[firstWordIndex:]
+def cardsFromLogStrings(words, firstWordIndex, shouldReturnNames=False):
+  words = words[firstWordIndex:]
   listToReturn = []
   "J draws 2 Coppers, a Silver, an Estate and a Groom."
   i = 0
@@ -64,7 +64,7 @@ def playerNamesParse(logString):
   players = []
 
   for line in lines:
-    words = line.split(' ')
+    words = line.split()
     if len(words) >= 2 and validateWordSequence(words[0:3], [s_turn, '1', s_hyphen]):
       players.append(PlayerState(' '.join(words[3:]), []))
       players[-1].initial = players[-1].name[0]
@@ -78,14 +78,14 @@ def logToGameState(logString):
 
   lines = logString.split('\n')
   for line in lines:
-      functionToCall = getFunctionForLine(line, game)
-      if functionToCall is not None:
-        functionToCall(line, game) # get & execute function
+    words = line.split()
+    functionToCall = getFunctionForLine(words, game)
+    if functionToCall is not None:
+      functionToCall(words, game) # get & execute function
 
   return game
 
-def getFunctionForLine(line, game):
-  words = line.split(' ')
+def getFunctionForLine(words, game):
   if len(words) >= 2 and validateWordSequence(words[0:2], [s_intro_game, r_gameNum]):
     return None
   if len(words) >= 3 and validateWordSequence(words[0:3], [s_turn, r_number, s_hyphen]):
@@ -101,24 +101,18 @@ def getFunctionForLine(line, game):
   else:
     return None
 
-def parseDeckStartLine(line, game):
-  words = line.split(' ')
+def parseDeckStartLine(words, game):
   playerInitial = words[0]
-  game.playerByInitial(playerInitial).deck += (cardsFromLogStrings(line, 3))
+  game.playerByInitial(playerInitial).deck += (cardsFromLogStrings(words, 3))
 
-def parseTurnLine(line, game):
-  words = line.split(' ')
-  roundNum = words[1]
+def parseTurnLine(words, game):
   game.incrementTurn()
 
-def parseBuyLine(line, game):
-  words = line.split(' ')
-  game.playerByInitial(words[0]).deck += cardsFromLogStrings(line, 4)
+def parseBuyLine(words, game):
+  game.playerByInitial(words[0]).deck += cardsFromLogStrings(words, 4)
 
-def parseGainLine(line, game):
-  words = line.split(' ')
-  game.playerByInitial(words[0]).deck += cardsFromLogStrings(line, 2)
+def parseGainLine(words, game):
+  game.playerByInitial(words[0]).deck += cardsFromLogStrings(words, 2)
 
-def parseTrashLine(line, game):
-  words = line.split(' ')
-  removeCardsFromListByNames(game.playerByInitial(words[0]).deck, cardsFromLogStrings(line, 2, True))
+def parseTrashLine(words, game):
+  removeCardsFromListByNames(game.playerByInitial(words[0]).deck, cardsFromLogStrings(words, 2, True))
