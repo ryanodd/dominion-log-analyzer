@@ -1,5 +1,7 @@
 from utils.log import logError
 from bot.botTypes import botValue
+from game.card.cardFactory import getCard
+from game.card.card import CardType
 
 # Used as just a parameter for constructing actual CardInfos.
 # This makes it easy to write CardInfos for every card in the game (less writing)
@@ -35,7 +37,7 @@ class CardInfo:
         self.cantrip = botValue(False, (self.draws.value > 0 and self.actions.value > 0 ))
         self.extraDraws = botValue(max(0, self.draws.value - 1), self.draws.evaluator, self.draws.message, self.draws.importance)
         self.extraActions = botValue(max(0, self.actions.value - 1), self.actions.evaluator, self.actions.message, self.actions.importance)
-        self.terminal = botValue(self.actions.value == 0)
+        self.terminal = botValue(CardType.ACTION in getCard(self.name).types and self.actions.value == 0)
         self.stop = botValue(self.draws.value == 0)
 
 # Maps card names to CardInfo objects

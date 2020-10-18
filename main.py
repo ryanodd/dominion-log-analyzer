@@ -5,7 +5,7 @@ import os
 from game.gameState import GameState
 from utils.dominionOnlineLogParser.logParser import logToGameState
 from utils.cardSorter import sortCardsByTypeThenCost
-from bot.cardInfoSum import getCardInfoSumReport, CardInfoSumReport
+from bot.cardInfoUtils import getCardInfoSumReport, CardInfoSumReport
 
 # CORS decorator
 def enable_cors(fn):
