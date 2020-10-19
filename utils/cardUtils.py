@@ -1,5 +1,5 @@
 from utils.log import logError
-from game.card.card import CardType
+from game.card.gCard import CardType
 
 def removeCardsFromListByNames(cardList, nameList):
     for name in nameList:

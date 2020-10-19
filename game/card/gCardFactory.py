@@ -1,4 +1,4 @@
-from game.card.card import GCard, CardType
+from game.card.gCard import GCard, CardType
 from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
 from game.playerState import GainType

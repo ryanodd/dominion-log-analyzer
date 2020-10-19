@@ -1,5 +1,5 @@
 from enum import Enum
-from game.card.cardFactory import getCard, cardNameDict
+from game.card.gCardFactory import getCard, cardNameDict
 from utils.log import logError
 
 # DeckString Format: "12 Copper, 2 Silver, 2 Smithy"

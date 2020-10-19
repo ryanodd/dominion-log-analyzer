@@ -1,4 +1,4 @@
-from game.card.cardFactory import getCard
+from game.card.gCardFactory import getCard
 
 
 # Unlike CardFactory's getCard, this works on pluralized versions of card names

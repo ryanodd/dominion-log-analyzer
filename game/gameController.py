@@ -2,7 +2,7 @@ from enum import Enum
 
 from utils.log import logError, logGame
 from game.playerState import GainType
-from game.card.card import CardType
+from game.card.gCard import CardType
 from game.choice import ChoiceID, getChoice
 
 class GameEvent(Enum):

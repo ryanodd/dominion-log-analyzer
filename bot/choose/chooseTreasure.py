@@ -1,4 +1,4 @@
-from game.card.card import CardType
+from game.card.gCard import CardType
 from bot.cardInfo import getCardInfo
 
 def chooseTreasure(choice, gameState, choosingPlayer):

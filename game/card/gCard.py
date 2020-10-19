@@ -29,7 +29,7 @@ class CardSet(Enum):
 
     PROMO = 15
 
-
+# Game Card. ONLY data needed to execute the game. May not end up using this.
 class GCard:
     def __init__(self, name, cost, types, steps, vsteps):
         self.name = name

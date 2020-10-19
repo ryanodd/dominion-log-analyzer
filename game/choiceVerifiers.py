@@ -1,4 +1,4 @@
-from game.card.card import CardType
+from game.card.gCard import CardType
 from game.choiceID import ChoiceID
 
 verifiers = {}

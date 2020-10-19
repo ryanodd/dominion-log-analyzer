@@ -1,5 +1,5 @@
 from enum import Enum
-from game.card.card import CardType
+from game.card.gCard import CardType
 from game.choice import ChoiceID
 from bot.cardInfo import getCardInfo
 from bot.choose.chooseAction import chooseAction

@@ -1,5 +1,5 @@
 from bot.cardInfo import getCardInfo
-from game.card.card import CardType
+from game.card.gCard import CardType
 
 class CardInfoSumReport:
     def __init__(self, value, messages=[]):

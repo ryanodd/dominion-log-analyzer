@@ -1,4 +1,4 @@
-from game.card.cardFactory import getCard
+from game.card.gCardFactory import getCard
 from utils.log import logError
 
 # TODO: piles of non-duplicate cards need to be supported

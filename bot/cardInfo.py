@@ -1,7 +1,7 @@
 from utils.log import logError
 from bot.botTypes import botValue
-from game.card.cardFactory import getCard
-from game.card.card import CardType
+from game.card.gCardFactory import getCard
+from game.card.gCard import CardType
 
 # Used as just a parameter for constructing actual CardInfos.
 # This makes it easy to write CardInfos for every card in the game (less writing)

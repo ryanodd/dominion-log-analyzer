@@ -1,6 +1,6 @@
 from operator import attrgetter
 
-from game.card.card import CardType
+from game.card.gCard import CardType
 
 def sortCardsByTypeThenCost(cards):
   s = sorted(cards, key=attrgetter('cost'))     # sort on secondary key
