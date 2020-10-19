@@ -30,7 +30,7 @@ class CardSet(Enum):
     PROMO = 15
 
 
-class Card:
+class GCard:
     def __init__(self, name, cost, types, steps, vsteps):
         self.name = name
         self.cost = cost

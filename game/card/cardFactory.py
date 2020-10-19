@@ -1,4 +1,4 @@
-from game.card.card import Card, CardType
+from game.card.card import GCard, CardType
 from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
 from game.playerState import GainType
@@ -18,44 +18,44 @@ def getCard(name):
 def estate():
     def estate_vsteps(player, game):
         player.vp += 1
-    return Card("Estate", 2, [CardType.VICTORY], None, estate_vsteps)
+    return GCard("Estate", 2, [CardType.VICTORY], None, estate_vsteps)
 cardNameDict['Estate'] = estate
 
 
 def duchy():
     def duchy_vsteps(player, game):
         player.vp += 3
-    return Card("Duchy", 5, [CardType.VICTORY], None, duchy_vsteps)
+    return GCard("Duchy", 5, [CardType.VICTORY], None, duchy_vsteps)
 cardNameDict['Duchy'] = duchy
 
 def province():
     def province_vsteps(player, game):
         player.vp += 6
-    return Card("Province", 8, [CardType.VICTORY], None, province_vsteps)
+    return GCard("Province", 8, [CardType.VICTORY], None, province_vsteps)
 cardNameDict['Province'] = province
 
 def copper():
     def copper_steps(player, game):
         player.money += 1
-    return Card("Copper", 0, [CardType.TREASURE], copper_steps, None)
+    return GCard("Copper", 0, [CardType.TREASURE], copper_steps, None)
 cardNameDict['Copper'] = copper
 
 def silver():
     def silver_steps(player, game):
         player.money += 2
-    return Card("Silver", 3, [CardType.TREASURE], silver_steps, None)
+    return GCard("Silver", 3, [CardType.TREASURE], silver_steps, None)
 cardNameDict['Silver'] = silver
 
 def gold():
     def gold_steps(player, game):
         player.money += 3
-    return Card("Gold", 6, [CardType.TREASURE], gold_steps, None)
+    return GCard("Gold", 6, [CardType.TREASURE], gold_steps, None)
 cardNameDict['Gold'] = gold
 
 def curse():
     def curse_vsteps(player, game):
         player.vp -= 1
-    return Card("Curse", 0, [CardType.CURSE], None, curse_vsteps)
+    return GCard("Curse", 0, [CardType.CURSE], None, curse_vsteps)
 cardNameDict['Curse'] = curse
 
 
@@ -73,7 +73,7 @@ def artisan():
         # Put a card from your hand onto your deck
         topdeckChoice = player.bot.choose(getChoice(ChoiceID.ARTISAN2), game.gameState, playerIndex)
         player.deck.append(player.hand.pop(topdeckChoice))
-    return Card("Artisan", 6, [CardType.ACTION], artisan_steps, None)
+    return GCard("Artisan", 6, [CardType.ACTION], artisan_steps, None)
 cardNameDict['Artisan'] = artisan
 
 def bandit():
@@ -87,7 +87,7 @@ def bandit():
                 game.trash.append(topTwoCards.pop(trashChoice))
             opponent.discard += topTwoCards
             game.popCardStore()
-    return Card("Bandit", 5, [CardType.ACTION], bandit_steps, None)
+    return GCard("Bandit", 5, [CardType.ACTION], bandit_steps, None)
 cardNameDict['Bandit'] = bandit
                     
 
@@ -102,7 +102,7 @@ def bureaucrat():
                 topDeckChoice = player.bot.choose(getChoice(ChoiceID.BUREAUCRAT), game.gameState, playerIndex)
                 opponent.deck.append(opponent.hand.pop(topDeckChoice))
             # TODO: else reveal? Patron trigger
-    return Card("Bureaucrat", 4, [CardType.ACTION], bureaucrat_steps, None)
+    return GCard("Bureaucrat", 4, [CardType.ACTION], bureaucrat_steps, None)
 cardNameDict['Bureaucrat'] = bureaucrat
 
 def cellar():
@@ -116,7 +116,7 @@ def cellar():
         for i in sorted(discardChoices, reverse=True):
             player.discard.append(player.hand.pop(i))
         player.draw(numDiscarded)
-    return Card("Cellar", 2, [CardType.ACTION], cellar_steps, None)
+    return GCard("Cellar", 2, [CardType.ACTION], cellar_steps, None)
 cardNameDict['Cellar'] = cellar
 
 def chapel():
@@ -127,7 +127,7 @@ def chapel():
         for i in sorted(trashChoices, reverse=True):
             game.trash.append(player.hand.pop(i))
 
-    return Card("Chapel", 2, [CardType.ACTION], chapel_steps, None)
+    return GCard("Chapel", 2, [CardType.ACTION], chapel_steps, None)
 cardNameDict['Chapel'] = chapel
 
 def councilRoom():
@@ -138,7 +138,7 @@ def councilRoom():
         player.buys += 1
         for opponent in game.otherPlayers(player):
             opponent.draw(1)
-    return Card("Council Room", 5, [CardType.ACTION], councilRoom_steps, None)
+    return GCard("Council Room", 5, [CardType.ACTION], councilRoom_steps, None)
 cardNameDict['Council Room'] = councilRoom
 
 def festival():
@@ -148,7 +148,7 @@ def festival():
         player.actions += 2
         player.buys += 1
         player.money += 2
-    return Card("Festival", 5, [CardType.ACTION], festival_steps, None)
+    return GCard("Festival", 5, [CardType.ACTION], festival_steps, None)
 cardNameDict['Festival'] = festival
 
 def gardens():
@@ -156,7 +156,7 @@ def gardens():
         player = game.players[playerIndex]
 
         player.vp += len(player.totalDeck) / 10
-    return Card("Gardens", 4, [CardType.VICTORY], None, garden_vsteps)
+    return GCard("Gardens", 4, [CardType.VICTORY], None, garden_vsteps)
 cardNameDict['Gardens'] = gardens
 
 def harbinger():
@@ -169,7 +169,7 @@ def harbinger():
         topDeckChoice = player.bot.choose(getChoice(ChoiceID.HARBINGER), game.gameState, playerIndex)
         player.deck.append(player.discard.pop(topDeckChoice))
 
-    return Card("Harbinger", 3, [CardType.ACTION], harbinger_steps, None)
+    return GCard("Harbinger", 3, [CardType.ACTION], harbinger_steps, None)
 cardNameDict['Harbinger'] = harbinger
 
 def laboratory():
@@ -178,7 +178,7 @@ def laboratory():
 
         player.draw(2)
         player.actions += 1
-    return Card("Laboratory", 5, [CardType.ACTION], laboratory_steps, None)
+    return GCard("Laboratory", 5, [CardType.ACTION], laboratory_steps, None)
 cardNameDict['Laboratory'] = laboratory
 
 def library():
@@ -196,7 +196,7 @@ def library():
                     player.hand.append(drawnCard)
         player.discard += cardsToDiscard
         game.popCardStore()
-    return Card("Library", 5, [CardType.ACTION], library_steps, None)
+    return GCard("Library", 5, [CardType.ACTION], library_steps, None)
 cardNameDict['Library'] = library
 
 def market():
@@ -207,7 +207,7 @@ def market():
         player.actions += 1
         player.buys += 1
         player.money += 1
-    return Card("Market", 5, [CardType.ACTION], market_steps, None)
+    return GCard("Market", 5, [CardType.ACTION], market_steps, None)
 cardNameDict['Market'] = market
 
 # TODO: For now, just +1 card&action. This one is trouble. Needs event triggers
@@ -218,7 +218,7 @@ def merchant():
         player.draw(1)
         player.actions += 1
 
-    return Card("Merchant", 3, [CardType.ACTION], merchant_steps, None)
+    return GCard("Merchant", 3, [CardType.ACTION], merchant_steps, None)
 cardNameDict['Merchant'] = merchant
 
 def militia():
@@ -233,7 +233,7 @@ def militia():
                 for i in sorted(discardChoices, reverse=True):
                     player.discard.append(player.hand.pop(i))
 
-    return Card("Militia", 4, [CardType.ACTION, CardType.ATTACK], militia_steps, None)
+    return GCard("Militia", 4, [CardType.ACTION, CardType.ATTACK], militia_steps, None)
 cardNameDict['Militia'] = militia
 
 def mine():
@@ -247,7 +247,7 @@ def mine():
                 gainChoice = player.bot.choose(getChoice(ChoiceID.MINE2), game.gameState, playerIndex)
                 game.gain(gainChoice, playerIndex, GainType.HAND)
 
-    return Card("Mine", 5, [CardType.ACTION], mine_steps, None)
+    return GCard("Mine", 5, [CardType.ACTION], mine_steps, None)
 cardNameDict['Mine'] = mine
 
 # TODO: for now, it's just +2 cards
@@ -257,7 +257,7 @@ def moat():
 
         player.draw(2)
 
-    return Card("Moat", 2, [CardType.ACTION, CardType.REACTION], moat_steps, None)
+    return GCard("Moat", 2, [CardType.ACTION, CardType.REACTION], moat_steps, None)
 cardNameDict['Moat'] = moat
 
 def moneylender():
@@ -270,7 +270,7 @@ def moneylender():
                 game.trash.append(player.hand.pop(trashChoice))
                 player.money += 3
 
-    return Card("Moneylender", 4, [CardType.ACTION], moneylender_steps, None)
+    return GCard("Moneylender", 4, [CardType.ACTION], moneylender_steps, None)
 cardNameDict['Moneylender'] = moneylender
 
 def poacher():
@@ -286,7 +286,7 @@ def poacher():
             for i in sorted(discardChoices, reverse=True):
                 player.discard.append(player.hand.pop(i))
 
-    return Card("Poacher", 4, [CardType.ACTION], poacher_steps, None)
+    return GCard("Poacher", 4, [CardType.ACTION], poacher_steps, None)
 cardNameDict['Poacher'] = poacher
 
 def remodel():
@@ -300,7 +300,7 @@ def remodel():
             if gainChoice:
                 game.gain(gainChoice, playerIndex)
 
-    return Card("Remodel", 4, [CardType.ACTION], remodel_steps, None)
+    return GCard("Remodel", 4, [CardType.ACTION], remodel_steps, None)
 cardNameDict['Remodel'] = remodel
 
 def sentry():
@@ -329,7 +329,7 @@ def sentry():
             for o in orderChoice:
                 player.deck.append(topTwoCards[o])
         game.popCardStore()
-    return Card("Sentry", 5, [CardType.ACTION], sentry_steps, None)
+    return GCard("Sentry", 5, [CardType.ACTION], sentry_steps, None)
 cardNameDict['Sentry'] = sentry
 
 def smithy():
@@ -337,7 +337,7 @@ def smithy():
         player = game.players[playerIndex]
 
         player.draw(3)
-    return Card("Smithy", 4, [CardType.ACTION], smithy_steps, None)
+    return GCard("Smithy", 4, [CardType.ACTION], smithy_steps, None)
 cardNameDict['Smithy'] = smithy
 
 def throneRoom():
@@ -350,7 +350,7 @@ def throneRoom():
                 player.play.append(player.hand.pop(playChoice))
                 player.play[-1].steps() # TODO: unsafe, need instance reference eventually
                 player.play[-1].steps() # TODO: unsafe, need instance reference eventually
-    return Card("Throne Room", 4, [CardType.ACTION], throneRoom_steps, None)
+    return GCard("Throne Room", 4, [CardType.ACTION], throneRoom_steps, None)
 cardNameDict['Throne Room'] = throneRoom
 
 def vassal():
@@ -366,7 +366,7 @@ def vassal():
             if willPlay:
                 player.play.append(player.discard.pop())
                 discardCard.steps()
-    return Card("Vassal", 3, [CardType.ACTION], vassal_steps, None)
+    return GCard("Vassal", 3, [CardType.ACTION], vassal_steps, None)
 cardNameDict['Vassal'] = vassal
 
 def village():
@@ -375,7 +375,7 @@ def village():
 
         player.draw(1)
         player.actions += 2
-    return Card("Village", 3, [CardType.ACTION], village_steps, None)
+    return GCard("Village", 3, [CardType.ACTION], village_steps, None)
 cardNameDict['Village'] = village
 
 def witch():
@@ -385,7 +385,7 @@ def witch():
         player.draw(2)
         for opponent in game.otherPlayers(player):
             game.gain('Curse', opponent.playerIndex)
-    return Card("Witch", 5, [CardType.ACTION, CardType.ATTACK], witch_steps, None)
+    return GCard("Witch", 5, [CardType.ACTION, CardType.ATTACK], witch_steps, None)
 cardNameDict['Witch'] = witch
 
 def workshop():
@@ -395,5 +395,5 @@ def workshop():
         gainChoice = player.bot.choose(getChoice(ChoiceID.WORKSHOP), game.gameState, playerIndex)
         game.gain(gainChoice, playerIndex)
 
-    return Card("Workshop", 3, [CardType.ACTION, CardType.ATTACK], workshop_steps, None)
+    return GCard("Workshop", 3, [CardType.ACTION, CardType.ATTACK], workshop_steps, None)
 cardNameDict['Workshop'] = workshop
