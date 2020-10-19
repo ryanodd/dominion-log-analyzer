@@ -2,7 +2,7 @@ from game.gameController import GameController
 from game.gameState import GameState
 from game.playerState import PlayerState
 from bot.bot import Bot
-from game.card.gCardFactory import getCard
+from game.card.gCardFactory import getGCard
 
 class GameSimInfo:
     def __init__(self, roundDist):

@@ -1,4 +1,4 @@
-from game.card.gCardFactory import getCard
+from game.card.gCardFactory import getGCard
 
 
 # Unlike CardFactory's getCard, this works on pluralized versions of card names
@@ -14,103 +14,103 @@ namePluralToCard = {}
 
 
 
-nameToCard['Copper'] = getCard('Copper')
-namePluralToCard['Coppers'] = getCard('Copper')
+nameToCard['Copper'] = getGCard('Copper')
+namePluralToCard['Coppers'] = getGCard('Copper')
 
-nameToCard['Curse'] = getCard('Curse')
-namePluralToCard['Curses'] = getCard('Curse')
+nameToCard['Curse'] = getGCard('Curse')
+namePluralToCard['Curses'] = getGCard('Curse')
 
-nameToCard['Estate'] = getCard('Estate')
-namePluralToCard['Estates'] = getCard('Estate')
+nameToCard['Estate'] = getGCard('Estate')
+namePluralToCard['Estates'] = getGCard('Estate')
 
-nameToCard['Silver'] = getCard('Silver')
-namePluralToCard['Silvers'] = getCard('Silver')
+nameToCard['Silver'] = getGCard('Silver')
+namePluralToCard['Silvers'] = getGCard('Silver')
 
-nameToCard['Duchy'] = getCard('Duchy')
-namePluralToCard['Duchies'] = getCard('Duchy')
+nameToCard['Duchy'] = getGCard('Duchy')
+namePluralToCard['Duchies'] = getGCard('Duchy')
 
-nameToCard['Gold'] = getCard('Gold')
-namePluralToCard['Golds'] = getCard('Gold')
+nameToCard['Gold'] = getGCard('Gold')
+namePluralToCard['Golds'] = getGCard('Gold')
 
-nameToCard['Province'] = getCard('Province')
-namePluralToCard['Provinces'] = getCard('Province')
+nameToCard['Province'] = getGCard('Province')
+namePluralToCard['Provinces'] = getGCard('Province')
 
 
 
-nameToCard['Cellar'] = getCard('Cellar')
-namePluralToCard['Cellars'] = getCard('Cellar')
+nameToCard['Cellar'] = getGCard('Cellar')
+namePluralToCard['Cellars'] = getGCard('Cellar')
 
-nameToCard['Chapel'] = getCard('Chapel')
-namePluralToCard['Chapels'] = getCard('Chapel')
+nameToCard['Chapel'] = getGCard('Chapel')
+namePluralToCard['Chapels'] = getGCard('Chapel')
 
-nameToCard['Moat'] = getCard('Moat')
-namePluralToCard['Moats'] = getCard('Moat')
+nameToCard['Moat'] = getGCard('Moat')
+namePluralToCard['Moats'] = getGCard('Moat')
 
-nameToCard['Harbinger'] = getCard('Harbinger')
-namePluralToCard['Harbingers'] = getCard('Harbinger')
+nameToCard['Harbinger'] = getGCard('Harbinger')
+namePluralToCard['Harbingers'] = getGCard('Harbinger')
 
-nameToCard['Merchant'] = getCard('Merchant')
-namePluralToCard['Merchants'] = getCard('Merchant')
+nameToCard['Merchant'] = getGCard('Merchant')
+namePluralToCard['Merchants'] = getGCard('Merchant')
 
-nameToCard['Vassal'] = getCard('Vassal')
-namePluralToCard['Vassals'] = getCard('Vassal')
+nameToCard['Vassal'] = getGCard('Vassal')
+namePluralToCard['Vassals'] = getGCard('Vassal')
 
-nameToCard['Village'] = getCard('Village')
-namePluralToCard['Villages'] = getCard('Village')
+nameToCard['Village'] = getGCard('Village')
+namePluralToCard['Villages'] = getGCard('Village')
 
-nameToCard['Workshop'] = getCard('Workshop')
-namePluralToCard['Workshops'] = getCard('Workshop')
+nameToCard['Workshop'] = getGCard('Workshop')
+namePluralToCard['Workshops'] = getGCard('Workshop')
 
-nameToCard['Bureaucrat'] = getCard('Bureaucrat')
-namePluralToCard['Bureaucrats'] = getCard('Bureaucrat')
+nameToCard['Bureaucrat'] = getGCard('Bureaucrat')
+namePluralToCard['Bureaucrats'] = getGCard('Bureaucrat')
 
-nameToCard['Gardens'] = getCard('Gardens')
-namePluralToCard['Gardens'] = getCard('Gardens')
+nameToCard['Gardens'] = getGCard('Gardens')
+namePluralToCard['Gardens'] = getGCard('Gardens')
 
-nameToCard['Militia'] = getCard('Militia')
-namePluralToCard['Militias'] = getCard('Militia')
+nameToCard['Militia'] = getGCard('Militia')
+namePluralToCard['Militias'] = getGCard('Militia')
 
-nameToCard['Moneylender'] = getCard('Moneylender')
-namePluralToCard['Moneylenders'] = getCard('Moneylender')
+nameToCard['Moneylender'] = getGCard('Moneylender')
+namePluralToCard['Moneylenders'] = getGCard('Moneylender')
 
-nameToCard['Poacher'] = getCard('Poacher')
-namePluralToCard['Poachers'] = getCard('Poacher')
+nameToCard['Poacher'] = getGCard('Poacher')
+namePluralToCard['Poachers'] = getGCard('Poacher')
 
-nameToCard['Remodel'] = getCard('Remodel')
-namePluralToCard['Remodels'] = getCard('Remodel')
+nameToCard['Remodel'] = getGCard('Remodel')
+namePluralToCard['Remodels'] = getGCard('Remodel')
 
-nameToCard['Smithy'] = getCard('Smithy')
-namePluralToCard['Smithies'] = getCard('Smithy')
+nameToCard['Smithy'] = getGCard('Smithy')
+namePluralToCard['Smithies'] = getGCard('Smithy')
 
-nameToCard['Throne Room'] = getCard('Throne Room')
-namePluralToCard['Throne Rooms'] = getCard('Throne Room')
+nameToCard['Throne Room'] = getGCard('Throne Room')
+namePluralToCard['Throne Rooms'] = getGCard('Throne Room')
 
-nameToCard['Bandit'] = getCard('Bandit')
-namePluralToCard['Bandits'] = getCard('Bandit')
+nameToCard['Bandit'] = getGCard('Bandit')
+namePluralToCard['Bandits'] = getGCard('Bandit')
 
-nameToCard['Council Room'] = getCard('Council Room')
-namePluralToCard['Council Rooms'] = getCard('Council Room')
+nameToCard['Council Room'] = getGCard('Council Room')
+namePluralToCard['Council Rooms'] = getGCard('Council Room')
 
-nameToCard['Festival'] = getCard('Festival')
-namePluralToCard['Festivals'] = getCard('Festival')
+nameToCard['Festival'] = getGCard('Festival')
+namePluralToCard['Festivals'] = getGCard('Festival')
 
-nameToCard['Laboratory'] = getCard('Laboratory')
-namePluralToCard['Laboratories'] = getCard('Laboratory')
+nameToCard['Laboratory'] = getGCard('Laboratory')
+namePluralToCard['Laboratories'] = getGCard('Laboratory')
 
-nameToCard['Library'] = getCard('Library')
-namePluralToCard['Libraries'] = getCard('Library')
+nameToCard['Library'] = getGCard('Library')
+namePluralToCard['Libraries'] = getGCard('Library')
 
-nameToCard['Market'] = getCard('Market')
-namePluralToCard['Markets'] = getCard('Market')
+nameToCard['Market'] = getGCard('Market')
+namePluralToCard['Markets'] = getGCard('Market')
 
-nameToCard['Mine'] = getCard('Mine')
-namePluralToCard['Mines'] = getCard('Mine')
+nameToCard['Mine'] = getGCard('Mine')
+namePluralToCard['Mines'] = getGCard('Mine')
 
-nameToCard['Sentry'] = getCard('Sentry')
-namePluralToCard['Sentries'] = getCard('Sentry')
+nameToCard['Sentry'] = getGCard('Sentry')
+namePluralToCard['Sentries'] = getGCard('Sentry')
 
-nameToCard['Witch'] = getCard('Witch')
-namePluralToCard['Witches'] = getCard('Witch')
+nameToCard['Witch'] = getGCard('Witch')
+namePluralToCard['Witches'] = getGCard('Witch')
 
-nameToCard['Artisan'] = getCard('Artisan')
-namePluralToCard['Artisans'] = getCard('Artisan')
+nameToCard['Artisan'] = getGCard('Artisan')
+namePluralToCard['Artisans'] = getGCard('Artisan')

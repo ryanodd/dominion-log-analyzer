@@ -5,7 +5,7 @@ import os
 from game.gameState import GameState
 from utils.dominionOnlineLogParser.logParser import logToGameState
 from utils.cardSorter import sortCardsByTypeThenCost
-from bot.cardInfoUtils import getCardInfoSumReport, CardInfoSumReport
+from bot.cardInfoUtils import getCardsReport, CardsReport
 
 # CORS decorator
 def enable_cors(fn):
@@ -47,15 +47,15 @@ def parseThatLogBoi():
         for card in player.deck:
             deckInfo['cardNameList'].append(card.name)
         
-        deckInfo['numCards'] = CardInfoSumReport(len(player.deck)).__dict__
-        deckInfo['totalMoney'] = getCardInfoSumReport(player.deck, 'money').__dict__
-        deckInfo['totalStops'] = getCardInfoSumReport(player.deck, 'stop').__dict__
-        deckInfo['totalDraws'] = getCardInfoSumReport(player.deck, 'draws').__dict__
-        deckInfo['totalExtraDraws'] = getCardInfoSumReport(player.deck, 'extraDraws').__dict__
-        deckInfo['totalActions'] = getCardInfoSumReport(player.deck, 'actions').__dict__
-        deckInfo['totalTerminals'] = getCardInfoSumReport(player.deck, 'terminal').__dict__
-        deckInfo['totalExtraActions'] = getCardInfoSumReport(player.deck, 'extraActions').__dict__
-        deckInfo['totalBuys'] = getCardInfoSumReport(player.deck, 'buys').__dict__
+        deckInfo['numCards'] = CardsReport(len(player.deck)).__dict__
+        deckInfo['totalMoney'] = getCardsReport(player.deck, 'money').__dict__
+        deckInfo['totalStops'] = getCardsReport(player.deck, 'stop').__dict__
+        deckInfo['totalDraws'] = getCardsReport(player.deck, 'draws').__dict__
+        deckInfo['totalExtraDraws'] = getCardsReport(player.deck, 'extraDraws').__dict__
+        deckInfo['totalActions'] = getCardsReport(player.deck, 'actions').__dict__
+        deckInfo['totalTerminals'] = getCardsReport(player.deck, 'terminal').__dict__
+        deckInfo['totalExtraActions'] = getCardsReport(player.deck, 'extraActions').__dict__
+        deckInfo['totalBuys'] = getCardsReport(player.deck, 'buys').__dict__
 
         deckInfos.append(deckInfo)
 

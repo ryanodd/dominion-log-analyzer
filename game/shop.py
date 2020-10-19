@@ -1,4 +1,4 @@
-from game.card.gCardFactory import getCard
+from game.card.gCardFactory import getGCard
 from utils.log import logError
 
 # TODO: piles of non-duplicate cards need to be supported
@@ -19,13 +19,13 @@ class Shop:
             victoryAmount = 8
 
         # TODO: Eventually, this shouldn't live here? (and this shouldn't take in numPlayers)
-        self.listings['Estate'] = Listing(getCard('Estate'), victoryAmount)
-        self.listings['Duchy'] = Listing(getCard('Duchy'), victoryAmount)
-        self.listings['Province'] = Listing(getCard('Province'), victoryAmount)
-        self.listings['Curse'] = Listing(getCard('Curse'), 30)
-        self.listings['Copper'] = Listing(getCard('Copper'), 60)
-        self.listings['Silver'] = Listing(getCard('Silver'), 40)
-        self.listings['Gold'] = Listing(getCard('Gold'), 30)
+        self.listings['Estate'] = Listing(getGCard('Estate'), victoryAmount)
+        self.listings['Duchy'] = Listing(getGCard('Duchy'), victoryAmount)
+        self.listings['Province'] = Listing(getGCard('Province'), victoryAmount)
+        self.listings['Curse'] = Listing(getGCard('Curse'), 30)
+        self.listings['Copper'] = Listing(getGCard('Copper'), 60)
+        self.listings['Silver'] = Listing(getGCard('Silver'), 40)
+        self.listings['Gold'] = Listing(getGCard('Gold'), 30)
 
         for i in range(len(cards)):
             # TODO: Check for triggers here through trigger/event system e.g. Tournament (merchant will use this system too)

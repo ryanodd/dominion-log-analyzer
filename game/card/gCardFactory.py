@@ -9,7 +9,7 @@ from utils.log import logError
 
 cardNameDict = {}
 
-def getCard(name):
+def getGCard(name):
     if (name not in cardNameDict):
         logError("Name %s not found in cardNameDict")
     return cardNameDict[name]()
