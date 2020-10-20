@@ -1,3 +1,5 @@
+import math
+
 from utils.log import logError
 from alchemist.botTypes import botValue
 
@@ -20,6 +22,13 @@ class CardParams:
         self.actions = botValue(0)
         self.buys = botValue(0)
         self.vp = botValue(0)
+
+        self.discards = botValue(0)
+
+        self.doesAttack = botValue(False)
+        self.doesGain = botValue(False)
+        self.doesTrash = botValue(False)
+        self.doesSift = botValue(False)
 
         self.beneficial = botValue(True)
 
@@ -46,6 +55,12 @@ class Card:
         self.buys = cardParams.buys
         self.vp = cardParams.vp
 
+        self.discards = cardParams.discards
+
+        self.doesAttack = cardParams.doesAttack
+        self.doesGain = cardParams.doesGain
+        self.doesTrash = cardParams.doesTrash
+
         # Funny one. Used for bot logic only
         self.beneficial = cardParams.beneficial
 
@@ -57,235 +72,341 @@ class Card:
         self.stop = botValue(self.draws.value == 0)
 
 # Maps card names to Card objects
-cards = {}
-cardParams = CardParams()
+cardFns = {}
 
-def createCard(name, params):
-    cards[name] = Card(name, params)
-
-# Default Values for subjecctive Cards should be worst-case scenario?
+# Default Values for subjective Cards should be worst-case scenario?
 # We need them even when calculationNeeded for non-recursive mode
 
 #-------------Base--------------------
 
-cardParams.reset()
-cardParams.isVictory = True
-cardParams.vp = botValue(1)
-createCard('Estate', cardParams)
+def create_Estate():
+    cardParams = CardParams()
+    cardParams.isVictory = True
+    cardParams.vp = botValue(1)
+    return cardParams
+cardFns['Estate'] = create_Estate
 
-cardParams.reset()
-cardParams.isVictory = True
-cardParams.vp = botValue(3)
-createCard('Duchy', cardParams)
+def create_Duchy():
+    cardParams = CardParams()
+    cardParams.isVictory = True
+    cardParams.vp = botValue(3)
+    return cardParams
+cardFns['Duchy'] = create_Duchy
 
-cardParams.reset()
-cardParams.isVictory = True
-cardParams.vp = botValue(6)
-createCard('Province', cardParams)
+def create_Province():
+    cardParams = CardParams()
+    cardParams.isVictory = True
+    cardParams.vp = botValue(6)
+    return cardParams
+cardFns['Province'] = create_Province
 
-cardParams.reset()
-cardParams.isCurse = True
-cardParams.vp = botValue(-1)
-createCard('Curse', cardParams)
+def create_Curse():
+    cardParams = CardParams()
+    cardParams.isCurse = True
+    cardParams.vp = botValue(-1)
+    return cardParams
+cardFns['Curse'] = create_Curse
 
-cardParams.reset()
-cardParams.isTreasure = True
-cardParams.money = botValue(1)
-createCard('Copper', cardParams)
+def create_Copper():
+    cardParams = CardParams()
+    cardParams.isTreasure = True
+    cardParams.money = botValue(1)
+    return cardParams
+cardFns['Copper'] = create_Copper
 
-cardParams.reset()
-cardParams.isTreasure = True
-cardParams.money = botValue(2)
-createCard('Silver', cardParams)
+def create_Silver():
+    cardParams = CardParams()
+    cardParams.isTreasure = True
+    cardParams.money = botValue(2)
+    return cardParams
+cardFns['Silver'] = create_Silver
 
-cardParams.reset()
-cardParams.isTreasure = True
-cardParams.money = botValue(3)
-createCard('Gold', cardParams)
+def create_Gold():
+    cardParams = CardParams()
+    cardParams.isTreasure = True
+    cardParams.money = botValue(3)
+    return cardParams
+cardFns['Gold'] = create_Gold
 
 #-----------------Dominion---------------
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(0, lambda: None, 'Depends on how many discards')
-createCard('Cellar', cardParams)
+def create_Cellar(numDiscards=None):
+    cardParams = CardParams()
+    cardParams.isAction = True
+    if numDiscards is None:
+        cardParams.discards = botValue(0, lambda: None, 'Depends on how many discards')
+        cardParams.draws = botValue(0, lambda: None, 'Depends on how many discards')
+    elif numDiscards is not None:
+        cardParams.discards = botValue(numDiscards)
+        cardParams.draws = botValue(numDiscards)
+    return cardParams
+cardFns['Cellar'] = create_Cellar
 # Incomplete - Discards
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.isReaction = True
-cardParams.draws = botValue(2)
-createCard('Moat', cardParams)
+def create_Moat():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.isReaction = True
+    cardParams.draws = botValue(2)
+    return cardParams
+cardFns['Moat'] = create_Moat
 # Incomplete - defense
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.beneficial = botValue(False, lambda: None)
-createCard('Chapel', cardParams)
-# Incomplete - trashing
+def create_Chapel():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesTrash = botValue(True)
+    cardParams.beneficial = botValue(False, lambda: None) # funy
+    return cardParams
+cardFns['Chapel'] = create_Chapel
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(1)
-cardParams.actions = botValue(1)
-createCard('Harbinger', cardParams)
+def create_Harbinger():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(1)
+    cardParams.actions = botValue(1)
+    return cardParams
+cardFns['Harbinger'] = create_Harbinger
 # Incomplete - put on top
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(1)
-cardParams.actions = botValue(1)
-cardParams.money = botValue(0, lambda: None, '0 normally, 1 if a silver is played')
-createCard('Merchant', cardParams)
-# Incomplete - extra money
+def create_Merchant(playsSilver=None):
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(1)
+    cardParams.actions = botValue(1)
 
-cardParams.reset()
-cardParams.isAction = True
-createCard('Workshop', cardParams)
-# Incomplete - gain
+    if playsSilver is None:
+        cardParams.money = botValue(0, lambda: None, '0 normally, 1 if a silver is played')
+    elif playsSilver:
+        cardParams.money = botValue(1)
+    elif not playsSilver:
+        cardParams.money = botValue(0)
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(1)
-cardParams.actions = botValue(2)
-createCard('Village', cardParams)
+    return cardParams
+cardFns['Merchant'] = create_Merchant
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.money = botValue(2, lambda: None)
-cardParams.actions = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
-cardParams.draws = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
-cardParams.buys = botValue(0, lambda: None)
-cardParams.vp = botValue(0, lambda: None)
-cardParams.cantrip = botValue(False, lambda: None)
-createCard('Vassal', cardParams)
+def create_Workshop():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesGain = True
+    return cardParams
+cardFns['Workshop'] = create_Workshop
+
+def create_Village():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(1)
+    cardParams.actions = botValue(2)
+    return cardParams
+cardFns['Village'] = create_Village
+
+def create_Vassal():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.money = botValue(2, lambda: None)
+    cardParams.actions = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
+    cardParams.draws = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
+    cardParams.buys = botValue(0, lambda: None)
+    cardParams.vp = botValue(0, lambda: None)
+    cardParams.cantrip = botValue(False, lambda: None)
+    return cardParams
+cardFns['Vassal'] = create_Vassal
 # Incomplete - uhhhh
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.isAttack = True
-createCard('Bureaucrat', cardParams)
+def create_Bureaucrat():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesGain = True
+    cardParams.doesAttack = True
+    return cardParams
+cardFns['Bureaucrat'] = create_Bureaucrat
 # Incomplete - gain silver to deck, attack
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.isAttack = True
-cardParams.money = botValue(2)
-createCard('Militia', cardParams)
+def create_Militia():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.money = botValue(2)
+    cardParams.doesAttack = True
+    return cardParams
+cardFns['Militia'] = create_Militia
 # Incomplete - attack
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.isVictory = True
-cardParams.vp = botValue(0, lambda: None, 'Varies with deck size', 100) # This should probably always be calculated. It's safe
-createCard('Gardens', cardParams)
+def create_Gardens(deckSize=None):
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.isVictory = True
+    if deckSize is None:
+        cardParams.vp = botValue(0, lambda: None, 'Varies with deck size', 100) # This should probably always be calculated. It's safe
+    elif deckSize is not None:
+        cardParams.vp = botValue(math.floor(deckSize / 10))
+    return cardParams
+cardFns['Gardens'] = create_Gardens
 # Incomplete - vp calc
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(3)
-createCard('Smithy', cardParams)
+def create_Smithy():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(3)
+    return cardParams
+cardFns['Smithy'] = create_Smithy
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.money = botValue(0, lambda: None, 'Worth 3 if you trash a copper')
-cardParams.beneficial = botValue(False, lambda: None)
-createCard('Moneylender', cardParams)
-# Incomplete - trashing, decision
+def create_Moneylender(doesTrashCopper=None):
+    cardParams = CardParams()
+    cardParams.isAction = True
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.beneficial = botValue(False, lambda: None)
-createCard('Remodel', cardParams)
-# Incomplete - gain, decision
+    if doesTrashCopper is not None:
+        cardParams.money = botValue(0, lambda: None, 'Worth 3 if you trash a copper')
+    elif doesTrashCopper:
+        cardParams.money = botValue(3)
+    elif not doesTrashCopper:
+        cardParams.money = botValue(0)
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.money = botValue(0, lambda: None)
-cardParams.actions = botValue(0, lambda: None, 'Worth 1 if you use it on an action (sort of)')
-cardParams.draws = botValue(0, lambda: None)
-cardParams.buys = botValue(0, True)
-cardParams.vp = botValue(0, True)
-cardParams.cantrip = botValue(False, True)
-cardParams.beneficial = botValue(False, True)
-createCard('Throne Room', cardParams)
+    cardParams.doesTrash = botValue(True)
+    cardParams.beneficial = botValue(False, lambda: None)
+    return cardParams
+cardFns['Moneylender'] = create_Moneylender
+# Incomplete - decision (is doesTrash really always true?)
+
+def create_Remodel():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesGain = botValue(True)
+    cardParams.doesTrash = botValue(True)
+    cardParams.beneficial = botValue(False, lambda: None)
+    return cardParams
+cardFns['Remodel'] = create_Remodel
+
+def create_Throne_Room():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.money = botValue(0, lambda: None)
+    cardParams.actions = botValue(0, lambda: None, 'Worth 1 if you use it on an action (sort of)')
+    cardParams.draws = botValue(0, lambda: None)
+    cardParams.buys = botValue(0, True)
+    cardParams.vp = botValue(0, True)
+    cardParams.cantrip = botValue(False, True)
+    cardParams.beneficial = botValue(False, True)
+    return cardParams
+cardFns['Throne Room'] = create_Throne_Room
 # Incomplete - uhhhh
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(1)
-cardParams.actions = botValue(1)
-cardParams.money = botValue(1)
-createCard('Poacher', cardParams)
+def create_Poacher(numEmptyPiles=None):
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(1)
+    cardParams.actions = botValue(1)
+    cardParams.money = botValue(1)
+
+    if numEmptyPiles is None:
+        cardParams.discards = botValue(0, lambda: None, 'Discards if there are empty supply piles')
+    elif numEmptyPiles is not None:
+        cardParams.discards = botValue(numEmptyPiles)
+
+    return cardParams
+cardFns['Poacher'] = create_Poacher
 # Incomplete - discarding
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(2)
-cardParams.actions = botValue(1)
-createCard('Laboratory', cardParams)
+def create_Laboratory():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(2)
+    cardParams.actions = botValue(1)
+    return cardParams
+cardFns['Laboratory'] = create_Laboratory
 
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.actions = botValue(2)
-cardParams.money = botValue(2)
-cardParams.buys = botValue(1)
-createCard('Festival', cardParams)
+def create_Festival():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.actions = botValue(2)
+    cardParams.money = botValue(2)
+    cardParams.buys = botValue(1)
+    return cardParams
+cardFns['Festival'] = create_Festival
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.money = botValue(1)
-cardParams.draws = botValue(1)
-cardParams.actions = botValue(1)
-cardParams.buys = botValue(1)
-createCard('Market', cardParams)
+def create_Market():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.money = botValue(1)
+    cardParams.draws = botValue(1)
+    cardParams.actions = botValue(1)
+    cardParams.buys = botValue(1)
+    return cardParams
+cardFns['Market'] = create_Market
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.isAttack = True
-createCard('Bandit', cardParams)
+def create_Bandit():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesAttack = True
+    return cardParams
+cardFns['Bandit'] = create_Bandit
 # Incomplete - gain gold, attack
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.money = botValue(1, lambda: None, 'Only worth 1 if you have an upgradable treasure', 100)
-createCard('Mine', cardParams)
+def create_Mine(hasUpgradableTreasure=None):
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesTrash = botValue(True)
+
+    if hasUpgradableTreasure is None:
+        cardParams.money = botValue(1, lambda: None, 'Only worth 1 if you have an upgradable treasure', 100)
+    elif hasUpgradableTreasure:
+        cardParams.money = botValue(1)
+    elif not hasUpgradableTreasure:
+        cardParams.money = botValue(0)
+
+    return cardParams
+cardFns['Mine'] = create_Mine
 # Incomplete - trash, beneficial???
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(4)
-cardParams.buys = botValue(1)
-createCard('Council Room', cardParams)
+def create_Council_Room():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(4)
+    cardParams.buys = botValue(1)
+    return cardParams
+cardFns['Council Room'] = create_Council_Room
 # Incomplete - Opponent Gain
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(1)
-cardParams.actions = botValue(1)
-createCard('Sentry', cardParams)
+def create_Sentry():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.draws = botValue(1)
+    cardParams.actions = botValue(1)
+    cardParams.doesTrash = botValue(True)
+    cardParams.doesSift = botValue(True)
+    return cardParams
+cardFns['Sentry'] = create_Sentry
 # Incomplete - trashing/discarding/ordering
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.draws = botValue(3, lambda: None, 'Draws up to 7')
-createCard('Library', cardParams)
-# Incomplete - drawing, discarding?
+def create_Library(numDraws=None):
+    cardParams = CardParams()
+    cardParams.isAction = True
+    if numDraws is None:
+        cardParams.draws = botValue(3, lambda: None, 'Draws up to 7')
+    elif numDraws is not None:
+        cardParams.draws = botValue(numDraws)
+    return cardParams
+cardFns['Library'] = create_Library
+# Incomplete - discarding?
 
-cardParams.reset()
-cardParams.isAction = True
-cardParams.isAttack = True
-cardParams.draws = botValue(2)
-createCard('Witch', cardParams)
-# Incomplete - attack
+def create_Witch():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesAttack = True
+    cardParams.draws = botValue(2)
+    return cardParams
+cardFns['Witch'] = create_Witch
 
-cardParams.reset()
-cardParams.isAction = True
-createCard('Artisan', cardParams)
-# Incomplete - gain to hand
+def create_Artisan():
+    cardParams = CardParams()
+    cardParams.isAction = True
+    cardParams.doesGain = botValue(True)
+    cardParams.discard = botValue(1)
+    return cardParams
+cardFns['Artisan'] = create_Artisan
+# Incomplete - is this truly a discard?
 
 def getCard(name):
-    if name not in cards:
+    if name not in cardFns:
         logError('name \'%s\' not found' % name)
-    return cards[name]
+    return Card(name, cardFns[name]())
