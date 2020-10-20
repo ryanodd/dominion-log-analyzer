@@ -1,5 +1,4 @@
 from alchemist.card import getCard
-from game.card.gCard import CardType
 
 class CardsReport:
     def __init__(self, value, messages=[]):
