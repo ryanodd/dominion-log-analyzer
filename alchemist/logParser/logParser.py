@@ -1,7 +1,7 @@
 from enum import Enum
 
-from utils.dominionOnlineLogParser.strings import * # all prefixed with s_ or r_
-from utils.dominionOnlineLogParser.cardNames import getCardByName
+from alchemist.logParser.strings import * # all prefixed with s_ or r_
+from alchemist.logParser.cardNames import getCardByName
 from game.gameState import GameState
 from game.playerState import PlayerState
 from utils.log import log, logError

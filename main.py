@@ -3,9 +3,9 @@ import json
 import os
 
 from game.gameState import GameState
-from utils.dominionOnlineLogParser.logParser import logToGameState
+from alchemist.logParser.logParser import logToGameState
 from utils.cardSorter import sortCardsByTypeThenCost
-from bot.cardInfoUtils import getCardsReport, CardsReport
+from alchemist.cardUtils import getCardsReport, CardsReport
 
 # CORS decorator
 def enable_cors(fn):

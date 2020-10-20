@@ -2,10 +2,10 @@ import copy
 from utils.mathUtils import nCr
 
 from utils.log import logBot, logError
-from game.card.gCard import Card, CardType
+from game.card.gCard import GCard, CardType
 from game.choice import Choice
 from utils.cardUtils import isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
-from bot.cardInfo import getCardInfo
+from alchemist.card import getCard
 
 def chooseBuy(choice, gameState, choosingPlayerIndex):
     player = gameState.player[choosingPlayerIndex]
@@ -70,11 +70,11 @@ def calcATM_Math(deck):
 
     for card in deck:
         if (isCardTerminal(card)):
-            totalTerminalDraws +=getCardInfo(card.name).draws.value
-            totalTerminalMoney += getCardInfo(card.name).money.value
+            totalTerminalDraws +=getCard(card.name).draws.value
+            totalTerminalMoney += getCard(card.name).money.value
         else:
-            totalNonTerminalDraws += getCardInfo(card.name).draws.value
-            totalNonTerminalMoney += getCardInfo(card.name).money.value
+            totalNonTerminalDraws += getCard(card.name).draws.value
+            totalNonTerminalMoney += getCard(card.name).money.value
 
     terminalsPerCard = totalTerminals / deckSize
     drawsPerTerminal = totalTerminalDraws / totalTerminals

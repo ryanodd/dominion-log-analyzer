@@ -1,5 +1,5 @@
 from game.card.gCard import CardType
-from bot.cardInfo import getCardInfo
+from alchemist.card import getCard
 
 def chooseAction(choice, gameState, choosingPlayerIndex):
     player = gameState.players[choosingPlayerIndex]
@@ -17,7 +17,7 @@ def chooseAction(choice, gameState, choosingPlayerIndex):
         return bestChoice  
 
 def actionPriority(name):
-    cardInfo = getCardInfo(name)
+    cardInfo = getCard(name)
     if not cardInfo.beneficial.value:
         return 0
     elif cardInfo.actions.value >= 1:

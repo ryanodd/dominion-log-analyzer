@@ -2,7 +2,7 @@ from game.card.gCard import GCard, CardType
 from game.choice import Choice, ChoiceID, getChoice
 from game.gameState import GameState
 from game.playerState import GainType
-from utils.cardUtils import cardCountByName, cardCountByType
+from game.card.gCardUtils import cardCountByName, cardCountByType
 from utils.log import logError
 
 # TODO: if we want gamestates to be continuable mid-choice then we need to break up card step fns before & after choices

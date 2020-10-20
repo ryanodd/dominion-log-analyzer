@@ -1,10 +1,10 @@
 from enum import Enum
 from game.card.gCard import CardType
 from game.choice import ChoiceID
-from bot.cardInfo import getCardInfo
-from bot.choose.chooseAction import chooseAction
-from bot.choose.chooseTreasure import chooseTreasure
-from bot.choose.chooseBuy import chooseBuy
+from alchemist.card import getCard
+from choose.chooseAction import chooseAction
+from choose.chooseTreasure import chooseTreasure
+from choose.chooseBuy import chooseBuy
 
 choosers = {}
 
@@ -79,7 +79,7 @@ choosers[ChoiceID.MONEYLENDER] = chooseMoneylenderByIsCopper
 # TODO: this just references the top of the discard, not guaranteed to be it. Eventually each card needs a reference??
 def chooseVassalByBeneficial(choice, gameState, choosingPlayerIndex):
   cardInQuestion = gameState.players[choosingPlayerIndex].discard[-1]
-  return getCardInfo(cardInQuestion.name).beneficial
+  return getCard(cardInQuestion.name).beneficial
 choosers[ChoiceID.VASSAL] = chooseVassalByBeneficial
 
   # LT = Long Term

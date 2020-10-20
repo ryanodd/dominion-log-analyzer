@@ -1,5 +1,5 @@
 from utils.log import logError
-from bot.botTypes import botValue
+from alchemist.botTypes import botValue
 from game.card.gCardFactory import getGCard
 from game.card.gCard import CardType
 
