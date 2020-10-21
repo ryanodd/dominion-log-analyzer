@@ -14,8 +14,8 @@ def getDeckReport(player):
 
     deckReport['cardNameList'] = []
     cards = sortCardsByTypeThenCost(cards)
-    for name in cards:
-        deckReport['cardNameList'].append(name)
+    for card in cards:
+        deckReport['cardNameList'].append(card.name)
 
     deckReport['numCards'] = len(player.cardNames)
 
@@ -28,14 +28,14 @@ def getDeckReport(player):
         deckReport[fieldName] = getValueSumReport(cards, fieldName).__dict__
 
     fieldsToReport_Sum = [\
-        'totalMoney',\
-        'totalStops',\
-        'totalDraws',\
-        'totalExtraDraws',\
-        'totalActions',\
-        'totalTerminals',\
-        'totalExtraActions',\
-        'totalBuys'\
+        'money',\
+        'stop',\
+        'draws',\
+        'extraDraws',\
+        'actions',\
+        'terminal',\
+        'extraActions',\
+        'buys'\
     ]
     for fieldName in fieldsToReport_Sum:
         deckReport[fieldName] = getValueSumReport(cards, fieldName).__dict__

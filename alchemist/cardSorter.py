@@ -8,13 +8,13 @@ def sortCardsByTypeThenCost(cards):
   actionCards = []
   otherCards = []
   for card in s:
-    if card.isAction:
+    if card.isAction.value:
       actionCards.append(card)
-    elif card.isVictory:
+    elif card.isVictory.value:
       victoryCards.append(card)
-    elif card.isCurse:
+    elif card.isCurse.value:
       curseCards.append(card)
-    elif card.isTreasure:
+    elif card.isTreasure.value:
       treasureCards.append(card)
     else:
       otherCards.append(card)
