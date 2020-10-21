@@ -141,7 +141,6 @@ def create_Cellar(numDiscards=None):
         cardParams.draws = botValue(numDiscards)
     return cardParams
 cardFns['Cellar'] = create_Cellar
-# Incomplete - Discards
 
 def create_Moat():
     cardParams = CardParams()
@@ -200,18 +199,21 @@ def create_Village():
     return cardParams
 cardFns['Village'] = create_Village
 
-def create_Vassal():
+def create_Vassal(willHitAction=None):
     cardParams = CardParams()
     cardParams.isAction = True
     cardParams.money = botValue(2, lambda: None)
-    cardParams.actions = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
-    cardParams.draws = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
-    cardParams.buys = botValue(0, lambda: None)
-    cardParams.vp = botValue(0, lambda: None)
-    cardParams.cantrip = botValue(False, lambda: None)
+    if willHitAction is not None:
+        cardParams.actions = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
+        cardParams.draws = botValue(0, lambda: None, 'Worth 1 if it hits an action card')
+    elif willHitAction:
+        cardParams.actions = botValue(1)
+        cardParams.draws = botValue(1)
+    elif not willHitAction:
+        cardParams.actions = botValue(0)
+        cardParams.draws = botValue(0)
     return cardParams
 cardFns['Vassal'] = create_Vassal
-# Incomplete - uhhhh
 
 def create_Bureaucrat():
     cardParams = CardParams()
@@ -220,7 +222,6 @@ def create_Bureaucrat():
     cardParams.doesAttack = True
     return cardParams
 cardFns['Bureaucrat'] = create_Bureaucrat
-# Incomplete - gain silver to deck, attack
 
 def create_Militia():
     cardParams = CardParams()
@@ -229,7 +230,6 @@ def create_Militia():
     cardParams.doesAttack = True
     return cardParams
 cardFns['Militia'] = create_Militia
-# Incomplete - attack
 
 def create_Gardens(deckSize=None):
     cardParams = CardParams()
@@ -241,7 +241,6 @@ def create_Gardens(deckSize=None):
         cardParams.vp = botValue(math.floor(deckSize / 10))
     return cardParams
 cardFns['Gardens'] = create_Gardens
-# Incomplete - vp calc
 
 def create_Smithy():
     cardParams = CardParams()
@@ -265,7 +264,8 @@ def create_Moneylender(doesTrashCopper=None):
     cardParams.beneficial = botValue(False, lambda: None)
     return cardParams
 cardFns['Moneylender'] = create_Moneylender
-# Incomplete - decision (is doesTrash really always true?)
+# I think the 'does' fields should never be calculated. It should not worry about beneficiality.
+# Users can figure that out for themselves.
 
 def create_Remodel():
     cardParams = CardParams()
@@ -276,19 +276,19 @@ def create_Remodel():
     return cardParams
 cardFns['Remodel'] = create_Remodel
 
-def create_Throne_Room():
+def create_Throne_Room(cardNameToCopy):
     cardParams = CardParams()
     cardParams.isAction = True
-    cardParams.money = botValue(0, lambda: None)
-    cardParams.actions = botValue(0, lambda: None, 'Worth 1 if you use it on an action (sort of)')
-    cardParams.draws = botValue(0, lambda: None)
-    cardParams.buys = botValue(0, True)
-    cardParams.vp = botValue(0, True)
-    cardParams.cantrip = botValue(False, True)
-    cardParams.beneficial = botValue(False, True)
+
+    if cardNameToCopy is None:
+        cardParams.actions = botValue(0, lambda: None, 'Worth 1 if you use it on an action (sort of)')
+    elif cardNameToCopy:
+        cardParams = cardFns[cardNameToCopy]()
+        cardParams.isAction = True
+        cardParams.actions.value += 1
+
     return cardParams
 cardFns['Throne Room'] = create_Throne_Room
-# Incomplete - uhhhh
 
 def create_Poacher(numEmptyPiles=None):
     cardParams = CardParams()
@@ -304,7 +304,6 @@ def create_Poacher(numEmptyPiles=None):
 
     return cardParams
 cardFns['Poacher'] = create_Poacher
-# Incomplete - discarding
 
 def create_Laboratory():
     cardParams = CardParams()
@@ -313,7 +312,6 @@ def create_Laboratory():
     cardParams.actions = botValue(1)
     return cardParams
 cardFns['Laboratory'] = create_Laboratory
-
 
 def create_Festival():
     cardParams = CardParams()
@@ -337,10 +335,10 @@ cardFns['Market'] = create_Market
 def create_Bandit():
     cardParams = CardParams()
     cardParams.isAction = True
+    cardParams.doesGain = True
     cardParams.doesAttack = True
     return cardParams
 cardFns['Bandit'] = create_Bandit
-# Incomplete - gain gold, attack
 
 def create_Mine(hasUpgradableTreasure=None):
     cardParams = CardParams()
@@ -356,7 +354,6 @@ def create_Mine(hasUpgradableTreasure=None):
 
     return cardParams
 cardFns['Mine'] = create_Mine
-# Incomplete - trash, beneficial???
 
 def create_Council_Room():
     cardParams = CardParams()
@@ -373,10 +370,9 @@ def create_Sentry():
     cardParams.draws = botValue(1)
     cardParams.actions = botValue(1)
     cardParams.doesTrash = botValue(True)
-    cardParams.doesSift = botValue(True)
     return cardParams
 cardFns['Sentry'] = create_Sentry
-# Incomplete - trashing/discarding/ordering
+# Incomplete - discarding/ordering
 
 def create_Library(numDraws=None):
     cardParams = CardParams()
@@ -387,7 +383,7 @@ def create_Library(numDraws=None):
         cardParams.draws = botValue(numDraws)
     return cardParams
 cardFns['Library'] = create_Library
-# Incomplete - discarding?
+# Incomplete - discarding(sifting)?
 
 def create_Witch():
     cardParams = CardParams()
@@ -401,10 +397,9 @@ def create_Artisan():
     cardParams = CardParams()
     cardParams.isAction = True
     cardParams.doesGain = botValue(True)
-    cardParams.discard = botValue(1)
+    cardParams.discard = botValue(1) # Is this truly a discard? Thinkin bout Secret Passage
     return cardParams
 cardFns['Artisan'] = create_Artisan
-# Incomplete - is this truly a discard?
 
 def getCard(name):
     if name not in cardFns:
