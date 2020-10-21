@@ -1,5 +1,5 @@
 from game.choice import Choice, ChoiceID
-from bot.choose.choosers import getChooser
+from choose.choosers import getChooser
 
 # self.options = options
 # if ("provincePatience" not in self.options): self.options["provincePatience"] = 0

@@ -2,10 +2,8 @@ from bottle import route, run, template, response, request
 import json
 import os
 
-from game.gameState import GameState
-from alchemist.logParser.logParser import logToGameState
-from utils.cardSorter import sortCardsByTypeThenCost
-from alchemist.cardUtils import getCardsReport, CardsReport
+from alchemist.logParser.logParser import logToGame
+from alchemist.deckReport.deckReport import getDeckReport
 
 # CORS decorator
 def enable_cors(fn):
@@ -30,37 +28,21 @@ def enable_cors(fn):
 @route('/logParser', method=['POST', 'OPTIONS'])
 @enable_cors
 def parseThatLogBoi():
+    response.headers['Content-Type'] = "application/json"
     payload = json.load(request.body)
 
-    gameState = logToGameState(payload['logStr'])
+    game = logToGame(payload['logStr'])
+
+    deckReports = []
+    for player in game.players:
+        deckReports.append(getDeckReport(player))
+
+    # Unused error snippet
     if False:
         response.status = 500
 
-    deckInfos = []
-    for player in gameState.players:
-        deckInfo = {}
-        deckInfo['playerName'] = player.name
-        deckInfo['playerInitial'] = player.name[0]
-        
-        deckInfo['cardNameList'] = []
-        player.deck = sortCardsByTypeThenCost(player.deck)
-        for card in player.deck:
-            deckInfo['cardNameList'].append(card.name)
-        
-        deckInfo['numCards'] = CardsReport(len(player.deck)).__dict__
-        deckInfo['totalMoney'] = getCardsReport(player.deck, 'money').__dict__
-        deckInfo['totalStops'] = getCardsReport(player.deck, 'stop').__dict__
-        deckInfo['totalDraws'] = getCardsReport(player.deck, 'draws').__dict__
-        deckInfo['totalExtraDraws'] = getCardsReport(player.deck, 'extraDraws').__dict__
-        deckInfo['totalActions'] = getCardsReport(player.deck, 'actions').__dict__
-        deckInfo['totalTerminals'] = getCardsReport(player.deck, 'terminal').__dict__
-        deckInfo['totalExtraActions'] = getCardsReport(player.deck, 'extraActions').__dict__
-        deckInfo['totalBuys'] = getCardsReport(player.deck, 'buys').__dict__
-
-        deckInfos.append(deckInfo)
-
-    response.headers['Content-Type'] = "application/json"
-    return {'deckInfos': deckInfos}
+    
+    return {'deckReports': deckReports}
 
 if 'PORT' in os.environ.keys():
     run(host='0.0.0.0', port=os.environ['PORT'])

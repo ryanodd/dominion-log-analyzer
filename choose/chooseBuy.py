@@ -4,7 +4,7 @@ from utils.mathUtils import nCr
 from utils.log import logBot, logError
 from game.card.gCard import GCard, CardType
 from game.choice import Choice
-from utils.cardUtils import isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
+from game.card.gCardUtils import isCardTerminal, terminalCount, cardCountByName, extraActionCount, totalDraws
 from alchemist.card import getCard
 
 def chooseBuy(choice, gameState, choosingPlayerIndex):

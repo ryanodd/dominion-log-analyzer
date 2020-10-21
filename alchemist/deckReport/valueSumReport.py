@@ -1,11 +1,13 @@
 from alchemist.card import getCard
+from alchemist.deckReport.valueReport import ValueReport
 
-class CardsReport:
-    def __init__(self, value, messages=[]):
-        self.value = value
-        self.messages = messages
+def getValueSumReports(cards, fieldNames):
+    values = []
+    for fieldName in fieldNames:
+        values.append(getValueSumReport(cards, fieldName))
+    return values
 
-def getCardsReport(cards, fieldName):
+def getValueSumReport(cards, fieldName):
     valueSum = 0
     messages = []
     for card in cards:
@@ -15,4 +17,5 @@ def getCardsReport(cards, fieldName):
             messageToAdd = (card.name + ' = ' + str(valueObj.value) + ' ' + fieldName + ' (' + valueObj.message + ')')
             if messageToAdd not in messages:
                 messages.append(messageToAdd)
-    return CardsReport(valueSum, messages)
+    return ValueReport(valueSum, messages)
+
