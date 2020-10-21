@@ -2,6 +2,7 @@ from alchemist.cardSorter import sortCardsByTypeThenCost
 from alchemist.deckReport.valueSumReport import getValueSumReport
 from alchemist.deckReport.cardsWhereBoolValueReport import getCardsWhereBoolReport
 from alchemist.card import getCard
+from alchemist.deckReport.valueReport import ValueReport
 
 def getDeckReport(player):
     cards = []
@@ -17,16 +18,18 @@ def getDeckReport(player):
     for card in cards:
         deckReport['cardNameList'].append(card.name)
 
-    deckReport['numCards'] = len(player.cardNames)
-
+    cardListReports = {}
     fieldsToReport_Bool = [\
         'doesGain',\
         'doesTrash',\
         'isAttack'\
     ]
     for fieldName in fieldsToReport_Bool:
-        deckReport[fieldName] = getValueSumReport(cards, fieldName).__dict__
+        cardListReports[fieldName] = getValueSumReport(cards, fieldName).__dict__
+    deckReport['cardListReports'] = cardListReports
 
+    numberReports = {}
+    numberReports['card'] = ValueReport(len(player.cardNames), []).__dict__
     fieldsToReport_Sum = [\
         'money',\
         'stop',\
@@ -38,6 +41,7 @@ def getDeckReport(player):
         'buys'\
     ]
     for fieldName in fieldsToReport_Sum:
-        deckReport[fieldName] = getValueSumReport(cards, fieldName).__dict__
+        numberReports[fieldName] = getValueSumReport(cards, fieldName).__dict__
+    deckReport['numberReports'] = cardListReports
     
     return deckReport
