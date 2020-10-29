@@ -24,7 +24,7 @@ def getDeckReport(player):
         'isAttack'\
     ]
     for fieldName in fieldsToReport_Bool:
-        deckReport[fieldName] = getValueSumReport(cards, fieldName).__dict__
+        deckReport[fieldName] = getCardsWhereBoolReport(cards, fieldName).__dict__
 
     deckReport['card'] = ValueReport(len(player.cardNames), []).__dict__
     fieldsToReport_Sum = [\
