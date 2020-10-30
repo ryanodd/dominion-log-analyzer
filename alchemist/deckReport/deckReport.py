@@ -18,15 +18,18 @@ def getDeckReport(player):
     for card in cards:
         deckReport['cardNameList'].append(card.name)
 
+    deckReport['cardListReports'] = {}
     fieldsToReport_Bool = [\
         'doesGain',\
         'doesTrash',\
         'isAttack'\
     ]
     for fieldName in fieldsToReport_Bool:
-        deckReport[fieldName] = getCardsWhereBoolReport(cards, fieldName).__dict__
+        deckReport['cardListReports'][fieldName] = getCardsWhereBoolReport(cards, fieldName).__dict__
 
     deckReport['card'] = ValueReport(len(player.cardNames), []).__dict__
+    
+    deckReport['numberReports'] = {}
     fieldsToReport_Sum = [\
         'money',\
         'stop',\
@@ -38,7 +41,8 @@ def getDeckReport(player):
         'buys'\
     ]
     # TODO: Money Density (Effective Money Density)
+    deckReport['numberReports']['card'] = ValueReport(len(player.cardNames), []).__dict__
     for fieldName in fieldsToReport_Sum:
-        deckReport[fieldName] = getValueSumReport(cards, fieldName).__dict__
+        deckReport['numberReports'][fieldName] = getValueSumReport(cards, fieldName).__dict__
     
     return deckReport
