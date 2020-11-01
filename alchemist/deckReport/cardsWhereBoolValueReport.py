@@ -18,8 +18,8 @@ def getCardsWhereBoolReport(cards, fieldName):
         if valueObj.value is not None and valueObj.value:
             returnCardNames.append(card.name)
 
-        if valueObj.message != '':
-            messageToAdd = (card.name + ' = ' + str(valueObj.value) + ' ' + fieldName + ' (' + valueObj.message + ')')
+        for message in valueObj.messages:
+            messageToAdd = (card.name + ' = ' + str(valueObj.value) + ' ' + fieldName + ' (' + message + ')')
             if messageToAdd not in messages:
                 messages.append(messageToAdd)
 

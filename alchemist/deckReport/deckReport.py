@@ -32,13 +32,15 @@ def getDeckReport(player):
     deckReport['numberReports'] = {}
     fieldsToReport_Sum = [\
         'money',\
-        'stop',\
+        'stops',\
         'draws',\
         'extraDraws',\
         'actions',\
         'terminal',\
         'extraActions',\
-        'buys'\
+        'buys',\
+        'effectiveStops',\
+        'effectiveMoneyDensity'\
     ]
     # TODO: Money Density (Effective Money Density)
     deckReport['numberReports']['card'] = ValueReport(len(player.cardNames), []).__dict__

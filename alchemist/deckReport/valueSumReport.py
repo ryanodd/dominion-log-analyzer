@@ -13,8 +13,8 @@ def getValueSumReport(cards, fieldName):
     for card in cards:
         valueObj = getattr(getCard(card.name), fieldName)
         valueSum += valueObj.value
-        if valueObj.message != '':
-            messageToAdd = (card.name + ' = ' + str(valueObj.value) + ' ' + fieldName + ' (' + valueObj.message + ')')
+        for message in valueObj.messages:
+            messageToAdd = (card.name + ' = ' + str(valueObj.value) + ' ' + fieldName + ' (' + message + ')')
             if messageToAdd not in messages:
                 messages.append(messageToAdd)
     return ValueReport(valueSum, messages)
