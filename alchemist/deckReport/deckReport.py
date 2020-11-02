@@ -1,6 +1,7 @@
 from alchemist.cardSorter import sortCardsByTypeThenCost
 from alchemist.deckReport.valueSumReport import getValueSumReport
 from alchemist.deckReport.cardsWhereBoolValueReport import getCardsWhereBoolReport
+from alchemist.deckReport.effectiveMoneyDensityReport import getEffectiveMoneyDensityReport
 from alchemist.card import getCard
 from alchemist.deckReport.valueReport import ValueReport
 
@@ -39,12 +40,11 @@ def getDeckReport(player):
         'terminal',\
         'extraActions',\
         'buys',\
-        'effectiveStops',\
-        'effectiveMoneyDensity'\
     ]
-    # TODO: Money Density (Effective Money Density)
+
     deckReport['numberReports']['card'] = ValueReport(len(player.cardNames), []).__dict__
     for fieldName in fieldsToReport_Sum:
         deckReport['numberReports'][fieldName] = getValueSumReport(cards, fieldName).__dict__
+    deckReport['numberReports']['effectiveMoneyDensity'] = getEffectiveMoneyDensityReport(cards).__dict__
     
     return deckReport

@@ -84,8 +84,6 @@ class Card:
         self.extraActions = CardValue(max(0, self.actions.value - 1), self.actions.messages)
         self.terminal = CardValue(self.isAction.value and self.actions.value == 0, self.actions.messages)
         self.stops = CardValue(self.draws.value == 0, self.draws.messages)
-        self.effectiveStops = CardValue(self.stops.value - self.extraDraws.value, self.extraDraws.messages + self.stops.messages)
-        self.effectiveMoneyDensity = CardValue(self.money.value / max(1, self.effectiveStops.value), self.money.messages + self.effectiveStops.messages)
 
 # Maps card names to Card constructors
 cardFns = {}
