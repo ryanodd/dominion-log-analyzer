@@ -33,7 +33,7 @@ def getDeckReport(player):
     deckReport['numberReports'] = {}
     fieldsToReport_Sum = [\
         'money',\
-        'stops',\
+        'stop',\
         'draws',\
         'extraDraws',\
         'actions',\

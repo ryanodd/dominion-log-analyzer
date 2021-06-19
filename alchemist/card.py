@@ -83,7 +83,7 @@ class Card:
         self.extraDraws = CardValue(max(0, self.draws.value - 1), self.draws.messages)
         self.extraActions = CardValue(max(0, self.actions.value - 1), self.actions.messages)
         self.terminal = CardValue(self.isAction.value and self.actions.value == 0, self.actions.messages)
-        self.stops = CardValue(self.draws.value == 0, self.draws.messages)
+        self.stop = CardValue(self.draws.value == 0, self.draws.messages)
 
 # Maps card names to Card constructors
 cardFns = {}
@@ -495,6 +495,7 @@ def create_Masquerade():
     cardParams = CardParams()
     cardParams.isAction = CardValue(True)
     cardParams.cost = CardValue(3)
+    cardParams.draws = CardValue(2)
     cardParams.doesTrash = CardValue(True)
     return cardParams
 cardFns['Masquerade'] = create_Masquerade
