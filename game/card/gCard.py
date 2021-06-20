@@ -10,24 +10,23 @@ class CardType(Enum):
 
 class CardSet(Enum):
 
+    PROMO = 0
+
     BASE = 1
     INTRIGUE = 2
 
     SEASIDE = 3
-    PROSPERITY = 4
-    HINTERLANDS = 5
-    DARKAGES = 6
-    ADVENTURES = 7
-    EMPIRES = 8
-    NOCTURNE = 9
-    RENAISSANCE = 10
-    MENAGERIE = 11
-
-    ALCHEMY = 12
-    CORNUCOPIA = 13
-    GUILDS = 14
-
-    PROMO = 15
+    ALCHEMY = 4
+    PROSPERITY = 5
+    CORNUCOPIA = 6
+    HINTERLANDS = 7
+    DARKAGES = 8
+    GUILDS = 9
+    ADVENTURES = 10
+    EMPIRES = 11
+    NOCTURNE = 12
+    RENAISSANCE = 13
+    MENAGERIE = 14
 
 # Game Card. ONLY data needed to execute the game. May not end up using this.
 class GCard:
