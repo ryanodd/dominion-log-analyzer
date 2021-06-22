@@ -1,4 +1,5 @@
 import json
+from logAnalyzer.utils.logger import logGame
 from logAnalyzer.logParser.logParser import logToGame
 from logAnalyzer.deckReport.deckListReport import getDeckListReport
 
@@ -10,6 +11,8 @@ def lambda_handler(event, context):
     print(gameLogStr)
 
     game = logToGame(gameLogStr)
+
+    logGame(game)
 
     deckReports = []
     for player in game.players:

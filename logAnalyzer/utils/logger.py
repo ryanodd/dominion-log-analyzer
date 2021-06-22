@@ -1,6 +1,14 @@
 import sys
 
 
+def logGame(game):
+    print('GAME:')
+    for player in game.players:
+        print(player.name, '  (', player.initial, ')')
+        for card in player.cardNames:
+            print('    ', card)
+
+
 def logError(message):
     print('ERROR:')
     print(message)

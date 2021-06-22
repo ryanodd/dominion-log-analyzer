@@ -46,7 +46,10 @@ def cardNamesFromLogStrings(words, firstWordIndex):
             i += 1
         if nameString[-1] == '.' or nameString[-1] == ',':
             nameString = nameString[0:-1]
-        listToReturn += ([getFilteredCardName(nameString)] * cardQuantity)
+        cardName = getFilteredCardName(nameString)
+        if (cardName is None):
+            logErrorAndExit('Could not find card name: ' + nameString)
+        listToReturn += ([cardName] * cardQuantity)
         i += 1
     return listToReturn
 
@@ -62,7 +65,7 @@ def playerNamesParse(logString, game):
 
     for line in lines:
         words = line.split()
-        if len(words) >= 3 and validateWordSequence(words[1:3], [s_intro_starts, s_intro_With]):
+        if len(words) >= 3 and validateWordSequence(words[1:3], [s_intro_starts, s_intro_with]):
             if game.getPlayerByInitial(words[0]) is None:
                 player = Player()
                 player.initial = words[0]
@@ -96,7 +99,7 @@ def getFunctionForLine(words, game):
         return None
     if len(words) >= 3 and validateWordSequence(words[0:3], [s_turn, r_number, s_hyphen]):
         return parseTurnLine
-    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_intro_starts]):
+    if len(words) >= 3 and validateWordSequence(words[0:2], [r_playerLetter, s_intro_starts, s_their]):
         return parseDeckStartLine
     if len(words) >= 4 and validateWordSequence(words[0:4], [r_playerLetter, s_buys, s_and, s_gains]):
         return parseBuyLine

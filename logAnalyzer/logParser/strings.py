@@ -11,7 +11,7 @@ r_moneyIndicator = re.compile('\(\+\$[0-9]+\)')
 s_intro_game = 'Game'
 s_intro_unrated = 'unrated'
 s_intro_starts = 'starts'
-s_intro_With = 'with'
+s_intro_with = 'with'
 
 s_turn = 'Turn'
 

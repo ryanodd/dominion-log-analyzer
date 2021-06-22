@@ -932,8 +932,8 @@ nameFilter['Wild Hunts'] = 'Wild Hunt'
 
 ###############################################
 
-nameFilter['Will-o\'Wisp'] = 'Will-o\'Wisp'
-nameFilter['Will-o\'Wisps'] = 'Will-o\'Wisp'
+nameFilter['Will-o\'-Wisp'] = 'Will-o\'-Wisp'
+nameFilter['Will-o\'-Wisps'] = 'Will-o\'-Wisp'
 
 nameFilter['Wish'] = 'Wish'
 nameFilter['Wishes'] = 'Wish'
