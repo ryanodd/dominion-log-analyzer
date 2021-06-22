@@ -1,11 +1,2 @@
-This program simulates games of Dominion, given certain strategies.
-
-The goal is to use simulation statistics to show which strategies are the best or most consistent.
-
-Bot (strategy) types:
-- Big Money (always buy the highest treaure available, except for provinces)
-- More coming
-
-#Installation
-This script requires the python packages `seaborn`:
-pip install seaborn
+A python server for AWS, deployed as a .zip
+it consumes game logs for Dominion, and returns some stats.

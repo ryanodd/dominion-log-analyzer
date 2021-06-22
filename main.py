@@ -2,8 +2,8 @@ from bottle import route, run, template, response, request
 import json
 import os
 
-from alchemist.logParser.logParser import logToGame
-from alchemist.deckReport.deckReport import getDeckReport
+from logAnalyzer.logParser.logParser import logToGame
+from logAnalyzer.deckReport.deckReport import getDeckReport
 
 # CORS decorator
 def enable_cors(fn):
