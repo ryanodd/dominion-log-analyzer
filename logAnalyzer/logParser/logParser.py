@@ -99,7 +99,7 @@ def getFunctionForLine(words, game):
         return None
     if len(words) >= 3 and validateWordSequence(words[0:3], [s_turn, r_number, s_hyphen]):
         return parseTurnLine
-    if len(words) >= 3 and validateWordSequence(words[0:2], [r_playerLetter, s_intro_starts, s_their]):
+    if len(words) >= 3 and validateWordSequence(words[0:3], [r_playerLetter, s_intro_starts, s_intro_with]):
         return parseDeckStartLine
     if len(words) >= 4 and validateWordSequence(words[0:4], [r_playerLetter, s_buys, s_and, s_gains]):
         return parseBuyLine
