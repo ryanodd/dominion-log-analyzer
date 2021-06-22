@@ -6,6 +6,8 @@ from logAnalyzer.logParser.logParser import logToGame
 from logAnalyzer.deckReport.deckReport import getDeckReport
 
 # CORS decorator
+
+
 def enable_cors(fn):
     def _enable_cors(*args, **kwargs):
         # set CORS headers
@@ -25,6 +27,7 @@ def enable_cors(fn):
 
     return _enable_cors
 
+
 @route('/logParser', method=['POST', 'OPTIONS'])
 @enable_cors
 def parseThatLogBoi():
@@ -41,8 +44,8 @@ def parseThatLogBoi():
     if False:
         response.status = 500
 
-    
     return {'deckReports': deckReports}
+
 
 if 'PORT' in os.environ.keys():
     run(host='0.0.0.0', port=os.environ['PORT'])

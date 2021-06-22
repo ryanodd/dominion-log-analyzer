@@ -3,12 +3,14 @@ from logAnalyzer.cards.intrigueCards import getIntrigueCardFns
 from logAnalyzer.cards.baseCards import getBaseCardFns
 import math
 
-from logAnalyzer.logger.logger import logError
+from logAnalyzer.utils.logger import logError
 from logAnalyzer.logAnalyzerTypes import CardValue
 
 # Used as just a parameter for constructing actual Cards.
 # This makes it easy to implement every card in the game (more defaults, less writing)
 # The Card fields not included in CardParams are generated from the given params.
+
+
 class CardParams:
     def __init__(self):
         self.isAction = CardValue(False)
@@ -22,7 +24,7 @@ class CardParams:
         self.isNight = CardValue(False)
 
         self.cost = CardValue(0)
-        self.potionCost = CardValue(0) # or bool maybe?
+        self.potionCost = CardValue(0)  # or bool maybe?
         self.debtCost = CardValue(0)
 
         self.money = CardValue(0)
@@ -44,10 +46,11 @@ class CardParams:
     def reset(self):
         self.__init__()
 
+
 class Card:
     def __init__(self, name, cardParams):
         self.name = name
-    
+
         self.isAction = cardParams.isAction
         self.isTreasure = cardParams.isTreasure
         self.isVictory = cardParams.isVictory
@@ -61,7 +64,7 @@ class Card:
         self.cost = cardParams.cost
         self.potionCost = cardParams.potionCost
         self.debtCost = cardParams.debtCost
-        
+
         self.money = cardParams.money
         self.draws = cardParams.draws
         self.actions = cardParams.actions
@@ -73,7 +76,7 @@ class Card:
 
         self.doesGain = cardParams.doesGain
         self.doesTrash = cardParams.doesTrash
-        self.doesSift = cardParams.doesSift # First let's define what sifting is
+        self.doesSift = cardParams.doesSift  # First let's define what sifting is
 
         # Deprecated? Base only
         # Interesting one. Used for bot logic only
@@ -82,11 +85,16 @@ class Card:
         # "Computed" values.
         # Careful with these.
         # TODO Can we have card-for-card overriding?
-        self.cantrip = CardValue((self.draws.value > 0 and self.actions.value > 0 ), self.draws.messages + self.actions.messages)
-        self.extraDraws = CardValue(max(0, self.draws.value - 1), self.draws.messages)
-        self.extraActions = CardValue(max(0, self.actions.value - 1), self.actions.messages)
-        self.terminal = CardValue(self.isAction.value and self.actions.value == 0, self.actions.messages)
+        self.cantrip = CardValue(
+            (self.draws.value > 0 and self.actions.value > 0), self.draws.messages + self.actions.messages)
+        self.extraDraws = CardValue(
+            max(0, self.draws.value - 1), self.draws.messages)
+        self.extraActions = CardValue(
+            max(0, self.actions.value - 1), self.actions.messages)
+        self.terminal = CardValue(
+            self.isAction.value and self.actions.value == 0, self.actions.messages)
         self.stop = CardValue(self.draws.value == 0, self.draws.messages)
+
 
 # Maps card names to Card constructors
 cardFns = {}
@@ -98,7 +106,9 @@ cardFns.update(getIntrigueCardFns())
 # Default Values for subjective Cards should be worst-case scenario?
 # We need them even when calculationNeeded for non-recursive mode
 
+
 def getCard(name, paramsList=[]):
     if name not in cardFns:
         logError('name \'%s\' not found' % name)
-    return Card(name, cardFns[name](*paramsList)) # funky syntax, throwing in all params (even 0)
+    # funky syntax, throwing in all params (even 0)
+    return Card(name, cardFns[name](*paramsList))

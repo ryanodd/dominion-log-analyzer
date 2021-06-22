@@ -1,8 +1,11 @@
 class Player:
     def __init__(self):
-        self.name = None # Weird case. Sometimes we can know player initial without name.
-        self.initial = 'X' # In those cases we use initial, so we need a default.
+        # Weird case. Sometimes we can know player initial without name.
+        self.name = None
+        # In those cases we use initial, so we need a default.
+        self.initial = 'X'
         self.cardNames = []
+
 
 class Game:
     def __init__(self):

@@ -3,6 +3,7 @@ def getFilteredCardName(name):
         return nameFilter[name]
     return None
 
+
 nameFilter = {}
 
 nameFilter['Copper'] = 'Copper'
@@ -1277,4 +1278,3 @@ nameFilter['Captains'] = 'Captain'
 
 nameFilter['Prince'] = 'Prince'
 nameFilter['Princes'] = 'Prince'
-

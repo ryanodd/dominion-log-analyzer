@@ -5,6 +5,7 @@ from logAnalyzer.deckReport.effectiveMoneyDensityReport import getEffectiveMoney
 from logAnalyzer.card import getCard
 from logAnalyzer.deckReport.valueReport import ValueReport
 
+
 def getDeckReport(player):
     cards = []
     for name in player.cardNames:
@@ -20,31 +21,35 @@ def getDeckReport(player):
         deckReport['cardNameList'].append(card.name)
 
     deckReport['cardListReports'] = {}
-    fieldsToReport_Bool = [\
-        'doesGain',\
-        'doesTrash',\
-        'isAttack'\
+    fieldsToReport_Bool = [
+        'doesGain',
+        'doesTrash',
+        'isAttack'
     ]
     for fieldName in fieldsToReport_Bool:
-        deckReport['cardListReports'][fieldName] = getCardsWhereBoolReport(cards, fieldName).__dict__
+        deckReport['cardListReports'][fieldName] = getCardsWhereBoolReport(
+            cards, fieldName).__dict__
 
     deckReport['card'] = ValueReport(len(player.cardNames), []).__dict__
-    
+
     deckReport['numberReports'] = {}
-    fieldsToReport_Sum = [\
-        'money',\
-        'stop',\
-        'draws',\
-        'extraDraws',\
-        'actions',\
-        'terminal',\
-        'extraActions',\
-        'buys',\
+    fieldsToReport_Sum = [
+        'money',
+        'stop',
+        'draws',
+        'extraDraws',
+        'actions',
+        'terminal',
+        'extraActions',
+        'buys',
     ]
 
-    deckReport['numberReports']['card'] = ValueReport(len(player.cardNames), []).__dict__
+    deckReport['numberReports']['card'] = ValueReport(
+        len(player.cardNames), []).__dict__
     for fieldName in fieldsToReport_Sum:
-        deckReport['numberReports'][fieldName] = getValueSumReport(cards, fieldName).__dict__
-    deckReport['numberReports']['effectiveMoneyDensity'] = getEffectiveMoneyDensityReport(cards).__dict__
-    
+        deckReport['numberReports'][fieldName] = getValueSumReport(
+            cards, fieldName).__dict__
+    deckReport['numberReports']['effectiveMoneyDensity'] = getEffectiveMoneyDensityReport(
+        cards).__dict__
+
     return deckReport

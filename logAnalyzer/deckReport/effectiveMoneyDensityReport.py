@@ -2,6 +2,8 @@ from logAnalyzer.card import getCard
 from logAnalyzer.deckReport.valueReport import ValueReport
 
 # This is its own report fn (not valueSumReport) because this not a summable statistic
+
+
 def getEffectiveMoneyDensityReport(cards):
     moneySum = 0
     drawsSum = 0
@@ -11,13 +13,15 @@ def getEffectiveMoneyDensityReport(cards):
         moneyValue = getCard(card.name).money
         moneySum += moneyValue.value
         for message in moneyValue.messages:
-            messageToAdd = (card.name + ' = ' + str(moneyValue.value) + ' money (' + message + ')')
+            messageToAdd = (card.name + ' = ' +
+                            str(moneyValue.value) + ' money (' + message + ')')
             if messageToAdd not in messages:
                 messages.append(messageToAdd)
         drawsValue = getCard(card.name).draws
         drawsSum += drawsValue.value
         for message in drawsValue.messages:
-            messageToAdd = (card.name + ' = ' + str(drawsValue.value) + ' draws (' + message + ')')
+            messageToAdd = (card.name + ' = ' +
+                            str(drawsValue.value) + ' draws (' + message + ')')
             if messageToAdd not in messages:
                 messages.append(messageToAdd)
     numCards = len(cards)
