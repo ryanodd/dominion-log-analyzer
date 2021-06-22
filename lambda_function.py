@@ -1,29 +1,28 @@
 import json
 from logAnalyzer.logParser.logParser import logToGame
-from logAnalyzer.deckReport.deckReport import getDeckReport
+from logAnalyzer.deckReport.deckListReport import getDeckListReport
 
 
 def lambda_handler(event, context):
-  payload = json.load(event.body)
+    payload = json.loads(event['body'])
+    gameLogStr = payload['logStr']
+    print('GAME LOG:')
+    print(gameLogStr)
 
-  game = logToGame(payload['logStr'])
+    game = logToGame(gameLogStr)
 
-  deckReports = []
-  for player in game.players:
-    deckReports.append(getDeckReport(player))
+    deckReports = []
+    for player in game.players:
+        deckReports.append(getDeckListReport(player))
 
-  # Unused error snippet
-  if False:
+    returnJson = json.dumps({
+        'deckReports': deckReports
+    })
+
     return {
-      'statusCode': 500
+        'statusCode': 200,
+        'headers': {
+            'Content-Type': 'application/json'
+        },
+        'body': returnJson
     }
-
-  return {
-    'statusCode': 200,
-    'headers': {
-      'Content-Type': 'application/json'
-    },
-    'body': {
-      'deckReports': deckReports
-    }
-  }

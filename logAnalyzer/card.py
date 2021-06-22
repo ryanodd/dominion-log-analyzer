@@ -1,9 +1,3 @@
-from logAnalyzer.cards.dominionCards import getDominionCardFns
-from logAnalyzer.cards.intrigueCards import getIntrigueCardFns
-from logAnalyzer.cards.baseCards import getBaseCardFns
-import math
-
-from logAnalyzer.utils.logger import logError
 from logAnalyzer.logAnalyzerTypes import CardValue
 
 # Used as just a parameter for constructing actual Cards.
@@ -94,21 +88,3 @@ class Card:
         self.terminal = CardValue(
             self.isAction.value and self.actions.value == 0, self.actions.messages)
         self.stop = CardValue(self.draws.value == 0, self.draws.messages)
-
-
-# Maps card names to Card constructors
-cardFns = {}
-
-cardFns.update(getBaseCardFns())
-cardFns.update(getDominionCardFns())
-cardFns.update(getIntrigueCardFns())
-
-# Default Values for subjective Cards should be worst-case scenario?
-# We need them even when calculationNeeded for non-recursive mode
-
-
-def getCard(name, paramsList=[]):
-    if name not in cardFns:
-        logError('name \'%s\' not found' % name)
-    # funky syntax, throwing in all params (even 0)
-    return Card(name, cardFns[name](*paramsList))

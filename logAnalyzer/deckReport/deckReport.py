@@ -2,7 +2,7 @@ from logAnalyzer.cardSorter import sortCardsByTypeThenCost
 from logAnalyzer.deckReport.valueSumReport import getValueSumReport
 from logAnalyzer.deckReport.cardsWhereBoolValueReport import getCardsWhereBoolReport
 from logAnalyzer.deckReport.effectiveMoneyDensityReport import getEffectiveMoneyDensityReport
-from logAnalyzer.card import getCard
+from logAnalyzer.cards.cards import getCard
 from logAnalyzer.deckReport.valueReport import ValueReport
 
 

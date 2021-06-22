@@ -1,4 +1,4 @@
-from logAnalyzer.card import getCard
+from logAnalyzer.cards.cards import getCard
 from logAnalyzer.deckReport.valueReport import ValueReport
 
 # This is its own report fn (not valueSumReport) because this not a summable statistic

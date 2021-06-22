@@ -3,7 +3,7 @@ from enum import Enum
 from logAnalyzer.logParser.strings import *  # all prefixed with s_ or r_
 from logAnalyzer.logParser.cardNameFilter import getFilteredCardName
 from logAnalyzer.game import Game, Player
-from logAnalyzer.utils.logger import logError
+from logAnalyzer.utils.logger import logErrorAndExit
 from logAnalyzer.utils.pythonUtils import removeItemsFromList
 
 # Takes in 2 lists of words (str/regexp) and returns T/F if matching
@@ -15,14 +15,10 @@ def validateWordSequence(testWords, referenceWords):
         if callable(getattr(referenceWords[wordIndex], 'match', None)):
             # Regular Experession
             if not referenceWords[wordIndex].match(testWords[wordIndex]):
-                logError('Parse Error: ' + testWords[wordIndex] +
-                         'not equal to ' + referenceWords[wordIndex].pattern)
                 return False
         else:
             # String
             if testWords[wordIndex] != referenceWords[wordIndex]:
-                logError('Parse Error: ' + testWords[wordIndex] +
-                         'not equal to ' + referenceWords[wordIndex])
                 return False
     return len(testWords) == len(referenceWords)
 
@@ -54,7 +50,7 @@ def cardNamesFromLogStrings(words, firstWordIndex):
         i += 1
     return listToReturn
 
-# The initial parse , used for gathering # of players and their initials
+# The initial parse, used for gathering # of players and their initials
 # Not using getFunctionForLine approach, since this parse is so janky (yet short).
 # Returns a GameState with:
 # - players with names and initials, but empty decks.
