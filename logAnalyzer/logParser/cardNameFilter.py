@@ -465,8 +465,8 @@ nameFilter['Schemes'] = 'Scheme'
 nameFilter['Tunnel'] = 'Tunnel'
 nameFilter['Tunnels'] = 'Tunnel'
 
-nameFilter['Jack of all Trades'] = 'Jack of all Trades'
-nameFilter['Jacks of all Trades'] = 'Jack of all Trades'
+nameFilter['Jack of All Trades'] = 'Jack of All Trades'
+nameFilter['Jacks of All Trades'] = 'Jack of All Trades'
 
 nameFilter['Noble Brigand'] = 'Noble Brigand'
 nameFilter['Noble Brigands'] = 'Noble Brigand'
