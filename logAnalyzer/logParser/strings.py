@@ -30,13 +30,18 @@ s_returns = 'returns'
 s_card = 'card'
 s_cards = 'cards'
 s_deck = 'deck'
+s_pile = 'pile'
 
 s_their = 'their'
 s_and = 'and'
 s_a = 'a'
 s_an = 'an'
 s_from = 'from'
+s_to = 'to'
+s_the = 'the'
 
 s_hyphen = '-'
 
 s_END = 'Players'
+
+s_Horse = 'Horse'

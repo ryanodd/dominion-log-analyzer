@@ -53,6 +53,9 @@ def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999):
             cardQuantity = int(qtyString)
         elif qtyString == s_a or qtyString == s_an:
             cardQuantity = 1
+        else:
+            logErrorAndExit(
+                'Couldn\'t determine quantity: ' + qtyString)
         loopIndex += 1  # processed quantity
 
         # loop, adding words until we know we can't
@@ -128,6 +131,9 @@ def getFunctionForLine(words, game):
         return parseTrashLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_recieves]):
         return parseRecievesLine
+    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns])\
+            and validateWordSequence(words[:-4], [s_to, s_the, s_Horse, s_pile]):
+        return parseReturnToHorsePileLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns]):
         return parseReturnsLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_exiles]):
@@ -175,10 +181,15 @@ def parseDiscardFromExileLine(words, game):
 
 
 def parseReturnsLine(words, game):
+    removeItemsFromList(game.getPlayerByInitial(
+        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
+
+
+def parseRecievesLine(words, game):
     game.getPlayerByInitial(
         words[0]).cardNames += parseMultipleCardsFromStrings(words, 2)
 
 
-def parseRecievesLine(words, game):
+def parseReturnToHorsePileLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
+        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2, len(words) - 5))
