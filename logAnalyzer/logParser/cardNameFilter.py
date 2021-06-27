@@ -791,7 +791,7 @@ nameFilter['Artificers'] = 'Artificer'
 nameFilter['Bridge Troll'] = 'Bridge Troll'
 nameFilter['Bridge Trolls'] = 'Bridge Troll'
 
-nameFilter['Distand Lands'] = 'Distand Lands'
+nameFilter['Distant Lands'] = 'Distant Lands'
 
 nameFilter['Giant'] = 'Giant'
 nameFilter['Giants'] = 'Giant'

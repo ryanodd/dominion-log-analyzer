@@ -22,35 +22,54 @@ def validateWordSequence(testWords, referenceWords):
                 return False
     return len(testWords) == len(referenceWords)
 
+# Looks for an exact match with the words given.
+# This only adds spaces and removes commas/periods
 
-def cardNamesFromLogStrings(words, firstWordIndex):
-    words = words[firstWordIndex:]
+
+def parseSingleCardFromStrings(words):
+    nameString = " ".join(words)
+    if nameString[-1] == '.' or nameString[-1] == ',':
+        nameString = nameString[0:-1]
+    return getFilteredCardName(nameString)
+
+
+def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999):
+    if lastWordIndex < len(words):
+        words = words[firstWordIndex:lastWordIndex+1]
+    else:
+        words = words[firstWordIndex:]
     listToReturn = []
-    "J draws 2 Coppers, a Silver, an Estate and a Groom."
-    i = 0
-    while i < len(words):
-        if words[i] == s_and:
-            i += 1
-        qtyString = words[i]
+    "2 Coppers, a Bridge, a Bridge Troll, an Estate, and a Jack of All Trades."
+    loopIndex = 0
+    while loopIndex < len(words):
+
+        # Skip 'and'
+        if words[loopIndex] == s_and:
+            loopIndex += 1
+
+        # Determine quantity
+        qtyString = words[loopIndex]
         if r_number.match(qtyString):
             cardQuantity = int(qtyString)
         elif qtyString == s_a or qtyString == s_an:
             cardQuantity = 1
-        i += 1  # processed qty
-        nameString = words[i]
+        loopIndex += 1  # processed quantity
+
         # loop, adding words until we know we can't
-        while(True):
-            if i == (len(words)-1) or (getFilteredCardName(nameString) is not None and getFilteredCardName(nameString + ' ' + words[i+1]) is None):
+        nameBeginIndex = loopIndex
+        while(loopIndex < len(words)):
+            if parseSingleCardFromStrings(words[nameBeginIndex:loopIndex+1]) is not None\
+                    and not (loopIndex + 1 < len(words) and parseSingleCardFromStrings(words[nameBeginIndex:loopIndex+2]) is not None):
                 break
-            nameString = nameString + ' ' + words[i+1]
-            i += 1
-        if nameString[-1] == '.' or nameString[-1] == ',':
-            nameString = nameString[0:-1]
-        cardName = getFilteredCardName(nameString)
+            loopIndex += 1
+
+        cardName = parseSingleCardFromStrings(
+            words[nameBeginIndex:loopIndex+1])
         if (cardName is None):
-            logErrorAndExit('Could not find card name: ' + nameString)
+            logErrorAndExit('Could not find card name: ' +
+                            " ".join(words[nameBeginIndex:loopIndex+1]))
         listToReturn += ([cardName] * cardQuantity)
-        i += 1
+        loopIndex += 1
     return listToReturn
 
 # The initial parse, used for gathering # of players and their initials
@@ -107,14 +126,22 @@ def getFunctionForLine(words, game):
         return parseGainLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_trashes]):
         return parseTrashLine
+    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_recieves]):
+        return parseRecievesLine
+    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns]):
+        return parseReturnsLine
+    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_exiles]):
+        return parseExileLine
+    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_discards])\
+            and validateWordSequence(words[:-2], [s_from, s_exile]):
+        return parseDiscardFromExileLine
     else:
         return None
 
 
 def parseDeckStartLine(words, game):
-    playerInitial = words[0]
     game.getPlayerByInitial(
-        playerInitial).cardNames += (cardNamesFromLogStrings(words, 3))
+        words[0]).cardNames += (parseMultipleCardsFromStrings(words, 3))
 
 
 def parseTurnLine(words, game):
@@ -124,14 +151,34 @@ def parseTurnLine(words, game):
 
 def parseBuyLine(words, game):
     game.getPlayerByInitial(
-        words[0]).cardNames += cardNamesFromLogStrings(words, 4)
+        words[0]).cardNames += parseMultipleCardsFromStrings(words, 4)
 
 
 def parseGainLine(words, game):
     game.getPlayerByInitial(
-        words[0]).cardNames += cardNamesFromLogStrings(words, 2)
+        words[0]).cardNames += parseMultipleCardsFromStrings(words, 2)
 
 
 def parseTrashLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).cardNames, cardNamesFromLogStrings(words, 2))
+        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
+
+
+def parseExileLine(words, game):
+    removeItemsFromList(game.getPlayerByInitial(
+        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
+
+
+def parseDiscardFromExileLine(words, game):
+    game.getPlayerByInitial(
+        words[0]).cardNames += parseMultipleCardsFromStrings(words, 2, len(words) - 3)
+
+
+def parseReturnsLine(words, game):
+    game.getPlayerByInitial(
+        words[0]).cardNames += parseMultipleCardsFromStrings(words, 2)
+
+
+def parseRecievesLine(words, game):
+    removeItemsFromList(game.getPlayerByInitial(
+        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
