@@ -30,7 +30,7 @@ s_returns = 'returns'
 s_card = 'card'
 s_cards = 'cards'
 s_deck = 'deck'
-s_pile = 'pile'
+s_Pile = 'Pile'
 
 s_their = 'their'
 s_and = 'and'

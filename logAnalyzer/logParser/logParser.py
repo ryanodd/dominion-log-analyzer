@@ -1,5 +1,3 @@
-from enum import Enum
-
 from logAnalyzer.logParser.strings import *  # all prefixed with s_ or r_
 from logAnalyzer.logParser.cardNameFilter import getFilteredCardName
 from logAnalyzer.game import Game, Player
@@ -8,17 +6,21 @@ from logAnalyzer.utils.pythonUtils import removeItemsFromList
 
 # Takes in 2 lists of words (str/regexp) and returns T/F if matching
 # Works on both strings and regexps
+# ignores trailing commas or periods
 
 
 def validateWordSequence(testWords, referenceWords):
     for wordIndex in range(len(testWords)):
+        testString = testWords[wordIndex]
+        if testString[-1] == '.' or testString[-1] == ',':
+            testString = testString[0:-1]
         if callable(getattr(referenceWords[wordIndex], 'match', None)):
             # Regular Experession
-            if not referenceWords[wordIndex].match(testWords[wordIndex]):
+            if not referenceWords[wordIndex].match(testString):
                 return False
         else:
             # String
-            if testWords[wordIndex] != referenceWords[wordIndex]:
+            if testString != referenceWords[wordIndex]:
                 return False
     return len(testWords) == len(referenceWords)
 
@@ -132,14 +134,14 @@ def getFunctionForLine(words, game):
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_recieves]):
         return parseRecievesLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns])\
-            and validateWordSequence(words[:-4], [s_to, s_the, s_Horse, s_pile]):
+            and validateWordSequence(words[-4:], [s_to, s_the, s_Horse, s_Pile]):
         return parseReturnToHorsePileLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns]):
         return parseReturnsLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_exiles]):
         return parseExileLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_discards])\
-            and validateWordSequence(words[:-2], [s_from, s_exile]):
+            and validateWordSequence(words[-2:], [s_from, s_exile]):
         return parseDiscardFromExileLine
     else:
         return None

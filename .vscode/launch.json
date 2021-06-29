@@ -10,5 +10,11 @@
             "request": "launch",
             "module": "main"
         },
+        {
+            "name": "Test",
+            "type": "python",
+            "request": "launch",
+            "module": "test"
+        },
     ]
 }
