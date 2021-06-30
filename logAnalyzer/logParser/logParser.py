@@ -35,7 +35,7 @@ def parseSingleCardFromStrings(words):
     return getFilteredCardName(nameString)
 
 
-def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999):
+def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999, stopWord=None):
     if lastWordIndex < len(words):
         words = words[firstWordIndex:lastWordIndex+1]
     else:
@@ -44,6 +44,9 @@ def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999):
     "2 Coppers, a Bridge, a Bridge Troll, an Estate, and a Jack of All Trades."
     loopIndex = 0
     while loopIndex < len(words):
+
+        if (words[loopIndex] == stopWord):
+            return listToReturn
 
         # Skip 'and'
         if words[loopIndex] == s_and:
@@ -133,9 +136,6 @@ def getFunctionForLine(words, game):
         return parseTrashLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_recieves]):
         return parseRecievesLine
-    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns])\
-            and validateWordSequence(words[-4:], [s_to, s_the, s_Horse, s_Pile]):
-        return parseReturnToHorsePileLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns]):
         return parseReturnsLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_exiles]):
@@ -184,7 +184,7 @@ def parseDiscardFromExileLine(words, game):
 
 def parseReturnsLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
+        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2, stopWord=s_to))
 
 
 def parseRecievesLine(words, game):

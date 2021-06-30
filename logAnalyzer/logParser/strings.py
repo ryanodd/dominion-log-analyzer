@@ -4,7 +4,7 @@ r_capitalizedWord = re.compile
 r_number = re.compile('[0-9]+')
 r_endsWithPeriod = re.compile('[^ ]*\.')
 
-r_playerLetter = re.compile('[A-Z]')
+r_playerLetter = re.compile('[a-zA-Z]')
 r_gameNum = re.compile('\#[0-9]*\,')
 r_moneyIndicator = re.compile('\(\+\$[0-9]+\)')
 
