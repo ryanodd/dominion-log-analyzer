@@ -332,8 +332,8 @@ nameFilter['Quarries'] = 'Quarry'
 nameFilter['Talisman'] = 'Talisman'
 nameFilter['Talisman'] = 'Talisman'
 
-nameFilter['Worker\'s_Village'] = 'Worker\'s_Village'
-nameFilter['Worker\'s_Villages'] = 'Worker\'s_Village'
+nameFilter['Worker\'s Village'] = 'Worker\'s Village'
+nameFilter['Worker\'s Villages'] = 'Worker\'s Village'
 
 nameFilter['City'] = 'City'
 nameFilter['Cities'] = 'City'
@@ -341,8 +341,8 @@ nameFilter['Cities'] = 'City'
 nameFilter['Contraband'] = 'Contraband'
 nameFilter['Contrabands'] = 'Contraband'
 
-nameFilter['Counting_House'] = 'Counting_House'
-nameFilter['Counting_Houses'] = 'Counting_House'
+nameFilter['Counting House'] = 'Counting House'
+nameFilter['Counting Houses'] = 'Counting House'
 
 nameFilter['Mint'] = 'Mint'
 nameFilter['Mints'] = 'Mint'
@@ -353,8 +353,8 @@ nameFilter['Mountebanks'] = 'Mountebank'
 nameFilter['Rabble'] = 'Rabble'
 nameFilter['Rabbles'] = 'Rabble'
 
-nameFilter['Royal_Seal'] = 'Royal_Seal'
-nameFilter['Royal_Seals'] = 'Royal_Seal'
+nameFilter['Royal Seal'] = 'Royal Seal'
+nameFilter['Royal Seals'] = 'Royal Seal'
 
 nameFilter['Vault'] = 'Vault'
 nameFilter['Vaults'] = 'Vault'
@@ -364,8 +364,8 @@ nameFilter['Ventures'] = 'Venture'
 
 nameFilter['Goons'] = 'Goons'
 
-nameFilter['Grand_Market'] = 'Grand_Market'
-nameFilter['Grand_Markets'] = 'Grand_Market'
+nameFilter['Grand Market'] = 'Grand Market'
+nameFilter['Grand Markets'] = 'Grand Market'
 
 nameFilter['Hoard'] = 'Hoard'
 nameFilter['Hoards'] = 'Hoard'
@@ -379,8 +379,8 @@ nameFilter['Expands'] = 'Expand'
 nameFilter['Forge'] = 'Forge'
 nameFilter['Forges'] = 'Forge'
 
-nameFilter['King\'s_Court'] = 'King\'s_Court'
-nameFilter['King\'s_Courts'] = 'King\'s_Court'
+nameFilter['King\'s Court'] = 'King\'s Court'
+nameFilter['King\'s Courts'] = 'King\'s Court'
 
 nameFilter['Peddler'] = 'Peddler'
 nameFilter['Peddlers'] = 'Peddler'

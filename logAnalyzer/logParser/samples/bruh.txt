@@ -1,189 +1,367 @@
-Game #80035160, rated.
-Jazzercise: 37.34
-King Karpador: 34.41
 
+Game #80181476, rated.
+max_cuarto: 44.26
+Jazzercise: 42.85
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+m starts with 7 Coppers.
+m starts with 3 Estates.
 J starts with 7 Coppers.
 J starts with 3 Estates.
-K starts with 7 Coppers.
-K starts with 3 Estates.
+m shuffles their deck.
+m draws 5 cards.
 J shuffles their deck.
 J draws 4 Coppers and an Estate.
-K shuffles their deck.
-K draws 5 cards.
+
+Turn 1 - max_cuarto
+m plays 5 Coppers. (+$5)
+m buys and gains a Treasure Trove.
+m draws 5 cards.
 
 Turn 1 - Jazzercise
 J plays 4 Coppers. (+$4)
-J buys and gains a Marauder.
+J buys and gains a Silver.
 J draws 3 Coppers and 2 Estates.
 
-Turn 1 - King Karpador
-K plays 4 Coppers. (+$4)
-K buys and gains an Inventor.
-K draws 5 cards.
+Turn 2 - max_cuarto
+m plays 2 Coppers. (+$2)
+m buys and gains a Guardian.
+m plays a Guardian.
+m shuffles their deck.
+m draws 5 cards.
 
 Turn 2 - Jazzercise
 J plays 3 Coppers. (+$3)
 J buys and gains a Silver.
 J shuffles their deck.
-J draws 4 Coppers and an Estate.
+J draws 3 Coppers and 2 Silvers.
 
-Turn 2 - King Karpador
-K plays 3 Coppers. (+$3)
-K buys and gains a Silver.
-K shuffles their deck.
-K draws 5 cards.
+Turn 3 - max_cuarto
+m starts their turn.
+m gets +$1.
+m plays 3 Coppers. (+$3)
+m plays a Treasure Trove. (+$2)
+m gains a Gold.
+m gains a Copper.
+m buys and gains a Goons.
+m draws 5 cards.
 
 Turn 3 - Jazzercise
-J plays 4 Coppers. (+$4)
-J buys and gains a Silver.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Goons.
 J draws 3 Coppers and 2 Estates.
 
-Turn 3 - King Karpador
-K plays an Inventor.
-K gains a Marauder.
-K plays 4 Coppers. (+$4)
-K buys and gains a Dismantle.
-K draws 5 cards.
+Turn 4 - max_cuarto
+m plays 3 Coppers. (+$3)
+m buys and gains a Settlers.
+m shuffles their deck.
+m draws 5 cards.
 
 Turn 4 - Jazzercise
 J plays 3 Coppers. (+$3)
-J buys and gains a Silver.
+J buys and gains a Settlers.
 J shuffles their deck.
-J draws a Copper, 2 Silvers, an Estate and a Marauder.
+J draws 3 Coppers, an Estate and a Goons.
 
-Turn 4 - King Karpador
-K plays 2 Coppers and a Silver. (+$4)
-K buys and gains an Engineer.
-K repays 4 debt.
-K shuffles their deck.
-K draws 5 cards.
+Turn 5 - max_cuarto
+m plays a Gold and 4 Coppers. (+$7)
+m buys and gains a King's Court.
+m draws 5 cards.
 
 Turn 5 - Jazzercise
-J plays a Marauder.
-J gains a Spoils.
-K gains an Abandoned Mine.
-J plays a Copper and 2 Silvers. (+$5)
-J buys and gains a Pillage.
-J draws 2 Coppers, a Silver and 2 Estates.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Copper.
+J plays 3 Coppers. (+$3)
+J buys a Settlers.
+J gets 1 VP from Goons.
+J gains a Settlers.
+J buys a Settlers.
+J gets 1 VP from Goons.
+J gains a Settlers.
+J draws 4 Coppers and a Silver.
 
-Turn 5 - King Karpador
-K plays a Dismantle.
-K trashes an Estate.
-K gains a Copper.
-K gains a Gold.
-K plays 2 Coppers. (+$2)
-K buys and gains an Engineer.
-K repays 2 debt (2 remaining).
-K draws 5 cards.
+Turn 6 - max_cuarto
+m plays a Settlers.
+m draws a card.
+m gets +1 Action.
+m looks at 8 cards.
+m looks at 8 cards.
+m puts a card into their hand.
+m plays 3 Coppers. (+$3)
+m buys and gains a Settlers.
+m draws 5 cards.
 
 Turn 6 - Jazzercise
-J plays 2 Coppers and a Silver. (+$4)
-J buys and gains a Research.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Goons.
 J shuffles their deck.
-J draws 5 Coppers.
+J draws a Copper, a Silver, 2 Estates and a Settlers.
 
-Turn 6 - King Karpador
-K plays a Marauder.
-K gains a Spoils.
-J gains an Abandoned Mine.
-K plays 2 Coppers. (+$2)
-K repays 2 debt.
-K plays a Silver. (+$2)
-K buys and gains an Engineer.
-K repays 2 debt (2 remaining).
-K draws 5 cards.
+Turn 7 - max_cuarto
+m plays a Goons.
+m gets +1 Buy.
+m gets +$2.
+J discards a Copper and an Estate.
+m plays a Treasure Trove. (+$2)
+m gains a Gold.
+m gains a Copper.
+m plays a Copper. (+$1)
+m buys an Exorcist.
+m gets 1 VP from Goons.
+m gains an Exorcist.
+m plays a Guardian.
+m shuffles their deck.
+m draws 5 cards.
 
 Turn 7 - Jazzercise
-J plays 5 Coppers. (+$5)
-J buys and gains a Pillage.
-J draws a Copper, 2 Silvers, an Estate and a Research.
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J looks at a Copper and an Estate.
+J looks at a Copper and an Estate.
+J puts a Copper into their hand.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Bustling Village.
+J draws 3 Coppers, an Estate and a Goons.
 
-Turn 7 - King Karpador
-K plays an Engineer.
-K gains a Marauder.
-K trashes an Engineer.
-K gains a Marauder.
-K plays 2 Coppers. (+$2)
-K repays 2 debt.
-K shuffles their deck.
-K draws 5 cards.
+Turn 8 - max_cuarto
+m starts their turn.
+m gets +$1.
+m plays a Gold and 2 Coppers. (+$5)
+m buys and gains a Bustling Village.
+m draws 5 cards.
 
 Turn 8 - Jazzercise
-J plays a Research.
-J gets +1 Action.
-J trashes an Estate.
-J sets an Estate and a Spoils aside.
-J plays a Copper and 2 Silvers. (+$5)
-J buys and gains a Silver.
-J draws a Copper, a Silver, an Estate, a Marauder and a Pillage.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Copper.
+J plays 3 Coppers. (+$3)
+J buys a Bustling Village.
+J gets 1 VP from Goons.
+J gains a Bustling Village.
+J draws 3 Coppers, a Goons and a Settlers.
 
-Turn 8 - King Karpador
-K plays a Marauder.
-K gains a Spoils.
-J gains a Ruined Village.
-K plays 3 Coppers. (+$3)
-K buys and gains a Silver.
-K draws 5 cards.
+Turn 9 - max_cuarto
+m plays a Treasure Trove. (+$2)
+m gains a Gold.
+m gains a Copper.
+m buys and gains a Guardian.
+m plays a Guardian.
+m plays an Exorcist.
+m trashes an Estate.
+m gains a Will-o'-Wisp.
+m draws 5 cards.
 
 Turn 9 - Jazzercise
-J starts their turn.
-J puts an Estate and a Spoils into their hand.
-J plays a Marauder.
-J gains a Spoils.
-K gains a Ruined Library.
-J plays a Copper and a Silver. (+$3)
-J plays a Spoils. (+$3)
-J returns a Spoils to the Spoils pile.
-J buys and gains a Gold.
+J plays a Settlers.
+J draws a Settlers.
+J gets +1 Action.
+J looks at 2 Bustling Villages, a Settlers, 3 Estates, 4 Coppers, a Goons and 2 Silvers.
+J looks at 2 Bustling Villages, a Settlers, 3 Estates, 4 Coppers, a Goons and 2 Silvers.
+J puts a Copper into their hand.
+J plays a Settlers.
 J shuffles their deck.
-J draws 2 Coppers, a Silver, an Estate and a Marauder.
+J draws an Estate.
+J gets +1 Action.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays 4 Coppers. (+$4)
+J buys a Goons.
+J gets 1 VP from Goons.
+J gains a Goons.
+J draws a Copper, a Silver, an Estate, a Goons and a Settlers.
 
-Turn 9 - King Karpador
-K plays a Marauder.
-K gains a Spoils.
-J gains a Ruined Village.
-K plays a Copper and a Silver. (+$3)
-K buys and gains a Silver.
-K draws 5 cards.
+Turn 10 - max_cuarto
+m starts their turn.
+m gets +$1.
+m plays a Settlers.
+m draws a card.
+m gets +1 Action.
+m looks at 14 cards.
+m looks at 14 cards.
+m puts a card into their hand.
+m plays a Settlers.
+m draws a card.
+m gets +1 Action.
+m looks at 13 cards.
+m looks at 13 cards.
+m puts a card into their hand.
+m plays a Goons.
+m gets +1 Buy.
+m gets +$2.
+J discards a Copper and an Estate.
+m plays 5 Coppers. (+$5)
+m buys a Goons.
+m gets 1 VP from Goons.
+m gains a Goons.
+m buys a Guardian.
+m gets 1 VP from Goons.
+m gains a Guardian.
+m plays a Guardian.
+m shuffles their deck.
+m draws 5 cards.
 
 Turn 10 - Jazzercise
-J plays a Marauder.
-J gains a Spoils.
-K gains a Survivors.
-J plays 2 Coppers and a Silver. (+$4)
-J buys and gains a Silver.
-J draws a Copper, a Silver, an Abandoned Mine, a Pillage and a Spoils.
+J plays a Settlers.
+J draws a Bustling Village.
+J gets +1 Action.
+J looks at 2 Settlers, 2 Estates, 5 Coppers and 2 Goons.
+J looks at 2 Settlers, 2 Estates, 5 Coppers and 2 Goons.
+J puts a Copper into their hand.
+J plays a Bustling Village.
+J draws a Copper.
+J gets +3 Actions.
+J looks at 2 Settlers, 2 Estates, 4 Coppers and 2 Goons.
+J looks at 2 Settlers, 2 Estates, 4 Coppers and 2 Goons.
+J puts a Settlers into their hand.
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Settlers, 2 Estates, 4 Coppers and 2 Goons.
+J looks at a Settlers, 2 Estates, 4 Coppers and 2 Goons.
+J puts a Copper into their hand.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays 4 Coppers and a Silver. (+$6)
+J buys a King's Court.
+J gets 1 VP from Goons.
+J gains a King's Court.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Goons and a Bustling Village.
 
-Turn 10 - King Karpador
-K plays an Engineer.
-K gains a Dismantle.
-K trashes an Engineer.
-K gains a Marauder.
-K plays a Copper and a Gold. (+$4)
-K buys and gains a Research.
-K draws 5 cards.
+Turn 11 - max_cuarto
+m starts their turn.
+m gets +$1.
+m plays a Bustling Village.
+m draws a card.
+m gets +3 Actions.
+m plays a Gold and 3 Coppers. (+$6)
+m buys and gains a King's Court.
+m draws 5 cards.
 
 Turn 11 - Jazzercise
-J plays a Pillage.
-J trashes a Pillage.
-K reveals their hand: 3 Coppers, a Spoils and a Marauder.
-K discards a Marauder.
-J gains 2 Spoils.
-J plays a Copper and a Silver. (+$3)
-J plays a Spoils. (+$3)
-J returns a Spoils to the Spoils pile.
-J buys and gains a Gold.
-J draws 2 Coppers, a Gold, an Estate and a Research.
+J plays a Bustling Village.
+J draws a Copper.
+J gets +3 Actions.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Bustling Village.
+J gets 1 VP from Goons.
+J gains a Bustling Village.
+J draws 2 Coppers, an Estate, a Settlers and a Bustling Village.
 
-Turn 11 - King Karpador
-K plays 3 Coppers. (+$3)
-K plays a Spoils. (+$3)
-K returns a Spoils to the Spoils pile.
+Turn 12 - max_cuarto
+m plays a King's Court.
+m plays a Settlers.
+m draws a card.
+m gets +1 Action.
+m looks at 10 cards.
+m looks at 10 cards.
+m puts a card into their hand.
+m plays a Settlers again.
+m draws a card.
+m gets +1 Action.
+m looks at 9 cards.
+m looks at 9 cards.
+m puts a card into their hand.
+m plays a Settlers a third time.
+m draws a card.
+m gets +1 Action.
+m looks at 8 cards.
+m looks at 8 cards.
+m puts a card into their hand.
+m plays a Will-o'-Wisp.
+m draws a card.
+m gets +1 Action.
+m reveals a Settlers.
+m puts a Settlers into their hand.
+m plays a Settlers.
+m draws a card.
+m gets +1 Action.
+m looks at 7 cards.
+m looks at 7 cards.
+m puts a card into their hand.
+m plays a Treasure Trove. (+$2)
+m gains a Gold.
+m gains a Copper.
+m plays a Gold and 5 Coppers. (+$8)
+m buys and gains a Platinum.
+m plays a Guardian.
+m draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Bustling Village.
+J draws a King's Court.
+J gets +3 Actions.
+J looks at 2 Bustling Villages, an Estate, 2 Coppers, a Goons and a Silver.
+J plays a Settlers.
+J draws a Goons.
+J gets +1 Action.
+J looks at 2 Bustling Villages, an Estate, 2 Coppers, a Goons and a Silver.
+J looks at 2 Bustling Villages, an Estate, 2 Coppers, a Goons and a Silver.
+J puts a Copper into their hand.
+J plays a King's Court.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons again.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons a third time.
+J gets +1 Buy.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys a Bustling Village.
+J gets 1 VP from Goons.
+J gains a Bustling Village.
+J buys a Guide.
+J gets 1 VP from Goons.
+J gains a Guide.
+J draws a Copper, a Silver, an Estate, a Goons and a Settlers.
+
+Turn 13 - max_cuarto
+m starts their turn.
+m gets +$1.
+m plays a Goons.
+m gets +1 Buy.
+m gets +$2.
+J discards a Copper and an Estate.
+m plays 4 Coppers. (+$4)
+m buys a Secret Passage.
+m gets 1 VP from Goons.
+m gains a Secret Passage.
+m buys a Guide.
+m gets 1 VP from Goons.
+m gains a Guide.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J looks at a King's Court, 4 Bustling Villages, a Settlers, 3 Estates, 5 Coppers, 2 Goons, a Silver and a Guide.
+J looks at a King's Court, 4 Bustling Villages, a Settlers, 3 Estates, 5 Coppers, 2 Goons, a Silver and a Guide.
+J puts a Copper into their hand.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Guardian.
+J plays 2 Coppers and a Silver. (+$4)
 
 Players can see spectator chat
-King Karpador joined the table.
-Joining game #80035160 on frankfurt.
-Joining game #80035160 on frankfurt.
-Jazzercise reconnected.
-Jazzercise:  I thought I could choose the research cards, whatevs
+max_cuarto joined the table.
+Joining game #80181476 on oregon.
+Jazzercise:  this game is ridiculous
+Jazzercise:  do I get 3 goons vps
 message
