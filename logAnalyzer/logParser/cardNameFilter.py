@@ -1233,7 +1233,8 @@ nameFilter['Paddocks'] = 'Paddock'
 nameFilter['Sanctuary'] = 'Sanctuary'
 nameFilter['Sanctuaries'] = 'Sanctuary'
 
-nameFilter['Fishermen'] = 'Fishermen'
+nameFilter['Fisherman'] = 'Fisherman'
+nameFilter['Fishermen'] = 'Fisherman'
 
 nameFilter['Destrier'] = 'Destrier'
 nameFilter['Destriers'] = 'Destrier'
