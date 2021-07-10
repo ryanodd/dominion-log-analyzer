@@ -816,8 +816,8 @@ nameFilter['Swamp Hags'] = 'Swamp Hag'
 nameFilter['Treasure Trove'] = 'Treasure Trove'
 nameFilter['Treasure Troves'] = 'Treasure Trove'
 
-nameFilter['Wine Merrchant'] = 'Wine Merrchant'
-nameFilter['Wine Merrchants'] = 'Wine Merrchant'
+nameFilter['Wine Merchant'] = 'Wine Merchant'
+nameFilter['Wine Merchants'] = 'Wine Merchant'
 
 nameFilter['Hireling'] = 'Hireling'
 nameFilter['Hirelings'] = 'Hireling'

@@ -8,7 +8,7 @@ from logAnalyzer.deckReport.valueReport import ValueReport
 
 def getDeckReport(player):
     cards = []
-    for name in player.cardNames:
+    for name in player.totalDeckCardNames:
         cards.append(getCard(name))
 
     deckReport = {}
@@ -30,7 +30,8 @@ def getDeckReport(player):
         deckReport['cardListReports'][fieldName] = getCardsWhereBoolReport(
             cards, fieldName).__dict__
 
-    deckReport['card'] = ValueReport(len(player.cardNames), []).__dict__
+    deckReport['card'] = ValueReport(
+        len(player.totalDeckCardNames), []).__dict__
 
     deckReport['numberReports'] = {}
     fieldsToReport_Sum = [
@@ -45,7 +46,7 @@ def getDeckReport(player):
     ]
 
     deckReport['numberReports']['card'] = ValueReport(
-        len(player.cardNames), []).__dict__
+        len(player.totalDeckCardNames), []).__dict__
     for fieldName in fieldsToReport_Sum:
         deckReport['numberReports'][fieldName] = getValueSumReport(
             cards, fieldName).__dict__

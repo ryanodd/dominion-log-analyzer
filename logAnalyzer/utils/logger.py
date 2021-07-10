@@ -5,7 +5,7 @@ def logGame(game):
     print('GAME:')
     for player in game.players:
         print(player.name, '  (', player.initial, ')')
-        for card in player.cardNames:
+        for card in player.totalDeckCardNames:
             print('    ', card)
 
 

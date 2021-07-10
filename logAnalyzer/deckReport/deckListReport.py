@@ -4,7 +4,7 @@ from logAnalyzer.cards.cards import getCard
 
 def getDeckListReport(player):
     cards = []
-    for name in player.cardNames:
+    for name in player.totalDeckCardNames:
         cards.append(getCard(name))
 
     deckReport = {}

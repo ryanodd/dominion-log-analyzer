@@ -149,7 +149,7 @@ def getFunctionForLine(words, game):
 
 def parseDeckStartLine(words, game):
     game.getPlayerByInitial(
-        words[0]).cardNames += (parseMultipleCardsFromStrings(words, 3))
+        words[0]).totalDeckCardNames += (parseMultipleCardsFromStrings(words, 3))
 
 
 def parseTurnLine(words, game):
@@ -159,39 +159,39 @@ def parseTurnLine(words, game):
 
 def parseBuyLine(words, game):
     game.getPlayerByInitial(
-        words[0]).cardNames += parseMultipleCardsFromStrings(words, 4)
+        words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 4)
 
 
 def parseGainLine(words, game):
     game.getPlayerByInitial(
-        words[0]).cardNames += parseMultipleCardsFromStrings(words, 2)
+        words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2)
 
 
 def parseTrashLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2))
 
 
 def parseExileLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2))
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2))
 
 
 def parseDiscardFromExileLine(words, game):
     game.getPlayerByInitial(
-        words[0]).cardNames += parseMultipleCardsFromStrings(words, 2, len(words) - 3)
+        words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2, len(words) - 3)
 
 
 def parseReturnsLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2, stopWord=s_to))
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWord=s_to))
 
 
 def parseRecievesLine(words, game):
     game.getPlayerByInitial(
-        words[0]).cardNames += parseMultipleCardsFromStrings(words, 2)
+        words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2)
 
 
 def parseReturnToHorsePileLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).cardNames, parseMultipleCardsFromStrings(words, 2, len(words) - 5))
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, len(words) - 5))

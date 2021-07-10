@@ -4,7 +4,18 @@ class Player:
         self.name = None
         # In those cases we use initial, so we need a default.
         self.initial = 'X'
-        self.cardNames = []
+        self.totalDeckCardNames = []
+        self.deckCardNames = []
+        self.handCardNames = []
+        self.discardNames = []
+
+        # I think duration cards can just stay "in play"
+        self.playCardNames = []
+
+        # Native Village mat, Island mat, Tavern mat
+        self.matCardNames = []
+
+        self.exileCardNames = []
 
 
 class Game:
