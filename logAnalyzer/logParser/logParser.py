@@ -138,11 +138,20 @@ def getFunctionForLine(words, game):
         return parseRecievesLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns]):
         return parseReturnsLine
+    if len(words) >= 6 and validateWordSequence(words[0:2], [r_playerLetter, s_returns])\
+            and validateWordSequence(words[-4:], [s_to, s_the, s_Horse, s_Pile]):
+        return parseReturnToHorsePileLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_exiles]):
         return parseExileLine
-    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_discards])\
+    if len(words) >= 4 and validateWordSequence(words[0:2], [r_playerLetter, s_discards])\
             and validateWordSequence(words[-2:], [s_from, s_exile]):
         return parseDiscardFromExileLine
+    if len(words) >= 6 and validateWordSequence(words[0:2], [r_playerLetter, s_sets])\
+            and validateWordSequence(words[-4:], [s_aside, s_with, s_Native, s_Village]):
+        return parseSetAsideNativeVillageLine
+    if len(words) >= 6 and validateWordSequence(words[0:2], [r_playerLetter, s_puts])\
+            and validateWordSequence(words[-4:], [s_on, s_their, s_Island, s_mat]):
+        return parseIslandMatLine
     else:
         return None
 
@@ -193,5 +202,15 @@ def parseRecievesLine(words, game):
 
 
 def parseReturnToHorsePileLine(words, game):
+    removeItemsFromList(game.getPlayerByInitial(
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, len(words) - 5))
+
+
+def parseSetAsideNativeVillageLine(words, game):
+    removeItemsFromList(game.getPlayerByInitial(
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, len(words) - 5))
+
+
+def parseIslandMatLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
         words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, len(words) - 5))
