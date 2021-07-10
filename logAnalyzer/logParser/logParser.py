@@ -144,7 +144,7 @@ def getFunctionForLine(words, game):
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_exiles]):
         return parseExileLine
     if len(words) >= 4 and validateWordSequence(words[0:2], [r_playerLetter, s_discards])\
-            and validateWordSequence(words[-2:], [s_from, s_exile]):
+            and validateWordSequence(words[-2:], [s_from, s_Exile]):
         return parseDiscardFromExileLine
     if len(words) >= 6 and validateWordSequence(words[0:2], [r_playerLetter, s_sets])\
             and validateWordSequence(words[-4:], [s_aside, s_with, s_Native, s_Village]):
