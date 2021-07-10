@@ -1,367 +1,80 @@
 
-Game #80181476, rated.
-max_cuarto: 44.26
-Jazzercise: 42.85
+Game #80786938, unrated.
 
-Kingdom generated with these relative percentages:
-0%: Possession
-
-m starts with 7 Coppers.
-m starts with 3 Estates.
 J starts with 7 Coppers.
 J starts with 3 Estates.
-m shuffles their deck.
-m draws 5 cards.
 J shuffles their deck.
 J draws 4 Coppers and an Estate.
 
-Turn 1 - max_cuarto
-m plays 5 Coppers. (+$5)
-m buys and gains a Treasure Trove.
-m draws 5 cards.
-
 Turn 1 - Jazzercise
 J plays 4 Coppers. (+$4)
-J buys and gains a Silver.
+J buys and gains a Pirate Ship.
 J draws 3 Coppers and 2 Estates.
-
-Turn 2 - max_cuarto
-m plays 2 Coppers. (+$2)
-m buys and gains a Guardian.
-m plays a Guardian.
-m shuffles their deck.
-m draws 5 cards.
 
 Turn 2 - Jazzercise
 J plays 3 Coppers. (+$3)
-J buys and gains a Silver.
+J buys and gains a Camel Train.
+J exiles a Gold.
 J shuffles their deck.
-J draws 3 Coppers and 2 Silvers.
-
-Turn 3 - max_cuarto
-m starts their turn.
-m gets +$1.
-m plays 3 Coppers. (+$3)
-m plays a Treasure Trove. (+$2)
-m gains a Gold.
-m gains a Copper.
-m buys and gains a Goons.
-m draws 5 cards.
-
-Turn 3 - Jazzercise
-J plays 3 Coppers and 2 Silvers. (+$7)
-J buys and gains a Goons.
 J draws 3 Coppers and 2 Estates.
 
-Turn 4 - max_cuarto
-m plays 3 Coppers. (+$3)
-m buys and gains a Settlers.
-m shuffles their deck.
-m draws 5 cards.
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Camel Train.
+J exiles a Gold.
+J draws 3 Coppers, a Pirate Ship and a Camel Train.
 
 Turn 4 - Jazzercise
+J plays a Pirate Ship.
 J plays 3 Coppers. (+$3)
-J buys and gains a Settlers.
+J buys and gains a Silver.
 J shuffles their deck.
-J draws 3 Coppers, an Estate and a Goons.
-
-Turn 5 - max_cuarto
-m plays a Gold and 4 Coppers. (+$7)
-m buys and gains a King's Court.
-m draws 5 cards.
+J draws 2 Coppers, 2 Estates and a Camel Train.
 
 Turn 5 - Jazzercise
-J plays a Goons.
-J gets +1 Buy.
-J gets +$2.
-m discards a card and a Copper.
-J plays 3 Coppers. (+$3)
-J buys a Settlers.
-J gets 1 VP from Goons.
-J gains a Settlers.
-J buys a Settlers.
-J gets 1 VP from Goons.
-J gains a Settlers.
-J draws 4 Coppers and a Silver.
-
-Turn 6 - max_cuarto
-m plays a Settlers.
-m draws a card.
-m gets +1 Action.
-m looks at 8 cards.
-m looks at 8 cards.
-m puts a card into their hand.
-m plays 3 Coppers. (+$3)
-m buys and gains a Settlers.
-m draws 5 cards.
+J plays a Camel Train.
+J exiles a Wine Merchant.
+J plays 2 Coppers. (+$2)
+J buys and gains a Native Village.
+J draws 3 Coppers, an Estate and a Camel Train.
 
 Turn 6 - Jazzercise
-J plays 4 Coppers and a Silver. (+$6)
-J buys and gains a Goons.
+J plays a Camel Train.
+J exiles a Sanctuary.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
 J shuffles their deck.
-J draws a Copper, a Silver, 2 Estates and a Settlers.
-
-Turn 7 - max_cuarto
-m plays a Goons.
-m gets +1 Buy.
-m gets +$2.
-J discards a Copper and an Estate.
-m plays a Treasure Trove. (+$2)
-m gains a Gold.
-m gains a Copper.
-m plays a Copper. (+$1)
-m buys an Exorcist.
-m gets 1 VP from Goons.
-m gains an Exorcist.
-m plays a Guardian.
-m shuffles their deck.
-m draws 5 cards.
+J draws 3 Coppers, a Silver and a Pirate Ship.
 
 Turn 7 - Jazzercise
-J plays a Settlers.
-J draws a Silver.
-J gets +1 Action.
-J looks at a Copper and an Estate.
-J looks at a Copper and an Estate.
-J puts a Copper into their hand.
-J plays a Copper and 2 Silvers. (+$5)
-J buys and gains a Bustling Village.
-J draws 3 Coppers, an Estate and a Goons.
-
-Turn 8 - max_cuarto
-m starts their turn.
-m gets +$1.
-m plays a Gold and 2 Coppers. (+$5)
-m buys and gains a Bustling Village.
-m draws 5 cards.
+J plays a Pirate Ship.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Wine Merchant.
+J discards a Wine Merchant from Exile.
+J draws 2 Coppers, an Estate and 2 Camel Trains.
 
 Turn 8 - Jazzercise
-J plays a Goons.
-J gets +1 Buy.
-J gets +$2.
-m discards a card and a Copper.
-J plays 3 Coppers. (+$3)
-J buys a Bustling Village.
-J gets 1 VP from Goons.
-J gains a Bustling Village.
-J draws 3 Coppers, a Goons and a Settlers.
-
-Turn 9 - max_cuarto
-m plays a Treasure Trove. (+$2)
-m gains a Gold.
-m gains a Copper.
-m buys and gains a Guardian.
-m plays a Guardian.
-m plays an Exorcist.
-m trashes an Estate.
-m gains a Will-o'-Wisp.
-m draws 5 cards.
+J draws 2 Coppers, a Silver, an Estate and a Native Village.
 
 Turn 9 - Jazzercise
-J plays a Settlers.
-J draws a Settlers.
-J gets +1 Action.
-J looks at 2 Bustling Villages, a Settlers, 3 Estates, 4 Coppers, a Goons and 2 Silvers.
-J looks at 2 Bustling Villages, a Settlers, 3 Estates, 4 Coppers, a Goons and 2 Silvers.
-J puts a Copper into their hand.
-J plays a Settlers.
+J plays a Native Village.
+J gets +2 Actions.
+J sets an Estate aside with Native Village.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains an Island.
 J shuffles their deck.
-J draws an Estate.
-J gets +1 Action.
-J plays a Goons.
-J gets +1 Buy.
-J gets +$2.
-J plays 4 Coppers. (+$4)
-J buys a Goons.
-J gets 1 VP from Goons.
-J gains a Goons.
-J draws a Copper, a Silver, an Estate, a Goons and a Settlers.
-
-Turn 10 - max_cuarto
-m starts their turn.
-m gets +$1.
-m plays a Settlers.
-m draws a card.
-m gets +1 Action.
-m looks at 14 cards.
-m looks at 14 cards.
-m puts a card into their hand.
-m plays a Settlers.
-m draws a card.
-m gets +1 Action.
-m looks at 13 cards.
-m looks at 13 cards.
-m puts a card into their hand.
-m plays a Goons.
-m gets +1 Buy.
-m gets +$2.
-J discards a Copper and an Estate.
-m plays 5 Coppers. (+$5)
-m buys a Goons.
-m gets 1 VP from Goons.
-m gains a Goons.
-m buys a Guardian.
-m gets 1 VP from Goons.
-m gains a Guardian.
-m plays a Guardian.
-m shuffles their deck.
-m draws 5 cards.
+J draws a Silver, an Island, a Native Village, a Pirate Ship and a Camel Train.
 
 Turn 10 - Jazzercise
-J plays a Settlers.
-J draws a Bustling Village.
-J gets +1 Action.
-J looks at 2 Settlers, 2 Estates, 5 Coppers and 2 Goons.
-J looks at 2 Settlers, 2 Estates, 5 Coppers and 2 Goons.
-J puts a Copper into their hand.
-J plays a Bustling Village.
-J draws a Copper.
-J gets +3 Actions.
-J looks at 2 Settlers, 2 Estates, 4 Coppers and 2 Goons.
-J looks at 2 Settlers, 2 Estates, 4 Coppers and 2 Goons.
-J puts a Settlers into their hand.
-J plays a Settlers.
-J draws a Copper.
-J gets +1 Action.
-J looks at a Settlers, 2 Estates, 4 Coppers and 2 Goons.
-J looks at a Settlers, 2 Estates, 4 Coppers and 2 Goons.
-J puts a Copper into their hand.
-J plays a Goons.
-J gets +1 Buy.
-J gets +$2.
-J plays 4 Coppers and a Silver. (+$6)
-J buys a King's Court.
-J gets 1 VP from Goons.
-J gains a King's Court.
-J shuffles their deck.
-J draws a Copper, a Silver, an Estate, a Goons and a Bustling Village.
-
-Turn 11 - max_cuarto
-m starts their turn.
-m gets +$1.
-m plays a Bustling Village.
-m draws a card.
-m gets +3 Actions.
-m plays a Gold and 3 Coppers. (+$6)
-m buys and gains a King's Court.
-m draws 5 cards.
-
-Turn 11 - Jazzercise
-J plays a Bustling Village.
-J draws a Copper.
-J gets +3 Actions.
-J plays a Goons.
-J gets +1 Buy.
-J gets +$2.
-m discards a card and an Estate.
-J plays 2 Coppers and a Silver. (+$4)
-J buys a Bustling Village.
-J gets 1 VP from Goons.
-J gains a Bustling Village.
-J draws 2 Coppers, an Estate, a Settlers and a Bustling Village.
-
-Turn 12 - max_cuarto
-m plays a King's Court.
-m plays a Settlers.
-m draws a card.
-m gets +1 Action.
-m looks at 10 cards.
-m looks at 10 cards.
-m puts a card into their hand.
-m plays a Settlers again.
-m draws a card.
-m gets +1 Action.
-m looks at 9 cards.
-m looks at 9 cards.
-m puts a card into their hand.
-m plays a Settlers a third time.
-m draws a card.
-m gets +1 Action.
-m looks at 8 cards.
-m looks at 8 cards.
-m puts a card into their hand.
-m plays a Will-o'-Wisp.
-m draws a card.
-m gets +1 Action.
-m reveals a Settlers.
-m puts a Settlers into their hand.
-m plays a Settlers.
-m draws a card.
-m gets +1 Action.
-m looks at 7 cards.
-m looks at 7 cards.
-m puts a card into their hand.
-m plays a Treasure Trove. (+$2)
-m gains a Gold.
-m gains a Copper.
-m plays a Gold and 5 Coppers. (+$8)
-m buys and gains a Platinum.
-m plays a Guardian.
-m draws 5 cards.
-
-Turn 12 - Jazzercise
-J plays a Bustling Village.
-J draws a King's Court.
-J gets +3 Actions.
-J looks at 2 Bustling Villages, an Estate, 2 Coppers, a Goons and a Silver.
-J plays a Settlers.
-J draws a Goons.
-J gets +1 Action.
-J looks at 2 Bustling Villages, an Estate, 2 Coppers, a Goons and a Silver.
-J looks at 2 Bustling Villages, an Estate, 2 Coppers, a Goons and a Silver.
-J puts a Copper into their hand.
-J plays a King's Court.
-J plays a Goons.
-J gets +1 Buy.
-J gets +$2.
-J plays a Goons again.
-J gets +1 Buy.
-J gets +$2.
-J plays a Goons a third time.
-J gets +1 Buy.
-J gets +$2.
-J plays 3 Coppers. (+$3)
-J buys a Bustling Village.
-J gets 1 VP from Goons.
-J gains a Bustling Village.
-J buys a Guide.
-J gets 1 VP from Goons.
-J gains a Guide.
-J draws a Copper, a Silver, an Estate, a Goons and a Settlers.
-
-Turn 13 - max_cuarto
-m starts their turn.
-m gets +$1.
-m plays a Goons.
-m gets +1 Buy.
-m gets +$2.
-J discards a Copper and an Estate.
-m plays 4 Coppers. (+$4)
-m buys a Secret Passage.
-m gets 1 VP from Goons.
-m gains a Secret Passage.
-m buys a Guide.
-m gets 1 VP from Goons.
-m gains a Guide.
-m shuffles their deck.
-m draws 5 cards.
-
-Turn 13 - Jazzercise
-J plays a Settlers.
-J draws a Copper.
-J gets +1 Action.
-J looks at a King's Court, 4 Bustling Villages, a Settlers, 3 Estates, 5 Coppers, 2 Goons, a Silver and a Guide.
-J looks at a King's Court, 4 Bustling Villages, a Settlers, 3 Estates, 5 Coppers, 2 Goons, a Silver and a Guide.
-J puts a Copper into their hand.
-J plays a Goons.
-J gets +1 Buy.
-J gets +$2.
-m discards a card and a Guardian.
-J plays 2 Coppers and a Silver. (+$4)
+J plays an Island.
+J puts an Island on their Island mat.
+J puts a Camel Train on their Island mat.
+J plays a Silver. (+$2)
 
 Players can see spectator chat
-max_cuarto joined the table.
-Joining game #80181476 on oregon.
-Jazzercise:  this game is ridiculous
-Jazzercise:  do I get 3 goons vps
+Joining game #80784994 on oregon.
+Joining game #80785034 on ohio.
+Joining game #80785621 on oregon.
+Joining game #80785670 on oregon.
+Joining game #80786938 on oregon.
 message
