@@ -15,5 +15,9 @@ for player in game.players:
 # expectedDecks['J'] = ['']
 # # assert(game.)
 
-# for deckReport in deckReports:
-#     if
+for deckReport in deckReports:
+    print(deckReport['playerInitial'] + ' - ' + deckReport['playerName'])
+    print('---')
+    for card in deckReport['cardNameList']:
+        print(card)
+    print()

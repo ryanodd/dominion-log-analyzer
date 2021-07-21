@@ -80,30 +80,6 @@ def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999, st
         loopIndex += 1
     return listToReturn
 
-# The initial parse, used for gathering # of players and their initials
-# Not using getFunctionForLine approach, since this parse is so janky (yet short).
-# Returns a GameState with:
-# - players with names and initials, but empty decks.
-# Needs to construct the gameState itself since GameState init needs to know # of players to construct them
-
-
-def playerNamesParse(logString, game):
-    lines = logString.split('\n')
-
-    for line in lines:
-        words = line.split()
-        if len(words) >= 3 and validateWordSequence(words[1:3], [s_intro_starts, s_intro_with]):
-            if game.getPlayerByInitial(words[0]) is None:
-                player = Player()
-                player.initial = words[0]
-                game.players.append(player)
-        if len(words) >= 3 and validateWordSequence(words[0:3], [s_turn, '1', s_hyphen]):
-            player = game.getPlayerByInitial(
-                words[3][0])  # first letter of name
-            if player is None:
-                assert False
-            player.name = ' '.join(words[3:])
-
 
 def logToGame(logString):
 
@@ -157,13 +133,17 @@ def getFunctionForLine(words, game):
 
 
 def parseDeckStartLine(words, game):
+    if game.getPlayerByInitial(words[0]) is None:
+        player = Player()
+        player.initial = words[0]
+        game.players.append(player)
     game.getPlayerByInitial(
         words[0]).totalDeckCardNames += (parseMultipleCardsFromStrings(words, 3))
 
 
 def parseTurnLine(words, game):
-    None
-    # game.incrementTurn() # this existed on gGames.
+    if words[1] == '1':
+        game.getPlayerByInitial(words[3][0]).name = ' '.join(words[3:])
 
 
 def parseBuyLine(words, game):
