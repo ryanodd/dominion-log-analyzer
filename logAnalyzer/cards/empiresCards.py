@@ -73,12 +73,12 @@ def create_Emporium():
 cardFns['Emporium'] = create_Emporium
 
 
-def create_Setllers():
+def create_Settlers():
     cardParams = CardParams()
     return cardParams
 
 
-cardFns['Setllers'] = create_Setllers
+cardFns['Settlers'] = create_Settlers
 
 
 def create_Bustling_Village():

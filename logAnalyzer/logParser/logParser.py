@@ -85,8 +85,6 @@ def logToGame(logString):
 
     game = Game()
 
-    playerNamesParse(logString, game)
-
     lines = logString.split('\n')
     for line in lines:
         words = line.split()
@@ -106,12 +104,17 @@ def getFunctionForLine(words, game):
         return parseDeckStartLine
     if len(words) >= 4 and validateWordSequence(words[0:4], [r_playerLetter, s_buys, s_and, s_gains]):
         return parseBuyLine
+    if len(words) >= 4 and validateWordSequence(words[0:2], [r_playerLetter, s_gains])\
+            and validateWordSequence(words[-2:], [s_from, s_trash]):
+        return parseGainFromTrashLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_gains]):
         return parseGainLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_trashes]):
         return parseTrashLine
-    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_recieves]):
-        return parseRecievesLine
+    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_receives]):
+        return parseReceivesLine
+    if len(words) >= 3 and validateWordSequence(words[0:3], [r_playerLetter, s_returns, s_minus_Coin]):
+        return parseReturnsMinusCoinLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_returns]):
         return parseReturnsLine
     if len(words) >= 6 and validateWordSequence(words[0:2], [r_playerLetter, s_returns])\
@@ -156,6 +159,11 @@ def parseGainLine(words, game):
         words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2)
 
 
+def parseGainFromTrashLine(words, game):
+    game.getPlayerByInitial(
+        words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2, len(words) - 3)
+
+
 def parseTrashLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
         words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2))
@@ -176,9 +184,13 @@ def parseReturnsLine(words, game):
         words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWord=s_to))
 
 
-def parseRecievesLine(words, game):
+def parseReceivesLine(words, game):
     game.getPlayerByInitial(
         words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2)
+
+
+def parseReturnsMinusCoinLine(words, game):
+    None
 
 
 def parseReturnToHorsePileLine(words, game):

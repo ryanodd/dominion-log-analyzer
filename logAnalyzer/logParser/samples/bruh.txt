@@ -1,5 +1,5 @@
 
-Game #81460823, unrated.
+Game #81463934, unrated.
 
 L starts with 7 Coppers.
 L starts with 3 Estates.
@@ -8,38 +8,80 @@ J starts with 3 Estates.
 L shuffles their deck.
 L draws 5 cards.
 J shuffles their deck.
-J draws 3 Coppers and 2 Estates.
+J draws 4 Coppers and an Estate.
 
 Turn 1 - Lord Rattington
-L plays 4 Coppers. (+$4)
-L buys and gains a Silver.
+L plays 2 Coppers. (+$2)
+L buys and gains a Settlers.
 L draws 5 cards.
 
 Turn 1 - Jazzercise
-J plays 3 Coppers. (+$3)
-J buys and gains a Silver.
-J draws 4 Coppers and an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Settlers.
+J draws 3 Coppers and 2 Estates.
 
 Turn 2 - Lord Rattington
-L plays 3 Coppers. (+$3)
-L buys and gains a Silver.
+L plays 5 Coppers. (+$5)
+L buys and gains an Idol.
 L shuffles their deck.
 L draws 5 cards.
 
 Turn 2 - Jazzercise
-J plays 4 Coppers. (+$4)
-J buys and gains a Temple.
+J plays 3 Coppers. (+$3)
+J buys and gains a Page.
 J shuffles their deck.
-J draws 3 Coppers, a Silver and a Temple.
+J draws 3 Coppers and 2 Estates.
 
 Turn 3 - Lord Rattington
-L plays 3 Coppers and a Silver. (+$5)
-L buys and gains a Soothsayer.
+L plays 3 Coppers. (+$3)
+L plays an Idol. (+$2)
+L takes The Sky's Gift.
+L receives The Sky's Gift.
+L discards an Estate.
+L fails to discard for The Sky's Gift
+L buys and gains an Envoy.
 L draws 5 cards.
 
 Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Supplies.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - Lord Rattington
+L plays a Settlers.
+L draws a card.
+L gets +1 Action.
+L looks at 6 cards.
+L looks at 6 cards.
+L puts a card into their hand.
+L plays 4 Coppers. (+$4)
+L buys and gains an Envoy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Noble Brigand.
+L reveals a Settlers and a Copper.
+L discards a Copper and a Settlers.
+J gains a Noble Brigand.
+J shuffles their deck.
+J draws 3 Coppers, a Page and a Settlers.
+
+Turn 5 - Lord Rattington
+L plays an Envoy.
+L reveals 2 Coppers, an Idol and 2 Estates.
+L discards an Idol.
+L puts 2 Coppers and 2 Estates into their hand.
+L plays 5 Coppers. (+$5)
+L buys and gains an Idol.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
 
 Players can see spectator chat
-Joining game #81460823 on oregon.
+Joining game #81463934 on ohio.
+Jazzercise reconnected.
 message
 DECK

@@ -9,7 +9,7 @@ def getDeckListReport(player):
 
     deckReport = {}
     deckReport['playerName'] = player.name
-    deckReport['playerInitial'] = player.name[0]
+    deckReport['playerInitial'] = player.initial
 
     deckReport['cardNameList'] = []
     cards = sortCardsByTypeThenCost(cards)
