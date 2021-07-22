@@ -1,4 +1,5 @@
 import json
+from saveLogToDB import saveLogToDB
 import traceback
 from logAnalyzer.utils.logger import logGame
 from logAnalyzer.logParser.logParser import logToGame
@@ -11,6 +12,8 @@ def lambda_handler(event, context):
         gameLogStr = payload['logStr']
         print('GAME LOG:')
         print(gameLogStr)
+
+        saveLogToDB(gameLogStr)
 
         game = logToGame(gameLogStr)
 
