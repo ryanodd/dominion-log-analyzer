@@ -1,10 +1,10 @@
 from logAnalyzer.logParser.logParserUtils import getGameIdFromLog
-from pprint import pprint
+import uuid
+import datetime
 import boto3
 
 
 def saveLogToDB(log):
-    # , endpoint_url="http://localhost:8000")
     dynamodb = boto3.resource('dynamodb')
     table = dynamodb.Table('DominionLogs')
 
@@ -16,12 +16,33 @@ def saveLogToDB(log):
         Key={
             'id': id
         },
-        UpdateExpression="set gameLog=:l",
+        UpdateExpression="set gameLog=:l, modifiedAt=:t",
         ExpressionAttributeValues={
             ':l': log,
+            ':t': datetime.datetime.now().isoformat()
         },
         ReturnValues="UPDATED_NEW"
     )
 
-    print("SAVE TO DB RESPONSE:")
+    print("SAVE LOG TO DB RESPONSE:")
+    print(response)
+
+
+def saveErrorToDB(errorMessage):
+    dynamodb = boto3.resource('dynamodb')
+    table = dynamodb.Table('DominionErrors')
+
+    response = table.update_item(
+        Key={
+            'id': str(uuid.uuid4())
+        },
+        UpdateExpression="set errorMessage=:e, modifiedAt=:t",
+        ExpressionAttributeValues={
+            ':e': errorMessage,
+            ':t': datetime.datetime.now().isoformat()
+        },
+        ReturnValues="UPDATED_NEW"
+    )
+
+    print("SAVE ERROR TO DB RESPONSE:")
     print(response)

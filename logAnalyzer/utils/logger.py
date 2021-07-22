@@ -1,3 +1,4 @@
+from saveLogToDB import saveErrorToDB
 import sys
 
 
@@ -16,5 +17,6 @@ def logError(message):
 
 def logErrorAndExit(message):
     logError(message)
+    saveErrorToDB(message)
     print('EXITING...')
     sys.exit(1)

@@ -1,3 +1,4 @@
+from logAnalyzer.boonsAndHexesAndStates import getBoonOrHexOrState
 from logAnalyzer.logParser.strings import *  # all prefixed with s_ or r_
 from logAnalyzer.logParser.cardNameFilter import getFilteredCardName
 from logAnalyzer.game import Game, Player
@@ -35,6 +36,13 @@ def parseSingleCardFromStrings(words):
     return getFilteredCardName(nameString)
 
 
+def parseBoonOrHexOrStateFromStrings(words):
+    nameString = " ".join(words)
+    if nameString[-1] == '.' or nameString[-1] == ',':
+        nameString = nameString[0:-1]
+    return getBoonOrHexOrState(nameString)
+
+
 def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999, stopWord=None):
     if lastWordIndex < len(words):
         words = words[firstWordIndex:lastWordIndex+1]
@@ -46,6 +54,9 @@ def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999, st
     while loopIndex < len(words):
 
         if (words[loopIndex] == stopWord):
+            return listToReturn
+
+        if parseBoonOrHexOrStateFromStrings(words[loopIndex:len(words)]) is not None:
             return listToReturn
 
         # Skip 'and'
