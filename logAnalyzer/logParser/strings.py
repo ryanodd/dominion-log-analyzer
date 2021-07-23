@@ -46,6 +46,7 @@ s_the = 'the'
 s_with = 'with'
 s_on = 'on'
 s_aside = 'aside'
+s_onto = 'onto'
 
 s_hyphen = '-'
 

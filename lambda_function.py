@@ -1,5 +1,5 @@
 import json
-from saveLogToDB import saveLogToDB
+from saveLogToDB import saveErrorToDB, saveLogToDB
 import traceback
 from logAnalyzer.utils.logger import logGame
 from logAnalyzer.logParser.logParser import logToGame
@@ -36,6 +36,7 @@ def lambda_handler(event, context):
         }
     except Exception as e:
         exc = traceback.format_exc()
+        saveErrorToDB(exc)
         return {
             'statusCode': 500,
             'headers': {
