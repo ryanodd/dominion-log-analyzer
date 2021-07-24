@@ -2,7 +2,7 @@ from logAnalyzer.boonsAndHexesAndStates import getBoonOrHexOrState
 from logAnalyzer.logParser.strings import *  # all prefixed with s_ or r_
 from logAnalyzer.logParser.cardNameFilter import getFilteredCardName
 from logAnalyzer.game import Game, Player
-from logAnalyzer.utils.logger import logErrorAndExit
+from logAnalyzer.utils.logger import logErrorAndRaise
 from logAnalyzer.utils.pythonUtils import removeItemsFromList
 
 # Takes in 2 lists of words (str/regexp) and returns T/F if matching
@@ -70,9 +70,14 @@ def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999, st
         elif qtyString == s_a or qtyString == s_an:
             cardQuantity = 1
         else:
-            logErrorAndExit(
+            logErrorAndRaise(
                 'Couldn\'t determine quantity: ' + qtyString)
         loopIndex += 1  # processed quantity
+
+        # check for stop words again, sometimes they come after 'a'
+        # e.g. J sets a card aside with Library
+        if words[loopIndex] in stopWords:
+            return listToReturn
 
         # loop, adding words until we know we can't
         nameBeginIndex = loopIndex
@@ -85,8 +90,8 @@ def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999, st
         cardName = parseSingleCardFromStrings(
             words[nameBeginIndex:loopIndex+1])
         if (cardName is None):
-            logErrorAndExit('Could not find card name: ' +
-                            " ".join(words[nameBeginIndex:loopIndex+1]))
+            logErrorAndRaise('Could not find card name: ' +
+                             " ".join(words[nameBeginIndex:loopIndex+1]))
         listToReturn += ([cardName] * cardQuantity)
         loopIndex += 1
     return listToReturn
@@ -188,12 +193,14 @@ def parseReceivesLine(words, game):
 
 
 # "aside with Native Village"
+# "a card aside with Library"
 def parseSetsLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_aside]))
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_aside, s_card]))
 
 
 # "on their Island mad"
+# "into their hand"
 def parsePutsLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
         words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_on]))
