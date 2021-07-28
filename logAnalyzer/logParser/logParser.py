@@ -194,13 +194,24 @@ def parseReceivesLine(words, game):
 
 # "aside with Native Village"
 # "a card aside with Library"
+# "Druid sets {Boon} aside."
+# "sets 2 Coppers aside."
 def parseSetsLine(words, game):
+    if words[0] == s_Druid or validateWordSequence(words[-1:], [s_aside]):
+        return
     removeItemsFromList(game.getPlayerByInitial(
         words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_aside, s_card]))
 
 
-# "on their Island mad"
 # "into their hand"
+# "on their Island mad"
+# "puts a Gold in hand (Crypt)."
+# "puts a Magpie back onto their deck."
 def parsePutsLine(words, game):
+    if validateWordSequence(words[-3:], [s_into, s_their, s_hand])\
+            or validateWordSequence(words[-1:], [s_CryptBrackets])\
+            or validateWordSequence(words[-2:], [s_CargoLeftBracket, s_ShipRightBracket])\
+            or validateWordSequence(words[-4:], [s_back, s_onto, s_their, s_deck]):
+        return
     removeItemsFromList(game.getPlayerByInitial(
         words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_on]))

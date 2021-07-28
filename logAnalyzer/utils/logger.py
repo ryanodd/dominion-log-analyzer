@@ -17,6 +17,5 @@ def logError(message):
 
 def logErrorAndRaise(message):
     logError(message)
-    saveErrorToDB(message)
     print('EXITING...')
     raise Exception(message)

@@ -7,8 +7,6 @@ file = open("logAnalyzer/logParser/samples/bruh.txt")
 fileStr = file.read()
 file.close()
 
-saveLogToDB(fileStr)
-
 game = logToGame(fileStr)
 
 deckReports = []

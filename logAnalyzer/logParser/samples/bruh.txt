@@ -1,68 +1,623 @@
+Game #81829357, rated.
+eelusion: 50.04
+Jazzercise: 44.39
 
-Game #81526967, unrated.
 
-L starts with 7 Coppers.
-L starts with 3 Estates.
+e starts with 7 Coppers.
+e starts with 3 Estates.
 J starts with 7 Coppers.
 J starts with 3 Estates.
-L shuffles their deck.
-L draws 5 cards.
+e shuffles their deck.
+e draws 5 cards.
 J shuffles their deck.
 J draws 4 Coppers and an Estate.
 
-Turn 1 - Lord Rattington
-L plays 4 Coppers. (+$4)
-L buys and gains a Silver.
-L draws 5 cards.
+Turn 1 - eelusion
+e plays 3 Coppers. (+$3)
+e buys and gains a Warehouse.
+e draws 5 cards.
 
 Turn 1 - Jazzercise
 J plays 4 Coppers. (+$4)
-J buys and gains an Exorcist.
+J buys and gains a Remake.
 J draws 3 Coppers and 2 Estates.
 
-Turn 2 - Lord Rattington
-L plays 3 Coppers. (+$3)
-L buys and gains a Silver.
-L shuffles their deck.
-L draws 5 cards.
+Turn 2 - eelusion
+e plays 4 Coppers. (+$4)
+e buys and gains a Page.
+e shuffles their deck.
+e draws 5 cards.
 
 Turn 2 - Jazzercise
 J plays 3 Coppers. (+$3)
-J buys and gains a Ghost Town.
-J plays a Ghost Town.
+J buys and gains a Page.
 J shuffles their deck.
-J draws 4 Coppers and an Estate.
+J draws 2 Coppers, 2 Estates and a Page.
 
-Turn 3 - Lord Rattington
-L plays 3 Coppers and a Silver. (+$5)
-L buys and gains a Mountebank.
-L draws 5 cards.
+Turn 3 - eelusion
+e plays 3 Coppers. (+$3)
+e buys and gains a Warehouse.
+e draws 5 cards.
 
 Turn 3 - Jazzercise
-J starts their turn.
-J draws an Estate (Ghost Town).
+J plays a Page.
+J draws a Copper.
 J gets +1 Action.
-J plays 4 Coppers. (+$4)
-J buys and gains a Blessed Village.
-J takes The Sea's Gift.
-J sets The Sea's Gift aside.
-J draws 3 Coppers, an Estate and an Exorcist.
+J plays 3 Coppers. (+$3)
+J buys and gains a Cargo Ship.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 4 Coppers and an Estate.
 
-Turn 4 - Lord Rattington
-L plays 2 Coppers and a Silver. (+$4)
-L buys and gains a Silver.
-L shuffles their deck.
-L draws 5 cards.
+Turn 4 - eelusion
+e plays a Page.
+e draws a card.
+e gets +1 Action.
+e plays a Warehouse using Way of the Chameleon.
+e would draw 3 cards.
+e gets +$3.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Copper. (+$1)
+e buys and gains a Silk Merchant.
+e gets +1 Villager.
+e gets +1 Coffers.
+e returns a Page.
+e receives a Treasure Hunter.
+e shuffles their deck.
+e draws 5 cards.
 
 Turn 4 - Jazzercise
-J starts their turn.
-J receives The Sea's Gift.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
 J shuffles their deck.
-J draws a Copper.
-J discards The Sea's Gift.
+J draws 2 Coppers, 2 Estates and a Remake.
 
-Players can see spectator chat
-Joining game #81526967 on oregon.
-Jazzercise reconnected.
-message
-DECK
+Turn 5 - eelusion
+e plays a Warehouse.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Silk Merchant.
+e draws 2 cards.
+e gets +1 Buy.
+e uses 1 Villager.
+e plays a Treasure Hunter.
+e gets +1 Action.
+e gets +$1.
+e gains a Silver.
+e moves 1 VP from the Silver pile to Aqueduct.
+e plays 4 Coppers. (+$4)
+e uses 1 Coffers. (+$1)
+e buys and gains 2 Warehouses.
+e returns a Treasure Hunter.
+e receives a Warrior.
+e shuffles their deck.
+e draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Warehouse.
+J trashes an Estate.
+J gains a Silver.
+J moves 1 VP from the Silver pile to Aqueduct.
+J plays 2 Coppers. (+$2)
+J buys and gains a Page.
+J draws 4 Coppers and a Treasure Hunter.
+
+Turn 6 - eelusion
+e plays a Warehouse.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Warehouse.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Warehouse.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Warrior.
+e draws 2 cards.
+J discards a Silk Merchant.
+J trashes a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+e plays a Copper and a Silver. (+$3)
+e buys and gains a Cargo Ship.
+e returns a Warrior.
+e receives a Hero.
+e shuffles their deck.
+e draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Treasure Hunter using Way of the Chameleon.
+J gets +1 Action.
+J would get +$1.
+J draws a Cargo Ship.
+J gains a Silver.
+J moves 1 VP from the Silver pile to Aqueduct.
+J plays a Cargo Ship.
+J gets +$2.
+J plays 4 Coppers. (+$4)
+J buys and gains a Remake.
+J sets a Remake aside with Cargo Ship.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Remake.
+
+Turn 7 - eelusion
+e plays a Hero.
+e gets +$2.
+e gains a Gold.
+e moves 1 VP from the Gold pile to Aqueduct.
+e plays 2 Coppers. (+$2)
+e buys and gains an Estate.
+e takes 4 VP from Aqueduct.
+e returns a Hero.
+e receives a Champion.
+e draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J puts a Remake in hand (Cargo Ship).
+J plays a Remake.
+J trashes an Estate.
+J gains a Warehouse.
+J trashes a Copper.
+J uses 1 Villager.
+J plays a Remake.
+J trashes 2 Coppers.
+J draws 2 Coppers, a Silver, a Page and a Warrior.
+
+Turn 8 - eelusion
+e plays a Warehouse.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Warehouse.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Warehouse.
+e shuffles their deck.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Warehouse.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Silver.
+e plays a Champion.
+e gets +1 Action.
+e draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Page.
+J draws a Copper.
+J gets +1 Action.
+J plays a Warrior.
+J draws a Copper and a Warehouse.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J returns a Warrior.
+J receives a Hero.
+J returns a Page.
+J receives a Treasure Hunter.
+J shuffles their deck.
+J draws a Copper, a Silver, a Hero, a Cargo Ship and a Silk Merchant.
+
+Turn 9 - eelusion
+e plays a Silk Merchant.
+e gets +1 Action.
+e draws 2 cards.
+e gets +1 Buy.
+e plays 3 Coppers and a Gold. (+$6)
+e buys and gains a Silk Merchant.
+e gets +1 Villager.
+e gets +1 Coffers.
+e buys and gains a Page.
+e shuffles their deck.
+e draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Hero.
+J gets +$2.
+J gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+J uses 1 Villager.
+J plays a Silk Merchant.
+J draws a Warehouse and a Remake.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Warehouse.
+J draws a Copper, a Silver and a Remake.
+J gets +1 Action.
+J discards a Copper and 2 Silvers.
+J plays a Remake.
+J trashes a Copper and a Remake.
+J gains a Duchy.
+J takes 1 VP from Aqueduct.
+J uses 2 Coffers. (+$2)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J returns a Hero.
+J receives a Champion.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Warehouse and a Treasure Hunter.
+
+Turn 10 - eelusion
+e plays a Warehouse.
+e gets +1 Action.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Cargo Ship.
+e gets +1 Action.
+e gets +$2.
+e plays a Warehouse.
+e gets +1 Action.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Silver.
+e plays a Page.
+e gets +1 Action.
+e draws a card.
+e gets +1 Action.
+e plays a Copper and a Gold. (+$4)
+e buys and gains a Silk Merchant.
+e gets +1 Villager.
+e gets +1 Coffers.
+e sets a card aside with Cargo Ship.
+e returns a Page.
+e receives a Treasure Hunter.
+e draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Treasure Hunter using Way of the Chameleon.
+J gets +1 Action.
+J would get +$1.
+J draws a Champion.
+J gains a Silver.
+J moves 1 VP from the Silver pile to Aqueduct.
+J plays a Champion.
+J gets +1 Action.
+J plays a Warehouse.
+J gets +1 Action.
+J draws a Silver, a Duchy and a Silk Merchant.
+J gets +1 Action.
+J discards 2 Coppers and a Duchy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Remake and a Silk Merchant.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Gold and a Warehouse.
+J gets +1 Buy.
+J plays a Warehouse.
+J gets +1 Action.
+J shuffles their deck.
+J draws 2 Coppers and a Cargo Ship.
+J gets +1 Action.
+J discards 2 Coppers and a Remake.
+J plays a Cargo Ship.
+J gets +1 Action.
+J gets +$2.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J sets a Silk Merchant aside with Cargo Ship.
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J shuffles their deck.
+J draws a Copper, a Silver, a Duchy, a Remake and a Silk Merchant.
+
+Turn 11 - eelusion
+e starts their turn.
+e puts a Silk Merchant in hand (Cargo Ship).
+e plays a Silk Merchant.
+e gets +1 Action.
+e draws 2 cards.
+e gets +1 Buy.
+e plays a Silk Merchant.
+e gets +1 Action.
+e draws 2 cards.
+e gets +1 Buy.
+e plays a Silk Merchant.
+e gets +1 Action.
+e shuffles their deck.
+e draws 2 cards.
+e gets +1 Buy.
+e plays a Warehouse.
+e gets +1 Action.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and an Estate.
+e plays a Treasure Hunter.
+e gets +2 Action.
+e gets +$1.
+e gains a Silver.
+e moves 1 VP from the Silver pile to Aqueduct.
+e gains a Silver.
+e moves 1 VP from the Silver pile to Aqueduct.
+e gains a Silver.
+e moves 1 VP from the Silver pile to Aqueduct.
+e plays a Warehouse.
+e gets +1 Action.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Warehouse.
+e gets +1 Action.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays 3 Coppers, a Gold and a Silver. (+$8)
+e uses 2 Coffers. (+$2)
+e buys and gains a Gold.
+e moves 1 VP from the Gold pile to Aqueduct.
+e buys and gains a Duchy.
+e takes 5 VP from Aqueduct.
+e returns a Treasure Hunter.
+e receives a Warrior.
+e shuffles their deck.
+e draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J puts a Silk Merchant in hand (Cargo Ship).
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws 2 Coppers.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Warehouse and a Warrior.
+J gets +1 Buy.
+J plays a Warehouse.
+J gets +1 Action.
+J draws 2 Silvers and a Silk Merchant.
+J gets +1 Action.
+J discards 2 Coppers and a Duchy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Warehouse and a Silk Merchant.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Copper and a Gold.
+J gets +1 Buy.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Copper and a Duchy.
+J plays a Remake.
+J gets +1 Action.
+J trashes a Duchy.
+J gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+J trashes a Warehouse.
+J gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J plays 3 Coppers, a Gold and 3 Silvers. (+$12)
+J uses 4 Coffers. (+$4)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J buys and gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+J buys and gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+J returns a Warrior.
+J receives a Hero.
+J shuffles their deck.
+J draws a Silver, a Gold, a Warehouse, a Hero and a Silk Merchant.
+
+Turn 12 - eelusion
+e plays a Warrior.
+e gets +1 Action.
+e draws 2 cards.
+e plays 2 Coppers and 3 Silvers. (+$8)
+e buys and gains a Province.
+e takes 3 VP from Aqueduct.
+e draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Copper and a Gold.
+J gets +1 Buy.
+J plays a Hero.
+J gets +1 Action.
+J uses Way of the Chameleon.
+J would get +$2.
+J draws a Silver and a Silk Merchant.
+J gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Cargo Ship and a Silk Merchant.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Remake and a Silk Merchant.
+J gets +1 Buy.
+J plays a Cargo Ship.
+J gets +1 Action.
+J uses Way of the Chameleon.
+J would get +$2.
+J draws a Gold and a Silk Merchant.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Gold and a Silk Merchant.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws 2 Coppers.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Silver and a Gold.
+J gets +1 Buy.
+J plays a Remake.
+J gets +1 Action.
+J trashes a Warehouse.
+J gains a Death Cart.
+J gains a Survivors.
+J sets a Survivors aside with Cargo Ship.
+J gains a Ruined Library.
+J trashes a Copper.
+J plays 2 Coppers, 5 Golds and 3 Silvers. (+$23)
+J uses 2 Coffers. (+$2)
+J buys and gains a Province.
+J takes 1 VP from Aqueduct.
+J buys and gains a Province.
+J buys and gains 3 Cargo Ships.
+J shuffles their deck.
+J draws a Copper, 2 Golds, a Ruined Library and a Cargo Ship.
+
+Turn 13 - eelusion
+e plays a Silk Merchant.
+e gets +1 Action.
+e draws 2 cards.
+e gets +1 Buy.
+e plays a Cargo Ship.
+e gets +1 Action.
+e gets +$2.
+e plays a Copper and 2 Golds. (+$7)
+e buys and gains a Province.
+e sets a card aside with Cargo Ship.
+e draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J puts a Survivors in hand (Cargo Ship).
+J plays a Ruined Library.
+J gets +1 Action.
+J draws a Silk Merchant.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Cargo Ship and a Silk Merchant.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws 2 Silk Merchants.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Gold and a Province.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws 2 Golds.
+J gets +1 Buy.
+J plays a Cargo Ship.
+J gets +1 Action.
+J uses Way of the Chameleon.
+J would get +$2.
+J draws a Province and a Silk Merchant.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Silver and a Cargo Ship.
+J gets +1 Buy.
+J plays a Cargo Ship.
+J gets +1 Action.
+J uses Way of the Chameleon.
+J would get +$2.
+J draws a Silver and a Remake.
+J plays a Cargo Ship.
+J gets +1 Action.
+J uses Way of the Chameleon.
+J would get +$2.
+J draws a Copper and a Silk Merchant.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Silver and a Hero.
+J gets +1 Buy.
+J plays a Hero.
+J gets +1 Action.
+J uses Way of the Chameleon.
+J would get +$2.
+J draws a Death Cart.
+J gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+Cargo Ship can no longer move Gold (it already moved).
+Cargo Ship can no longer move Gold (it already moved).
+J sets a Gold aside with Cargo Ship.
+J plays a Death Cart.
+J gets +1 Action.
+J trashes a Survivors.
+J gets +$5.
+J plays 2 Coppers, 5 Golds and 3 Silvers. (+$23)
+J buys and gains a Province.
+J takes 1 VP from Aqueduct.
+Cargo Ship can no longer move Province (it already moved).
+J sets a Province aside with Cargo Ship.
+J buys and gains a Province.
+J sets a Province aside with Cargo Ship.
+J buys and gains a Province.
+J buys and gains 2 Estates.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Golds and a Silk Merchant.
+
+Turn 14 - eelusion
+e starts their turn.
+e puts a Province in hand (Cargo Ship).
+e plays a Warehouse.
+e gets +1 Action.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays a Silk Merchant.
+e gets +1 Action.
+e draws 2 cards.
+e gets +1 Buy.
+e plays a Silk Merchant.
+e gets +1 Action.
+e draws 2 cards.
+e gets +1 Buy.
+e plays a Warehouse.
+e gets +1 Action.
+e shuffles their deck.
+e draws 3 cards.
+e gets +1 Action.
+e discards 2 other cards and a Warehouse.
+e plays a Warehouse.
+e gets +1 Action.
+e uses Way of the Chameleon.
+e would draw 3 cards.
+e gets +$3.
+e gets +1 Action.
+e discards 2 other cards and a Copper.
+e plays 2 Silvers. (+$4)
+e buys and gains a Duchy.
+e buys and gains an Estate.
+e draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J puts a Gold and 2 Provinces in hand (Cargo Ship).
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Copper and an Estate.
+J gets +1 Buy.
+J plays 2 Coppers, 3 Golds and a Silver. (+$13)
+J buys and gains a Province.
+J buys and gains a Duchy.
+J draws 2 Provinces, a Death Cart, a Cargo Ship and a Silk Merchant.
+
