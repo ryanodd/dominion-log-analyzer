@@ -1,0 +1,677 @@
+Game #82146806, rated.
+Jazzercise: 45.71
+tabba: 51.28
+
+Kingdom generated with these relative percentages:
+0%: Mountebank, Shepherd, Torturer, Cultist and Margrave
+50%: Minion, Militia, Treasure Trove, Tournament and Witch
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Quarry.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - tabba
+t plays 3 Coppers. (+$3)
+t buys and gains a Farmers' Market.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Lookout.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - tabba
+t plays 4 Coppers. (+$4)
+t buys and gains a Lookout.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Quarry.
+
+Turn 3 - tabba
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes an Estate.
+t discards a Copper.
+t topdecks a card.
+t plays a Farmers' Market.
+t gets +1 Buy.
+t adds 1 VP to the Farmers' Market pile.
+t gets +$1.
+t plays 3 Coppers. (+$3)
+t buys and gains a Quarry.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Quarry. (+$4)
+J buys and gains a Bazaar.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Bazaar and a Lookout.
+
+Turn 4 - tabba
+t plays 3 Coppers. (+$3)
+t buys and gains a Lookout.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Lookout.
+J gets +1 Action.
+J looks at 2 Coppers and a Silver.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Silver.
+J plays 2 Coppers. (+$2)
+J buys and gains a Lookout.
+J draws 2 Coppers, a Silver, an Estate and a Quarry.
+
+Turn 5 - tabba
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes an Estate.
+t discards a Copper.
+t topdecks a card.
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes a Copper.
+t discards a Copper.
+t topdecks a card.
+t plays a Copper and a Quarry. (+$2)
+t buys and gains an Enchantress.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Silver and a Quarry. (+$3)
+J buys and gains a Bazaar.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Lookouts.
+
+Turn 6 - tabba
+t plays a Farmers' Market.
+t gets +1 Buy.
+t adds 1 VP to the Farmers' Market pile.
+t gets +$2.
+t plays 4 Coppers. (+$4)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Silver and a Bazaar.
+J trashes a Copper.
+J discards a Silver.
+J topdecks a Bazaar.
+J plays a Lookout.
+J gets +1 Action.
+J looks at an Estate, a Bazaar and a Quarry.
+J trashes an Estate.
+J discards a Quarry.
+J topdecks a Bazaar.
+J plays 2 Coppers. (+$2)
+J buys and gains a Faithful Hound.
+J draws 2 Coppers, an Estate and 2 Bazaars.
+
+Turn 7 - tabba
+t plays a Lookout.
+t gets +1 Action.
+t shuffles their deck.
+t looks at 3 cards.
+t trashes an Estate.
+t discards a Quarry.
+t topdecks a card.
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes a Copper.
+t discards a Copper.
+t topdecks a card.
+t plays an Enchantress.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Bazaar.
+Bazaar is enchanted by Enchantress
+J draws a Copper.
+J gets +1 Action.
+J plays a Bazaar.
+J shuffles their deck.
+J draws a Lookout.
+J gets +2 Actions.
+J gets +$1.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Faithful Hound and a Lookout.
+J trashes a Copper.
+J discards a Lookout.
+J topdecks a Faithful Hound.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws a Copper, a Silver, an Estate, a Quarry and a Faithful Hound.
+
+Turn 8 - tabba
+t starts their turn.
+t draws 2 cards (Enchantress).
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes a Copper.
+t discards a Lookout.
+t topdecks a card.
+t plays a Farmers' Market.
+t gets +1 Buy.
+t adds 1 VP to the Farmers' Market pile.
+t gets +$3.
+t plays a Gold. (+$3)
+t buys and gains a Grand Market.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Faithful Hound.
+J shuffles their deck.
+J draws a Silver and a Lookout.
+J plays 2 Silvers and a Quarry. (+$5)
+J buys and gains a Grand Market.
+J draws a Copper, an Estate, 2 Bazaars and a Lookout.
+
+Turn 9 - tabba
+t plays an Enchantress.
+t plays a Gold and a Quarry. (+$4)
+t buys and gains a Grand Market.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Lookout.
+Lookout is enchanted by Enchantress
+J draws a Copper.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J shuffles their deck.
+J draws a Quarry.
+J gets +2 Actions.
+J gets +$1.
+J plays a Quarry. (+$1)
+J buys and gains a Bazaar.
+J draws a Copper, an Estate, a Lookout, a Grand Market and a Faithful Hound.
+
+Turn 10 - tabba
+t starts their turn.
+t shuffles their deck.
+t draws 2 cards (Enchantress).
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes a Copper.
+t discards a Grand Market.
+t topdecks a card.
+t plays a Lookout.
+t gets +1 Action.
+t shuffles their deck.
+t looks at 3 cards.
+t trashes a Copper.
+t discards a Gold.
+t topdecks a card.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t shuffles their deck.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Farmers' Market.
+t gets +1 Buy.
+t adds 1 VP to the Farmers' Market pile.
+t gets +$4.
+t plays a Gold and a Quarry. (+$4)
+t buys and gains 3 Grand Markets.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J shuffles their deck.
+J looks at 2 Silvers and a Bazaar.
+J trashes a Silver.
+J discards a Silver.
+J topdecks a Bazaar.
+J plays a Grand Market.
+J draws a Bazaar.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Faithful Hound.
+J draws an Estate and a Quarry.
+J plays a Quarry. (+$1)
+J buys and gains a Grand Market.
+J buys and gains a Faithful Hound.
+J draws 2 Coppers, 2 Bazaars and a Lookout.
+
+Turn 11 - tabba
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Farmers' Market.
+t gets +1 Buy.
+t takes 4 VP from the Farmers' Market pile.
+t trashes a Farmers' Market.
+t plays a Gold and a Quarry. (+$4)
+t buys and gains 2 Grand Markets.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Bazaar.
+J shuffles their deck.
+J draws a Grand Market.
+J gets +2 Actions.
+J gets +$1.
+J plays a Grand Market.
+J draws a Faithful Hound.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Faithful Hound and a Quarry.
+J trashes a Copper.
+J discards a Faithful Hound.
+J reacts with a Faithful Hound.
+J sets a Faithful Hound aside.
+J topdecks a Quarry.
+J plays a Bazaar.
+J draws a Quarry.
+J gets +2 Actions.
+J gets +$1.
+J plays a Faithful Hound.
+J draws an Estate and a Grand Market.
+J plays a Grand Market.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver and a Quarry. (+$3)
+J buys and gains a Grand Market.
+J buys and gains a Faithful Hound.
+J buys and gains a Bazaar.
+J shuffles their deck.
+J draws a Copper, an Estate, 2 Bazaars and a Lookout.
+J puts a Faithful Hound into their hand.
+
+Turn 12 - tabba
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t shuffles their deck.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes a Copper.
+t discards a Quarry.
+t topdecks a card.
+t plays an Enchantress.
+t plays a Copper and a Gold. (+$4)
+t buys and gains 2 Bazaars.
+t buys and gains 2 Enchantresses.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Bazaar.
+Bazaar is enchanted by Enchantress
+J draws a Grand Market.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Grand Market.
+J draws a Quarry.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Bazaar and a Faithful Hound.
+J trashes a Copper.
+J discards a Faithful Hound.
+J reacts with a Faithful Hound.
+J sets a Faithful Hound aside.
+J topdecks a Bazaar.
+J plays a Faithful Hound.
+J draws a Bazaar and a Grand Market.
+J plays a Bazaar.
+J draws a Lookout.
+J gets +2 Actions.
+J gets +$1.
+J plays a Grand Market.
+J draws a Faithful Hound.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Silver, an Estate and a Bazaar.
+J trashes an Estate.
+J discards a Silver.
+J topdecks a Bazaar.
+J plays a Faithful Hound.
+J draws a Bazaar and a Grand Market.
+J plays a Bazaar.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J gets +$1.
+J plays a Grand Market.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Coppers, a Silver and a Quarry. (+$5)
+J buys and gains 3 Bazaars.
+J buys and gains a Faithful Hound.
+J shuffles their deck.
+J draws 2 Bazaars, a Grand Market, a Quarry and a Faithful Hound.
+J puts a Faithful Hound into their hand.
+
+Turn 13 - tabba
+t starts their turn.
+t draws 2 cards (Enchantress).
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Lookout.
+t gets +1 Action.
+t looks at 3 cards.
+t trashes an Enchantress.
+t discards an Enchantress.
+t topdecks a card.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Bazaar.
+t shuffles their deck.
+t draws a card.
+t gets +2 Actions.
+t gets +$1.
+t plays a Bazaar.
+t gets +2 Actions.
+t gets +$1.
+t plays an Enchantress.
+t plays a Lookout using Way of the Camel.
+t exiles a Gold.
+t plays a Copper, a Gold and a Quarry. (+$5)
+t buys and gains a Bazaar.
+t buys and gains 2 Enchantresses.
+t buys and gains 2 Provinces.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Bazaar.
+Bazaar is enchanted by Enchantress
+J draws a Bazaar.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Lookout.
+J gets +2 Actions.
+J gets +$1.
+J plays a Faithful Hound.
+J draws a Lookout and a Grand Market.
+J plays a Grand Market.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a Bazaar.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Bazaar.
+J draws a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Faithful Hound.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Faithful Hound.
+J gets +2 Actions.
+J gets +$1.
+J plays a Faithful Hound.
+J draws a Copper and a Silver.
+J plays a Faithful Hound.
+J draws 2 Bazaars.
+J plays a Bazaar.
+J draws a Grand Market.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Grand Market.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Lookout using Way of the Camel.
+J exiles a Gold.
+J plays a Lookout using Way of the Camel.
+J exiles a Gold.
+J plays a Faithful Hound using Way of the Camel.
+J exiles a Gold.
+J plays 2 Coppers, a Silver and a Quarry. (+$5)
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws 2 Bazaars, a Lookout, a Grand Market and a Quarry.
+
+Turn 14 - tabba
+t starts their turn.
+t draws 2 cards (Enchantress).
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Bazaar.
+t draws a card.
+t gets +2 Actions.
+t gets +$1.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays a Grand Market.
+t draws a card.
+t gets +1 Action.
+t gets +1 Buy.
+t gets +$2.
+t plays an Enchantress.
+t plays an Enchantress.
+t plays a Copper and a Gold. (+$4)
+t buys and gains 2 Provinces.
+t draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Lookout.
+Lookout is enchanted by Enchantress
+J draws a Grand Market.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Province.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Grand Market.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a Bazaar.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Bazaar.
+J draws a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Faithful Hound.
+J gets +2 Actions.
+J gets +$1.
+J plays a Faithful Hound.
+J draws a Bazaar and a Lookout.
+J plays a Bazaar.
+J draws a Faithful Hound.
+J gets +2 Actions.
+J gets +$1.
+J plays a Faithful Hound.
+J draws a Bazaar and a Grand Market.
+J plays a Bazaar.
+J draws a Province.
+J gets +2 Actions.
+J gets +$1.
+J plays a Grand Market.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Lookout.
+J gets +1 Action.
+J looks at an Estate and 2 Faithful Hounds.
+J trashes a Faithful Hound.
+J discards a Faithful Hound.
+J reacts with a Faithful Hound.
+J sets a Faithful Hound aside.
+J topdecks an Estate.
+J plays 2 Coppers, a Silver and a Quarry. (+$5)
+J buys and gains 2 Provinces.
+J buys and gains an Estate.
+J shuffles their deck.
+J draws a Copper, an Estate, 2 Provinces and a Lookout.
+J puts a Faithful Hound into their hand.
+

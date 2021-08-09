@@ -1,0 +1,798 @@
+Game #81716809, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J draws 5 Coppers.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Gladiator.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains an Inventor.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Militia.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Scrap.
+J draws 3 Coppers, an Estate and an Inventor.
+
+Turn 3 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards a Copper and an Estate.
+L plays 3 Coppers. (+$3)
+L buys and gains a Minion.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Inventor.
+J gains a Farming Village.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Farming Village.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and a Scrap.
+
+Turn 5 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Gladiator.
+L gets +$2.
+L reveals a Silver.
+J blocks with a Silver.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Minion.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Scrap.
+J trashes a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Farming Village.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and an Inventor.
+
+Turn 6 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards a Copper and an Estate.
+L plays 3 Coppers. (+$3)
+L buys and gains a Minion.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Inventor.
+J gains an Inventor.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Farming Village.
+J draws 2 Coppers, a Silver, an Estate and a Farming Village.
+
+Turn 7 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Mill.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Estate and finally Farming Village.
+J puts a Farming Village into their hand.
+J discards an Estate.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Barge.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Farming Village and a Scrap.
+
+Turn 8 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L discards 2 other cards and a Copper.
+L draws 4 cards.
+J discards 2 Coppers, an Estate, a Farming Village and a Scrap.
+J draws a Copper, 2 Estates and an Inventor.
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Militia.
+L gets +$2.
+J discards an Estate.
+L plays a Copper. (+$1)
+L buys and gains a Minion.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Inventor.
+J gains a Scrap.
+J plays a Copper. (+$1)
+J draws 2 Coppers, 2 Silvers and an Inventor.
+
+Turn 9 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L discards 2 other cards and an Estate.
+L draws 4 cards.
+J discards 2 Coppers, 2 Silvers and an Inventor.
+J draws a Copper, 2 Farming Villages and a Barge.
+L plays a Minion.
+L gets +1 Action.
+L discards 2 other cards and a Copper.
+L draws 4 cards.
+L plays a Mill.
+L draws a card.
+L gets +1 Action.
+L discards a card and a Copper.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Militia.
+L gets +$2.
+J discards a Copper.
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Scrap.
+J puts a Scrap into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Estate and finally Silver.
+J puts a Silver into their hand.
+J discards an Estate.
+J plays a Barge.
+J draws 2 Coppers and an Estate.
+J gets +1 Buy.
+J plays a Scrap.
+J trashes an Estate.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains an Outpost.
+J draws 2 Coppers, a Silver, an Estate and an Inventor.
+
+Turn 10 - Lord Rattington
+L plays a Gladiator.
+L gets +$2.
+L reveals a Copper.
+J blocks with a Copper.
+L plays 3 Coppers. (+$3)
+L buys and gains a Minion.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Inventor.
+J gains a Farming Village.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Barge.
+J shuffles their deck.
+J draws a Copper, a Silver, a Farming Village, an Inventor and a Scrap.
+
+Turn 11 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Militia.
+L gets +$2.
+J discards a Copper and a Silver.
+L buys and gains a Mill.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Outpost.
+J puts an Outpost into their hand.
+J plays an Inventor.
+J gains an Inventor.
+J plays an Outpost.
+J draws a Copper, an Estate and a Barge.
+
+Turn 12 - Jazzercise [Outpost]
+J starts their turn.
+J plays a Barge.
+J plays a Copper. (+$1)
+J draws 2 Coppers, a Silver, an Inventor and a Scrap.
+
+Turn 12 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Mill.
+L draws a card.
+L gets +1 Action.
+L discards a card and a Copper.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L discards a Copper.
+L shuffles their deck.
+L draws 4 cards.
+J discards 2 Coppers, a Silver, an Inventor and a Scrap.
+J draws a Copper, 2 Farming Villages and a Barge.
+L plays a Minion.
+L gets +1 Action.
+L discards 2 other cards and a Silver.
+L draws 4 cards.
+L plays a Mill.
+L draws a card.
+L gets +1 Action.
+L discards a card and a Province.
+L gets +$2.
+L plays a Gladiator.
+L gets +$2.
+L reveals an Estate.
+L gets +$1.
+L trashes a Gladiator.
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Copper, an Estate and a Scrap.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Inventor.
+J puts an Inventor into their hand.
+J plays a Barge.
+J draws a Silver, an Estate and a Scrap.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Outpost.
+J puts an Outpost into their hand.
+J plays a Scrap.
+J trashes an Estate.
+J draws a Farming Village.
+J gets +1 Action.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Inventor.
+J puts an Inventor into their hand.
+J plays an Inventor.
+J gains an Inventor.
+J plays an Inventor.
+J gains a Farming Village.
+J plays a Scrap.
+J trashes an Estate.
+J plays an Outpost.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains an Inventor.
+J buys and gains a Farming Village.
+J draws 2 Coppers and an Inventor.
+
+Turn 13 - Jazzercise [Outpost]
+J starts their turn.
+J plays an Inventor.
+J gains a Farming Village.
+J plays 2 Coppers. (+$2)
+J buys and gains a Scrap.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Inventors.
+
+Turn 13 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L discards 3 other cards and a Copper.
+L draws 4 cards.
+J discards 2 Coppers, a Silver and 2 Inventors.
+J draws a Copper, an Outpost, a Farming Village and an Inventor.
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Militia.
+L gets +$2.
+J discards a Copper.
+L plays a Copper. (+$1)
+L buys and gains a Minion.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays an Inventor.
+J gains a Farming Village.
+J plays an Outpost.
+J draws a Copper, a Farming Village and an Inventor.
+
+Turn 14 - Jazzercise [Outpost]
+J starts their turn.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Scrap.
+J puts a Scrap into their hand.
+J plays a Scrap.
+J trashes an Inventor.
+J draws a Barge.
+J gets +1 Action.
+J gets +$1.
+J gains a Horse.
+J plays a Barge.
+J draws a Farming Village, an Inventor and a Scrap.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Scrap.
+J puts a Scrap into their hand.
+J plays a Scrap.
+J trashes a Scrap.
+J draws a Copper.
+J gets +$1.
+J gains a Horse.
+J plays an Inventor.
+J gains a Farming Village.
+J plays 2 Coppers. (+$2)
+J buys and gains a Barge.
+J shuffles their deck.
+J draws a Silver, an Outpost, 2 Farming Villages and a Barge.
+
+Turn 14 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Mill.
+L draws a card.
+L gets +1 Action.
+L discards a card and a Copper.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L draws 4 cards.
+J discards a Silver, an Outpost, 2 Farming Villages and a Barge.
+J draws a Copper, a Farming Village, an Inventor and a Horse.
+L plays a Minion.
+L gets +1 Action.
+L discards 2 other cards and a Copper.
+L draws 4 cards.
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Mill.
+L draws a card.
+L gets +1 Action.
+L discards a card and an Estate.
+L gets +$2.
+L plays a Militia.
+L gets +$2.
+J discards a Copper.
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Inventor.
+J puts an Inventor into their hand.
+J plays a Horse.
+J draws a Farming Village and an Inventor.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays an Inventor.
+J gains a Farming Village.
+J plays an Inventor.
+J gains a Barge.
+J plays an Inventor.
+J gains a Minion.
+J plays a Copper. (+$1)
+J draws a Silver, a Farming Village, an Inventor, a Scrap and a Horse.
+
+Turn 15 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L discards 3 other cards and a Copper.
+L shuffles their deck.
+L draws 4 cards.
+J discards a Silver, a Farming Village, an Inventor, a Scrap and a Horse.
+J draws a Copper, a Farming Village, a Scrap and a Barge.
+L plays a Gladiator.
+L gets +$2.
+L reveals a Copper.
+J blocks with a Copper.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Minion.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Barge.
+J draws a Copper, a Farming Village and a Barge.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Barge.
+J shuffles their deck.
+J draws a Silver, an Outpost and an Inventor.
+J gets +1 Buy.
+J plays a Scrap.
+J trashes a Copper.
+J plays an Inventor.
+J gains a Mill.
+J plays an Outpost.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Minion.
+J draws a Farming Village and 2 Inventors.
+
+Turn 16 - Jazzercise [Outpost]
+J starts their turn.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Barge.
+J puts a Barge into their hand.
+J plays a Barge.
+J draws a Copper, a Farming Village and an Inventor.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays an Inventor.
+J gains a Mill.
+J plays an Inventor.
+J gains a Minion.
+J plays an Inventor.
+J gains a Mill.
+J plays 2 Coppers. (+$2)
+J buys and gains a Barge.
+J draws a Silver, 2 Farming Villages, a Scrap and a Horse.
+
+Turn 16 - Lord Rattington
+L plays a Minion.
+L gets +1 Action.
+L discards 3 other cards and a Province.
+L draws 4 cards.
+J discards a Silver, 2 Farming Villages, a Scrap and a Horse.
+J shuffles their deck.
+J draws a Minion, a Farming Village, a Scrap and a Barge.
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L discards a card and a Province.
+L draws 4 cards.
+L plays a Mill.
+L draws a card.
+L gets +1 Action.
+L discards a card and a Copper.
+L gets +$2.
+L plays a Minion.
+L gets +1 Action.
+L gets +$2.
+L plays a Mill.
+L draws a card.
+L gets +1 Action.
+L discards a Militia.
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Inventor.
+J puts an Inventor into their hand.
+J plays a Barge.
+J draws a Minion, an Outpost and a Farming Village.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Minion.
+J puts a Minion into their hand.
+J plays an Inventor.
+J gains a Mill.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays an Outpost.
+J plays a Minion.
+J gets +1 Action.
+J discards a Scrap.
+J draws a Silver and 3 Farming Villages.
+L discards 4 other cards and a Minion.
+L draws 4 cards.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Mill.
+J puts a Mill into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Barge.
+J puts a Barge into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Silver.
+J puts a Silver into their hand.
+J plays a Barge.
+J draws a Copper and 2 Inventors.
+J gets +1 Buy.
+J plays a Mill.
+J draws a Mill.
+J gets +1 Action.
+J plays a Mill.
+J draws a Horse.
+J gets +1 Action.
+J plays a Horse.
+J draws a Copper and a Barge.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Barge.
+J draws a Copper, a Farming Village and a Barge.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Scrap.
+J puts a Scrap into their hand.
+J plays a Barge.
+J draws a Copper and 2 Farming Villages.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Inventor.
+J puts an Inventor into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Mill.
+J puts a Mill into their hand.
+J plays a Mill.
+J draws a Barge.
+J gets +1 Action.
+J plays a Barge.
+J shuffles their deck.
+J draws a Copper, a Mill and a Scrap.
+J gets +1 Buy.
+J plays a Scrap.
+J trashes an Inventor.
+J gets +1 Buy.
+J gets +$1.
+J gains a Horse.
+J plays a Scrap.
+J trashes an Inventor.
+J gets +1 Buy.
+J gets +$1.
+J gains a Horse.
+J plays an Inventor.
+J gains a Den of Sin.
+J plays 5 Coppers and 2 Silvers. (+$9)
+J buys and gains 2 Provinces.
+J buys and gains a Duchy.
+J plays a Den of Sin.
+J shuffles their deck.
+J draws a Farming Village and 2 Barges.
+
+Turn 17 - Jazzercise [Outpost]
+J starts their turn.
+J draws a Duchy and a Province (Den of Sin).
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Inventor.
+J puts an Inventor into their hand.
+J plays a Barge.
+J draws a Province, a Minion and an Inventor.
+J gets +1 Buy.
+J plays a Minion.
+J gets +1 Action.
+J discards a Duchy, 2 Provinces, 2 Inventors and a Barge.
+J draws 2 Coppers, a Mill and a Scrap.
+J plays a Mill.
+J draws a Copper.
+J gets +1 Action.
+J discards 2 Coppers.
+J gets +$2.
+J plays a Scrap.
+J trashes a Copper.
+J draws a Copper, a Minion, 2 Farming Villages and a Scrap.
+
+Turn 17 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Mill.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Mill.
+J puts a Mill into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Horse.
+J puts a Horse into their hand.
+J plays a Horse.
+J draws a Copper and a Farming Village.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Minion.
+J puts a Minion into their hand.
+J plays a Mill.
+J draws a Mill.
+J gets +1 Action.
+J plays a Mill.
+J draws a Farming Village.
+J gets +1 Action.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Mill.
+J puts a Mill into their hand.
+J plays a Mill.
+J draws a Barge.
+J gets +1 Action.
+J plays a Barge.
+J draws 2 Farming Villages and a Barge.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Horse.
+J puts a Horse into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Barge.
+J puts a Barge into their hand.
+J plays a Barge.
+J draws 2 Silvers and a Farming Village.
+J gets +1 Buy.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Barge.
+J shuffles their deck.
+J draws a Minion and 2 Inventors.
+J gets +1 Buy.
+J plays a Horse.
+J draws a Copper and a Den of Sin.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Duchy and a Province and finally Barge.
+J puts a Barge into their hand.
+J discards a Duchy and a Province.
+J plays a Barge.
+J draws a Province, an Outpost and a Barge.
+J gets +1 Buy.
+J plays a Barge.
+J draws a Copper, a Mill and a Scrap.
+J gets +1 Buy.
+J plays a Mill.
+J draws a Farming Village.
+J gets +1 Action.
+J plays a Farming Village.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Duchy and a Province.
+J discards a Duchy and a Province.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays an Inventor.
+J gains a Mill.
+J plays an Inventor.
+J gains a Duchy.
+J plays a Scrap.
+J trashes a Scrap.
+J gets +$1.
+J plays an Outpost.
+J plays 4 Coppers and 2 Silvers. (+$8)
+J buys and gains 2 Provinces.
+J buys and gains a Duchy.
+J plays a Den of Sin.
+J shuffles their deck.
+J draws a Copper, a Minion and a Farming Village.
+

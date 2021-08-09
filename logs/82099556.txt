@@ -1,0 +1,75 @@
+Game #82099556, unrated.
+
+
+Obelisk chooses the Artisan pile.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J draws 5 Coppers.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains an Oracle.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Royal Carriage.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Royal Carriage.
+
+Turn 3 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays 3 Coppers. (+$3)
+J buys and gains an Oracle.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Wild Hunt.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Watchtower.
+J shuffles their deck.
+J draws 4 Coppers and an Oracle.
+
+Turn 5 - Lord Rattington
+L plays a Wild Hunt.
+L gains an Estate.
+L plays a Copper. (+$1)
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Oracle.
+J reveals a Watchtower and a Copper.
+J discards a Copper and a Watchtower.
+L reveals 2 Coppers.
+L discards 2 Coppers.
+J draws a Copper and an Estate.
+J calls a Royal Carriage.
+J plays an Oracle again.
+

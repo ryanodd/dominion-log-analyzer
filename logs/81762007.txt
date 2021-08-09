@@ -1,0 +1,767 @@
+Game #81762007, rated.
+Jazzercise: 41.79
+rsh: 44.47
+
+Kingdom generated with these relative percentages:
+0%: Wall, Sea Hag, Triumphal Arch, Bandit Fort, Mountebank, Young Witch, Coven and Masquerade
+50%: Witch, Torturer, Familiar, Cultist and Swindler
+
+
+Obelisk chooses the Worker's Village pile.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+r starts with 7 Coppers.
+r starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Lookout.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - rsh
+r plays 4 Coppers. (+$4)
+r buys and gains a Worker's Village.
+r draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Lookout.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Lookout.
+
+Turn 2 - rsh
+r plays 3 Coppers. (+$3)
+r buys and gains a Page.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at 2 Coppers and a Lookout.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Lookout.
+J plays 2 Coppers. (+$2)
+J buys and gains a Page.
+J draws 3 Coppers, an Estate and a Lookout.
+
+Turn 3 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays 4 Coppers. (+$4)
+r buys and gains 2 Encampments.
+r draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Page and 2 Estates.
+J trashes an Estate.
+J discards an Estate.
+J topdecks a Page.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, a Lookout and a Page.
+
+Turn 4 - rsh
+r plays a Page.
+r draws a card.
+r gets +1 Action.
+r plays 3 Coppers. (+$3)
+r buys and gains a Silver.
+r returns a Page.
+r receives a Treasure Hunter.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Page.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J plays a Lookout.
+J gets +1 Action.
+J looks at 3 Coppers.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Copper.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Bridge Troll.
+J returns a Page.
+J receives a Treasure Hunter.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Lookout and a Bridge Troll.
+
+Turn 5 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays an Encampment.
+r draws 2 cards.
+r gets +2 Actions.
+r sets an Encampment aside.
+r plays 5 Coppers. (+$5)
+r buys and gains a Worker's Village.
+r returns an Encampment to the Encampment pile.
+r draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Treasure Hunter and a Lookout.
+J trashes a Copper.
+J discards a Lookout.
+J topdecks a Treasure Hunter.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J buys and gains an Encampment.
+J draws 3 Coppers, a Silver and a Treasure Hunter.
+
+Turn 6 - rsh
+r plays a Treasure Hunter.
+r gets +1 Action.
+r returns -Coin token set by Bridge Troll. (-$1)
+r gains a Silver.
+r plays an Encampment.
+r draws 2 cards.
+r gets +2 Actions.
+r sets an Encampment aside.
+r plays 2 Coppers and a Silver. (+$4)
+r buys and gains a Worker's Village.
+r returns an Encampment to the Encampment pile.
+r returns a Treasure Hunter.
+r receives a Warrior.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Treasure Hunter.
+J gets +1 Action.
+J gets +$1.
+J gains 2 Silvers.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains 2 Worker's Villages.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Lookout and a Worker's Village.
+
+Turn 7 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Warrior.
+r draws 2 cards.
+J discards an Estate.
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays 4 Coppers and a Silver. (+$6)
+r buys and gains a Worker's Village.
+r buys and gains an Encampment.
+r returns a Warrior.
+r receives a Hero.
+r draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at 2 Coppers and a Lookout.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Lookout.
+J plays a Worker's Village.
+J draws a Lookout.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper and 2 Silvers.
+J trashes a Copper.
+J discards a Silver.
+J topdecks a Silver.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J draws a Silver, a Worker's Village, a Bridge Troll, a Warrior and an Encampment.
+
+Turn 8 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays 2 Coppers and a Silver. (+$4)
+r buys and gains a Worker's Village.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Worker's Village.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays an Encampment.
+J draws a Copper and a Lookout.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Worker's Village, a Silver and a Lookout.
+J trashes a Lookout.
+J discards a Silver.
+J topdecks a Worker's Village.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Warrior.
+J draws an Estate and a Worker's Village.
+r discards a Silver.
+J plays a Worker's Village.
+J draws a Silver.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Copper and 3 Silvers. (+$7)
+J buys and gains 2 Worker's Villages.
+J buys and gains an Encampment.
+J returns an Encampment to the Encampment pile.
+J returns a Warrior.
+J receives a Hero.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Worker's Village and an Encampment.
+
+Turn 9 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Hero.
+r returns -Coin token set by Bridge Troll. (-$1)
+r gets +$1.
+r gains a Gold.
+r plays 3 Coppers. (+$3)
+r buys and gains a Worker's Village.
+r returns a Hero.
+r receives a Champion.
+r draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Worker's Village.
+J draws a Copper.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays an Encampment.
+J draws an Estate and a Worker's Village.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Worker's Village.
+J draws a Silver.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Bridge Troll.
+J buys and gains 2 Encampments.
+J returns an Encampment to the Encampment pile.
+J draws a Silver, a Lookout, 2 Worker's Villages and a Hero.
+
+Turn 10 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays an Encampment.
+r draws 2 cards.
+r gets +2 Actions.
+r sets an Encampment aside.
+r plays 4 Coppers and a Silver. (+$6)
+r buys and gains a Bridge Troll.
+r returns an Encampment to the Encampment pile.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Worker's Village.
+J draws a Silver.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J shuffles their deck.
+J draws a Worker's Village.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J draws a Copper.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Silver, an Estate and an Encampment.
+J trashes an Estate.
+J discards a Silver.
+J topdecks an Encampment.
+J plays a Hero.
+J gets +$2.
+J gains a Gold.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains 3 Encampments.
+J returns a Hero.
+J receives a Champion.
+J draws a Copper, a Silver, a Bridge Troll and 2 Encampments.
+
+Turn 11 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays 3 Coppers. (+$3)
+r buys and gains a Silver.
+r draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Encampment.
+J draws a Worker's Village and a Bridge Troll.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Worker's Village.
+J draws an Estate.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays an Encampment.
+J shuffles their deck.
+J draws a Silver and a Champion.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Champion.
+J gets +1 Action.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Bridge Troll.
+J returns 2 Encampments to the Encampment pile.
+J draws a Copper, a Silver, a Gold and 2 Worker's Villages.
+
+Turn 12 - rsh
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Bridge Troll.
+r gets +1 Buy.
+r plays a Copper. (+$1)
+r returns -Coin token set by Bridge Troll. (-$1)
+r plays 2 Coppers. (+$2)
+r buys and gains 2 Encampments.
+r draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gets +2 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Worker's Village.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws an Encampment.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws an Encampment.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays an Encampment.
+J gets +1 Action.
+J draws a Silver and a Lookout.
+J gets +2 Actions.
+J reveals a Gold.
+J plays an Encampment.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Bridge Troll and an Encampment.
+J gets +2 Actions.
+J reveals a Gold.
+J plays an Encampment.
+J gets +1 Action.
+J draws 2 Silvers.
+J gets +2 Actions.
+J reveals a Gold.
+J plays a Lookout.
+J gets +2 Action.
+J looks at a Copper, a Worker's Village and an Estate.
+J trashes an Estate.
+J discards a Copper.
+J topdecks a Worker's Village.
+J plays a Bridge Troll.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Copper, 4 Silvers and a Gold. (+$12)
+J buys and gains 3 Plunders.
+J buys and gains 3 Hunting Lodges.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Worker's Villages and a Plunder.
+
+Turn 13 - rsh
+r starts their turn.
+r gets +1 Buy.
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Worker's Village.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Champion.
+r gets +1 Action.
+r plays a Copper. (+$1)
+r returns -Coin token set by Bridge Troll. (-$1)
+r plays 2 Silvers and a Gold. (+$7)
+r buys and gains a Plunder.
+r buys and gains 3 Guardians.
+r plays a Guardian.
+r plays a Guardian.
+r plays a Guardian.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Worker's Village.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws an Encampment.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Lookout.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays an Encampment.
+J gets +1 Action.
+J draws a Silver and an Encampment.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Action.
+J draws 2 Silvers.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Lookout.
+J gets +2 Action.
+J looks at a Copper, a Plunder and a Gold.
+J trashes a Copper.
+J discards a Gold.
+J topdecks a Plunder.
+J plays a Copper and 4 Silvers. (+$9)
+J plays a Plunder. (+$2)
+J gets 1 VP.
+J buys and gains a Bridge Troll.
+J buys and gains a Province.
+J draws a Worker's Village, an Encampment, 2 Plunders and a Hunting Lodge.
+
+Turn 14 - rsh
+r starts their turn.
+r gets +$3.
+r plays a Worker's Village.
+r gets +1 Action.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays an Encampment.
+r gets +1 Action.
+r draws 2 cards.
+r gets +2 Actions.
+r reveals a Gold.
+r plays an Encampment.
+r gets +1 Action.
+r draws 2 cards.
+r gets +2 Actions.
+r reveals a Gold.
+r plays a Worker's Village.
+r gets +1 Action.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Worker's Village.
+r gets +1 Action.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Bridge Troll.
+r gets +1 Action.
+r gets +1 Buy.
+r plays 3 Coppers, a Silver and a Gold. (+$8)
+r buys and gains a Plunder.
+r buys and gains a Province.
+r draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Encampment.
+J gets +1 Action.
+J draws a Bridge Troll and a Hunting Lodge.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Bridge Troll.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Worker's Village.
+J gets +2 Actions.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Plunder.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Silver. (+$2)
+J plays a Plunder. (+$2)
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets 1 VP.
+J buys and gains 2 Hunting Lodges.
+J draws a Silver, a Gold, a Lookout and 2 Worker's Villages.
+
+Turn 15 - rsh
+r starts their turn.
+r gets +1 Buy.
+r plays a Worker's Village.
+r gets +1 Action.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays 2 Coppers and a Silver. (+$4)
+r plays a Plunder. (+$2)
+r gets 1 VP.
+r buys and gains a Bridge Troll.
+r buys and gains 2 Estates.
+r draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +2 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Silver.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Copper.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Copper, 2 Silvers and a Gold. (+$8)
+J buys and gains a Province.
+J draws a Silver, a Province, 2 Bridge Trolls and an Encampment.
+
+Turn 16 - rsh
+r plays a Worker's Village.
+r gets +1 Action.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Worker's Village.
+r gets +1 Action.
+r shuffles their deck.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays 2 Coppers and a Silver. (+$4)
+r plays a Plunder. (+$2)
+r gets 1 VP.
+r buys and gains a Duchy.
+r draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays an Encampment.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Worker's Village and an Encampment.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays an Encampment.
+J gets +1 Action.
+J draws a Worker's Village and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Province.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Silver.
+J gets +2 Actions.
+J discards 2 Silvers, 2 Provinces and a Plunder.
+J draws a Gold, a Lookout, a Bridge Troll and 2 Hunting Lodges.
+J plays a Bridge Troll.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Worker's Village.
+J gets +2 Actions.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Plunder.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Silver and a Gold. (+$5)
+J plays a Plunder. (+$2)
+J gets 1 VP.
+J buys and gains a Province.
+J buys and gains a Hunting Lodge.
+J returns an Encampment to the Encampment pile.
+J draws a Copper, a Silver, a Worker's Village, an Encampment and a Hunting Lodge.
+
+Turn 17 - rsh
+r plays a Worker's Village.
+r gets +1 Action.
+r draws a card.
+r gets +2 Actions.
+r gets +1 Buy.
+r plays a Bridge Troll.
+r gets +1 Action.
+r gets +1 Buy.
+r plays a Bridge Troll.
+r gets +1 Action.
+r gets +1 Buy.
+r plays a Plunder. (+$2)
+r gets 1 VP.
+r buys and gains an Encampment.
+r buys and gains 3 Estates.
+r plays a Guardian.
+r draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J gets +3 Buy.
+J plays an Encampment.
+J gets +1 Action.
+J draws a Bridge Troll and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Silver.
+J gets +2 Actions.
+J discards a Copper, 2 Silvers, a Gold and a Plunder.
+J draws 2 Provinces, an Encampment, a Plunder and a Hunting Lodge.
+J plays an Encampment.
+J gets +1 Action.
+J draws a Silver and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Hunting Lodge.
+J gets +1 Action.
+J draws a Worker's Village.
+J gets +2 Actions.
+J plays a Worker's Village.
+J gets +1 Action.
+J draws a Province.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Silver. (+$2)
+J plays a Plunder. (+$2)
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets 1 VP.
+J buys and gains a Province.
+J buys and gains 3 Estates.
+J draws a Silver, a Lookout, 2 Worker's Villages and a Hunting Lodge.
+

@@ -1,0 +1,608 @@
+Game #82588693, rated.
+Jazzercise: 46.28
+TakeAShower: 49.68
+
+Kingdom generated with these relative percentages:
+0%: Knights and Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+T starts with 7 Coppers.
+T starts with 3 Estates.
+J shuffles their deck.
+J draws 5 Coppers.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Moneylender.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - TakeAShower
+T plays 4 Coppers. (+$4)
+T buys and gains a Moneylender.
+T draws 5 cards.
+
+Turn 2 - Jazzercise
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - TakeAShower
+T plays 3 Coppers. (+$3)
+T buys and gains a Merchant.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Advisor.
+J draws 2 Coppers, 2 Estates and a Moneylender.
+
+Turn 3 - TakeAShower
+T plays 3 Coppers. (+$3)
+T buys and gains a Merchant.
+T draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains an Advisor.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - TakeAShower
+T plays a Moneylender.
+T trashes a Copper.
+T gets +$3.
+T plays 2 Coppers. (+$2)
+T buys and gains a Festival.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Ghost Town.
+J plays a Ghost Town.
+J draws 2 Coppers, an Estate, a Moneylender and an Advisor.
+
+Turn 5 - TakeAShower
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays 4 Coppers. (+$4)
+T buys and gains a Secret Passage.
+T draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws an Advisor (Ghost Town).
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals an Estate and 2 Coppers.
+J discards a Copper.
+J puts a Copper and an Estate into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate and 2 Coppers.
+J discards a Copper.
+J puts a Copper and an Estate into their hand.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 3 Coppers. (+$3)
+J buys and gains a Festival.
+J shuffles their deck.
+J draws 2 Coppers, a Moneylender, an Advisor and a Ghost Town.
+
+Turn 6 - TakeAShower
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Moneylender.
+T trashes a Copper.
+T gets +$3.
+T plays a Copper. (+$1)
+T buys and gains a Silver.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate, a Copper and a Festival.
+J discards a Festival.
+J puts a Copper and an Estate into their hand.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains a Festival.
+J plays a Ghost Town.
+J draws 2 Coppers, 2 Estates and an Advisor.
+
+Turn 7 - TakeAShower
+T plays a Festival.
+T gets +2 Actions.
+T gets +1 Buy.
+T gets +$2.
+T plays a Moneylender.
+T trashes a Copper.
+T gets +$3.
+T buys Piazza.
+T draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Moneylender and 2 Festivals.
+J discards a Festival.
+J puts a Festival and a Moneylender into their hand.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains a Goons.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Festival and an Advisor.
+
+Turn 8 - TakeAShower
+T starts their turn.
+T reveals a Merchant.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Secret Passage.
+T shuffles their deck.
+T draws 2 cards.
+T gets +1 Action.
+T puts a card on the bottom of their deck.
+T plays a Moneylender.
+T trashes a Copper.
+T gets +$3.
+T plays 3 Coppers and a Silver. (+$5)
+T gets +$2.
+T buys and gains a Goons.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate, an Advisor and a Festival.
+J discards an Advisor.
+J puts an Estate and a Festival into their hand.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys and gains an Artificer.
+J draws 2 Coppers, a Moneylender, a Goons and a Ghost Town.
+
+Turn 9 - TakeAShower
+T starts their turn.
+T reveals a Merchant.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Festival.
+T gets +2 Actions.
+T gets +1 Buy.
+T gets +$2.
+T plays a Goons.
+T gets +1 Buy.
+T gets +$2.
+J discards a Moneylender and a Ghost Town.
+T plays a Copper. (+$1)
+T buys a Moat.
+T gets 1 VP from Goons.
+T gains a Moat.
+T buys a Merchant.
+T gets 1 VP from Goons.
+T gains a Merchant.
+T draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+T discards a card and a Copper.
+J plays 2 Coppers. (+$2)
+J buys an Advisor.
+J gets 1 VP from Goons.
+J gains an Advisor.
+J shuffles their deck.
+J draws a Festival, a Goons, 2 Advisors and a Ghost Town.
+
+Turn 10 - TakeAShower
+T starts their turn.
+T reveals a Moneylender.
+T plays a Moneylender.
+T plays a Merchant.
+T shuffles their deck.
+T draws a card.
+T gets +1 Action.
+T plays a Secret Passage.
+T draws 2 cards.
+T gets +1 Action.
+T inserts a card into their deck.
+T plays 2 Coppers and a Silver. (+$4)
+T gets +$1.
+T buys and gains a Festival.
+T draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate, a Copper and an Advisor.
+J discards an Advisor.
+J puts a Copper and an Estate into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Moneylender, a Copper and a Festival.
+J discards a Moneylender.
+J puts a Copper and a Festival into their hand.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+T discards a card and an Estate.
+J plays 2 Coppers. (+$2)
+J buys an Advisor.
+J gets 1 VP from Goons.
+J gains an Advisor.
+J buys an Advisor.
+J gets 1 VP from Goons.
+J gains an Advisor.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Festival and an Artificer.
+
+Turn 11 - TakeAShower
+T starts their turn.
+T reveals a Merchant.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Festival.
+T gets +2 Actions.
+T gets +1 Buy.
+T gets +$2.
+T plays a Moat.
+T shuffles their deck.
+T draws 2 cards.
+T plays a Secret Passage.
+T draws 2 cards.
+T gets +1 Action.
+T puts a card on the bottom of their deck.
+T plays a Goons.
+T gets +1 Buy.
+T gets +$2.
+J discards 2 Estates.
+T plays a Copper and a Silver. (+$3)
+T gets +$2.
+T buys a Goons.
+T gets 1 VP from Goons.
+T gains a Goons.
+T buys a Merchant.
+T gets 1 VP from Goons.
+T gains a Merchant.
+T buys a Copper.
+T gets 1 VP from Goons.
+T gains a Copper.
+T draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J plays an Artificer.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J discards a Copper and an Estate.
+J gains a Moat.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys and gains an Advisor.
+J draws a Copper, a Moat, a Moneylender and 2 Advisors.
+
+Turn 12 - TakeAShower
+T starts their turn.
+T reveals a Copper.
+T topdecks a Copper.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Festival.
+T gets +2 Actions.
+T gets +1 Buy.
+T gets +$2.
+T plays a Moneylender.
+T trashes a Copper.
+T gets +$3.
+T plays a Copper. (+$1)
+T buys and gains 2 Merchants.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Goons, an Advisor and a Festival.
+J discards a Goons.
+J puts a Festival and an Advisor into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Ghost Town and 2 Advisors.
+J discards an Advisor.
+J puts an Advisor and a Ghost Town into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate, a Copper and an Advisor.
+J discards an Advisor.
+J puts a Copper and an Estate into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Goons, a Copper and a Festival.
+J discards a Goons.
+J puts a Copper and a Festival into their hand.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Moat.
+J draws an Estate and an Artificer.
+J plays an Artificer.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J discards 3 Estates.
+J gains a Merchant.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains a Goons.
+J buys and gains an Advisor.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws an Estate, a Merchant, a Moat, a Moneylender and an Advisor.
+
+Turn 13 - TakeAShower
+T starts their turn.
+T reveals a Merchant.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Festival.
+T gets +2 Actions.
+T gets +1 Buy.
+T gets +$2.
+T plays a Festival.
+T gets +2 Actions.
+T gets +1 Buy.
+T gets +$2.
+T plays a Copper and a Silver. (+$3)
+T gets +$2.
+T buys and gains 2 Advisors.
+T draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws an Estate (Ghost Town).
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate, a Goons and an Advisor.
+J discards a Goons.
+J puts an Estate and an Advisor into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 3 Advisors.
+J discards an Advisor.
+J puts 2 Advisors into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Goons, a Copper and a Festival.
+J discards a Goons.
+J puts a Copper and a Festival into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Copper and 2 Advisors.
+J discards an Advisor.
+J puts a Copper and an Advisor into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals an Advisor, an Artificer and a Festival.
+J discards an Advisor.
+J puts a Festival and an Artificer into their hand.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Merchant.
+J draws an Advisor.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals 2 Goons and an Advisor.
+J discards a Goons.
+J puts a Goons and an Advisor into their hand.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays an Artificer.
+J shuffles their deck.
+J draws a Goons.
+J gets +1 Action.
+J gets +$1.
+J discards a Copper and 3 Estates.
+J gains an Advisor.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals 2 Estates and an Advisor.
+J discards an Advisor.
+J puts 2 Estates into their hand.
+J plays a Moat.
+J draws a Copper and an Estate.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+T discards a card and a Merchant.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys a Goons.
+J gets 2 VP from Goons.
+J gains a Goons.
+J buys a Festival.
+J gets 2 VP from Goons.
+J gains a Festival.
+J shuffles their deck.
+J draws a Copper, a Moneylender, a Goons and 2 Advisors.
+
+Turn 14 - TakeAShower
+T starts their turn.
+T reveals a Moneylender.
+T plays a Moneylender.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Goons.
+T gets +1 Buy.
+T gets +$2.
+J discards a Copper and a Moneylender.
+T plays a Copper. (+$1)
+T buys a Merchant.
+T gets 1 VP from Goons.
+T gains a Merchant.
+T draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate, an Advisor and an Artificer.
+J discards an Advisor.
+J puts an Estate and an Artificer into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Goons and 2 Festivals.
+J discards a Goons.
+J puts 2 Festivals into their hand.
+J plays an Artificer.
+J draws a Goons.
+J gets +1 Action.
+J gets +$1.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+T reacts with a Moat.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+T reacts with a Moat.
+J gets +1 Buy.
+J gets +$2.
+J buys a Secret Passage.
+J gets 2 VP from Goons.
+J gains a Secret Passage.
+J buys an Artificer.
+J gets 2 VP from Goons.
+J gains an Artificer.
+J draws an Estate, a Merchant, a Moat and 2 Advisors.
+
+Turn 15 - TakeAShower
+T starts their turn.
+T shuffles their deck.
+T reveals an Estate.
+T topdecks an Estate.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Secret Passage.
+T draws 2 cards.
+T gets +1 Action.
+T puts a card on the bottom of their deck.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Merchant.
+T draws a card.
+T gets +1 Action.
+T plays a Goons.
+J reacts with a Moat.
+T gets +1 Buy.
+T gets +$2.
+T plays a Copper. (+$1)
+T buys a Merchant.
+T gets 1 VP from Goons.
+T gains a Merchant.
+T draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Advisors and a Festival.
+J discards an Advisor.
+J puts a Festival and an Advisor into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Estate, a Ghost Town and an Advisor.
+

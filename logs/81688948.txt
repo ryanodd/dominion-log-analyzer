@@ -1,0 +1,281 @@
+Game #81688948, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys Invest.
+J exiles a Governor.
+J draws 2 cards when an opponent gains or invests in Governor.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys Invest.
+J exiles a Governor.
+J draws 4 cards when an opponent gains or invests in Governor.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Governor.
+J discards 2 Governors from Exile.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Governor.
+
+Turn 4 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Smithy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Smithy.
+L trashes a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Ghost Town.
+J plays a Ghost Town.
+J draws 4 Coppers and a Governor.
+
+Turn 5 - Lord Rattington
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Margrave.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws a Governor (Ghost Town).
+J gets +1 Action.
+J plays a Governor.
+J gets +1 Action.
+J gains a Gold.
+L gains a Silver.
+J plays a Governor.
+J gets +1 Action.
+J draws a Copper and 2 Estates.
+L draws a card.
+J plays 5 Coppers. (+$5)
+J buys and gains a Storyteller.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Governor.
+
+Turn 6 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays a Silver and 4 Coppers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Smithy.
+L trashes an Estate.
+L gains a Silver.
+J plays 2 Coppers. (+$2)
+J draws a Copper, a Gold, a Storyteller, a Ghost Town and a Governor.
+
+Turn 7 - Lord Rattington
+L plays a Margrave.
+L draws 3 cards.
+L gets +1 Buy.
+J draws a Silver.
+J discards a Copper, a Silver and a Ghost Town.
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J gains a Gold.
+L gains a Silver.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold. (+$3)
+J loses 4 Coins.
+J draws 4 Coppers.
+J plays 4 Coppers. (+$4)
+J buys Invest.
+J exiles a Mastermind.
+J draws 2 cards when an opponent gains or invests in Mastermind.
+J shuffles their deck.
+J draws 2 Coppers, a Smithy, a Ghost Town and a Governor.
+
+Turn 8 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 2 Silvers, 3 Coppers and a Gold. (+$10)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J trashes a Smithy.
+J gains a Gold.
+L trashes an Estate.
+L gains a Silver.
+J plays 2 Coppers. (+$2)
+J plays a Ghost Town.
+J draws 2 Coppers, a Silver, an Estate and a Governor.
+
+Turn 9 - Lord Rattington
+L plays a Silver, 2 Coppers and a Gold. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Governor (Ghost Town).
+J gets +1 Action.
+J plays a Governor.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Smithy.
+L trashes a Copper.
+J plays a Governor.
+J gets +1 Action.
+J draws 2 Coppers and a Gold.
+L draws a card.
+J plays a Silver, 4 Coppers and a Gold. (+$9)
+J buys and gains a Governor.
+J shuffles their deck.
+J draws 2 Coppers, a Gold, a Smithy and a Storyteller.
+
+Turn 10 - Lord Rattington
+L plays a Margrave.
+L draws 3 cards.
+L gets +1 Buy.
+J draws a Silver.
+J discards 2 Coppers and a Smithy.
+L plays 3 Silvers and a Copper. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Silver. (+$2)
+J loses 3 Coins.
+J draws a Copper, a Gold and a Governor.
+J plays a Governor.
+J gets +1 Action.
+J draws a Copper, a Smithy and a Governor.
+L shuffles their deck.
+L draws a card.
+J plays a Governor.
+J gets +1 Action.
+J trashes a Smithy.
+J gains a Gold.
+L trashes a Copper.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws 3 Coppers, a Gold and a Governor.
+
+Turn 11 - Lord Rattington
+L plays 2 Silvers, 2 Coppers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Storyteller, a Ghost Town and a Governor.
+L draws a card.
+J plays a Governor.
+J gets +1 Action.
+J gains a Gold.
+L gains a Silver.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J loses 4 Coins.
+J draws 2 Golds, a Province and a Smithy.
+J plays a Smithy.
+J draws a Silver and 2 Governors.
+J plays a Silver and 3 Golds. (+$11)
+J buys and gains a Province.
+J plays a Ghost Town.
+J draws 4 Coppers and a Gold.
+
+Turn 12 - Lord Rattington
+L plays a Margrave.
+L draws 3 cards.
+L gets +1 Buy.
+J shuffles their deck.
+J draws a Province.
+J discards 2 Coppers and a Province.
+L plays 2 Silvers, 2 Coppers and 3 Golds. (+$15)
+L buys and gains a Province.
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Smithy (Ghost Town).
+J gets +1 Action.
+J plays a Smithy.
+J draws a Copper and 2 Golds.
+J plays 3 Coppers and 3 Golds. (+$12)
+J buys and gains a Province.
+J draws 2 Coppers, 2 Golds and a Governor.
+
+Turn 13 - Lord Rattington
+L plays a Smithy.
+L shuffles their deck.
+L draws 3 cards.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J trashes a Gold.
+J gains a Province.
+L trashes a Copper.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Duchy.
+J draws a Silver, a Province, a Storyteller and 2 Governors.
+

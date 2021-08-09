@@ -1,0 +1,442 @@
+Game #82556290, rated.
+ProbablyJade: 51.01
+Jazzercise: 46.12
+
+
+P starts with 7 Coppers.
+P starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+P shuffles their deck.
+P draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - ProbablyJade
+P plays 3 Coppers. (+$3)
+P buys and gains a Lackeys.
+P gets +2 Villagers.
+P draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Settlers.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - ProbablyJade
+P plays 4 Coppers. (+$4)
+P buys and gains an Engineer.
+P repays 4 debt.
+P shuffles their deck.
+P draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Engineer.
+J repays 4 debt.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - ProbablyJade
+P plays a Lackeys.
+P draws 2 cards.
+P plays 4 Coppers. (+$4)
+P buys and gains an Engineer.
+P repays 4 debt.
+P draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Engineer.
+J repays 4 debt.
+J draws 2 Coppers, an Estate, a Settlers and an Engineer.
+
+Turn 4 - ProbablyJade
+P plays an Engineer.
+P gains a Silver.
+P trashes an Engineer.
+P gains a Settlers.
+P plays 3 Coppers. (+$3)
+P buys and gains a Lackeys.
+P gets +2 Villagers.
+P shuffles their deck.
+P draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J looks at an Estate, an Engineer and 4 Coppers.
+J looks at an Estate, an Engineer and 4 Coppers.
+J puts a Copper into their hand.
+J plays an Engineer.
+J gains a Lackeys.
+J gets +2 Villagers.
+J trashes an Engineer.
+J gains a Tournament.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Tournament.
+
+Turn 5 - ProbablyJade
+P plays a Settlers.
+P draws a card.
+P gets +1 Action.
+P plays a Lackeys.
+P draws 2 cards.
+P uses 1 Villager.
+P plays an Engineer.
+P gains a Silver.
+P trashes an Engineer.
+P gains a Tournament.
+P plays 3 Coppers. (+$3)
+P buys and gains an Engineer.
+P repays 3 debt (1 remaining).
+P draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains an Engineer.
+J repays 4 debt.
+J draws a Copper, a Silver, an Estate, a Settlers and a Lackeys.
+
+Turn 6 - ProbablyJade
+P plays a Lackeys.
+P draws 2 cards.
+P plays 4 Coppers and a Silver. (+$6)
+P repays 1 debt.
+P buys and gains a City Quarter.
+P repays 5 debt (3 remaining).
+P shuffles their deck.
+P draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J looks at 2 Estates, an Engineer, a Tournament and 3 Coppers.
+J looks at 2 Estates, an Engineer, a Tournament and 3 Coppers.
+J puts a Copper into their hand.
+J plays a Lackeys.
+J draws a Copper and an Engineer.
+J uses 1 Villager.
+J plays an Engineer.
+J gains an Encampment.
+J trashes an Engineer.
+J gains an Encampment.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, an Encampment and a Settlers.
+
+Turn 7 - ProbablyJade
+P plays a Tournament.
+P gets +1 Action.
+P draws a card.
+P gets +$1.
+P plays a Lackeys.
+P draws 2 cards.
+P uses 1 Villager.
+P plays an Engineer.
+P gains a Tournament.
+P trashes an Engineer.
+P gains an Envoy.
+P plays 3 Coppers and a Silver. (+$5)
+P repays 3 debt.
+P buys and gains a Lackeys.
+P gets +2 Villagers.
+P draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J plays an Encampment.
+J draws a Copper and an Estate.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Tournament.
+J returns an Encampment to the Encampment pile.
+J draws 2 Coppers, an Estate, a Tournament and a Lackeys.
+
+Turn 8 - ProbablyJade
+P plays a City Quarter.
+P gets +2 Actions.
+P reveals their hand: a Settlers, a Copper, a Lackeys and a Silver.
+P draws 2 cards.
+P plays a Settlers.
+P draws a card.
+P gets +1 Action.
+P looks at 10 cards.
+P looks at 10 cards.
+P puts a card into their hand.
+P plays a Lackeys.
+P draws 2 cards.
+P plays 5 Coppers and a Silver. (+$7)
+P buys and gains a City Quarter.
+P repays 7 debt (1 remaining).
+P shuffles their deck.
+P draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws an Encampment.
+J gets +$1.
+J plays a Lackeys.
+J draws 2 Coppers.
+J uses 1 Villager.
+J plays an Encampment.
+J draws a Gold and an Engineer.
+J gets +2 Actions.
+J reveals a Gold.
+J plays an Engineer.
+J gains a Tournament.
+J plays 4 Coppers and a Gold. (+$7)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Tournament, an Encampment and a Settlers.
+
+Turn 9 - ProbablyJade
+P plays a Settlers.
+P draws a card.
+P gets +1 Action.
+P plays a City Quarter.
+P gets +2 Actions.
+P reveals their hand: 3 Coppers and a Lackeys.
+P draws a card.
+P plays an Envoy.
+P reveals an Estate, a Tournament, a Copper, a Silver and a City Quarter.
+P discards a City Quarter.
+P puts a Copper, a Silver, an Estate and a Tournament into their hand.
+P plays a Tournament.
+P gets +1 Action.
+P draws a card.
+P gets +$1.
+P plays a Lackeys.
+P draws 2 cards.
+P plays 5 Coppers and 2 Silvers. (+$9)
+P repays 1 debt.
+P buys and gains a Province.
+P draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J plays an Encampment.
+J draws a Copper and an Estate.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Lackeys.
+J gets +$1.
+J plays a Lackeys.
+J draws a Gold and an Estate.
+J plays 3 Coppers, a Silver and a Gold. (+$8)
+J buys and gains a City Quarter.
+J repays 8 debt.
+J returns an Encampment to the Encampment pile.
+J draws 2 Coppers, a Province, a Tournament and an Engineer.
+
+Turn 10 - ProbablyJade
+P plays a Lackeys.
+P shuffles their deck.
+P draws 2 cards.
+P uses 1 Villager.
+P plays a Tournament.
+P gets +1 Action.
+P reveals a Province.
+P discards a Province.
+J reveals a Province.
+P gains a Princess.
+P plays 2 Coppers. (+$2)
+P buys and gains a Lackeys.
+P gets +2 Villagers.
+P draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Trusty Steed.
+J draws a Trusty Steed.
+J gets +$1.
+J plays a Trusty Steed.
+J draws an Estate and a Tournament.
+J gets +2 Actions.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays an Engineer.
+J gains an Encampment.
+J plays 3 Coppers. (+$3)
+J buys and gains an Encampment.
+J shuffles their deck.
+J draws a Copper, a Gold, 2 Tournaments and a City Quarter.
+
+Turn 11 - ProbablyJade
+P plays an Envoy.
+P reveals an Estate, 3 Coppers and a City Quarter.
+P discards a City Quarter.
+P puts 3 Coppers and an Estate into their hand.
+P uses 1 Villager.
+P plays a Settlers.
+P draws a card.
+P gets +1 Action.
+P looks at 9 cards.
+P looks at 9 cards.
+P puts a card into their hand.
+P plays a City Quarter.
+P gets +2 Actions.
+P reveals their hand: an Estate, a Princess, 5 Coppers and a Lackeys.
+P draws 2 cards.
+P plays a Lackeys.
+P draws 2 cards.
+P plays a Tournament.
+P gets +1 Action.
+P draws a card.
+P gets +$1.
+P plays a Princess.
+P gets +1 Buy.
+P plays 6 Coppers and 2 Silvers. (+$10)
+P buys and gains a Hoard.
+P buys and gains a City Quarter.
+P repays 7 debt (1 remaining).
+P shuffles their deck.
+P draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Tournaments, a Copper and a Gold.
+J draws a Province and a Trusty Steed.
+J plays a Trusty Steed.
+J draws a Silver and an Estate.
+J gets +2 Actions.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Followers.
+J draws a Followers.
+J gets +$1.
+J plays a Followers.
+J draws 2 Coppers.
+J gains an Estate.
+P gains a Curse.
+P discards a card and a Copper.
+J plays a Tournament.
+J gets +1 Action.
+J draws an Engineer.
+J gets +$1.
+J plays an Engineer.
+J gains an Encampment.
+J plays 3 Coppers, a Silver and a Gold. (+$8)
+J buys and gains a City Quarter.
+J repays 8 debt.
+J draws 2 Coppers, an Estate, an Encampment and a Lackeys.
+
+Turn 12 - ProbablyJade
+P plays a Lackeys.
+P draws 2 cards.
+P uses 1 Villager.
+P plays a Settlers.
+P draws a card.
+P gets +1 Action.
+P looks at 3 cards.
+P puts a Copper into their hand.
+P plays a Lackeys.
+P draws 2 cards.
+P plays 3 Coppers. (+$3)
+P repays 1 debt.
+P buys and gains an Encampment.
+P draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Encampment.
+J draws a Copper and an Estate.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Lackeys.
+J draws a Copper and a Settlers.
+J plays a Settlers.
+J draws an Encampment.
+J gets +1 Action.
+J looks at a Province, a Followers, 2 Estates, a Trusty Steed, an Engineer, an Encampment, 2 Tournaments, 3 Coppers, a Silver, a Gold and 2 City Quarters.
+J looks at a Province, a Followers, 2 Estates, a Trusty Steed, an Engineer, an Encampment, 2 Tournaments, 3 Coppers, a Silver, a Gold and 2 City Quarters.
+J puts a Copper into their hand.
+J plays an Encampment.
+J shuffles their deck.
+J draws a Province and a Tournament.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Tournament.
+J gets +1 Action.
+J draws a City Quarter.
+J gets +$1.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Province, 2 Estates and 5 Coppers.
+J plays 5 Coppers. (+$5)
+J buys and gains a Gold.
+J returns 2 Encampments to the Encampment pile.
+J draws a Copper, a Silver, an Estate, an Encampment and a City Quarter.
+
+Turn 13 - ProbablyJade
+P plays a City Quarter.
+P gets +2 Actions.
+P reveals their hand: an Envoy, an Estate, a Tournament and a City Quarter.
+P draws 3 cards.
+P plays a City Quarter.
+P gets +2 Actions.
+P reveals their hand: an Envoy, an Estate, a Princess, a Hoard and 2 Tournaments.
+P draws 4 cards.
+P plays an Envoy.
+P shuffles their deck.
+P reveals an Estate, 2 Coppers, a Lackeys and a Silver.
+P discards a Lackeys.
+P puts 2 Coppers, a Silver and an Estate into their hand.
+P plays a Lackeys.
+P draws 2 cards.
+P plays a Settlers.
+P draws a card.
+P gets +1 Action.
+P looks at a card.
+P plays a Tournament.
+P gets +1 Action.
+P draws a card.
+P gets +$1.
+P plays a Lackeys.
+P draws 2 cards.
+P uses 1 Villager.
+P plays a Tournament.
+P gets +1 Action.
+P reveals a Province.
+P discards a Province.
+P gains a Bag of Gold.
+P draws a card.
+P gets +$1.
+P plays a Bag of Gold.
+P gets +1 Action.
+P gains a Gold.
+P plays a Princess.
+P gets +1 Buy.
+P plays a Hoard, 7 Coppers and 2 Silvers. (+$13)
+P buys a Dominate.
+P gains a Province.
+P gets 9 VP.
+P buys and gains an Encampment.
+P draws 5 cards.
+
+Turn 13 - Jazzercise
+

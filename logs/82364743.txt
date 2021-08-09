@@ -1,0 +1,360 @@
+Game #82364743, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Develop.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Conclave.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Count.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, an Estate, a Develop and a Conclave.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Wine Merchant.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Develop.
+J trashes an Estate.
+J gains a Develop.
+J gets +1 Action.
+J plays 2 Coppers. (+$2)
+J buys and gains a Conclave.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Develop.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Develop.
+J trashes an Estate.
+J gains a Silver.
+J plays 3 Coppers. (+$3)
+J buys and gains a Develop.
+J draws a Copper, a Silver, an Estate and 2 Conclaves.
+
+Turn 6 - Lord Rattington
+L plays a Wine Merchant.
+L gets +1 Buy.
+L gets +$4.
+L puts a Wine Merchant on their Tavern mat.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Seer.
+J draws 3 Coppers, a Silver and a Develop.
+
+Turn 7 - Lord Rattington
+L plays a Count.
+L discards a card and a Copper.
+L gets +$3.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Develop.
+J trashes a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Conclave.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Conclave and a Seer.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Seer.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Seer.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Silver, a Develop and a Conclave.
+J puts a Silver, a Develop and a Conclave into their hand.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Develop.
+J trashes an Estate.
+J gains a Develop.
+J gets +1 Action.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Wine Merchant.
+J draws 2 Coppers, 2 Develops and a Conclave.
+
+Turn 9 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Develop.
+J trashes a Copper.
+J gets +1 Action.
+J plays a Develop.
+J trashes a Copper.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Develop and a Seer.
+
+Turn 10 - Lord Rattington
+L plays a Count.
+L discards a card and a Copper.
+L gets +$3.
+L plays 2 Silvers. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Seer.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Develop and 2 Conclaves.
+J puts a Develop and 2 Conclaves into their hand.
+J plays a Conclave.
+J gets +$2.
+J plays a Develop.
+J trashes a Develop.
+J gains a Native Village.
+J gains a Conclave.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Wine Merchant.
+J draws a Copper, a Native Village, 2 Develops and a Conclave.
+
+Turn 11 - Lord Rattington
+L plays 2 Coppers, a Gold and a Silver. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Develop.
+J trashes a Develop.
+J gains a Native Village.
+J gains a Conclave.
+J gets +1 Action.
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Conclave aside with Native Village.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, a Native Village, a Wine Merchant and a Conclave.
+
+Turn 12 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J gets +1 Action.
+J plays a Native Village.
+J gets +2 Actions.
+J puts a Conclave into their hand.
+J plays a Conclave.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a City.
+J buys and gains a Conclave.
+J ends their buy phase.
+J discards a Wine Merchant.
+J draws a Silver, a Native Village, a Wine Merchant, a Conclave and a Seer.
+
+Turn 13 - Lord Rattington
+L plays a Seer.
+L draws a card.
+L gets +1 Action.
+L reveals 3 Silvers.
+L puts 3 Silvers into their hand.
+L plays 2 Coppers, a Gold and 4 Silvers. (+$13)
+L buys and gains a Province.
+L ends their buy phase.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Seer.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Develop and 2 Conclaves.
+J puts a Develop and 2 Conclaves into their hand.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Develop.
+J trashes a Native Village.
+J gains a Develop.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J gets +1 Action.
+J plays 2 Silvers. (+$4)
+J buys and gains a Nobles.
+J buys and gains a City.
+J ends their buy phase.
+J discards a Wine Merchant.
+J draws 3 Coppers and 2 Develops.
+
+Turn 14 - Lord Rattington
+L plays 2 Coppers, a Gold and a Silver. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Develop.
+J trashes a Copper.
+J shuffles their deck.
+J draws a Copper, a Silver, a Nobles, a Wine Merchant and a Conclave.
+
+Turn 15 - Lord Rattington
+L plays a Count.
+L discards a card and an Estate.
+L gets +$3.
+L plays 2 Coppers. (+$2)
+L buys and gains a Seer.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Nobles.
+J gets +2 Actions.
+J gets +1 Action.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays a Copper and a Silver. (+$3)
+J buys and gains 2 Conclaves.
+J draws a Copper, a Silver, a Native Village, a Wine Merchant and a Seer.
+
+Turn 16 - Lord Rattington
+L plays a Seer.
+L draws a card.
+L gets +1 Action.
+L reveals 2 Coppers and a Silver.
+L puts a Silver into their hand.
+L topdecks 2 Coppers.
+L plays a Seer.
+L draws a card.
+L gets +1 Action.
+L reveals 2 Coppers and a Gold.
+L topdecks 2 Coppers and a Gold.
+L plays a Copper, a Gold and 3 Silvers. (+$10)
+L buys and gains a Province.
+L ends their buy phase.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Native Village.
+J gets +2 Actions.
+J plays a Seer.
+J draws a Copper.
+J gets +1 Action.
+J reveals 2 Conclaves and a City.
+J puts 2 Conclaves into their hand.
+J topdecks a City.
+J plays a Conclave.
+J gets +$2.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains 2 Conclaves.
+J ends their buy phase.
+J discards 2 Wine Merchants.
+J draws a Silver, a City, a Develop and 2 Conclaves.
+
+Turn 17 - Lord Rattington
+L plays 3 Coppers, a Gold and a Silver. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J draws a Develop.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Develop.
+J trashes a City.
+J gains a Nobles.
+J gets +1 Action.
+J plays a Develop.
+J trashes a Silver.
+

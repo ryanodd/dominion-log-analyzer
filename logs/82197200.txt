@@ -1,0 +1,519 @@
+Game #82197200, rated.
+Jazzercise: 45.66
+LouiseJ11: 40.57
+
+Kingdom generated with these relative percentages:
+0%: Witch and Swindler
+50%: Bandit and Replace
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 5 Coppers.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Hunting Lodge.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - LouiseJ11
+L plays 3 Coppers. (+$3)
+L buys and gains a Smugglers.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Settlers.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Hunting Lodge.
+
+Turn 2 - LouiseJ11
+L plays 4 Coppers. (+$4)
+L buys and gains a Caravan.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays 4 Coppers. (+$4)
+J buys and gains a Caravan.
+J draws 2 Coppers, 2 Estates and a Settlers.
+
+Turn 3 - LouiseJ11
+L plays a Smugglers.
+L gains a Caravan.
+L plays 3 Coppers. (+$3)
+L buys a Plan.
+L moves Trashing token to the Caravan pile.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Caravan, 4 Coppers, a Hunting Lodge and an Estate.
+J looks at a Caravan, 4 Coppers, a Hunting Lodge and an Estate.
+J puts a Copper into their hand.
+J plays 4 Coppers. (+$4)
+J buys a Plan.
+J moves Trashing token to the Hunting Lodge pile.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - LouiseJ11
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays 4 Coppers. (+$4)
+L buys a Caravan.
+L trashes an Estate.
+L gains a Caravan.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Smugglers.
+J draws 3 Coppers, a Caravan and a Settlers.
+
+Turn 5 - LouiseJ11
+L starts their turn.
+L draws a card (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Smugglers.
+L gains a Smugglers.
+L plays 4 Coppers. (+$4)
+L buys a Caravan.
+L trashes an Estate.
+L gains a Caravan.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Settlers.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J looks at a Smugglers, 3 Coppers and 2 Estates.
+J looks at a Smugglers, 3 Coppers and 2 Estates.
+J puts a Copper into their hand.
+J plays a Caravan.
+J draws an Estate.
+J gets +1 Action.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays 5 Coppers. (+$5)
+J buys a Hunting Lodge.
+J trashes an Estate.
+J gains a Hunting Lodge.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 6 - LouiseJ11
+L starts their turn.
+L draws 2 cards (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Smugglers.
+L gains a Hunting Lodge.
+L plays 5 Coppers. (+$5)
+L buys and gains a Venture.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J draws a Copper (Caravan).
+J plays 4 Coppers. (+$4)
+J buys and gains a Caravan.
+J draws 3 Coppers, a Smugglers and a Hunting Lodge.
+
+Turn 7 - LouiseJ11
+L starts their turn.
+L draws a card (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Smugglers.
+L gains a Caravan.
+L plays 3 Coppers. (+$3)
+L plays a Venture. (+$1)
+L reveals a Copper.
+L plays a Copper. (+$1)
+L buys and gains a Bishop.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Hunting Lodge.
+J draws a Settlers.
+J gets +2 Actions.
+J plays a Settlers.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J looks at 2 Caravans, 4 Coppers and 2 Estates.
+J looks at 2 Caravans, 4 Coppers and 2 Estates.
+J puts a Copper into their hand.
+J plays a Hunting Lodge.
+J shuffles their deck.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Smugglers.
+J gains a Caravan.
+J plays 4 Coppers. (+$4)
+J buys and gains a Caravan.
+J draws 3 Coppers and 2 Caravans.
+
+Turn 8 - LouiseJ11
+L starts their turn.
+L draws a card (Caravan).
+L shuffles their deck.
+L draws a card (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Hunting Lodge.
+L draws a card.
+L gets +2 Actions.
+L plays 5 Coppers. (+$5)
+L plays a Venture. (+$1)
+L reveals a Copper.
+L plays a Copper. (+$1)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Caravan.
+J draws an Estate.
+J gets +1 Action.
+J plays a Caravan.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys Enhance.
+J trashes a Copper.
+J gains a Settlers.
+J draws a Copper, a Caravan, a Smugglers, a Settlers and a Hunting Lodge.
+
+Turn 9 - LouiseJ11
+L starts their turn.
+L shuffles their deck.
+L draws 2 cards (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Hunting Lodge.
+L draws a card.
+L gets +2 Actions.
+L plays a Bishop.
+L gets +$1.
+L gets 1 VP.
+L trashes a Copper.
+J trashes a Copper.
+L plays a Smugglers.
+L gains a Settlers.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Copper and a Hunting Lodge (Caravan).
+J plays a Settlers.
+J draws an Estate.
+J gets +1 Action.
+J looks at 3 Coppers, a Settlers and an Estate.
+J looks at 3 Coppers, a Settlers and an Estate.
+J puts a Copper into their hand.
+J plays a Caravan.
+J draws a Caravan.
+J gets +1 Action.
+J plays a Caravan.
+J draws a Copper.
+J gets +1 Action.
+J plays a Smugglers.
+J gains a Gold.
+J plays 3 Coppers. (+$3)
+J buys and gains a Smugglers.
+J shuffles their deck.
+J draws 2 Coppers, a Gold, an Estate and a Settlers.
+
+Turn 10 - LouiseJ11
+L starts their turn.
+L draws 2 cards (Caravan).
+L plays a Caravan.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L plays 4 Coppers and a Gold. (+$7)
+L plays a Venture. (+$1)
+L reveals a Caravan, 2 Smugglers and a Settlers and finally Copper.
+L discards a Caravan, 2 Smugglers and a Settlers.
+L plays a Copper. (+$1)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J draws a Smugglers and a Settlers (Caravan).
+J plays a Settlers.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Smugglers.
+J plays 4 Coppers and a Gold. (+$7)
+J buys and gains a Gold.
+J draws a Copper, an Estate, 2 Caravans and a Smugglers.
+
+Turn 11 - LouiseJ11
+L starts their turn.
+L shuffles their deck.
+L draws a card (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Hunting Lodge.
+L draws a card.
+L gets +2 Actions.
+L plays a Settlers.
+L draws a card.
+L gets +1 Action.
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Bishop.
+L gets +$1.
+L gets 1 VP.
+L trashes a Copper.
+J trashes an Estate.
+L plays a Smugglers.
+L gains a Gold.
+L plays a Copper and a Gold. (+$4)
+L plays a Venture. (+$1)
+L reveals 2 Caravans and a Province and finally Copper.
+L discards a Province and 2 Caravans.
+L plays a Copper. (+$1)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Caravan.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J plays a Caravan.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Smugglers.
+J gains a Gold.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Werewolf.
+J draws 2 Coppers, 2 Caravans and a Settlers.
+
+Turn 12 - LouiseJ11
+L starts their turn.
+L draws a card (Caravan).
+L shuffles their deck.
+L draws a card (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Smugglers.
+L gains a Werewolf.
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws an Estate and a Smugglers (Caravan).
+J plays a Caravan.
+J draws a Gold.
+J gets +1 Action.
+J plays a Caravan.
+J draws a Copper.
+J gets +1 Action.
+J plays a Settlers.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J looks at a Smugglers, 2 Coppers, 2 Golds, a Werewolf and a Hunting Lodge.
+J looks at a Smugglers, 2 Coppers, 2 Golds, a Werewolf and a Hunting Lodge.
+J puts a Copper into their hand.
+J plays a Hunting Lodge.
+J draws a Settlers.
+J gets +2 Actions.
+J plays a Settlers.
+J shuffles their deck.
+J draws a Werewolf.
+J gets +1 Action.
+J plays a Smugglers.
+J gains a Werewolf.
+J plays a Werewolf.
+J draws a Copper and 2 Golds.
+J plays 5 Coppers and 3 Golds. (+$14)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, an Estate, a Smugglers, a Settlers and a Hunting Lodge.
+
+Turn 13 - LouiseJ11
+L starts their turn.
+L draws a card (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Smugglers.
+L gains a Werewolf.
+L plays a Copper and 2 Golds. (+$7)
+L plays a Venture. (+$1)
+L reveals a Gold.
+L plays a Gold. (+$3)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws a Copper and a Caravan (Caravan).
+J plays a Settlers.
+J draws a Settlers.
+J gets +1 Action.
+J plays a Settlers.
+J draws a Gold.
+J gets +1 Action.
+J plays a Hunting Lodge.
+J draws a Smugglers.
+J gets +2 Actions.
+J plays a Caravan.
+J draws a Copper.
+J gets +1 Action.
+J plays a Smugglers.
+J gains a Werewolf.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws 2 Coppers, a Caravan and 2 Werewolves.
+
+Turn 14 - LouiseJ11
+L starts their turn.
+L draws 2 cards (Caravan).
+L plays a Hunting Lodge.
+L draws a card.
+L gets +2 Actions.
+L plays a Settlers.
+L draws a card.
+L gets +1 Action.
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Werewolf.
+L draws 3 cards.
+L plays a Smugglers.
+L gains a Werewolf.
+L plays a Copper and 2 Golds. (+$7)
+L plays a Venture. (+$1)
+L reveals a Bishop and finally Gold.
+L discards a Bishop.
+L plays a Gold. (+$3)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Copper (Caravan).
+J plays a Caravan.
+J draws a Gold.
+J gets +1 Action.
+J plays a Werewolf.
+J shuffles their deck.
+J draws a Province and 2 Hunting Lodges.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Gold.
+J plays a Werewolf.
+J takes War.
+L receives War.
+L reveals a Copper, a Gold and a Werewolf and finally Caravan.
+L trashes a Caravan.
+L discards a Copper, a Gold and a Werewolf.
+J discards War.
+J draws a Province, a Caravan, 2 Settlers and a Werewolf.
+
+Turn 15 - LouiseJ11
+L starts their turn.
+L shuffles their deck.
+L draws a card (Caravan).
+L plays a Caravan.
+L draws a card.
+L gets +1 Action.
+L plays a Werewolf.
+L draws 3 cards.
+L plays 2 Coppers and 2 Golds. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J draws a Copper (Caravan).
+J plays a Settlers.
+J draws a Gold.
+J gets +1 Action.
+J looks at a Caravan, 3 Coppers, 2 Golds, a Province, 2 Werewolves and 2 Hunting Lodges.
+J looks at a Caravan, 3 Coppers, 2 Golds, a Province, 2 Werewolves and 2 Hunting Lodges.
+J puts a Copper into their hand.
+J plays a Settlers.
+J draws a Gold.
+J gets +1 Action.
+J looks at a Caravan, 2 Coppers, 2 Golds, a Province, 2 Werewolves and 2 Hunting Lodges.
+J looks at a Caravan, 2 Coppers, 2 Golds, a Province, 2 Werewolves and 2 Hunting Lodges.
+J puts a Copper into their hand.
+J plays a Caravan.
+J draws a Copper.
+J gets +1 Action.
+J plays 4 Coppers and 2 Golds. (+$10)
+J buys and gains a Province.
+J plays a Werewolf.
+J takes Bad Omens.
+L receives Bad Omens.
+L moves their deck to the discard.
+L looks at 22 cards.
+L topdecks 2 Coppers.
+L looks at 22 cards.
+J discards Bad Omens.
+J shuffles their deck.
+J draws a Gold, an Estate, a Caravan and 2 Smugglers.
+
+Turn 16 - LouiseJ11
+L starts their turn.
+L draws a card (Caravan).
+

@@ -1,0 +1,377 @@
+Game #81578679, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Page.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Page.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, an Estate and 2 Pages.
+
+Turn 3 - Lord Rattington
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Bandit.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Page.
+J draws a Copper.
+J gets +1 Action.
+J plays a Page.
+J draws an Estate.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J returns a Page.
+J receives a Treasure Hunter.
+J returns a Page.
+J receives a Treasure Hunter.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Treasure Hunter.
+
+Turn 4 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Bandit.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Treasure Hunter.
+J gets +1 Action.
+J gets +$1.
+J gains a Silver.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Treasury.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J draws 2 Coppers, a Silver, an Estate and a Treasure Hunter.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Treasure Hunter.
+J gets +1 Action.
+J gets +$1.
+J gains a Silver.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Treasury.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 6 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals a Warrior and a Copper.
+J discards a Copper and a Warrior.
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Messenger.
+J gains a Page.
+L gains a Page.
+J gains a Messenger.
+J draws a Copper, 3 Silvers and a Treasury.
+
+Turn 7 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals a Silver and a Treasury.
+J trashes a Silver.
+J discards a Treasury.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Treasury.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and 3 Silvers. (+$7)
+J buys and gains a Treasury.
+J topdecks a Treasury.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Treasury and a Warrior.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers, a Silver and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Warrior.
+J draws a Copper and a Silver.
+L discards a Copper.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Livery.
+J returns a Warrior.
+J receives a Hero.
+J topdecks a Treasury.
+J draws a Copper, 2 Treasuries, a Messenger and a Warrior.
+
+Turn 9 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals a Silver and an Estate.
+J trashes a Silver.
+J discards an Estate.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Treasury.
+J draws a Page.
+J gets +1 Action.
+J gets +$1.
+J plays a Page.
+J draws an Estate.
+J gets +1 Action.
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Warrior.
+J draws a Copper and a Treasury.
+L discards a Copper and a Gold.
+J plays 3 Coppers. (+$3)
+J buys and gains a Treasury.
+J returns a Page.
+J receives a Treasure Hunter.
+J topdecks 2 Treasuries.
+J shuffles their deck.
+J draws a Copper, a Silver and 3 Treasuries.
+
+Turn 10 - Lord Rattington
+L plays a Copper and 3 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Treasury.
+J draws a Treasury.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Messenger.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Hero.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Hero.
+J gets +$2.
+J gains a Gold.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Province.
+J returns a Hero.
+J receives a Champion.
+J draws 2 Coppers, a Silver, an Estate and a Livery.
+
+Turn 11 - Lord Rattington
+L plays a Page.
+L draws a card.
+L gets +1 Action.
+L plays 3 Coppers, a Silver and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Livery.
+J gets +$3.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Treasury.
+J gains a Horse.
+J draws a Copper, 2 Estates, a Treasure Hunter and a Warrior.
+
+Turn 12 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals 2 Coppers.
+J discards 2 Coppers.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Treasure Hunter.
+J gets +1 Action.
+J gets +$1.
+J gains 2 Silvers.
+J plays a Warrior.
+J shuffles their deck.
+J draws a Copper and a Treasury.
+L shuffles their deck.
+L discards a Copper and a Silver.
+L trashes a Silver.
+J plays 2 Coppers. (+$2)
+J buys an Advance.
+J trashes a Treasury.
+J gains a Livery.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J draws a Silver, an Estate, 2 Treasuries and a Horse.
+
+Turn 13 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals a Copper and a Livery.
+J discards a Copper and a Livery.
+L plays a Gold. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Treasury.
+J draws a Province.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Treasury.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Treasury.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Horse.
+J draws 2 Silvers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Copper and 3 Silvers. (+$7)
+J buys and gains a Province.
+J draws 3 Coppers, a Champion and a Messenger.
+
+Turn 14 - Lord Rattington
+L plays 3 Coppers and 2 Golds. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Champion.
+J gets +1 Action.
+J plays a Messenger.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys and gains a Treasury.
+J shuffles their deck.
+J draws a Silver, a Gold, an Estate and 2 Treasuries.
+
+Turn 15 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Treasury.
+J gets +1 Action.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J gets +1 Action.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains a Province.
+J draws 2 Coppers, a Treasury and 2 Warriors.
+
+Turn 16 - Lord Rattington
+L plays a Page.
+L draws a card.
+L gets +1 Action.
+L plays a Copper, 2 Silvers and 2 Golds. (+$11)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Treasury.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Copper and an Estate.
+L discards a Province.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Copper and a Treasury.
+L discards a Silver and an Estate.
+L trashes a Silver.
+J plays a Treasury.
+J gets +1 Action.
+J draws a Livery.
+J gets +1 Action.
+J gets +$1.
+J plays a Livery.
+J gets +1 Action.
+J gets +$3.
+J plays 5 Coppers. (+$5)
+J buys and gains a Duchy.
+J gains a Horse.
+J draws a Copper, a Silver, a Province, a Treasury and a Livery.
+
+Turn 17 - Lord Rattington
+L plays a Copper, a Silver and 2 Golds. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+

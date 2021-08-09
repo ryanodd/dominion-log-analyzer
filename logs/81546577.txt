@@ -1,0 +1,233 @@
+Game #81546577, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Sleigh.
+J draws 5 Coppers.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains an Artificer.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Sleigh.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Sleigh.
+J gains 2 Horses.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, an Artificer and a Horse.
+
+Turn 5 - Lord Rattington
+L plays 3 Silvers and 2 Coppers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Artificer.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J discards 2 Coppers, 2 Estates and a Horse.
+J gains an Artificer.
+J draws 2 Coppers, a Silver, an Artificer and a Horse.
+
+Turn 6 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Artificer.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J discards a Copper and a Horse.
+J gains a Sleigh.
+J plays 2 Silvers and a Copper. (+$5)
+J buys and gains a Gold.
+J draws 3 Coppers, an Estate and a Sleigh.
+
+Turn 7 - Lord Rattington
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sleigh.
+J gains 2 Horses.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, an Estate, an Artificer, a Sleigh and a Horse.
+
+Turn 8 - Lord Rattington
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays an Artificer.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J discards an Estate and a Horse.
+J gains a Sleigh.
+J reacts with a Sleigh.
+J discards a Sleigh.
+J puts a Sleigh into their hand.
+J plays a Sleigh.
+J gains 2 Horses.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Spice Merchant.
+J draws a Silver, an Estate, an Artificer and 2 Horses.
+
+Turn 9 - Lord Rattington
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Artificer.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J discards 2 Estates and a Horse.
+J gains a Silver.
+J plays a Horse.
+J draws a Silver and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and a Sleigh.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Sleigh.
+J gains 2 Horses.
+J plays 2 Silvers and a Copper. (+$5)
+J buys and gains a Gold.
+J draws 3 Coppers, a Silver and a Gold.
+
+Turn 10 - Lord Rattington
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Silver, 3 Coppers and a Gold. (+$8)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Sleigh.
+
+Turn 11 - Lord Rattington
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Sleigh.
+J gains 2 Horses.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers and 3 Horses.
+
+Turn 12 - Lord Rattington
+L plays a Silver, a Copper and a Gold. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Horse using Way of the Pig.
+J draws an Artificer.
+J gets +1 Action.
+J plays a Horse using Way of the Pig.
+J draws an Artificer.
+J gets +1 Action.
+J plays a Horse using Way of the Pig.
+J draws a Spice Merchant.
+J gets +1 Action.
+J plays an Artificer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Spice Merchant.
+J trashes a Copper.
+J draws an Estate and a Sleigh.
+J gets +1 Action.
+J plays an Artificer.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J discards 2 Estates.
+J gains a Sleigh.
+J plays a Sleigh.
+J gains 2 Horses.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J draws a Copper, 2 Golds, a Sleigh and a Horse.
+
+Turn 13 - Lord Rattington
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Horse using Way of the Pig.
+J draws a Silver.
+J gets +1 Action.
+J plays a Sleigh.
+J gains 2 Horses.
+J plays a Silver, a Copper and 2 Golds. (+$9)
+J buys and gains a Platinum.
+J draws a Copper, a Silver, a Sleigh and 2 Horses.
+
+Turn 14 - Lord Rattington
+L plays 2 Silvers and a Gold. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Horse using Way of the Pig.
+J draws a Silver.
+J gets +1 Action.
+

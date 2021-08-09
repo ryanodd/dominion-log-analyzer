@@ -1,0 +1,449 @@
+Game #82338103, rated.
+Jazzercise: 45.79
+sadler: 42.8
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+s starts with 7 Coppers.
+s starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Necromancer.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - sadler
+s plays 3 Coppers. (+$3)
+s buys and gains a Gladiator.
+s draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - sadler
+s plays 4 Coppers. (+$4)
+s buys and gains a Young Witch.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J draws 2 Coppers, an Estate, an Urchin and a Necromancer.
+
+Turn 3 - sadler
+s plays a Young Witch.
+s draws 2 cards.
+s discards a card and an Estate.
+J blocks with an Urchin.
+s plays 4 Coppers. (+$4)
+s buys and gains a Village Green.
+s draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+s discards an Estate.
+J plays a Necromancer.
+J plays a Zombie Mason.
+J trashes a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and an Urchin.
+
+Turn 4 - sadler
+s plays a Gladiator.
+s gets +$2.
+s reveals a Copper.
+J blocks with a Copper.
+s plays 3 Coppers. (+$3)
+s buys and gains a Royal Carriage.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+s discards an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, an Estate and 2 Urchins.
+
+Turn 5 - sadler
+s plays 4 Coppers. (+$4)
+s buys and gains a Village Green.
+s draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+s discards an Estate.
+J plays an Urchin.
+J trashes an Urchin.
+J gains a Mercenary.
+J uses Way of the Goat.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Estates, 2 Urchins and a Necromancer.
+
+Turn 6 - sadler
+s plays a Royal Carriage.
+s gets +1 Action.
+s puts a Royal Carriage on their Tavern mat.
+s plays a Young Witch.
+s draws 2 cards.
+s discards a card and a Copper.
+J blocks with an Urchin.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+s discards a Copper.
+J plays an Urchin.
+J draws a Silver.
+J gets +1 Action.
+J plays a Necromancer using Way of the Goat.
+J trashes an Estate.
+J plays a Copper and a Silver. (+$3)
+J buys and gains an Urchin.
+J draws 3 Coppers, a Silver and a Mercenary.
+
+Turn 7 - sadler
+s plays a Gladiator.
+s gets +$2.
+s reveals an Estate.
+s gets +$1.
+s trashes a Gladiator.
+s calls a Royal Carriage.
+s plays a Gladiator again.
+s gets +$2.
+s reveals an Estate.
+s gets +$1.
+s trashes a Gladiator.
+s plays 2 Coppers. (+$2)
+s buys and gains a Province.
+s draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Mercenary.
+J trashes 2 Coppers.
+J draws 2 Coppers.
+J gets +$2.
+s discards a card and an Estate.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Crown.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, an Urchin and a Necromancer.
+
+Turn 8 - sadler
+s plays a Village Green.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Necromancer.
+J plays a Zombie Spy.
+J draws a Copper.
+J gets +1 Action.
+J looks at an Urchin.
+J discards an Urchin.
+J plays an Urchin using Way of the Goat.
+J trashes an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Village Green.
+J draws 2 Coppers, a Mercenary, an Urchin and a Crown.
+
+Turn 9 - sadler
+s starts their turn.
+s draws a card.
+s gets +2 Actions.
+s plays a Young Witch.
+s draws 2 cards.
+s discards a card and a Copper.
+J blocks with an Urchin.
+s plays a Royal Carriage.
+s gets +1 Action.
+s puts a Royal Carriage on their Tavern mat.
+s plays a Village Green.
+s plays 3 Coppers. (+$3)
+s buys and gains a Gladiator.
+s draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Crown.
+J plays an Urchin.
+J draws a Silver.
+J gets +1 Action.
+s discards an Estate.
+J plays an Urchin again.
+J shuffles their deck.
+J draws a Necromancer.
+J gets +1 Action.
+J plays a Mercenary.
+J trashes 2 Coppers.
+J draws a Copper and a Village Green.
+J gets +$2.
+s discards an Estate.
+J plays a Village Green.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Necromancer using Way of the Goat.
+J trashes a Copper.
+J plays 2 Silvers. (+$4)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Mercenary, 2 Urchins and a Necromancer.
+
+Turn 10 - sadler
+s starts their turn.
+s draws a card.
+s gets +2 Actions.
+s plays 3 Coppers. (+$3)
+s buys and gains a Silver.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Urchin.
+J draws a Silver.
+J gets +1 Action.
+s discards an Estate.
+J plays a Necromancer.
+J plays a Zombie Spy.
+J draws a Gold.
+J gets +1 Action.
+J looks at a Crown.
+J topdecks a Crown.
+J plays an Urchin.
+J draws a Crown.
+J gets +1 Action.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Silvers, 2 Urchins and a Village Green.
+
+Turn 11 - sadler
+s plays a Village Green.
+s draws a card.
+s gets +2 Actions.
+s plays a Gladiator.
+s gets +$2.
+s reveals a Province.
+s gets +$1.
+s trashes a Gladiator.
+s calls a Royal Carriage.
+s plays a Gladiator again.
+s gets +$2.
+s reveals a Province.
+s gets +$1.
+s buys and gains a Gold.
+s draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Urchin.
+J draws a Gold.
+J gets +1 Action.
+s discards a Copper.
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays an Urchin.
+J draws a Mercenary.
+J gets +1 Action.
+J plays a Mercenary.
+J trashes a Copper and a Silver.
+J draws an Urchin and a Crown.
+J gets +$2.
+s discards a Copper.
+J plays an Urchin.
+J draws a Necromancer.
+J gets +1 Action.
+J plays a Necromancer.
+J plays a Gladiator.
+J gets +$2.
+J reveals a Crown.
+J gets +$1.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Silver. (+$2)
+J buys and gains a Fortune.
+J repays 5 debt (3 remaining).
+J shuffles their deck.
+J draws a Province, a Mercenary, 2 Urchins and a Necromancer.
+
+Turn 12 - sadler
+s plays a Young Witch.
+s draws 2 cards.
+s discards a card and a Copper.
+s plays a Village Green.
+s looks at 12 cards.
+J blocks with an Urchin.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Necromancer.
+J plays a Zombie Apprentice.
+J trashes an Urchin.
+J draws a Gold, an Urchin and a Crown.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Fortune.
+J gets +1 Action.
+s discards an Estate.
+J plays an Urchin.
+J draws a Silver.
+J gets +1 Action.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Silver. (+$2)
+J plays a Fortune.
+J gets +1 Buy.
+J repays 3 debt.
+J buys and gains a Province.
+J buys and gains a Crown.
+J shuffles their deck.
+J draws a Silver, a Province, 2 Crowns and a Village Green.
+
+Turn 13 - sadler
+s starts their turn.
+s draws a card.
+s gets +2 Actions.
+s plays a Gladiator.
+s gets +$2.
+s reveals a Gladiator.
+s gets +$1.
+s plays a Gladiator.
+s gets +$2.
+s reveals a Copper.
+s gets +$1.
+s plays 2 Coppers and a Silver. (+$4)
+s buys and gains a Fortune.
+s gains 2 Golds.
+s repays 2 debt (6 remaining).
+s draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Crown.
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Village Green again.
+J draws a Necromancer.
+J gets +2 Actions.
+J plays a Necromancer.
+J plays a Zombie Spy.
+J draws a Fortune.
+J gets +1 Action.
+J looks at a Mercenary.
+J discards a Mercenary.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Silver. (+$2)
+J plays a Fortune.
+J gets +1 Buy.
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws 3 Provinces and 2 Urchins.
+
+Turn 14 - sadler
+s plays a Royal Carriage.
+s gets +1 Action.
+s puts a Royal Carriage on their Tavern mat.
+s plays 2 Coppers. (+$2)
+s repays 2 debt (4 remaining).
+s draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Urchin.
+J draws a Necromancer.
+J gets +1 Action.
+s discards a Copper.
+J draws a Silver, a Gold, a Mercenary, a Crown and a Village Green.
+
+Turn 15 - sadler
+s plays a Young Witch.
+s draws 2 cards.
+s discards a card and an Estate.
+s plays a Village Green.
+s looks at 17 cards.
+J gains a Curse.
+s plays a Copper and a Gold. (+$4)
+s repays 4 debt.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Crown.
+J plays a Village Green.
+J draws a Fortune.
+J gets +2 Actions.
+J plays a Village Green again.
+J draws a Crown.
+J gets +2 Actions.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Silver. (+$2)
+J plays a Fortune.
+J gets +1 Buy.
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws 4 Provinces and a Village Green.
+
+Turn 16 - sadler
+s starts their turn.
+s draws a card.
+s gets +2 Actions.
+s plays a Copper and a Silver. (+$3)
+s plays a Fortune.
+s gets +1 Buy.
+s buys and gains a Duchy.
+s draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Village Green.
+J draws a Curse, a Gold, a Province, a Crown and a Necromancer.
+
+Turn 17 - sadler
+s plays a Village Green.
+s draws a card.
+s gets +2 Actions.
+s plays a Young Witch.
+s draws 2 cards.
+s discards a card and a Copper.
+J gains a Curse.
+s plays a Gladiator.
+s gets +$2.
+s reveals a Copper.
+s gets +$1.
+s plays 2 Coppers and a Gold. (+$5)
+s buys and gains a Province.
+s draws 5 cards.
+

@@ -1,0 +1,212 @@
+Game #82131673, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Secret Passage.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Masquerade.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Masquerade.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Masquerade.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Shanty Town.
+J draws 2 Coppers, an Estate, a Masquerade and a Secret Passage.
+
+Turn 3 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes an Estate to J.
+J passes an Estate to L.
+L trashes an Estate.
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Secret Passage.
+J draws 2 Coppers.
+J gets +1 Action.
+J topdecks a Copper.
+J plays a Masquerade.
+J shuffles their deck.
+J draws a Copper and an Estate.
+J passes an Estate to L.
+L passes an Estate to J.
+J plays 4 Coppers. (+$4)
+J buys and gains a Mill.
+J draws 3 Coppers, an Estate and a Shanty Town.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Shanty Town.
+J gets +2 Actions.
+J reveals their hand: 3 Coppers and an Estate.
+J shuffles their deck.
+J draws an Estate and a Mill.
+J plays a Mill.
+J draws a Copper.
+J gets +1 Action.
+J discards 2 Estates.
+J gets +$2.
+J plays 4 Coppers. (+$4)
+J buys and gains a Minion.
+J draws 2 Coppers, an Estate, a Masquerade and a Secret Passage.
+
+Turn 5 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes an Estate to J.
+J passes an Estate to L.
+L trashes an Estate.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Minion.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Secret Passage.
+J shuffles their deck.
+J draws 2 Coppers.
+J gets +1 Action.
+J puts a Copper on the bottom of their deck.
+J plays a Masquerade.
+J draws a Copper and a Mill.
+J passes an Estate to L.
+L passes a Copper to J.
+J trashes a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains a Mining Village.
+J draws 2 Coppers, 2 Estates and a Shanty Town.
+
+Turn 6 - Lord Rattington
+L plays a Masquerade.
+L shuffles their deck.
+L draws 2 cards.
+L passes an Estate to J.
+J passes an Estate to L.
+L trashes an Estate.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Minion.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Shanty Town.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers and 2 Estates.
+J draws a Copper and a Minion.
+J plays a Minion.
+J gets +1 Action.
+J discards 3 Coppers and 2 Estates.
+J shuffles their deck.
+J draws 3 Coppers and an Estate.
+L discards 4 other cards and a Masquerade.
+L shuffles their deck.
+L draws 4 cards.
+J plays 3 Coppers. (+$3)
+J buys and gains a Pawn.
+J draws 3 Coppers, a Masquerade and a Secret Passage.
+
+Turn 7 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Copper to J.
+J passes a Copper to L.
+L trashes a Copper.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Minion.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Secret Passage.
+J draws a Mill and a Mining Village.
+J gets +1 Action.
+J inserts a Copper into their deck.
+J plays a Mining Village.
+J draws an Estate.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Mill.
+J draws a Copper.
+J gets +1 Action.
+J discards a Copper and an Estate.
+J gets +$2.
+J plays a Masquerade.
+J shuffles their deck.
+J draws a Copper and an Estate.
+J passes an Estate to L.
+L passes an Estate to J.
+J plays 3 Coppers. (+$3)
+J buys and gains a Nobles.
+J draws a Copper, an Estate, a Minion, a Pawn and a Shanty Town.
+
+Turn 8 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes an Estate to J.
+J passes an Estate to L.
+L trashes an Estate.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Pawn.
+J draws a Copper.
+J gets +1 Action.
+J plays a Shanty Town.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers and an Estate.
+J draws 2 Coppers.
+J plays 4 Coppers. (+$4)
+J buys and gains a Patrol.
+J shuffles their deck.
+J draws 3 Coppers, a Masquerade and a Mill.
+
+Turn 9 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Copper to J.
+J passes a Copper to L.
+L trashes a Copper.
+L plays 2 Coppers. (+$2)
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Mill.
+J draws a Minion.
+J gets +1 Action.
+

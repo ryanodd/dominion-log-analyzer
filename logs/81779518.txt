@@ -1,0 +1,518 @@
+Game #81779518, rated.
+Jazzercise: 44.12
+tmd1210: 40.17
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J shuffles their deck.
+J draws 5 Coppers.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys Cathedral.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - tmd1210
+t plays 4 Coppers. (+$4)
+t buys Cathedral.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - tmd1210
+t starts their turn.
+t trashes an Estate. (Cathedral)
+t plays 3 Coppers. (+$3)
+t buys and gains a Silver.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays 4 Coppers. (+$4)
+J buys and gains a Potion.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - tmd1210
+t starts their turn.
+t trashes an Estate. (Cathedral)
+t plays 3 Coppers and a Silver. (+$5)
+t buys and gains a Cache.
+t gains 2 Coppers.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays 4 Coppers. (+$4)
+J buys and gains a Dungeon.
+J shuffles their deck.
+J draws 4 Coppers and a Potion.
+
+Turn 4 - tmd1210
+t starts their turn.
+t trashes an Estate. (Cathedral)
+t plays 4 Coppers. (+$4)
+t buys and gains a Silver.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains a University.
+J shuffles their deck.
+J draws 4 Coppers and a Dungeon.
+
+Turn 5 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays 2 Coppers and 2 Silvers. (+$6)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Copper and a University.
+J discards 2 Coppers.
+J plays a University.
+J gets +2 Actions.
+J gains a Minion.
+J plays 2 Coppers. (+$2)
+J buys Ride.
+J gains a Horse.
+J shuffles their deck.
+J draws 3 Coppers, a Minion and a Potion.
+
+Turn 6 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays 3 Coppers and a Cache. (+$6)
+t buys and gains a Gold.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J draws a Copper and a Horse.
+J discards 2 Coppers.
+J trashes a Copper. (Cathedral)
+J plays a Horse.
+J draws a Copper and a University.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a University.
+J gets +2 Actions.
+J gains a Throne Room.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a University.
+J shuffles their deck.
+J draws 3 Coppers, a Minion and a Dungeon.
+
+Turn 7 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays 4 Coppers. (+$4)
+t buys and gains a Potion.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Dungeon.
+J gets +1 Action.
+J draws 2 Universities.
+J discards 2 Coppers.
+J plays a University.
+J gets +2 Actions.
+J gains a Village.
+J plays a University.
+J gets +2 Actions.
+J gains a Village.
+J plays a Minion.
+J gets +1 Action.
+J shuffles their deck.
+J draws 2 Coppers, a Throne Room and a Potion.
+t discards 4 other cards and a Silver.
+t shuffles their deck.
+t draws 4 cards.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a University.
+J shuffles their deck.
+J draws a Copper, 2 Villages and 2 Universities.
+
+Turn 8 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays a Gold and 2 Silvers. (+$7)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J draws a Throne Room and a Minion.
+J discards a Village and a University.
+J plays a Throne Room.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Village again.
+J draws a Copper.
+J gets +2 Actions.
+J plays a University.
+J gets +2 Actions.
+J gains a Throne Room.
+J plays a Minion.
+J gets +1 Action.
+J discards 2 Coppers.
+J shuffles their deck.
+J draws a Copper, a Village, a Potion and a University.
+t discards 4 other cards and a Gold.
+t shuffles their deck.
+t draws 4 cards.
+J plays a University.
+J gets +2 Actions.
+J gains a Village.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys Ride.
+J gains a Horse.
+J shuffles their deck.
+J draws a Throne Room, 2 Villages and 2 Universities.
+
+Turn 9 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays 2 Coppers. (+$2)
+t plays a Potion.
+t buys and gains a University.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J trashes a Village. (Cathedral)
+J plays a Throne Room.
+J plays a Village.
+J draws a Minion.
+J gets +2 Actions.
+J plays a Village again.
+J draws a Village.
+J gets +2 Actions.
+J plays a University.
+J gets +2 Actions.
+J gains a Diplomat.
+J plays a University.
+J gets +2 Actions.
+J gains a Diplomat.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J draws a Copper, a Throne Room, a University, a Dungeon and a Horse.
+
+Turn 10 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays a Copper, a Cache, a Gold and a Silver. (+$9)
+t buys and gains a Province.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J trashes a University. (Cathedral)
+J plays a Throne Room.
+J plays a Horse.
+J shuffles their deck.
+J draws a Throne Room and a Potion.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse again.
+J draws a Diplomat and a Minion.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Diplomat.
+J draws a Silver and a Diplomat.
+J plays a Diplomat again.
+J draws a Village and a University.
+J plays a University.
+J gets +2 Actions.
+J gains a Throne Room.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Diplomat.
+J draws a Village and a University.
+J plays a University.
+J gets +2 Actions.
+J gains a Diplomat.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Village.
+J shuffles their deck.
+J draws a Throne Room.
+J gets +2 Actions.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Potion.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Gold, a Village and 2 Diplomats.
+
+Turn 11 - tmd1210
+t starts their turn.
+t trashes a Silver. (Cathedral)
+t plays a Cache and 2 Golds. (+$9)
+t buys and gains a Province.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Village.
+J draws a University.
+J gets +2 Actions.
+J plays a University.
+J gets +2 Actions.
+J gains a Minion.
+J plays a Diplomat.
+J draws a Throne Room and a Minion.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Diplomat.
+J draws a Throne Room and a Village.
+J gets +2 Actions.
+J plays a Diplomat again.
+J draws a Copper and a Dungeon.
+J plays a Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion again.
+J gets +1 Action.
+J gets +$2.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Diplomat and a University.
+J discards a Silver and a Diplomat.
+J plays a University.
+J gets +2 Actions.
+J gains a Village.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Throne Room, a Village, 2 Diplomats and a Potion.
+
+Turn 12 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays a University.
+t gets +2 Actions.
+t gains a Minion.
+t plays a Copper, a Gold and a Silver. (+$6)
+t buys and gains a Gold.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J trashes a Potion. (Cathedral)
+J draws a Village and a Minion.
+J discards a Village and a Minion.
+J plays a Village.
+J draws a Province.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Diplomat.
+J draws a Copper and a University.
+J gets +2 Actions.
+J plays a Diplomat again.
+J draws a Village and a University.
+J plays a University.
+J gets +2 Actions.
+J gains a Throne Room.
+J plays a University.
+J gets +2 Actions.
+J gains a Diplomat.
+J plays a Village.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Diplomat.
+J draws a Throne Room and a Minion.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion again.
+J gets +1 Action.
+J gets +$2.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Throne Room, 2 Diplomats and a Minion.
+
+Turn 13 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays 2 Golds and a Silver. (+$8)
+t plays a Potion.
+t buys and gains a Province.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J trashes a Diplomat. (Cathedral)
+J plays a Throne Room.
+J plays a Diplomat.
+J draws a Throne Room and a University.
+J gets +2 Actions.
+J plays a Diplomat again.
+J draws a Throne Room and a Diplomat.
+J plays a University.
+J gets +2 Actions.
+J gains a Village.
+J plays a Diplomat.
+J draws a Throne Room and a Minion.
+J plays a Throne Room.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion again.
+J gets +1 Action.
+J gets +$2.
+J plays a Throne Room.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion again.
+J gets +1 Action.
+J gets +$2.
+J buys and gains a Province.
+J draws a Gold, 2 Provinces, a Village and a Diplomat.
+
+Turn 14 - tmd1210
+t starts their turn.
+t trashes a Copper. (Cathedral)
+t plays a University.
+t gets +2 Actions.
+t gains a Throne Room.
+t plays a Minion.
+J reacts with a Diplomat.
+J draws a Copper and a University.
+J discards a Copper and 2 Provinces.
+t gets +1 Action.
+t discards a card and a Province.
+t shuffles their deck.
+t draws 4 cards.
+t plays a Cache and 3 Golds. (+$12)
+t buys and gains a Province.
+t draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J trashes a University. (Cathedral)
+J plays a Village.
+J draws a Dungeon.
+J gets +2 Actions.
+J plays a Dungeon.
+J gets +1 Action.
+J draws 2 Villages.
+J discards 2 Villages.
+J plays a Diplomat.
+J shuffles their deck.
+J draws a Silver and a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Province.
+J gets +2 Actions.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Duchy.
+J draws 4 Throne Rooms and a Village.
+
+Turn 15 - tmd1210
+t starts their turn.
+t trashes a Gold. (Cathedral)
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J trashes a Throne Room. (Cathedral)
+J draws a Province and a Minion.
+J discards a Province and a Throne Room.
+J plays a Throne Room.
+J plays a Village.
+J draws a Minion.
+J gets +2 Actions.
+J plays a Village again.
+J draws a Diplomat.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Diplomat.
+J draws a Copper and a University.
+J gets +2 Actions.
+J plays a Diplomat again.
+J draws a Province and a Diplomat.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Diplomat.
+J shuffles their deck.
+J draws a Throne Room and a Diplomat.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Diplomat.
+J draws a Duchy and a Village.
+J gets +2 Actions.
+J plays a Diplomat again.
+J draws a Province and a Village.
+J plays a Village.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Village.
+J draws a Province.
+J gets +2 Actions.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, 2 Provinces, a Throne Room and a Village.
+

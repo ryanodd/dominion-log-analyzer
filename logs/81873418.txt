@@ -1,0 +1,98 @@
+Game #81873418, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Count.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L buys and gains a Squire.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Baron.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Count.
+L discards a card and a Copper.
+L gets +$3.
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Baron.
+J draws 3 Coppers, an Estate and a Baron.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Baron.
+J gets +1 Buy.
+J discards an Estate.
+J gets +$4.
+J plays 3 Coppers. (+$3)
+J buys Guildhall and an Estate.
+J gains an Estate.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Baron.
+
+Turn 5 - Lord Rattington
+L plays a Count.
+L discards a card and a Copper.
+L gets +$3.
+L plays a Silver and a Copper. (+$3)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Baron.
+J gets +1 Buy.
+J gains an Estate.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Potion.
+J gets +1 Coffers. (Guildhall)
+J draws 2 Coppers, 2 Estates and a Baron.
+
+Turn 6 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Baron.
+J gets +1 Buy.
+J discards an Estate.
+J gets +$4.
+J plays 2 Coppers. (+$2)
+J uses 1 Coffers. (+$1)
+J buys and gains a Potion.
+J gets +1 Coffers. (Guildhall)
+

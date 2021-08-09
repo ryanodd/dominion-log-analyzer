@@ -1,0 +1,204 @@
+Game #81955292, rated.
+Jazzercise: 45
+Titan34: 40.03
+
+
+Obelisk chooses the Paddock pile.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+T starts with 7 Coppers.
+T starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Titan34
+T plays 3 Coppers. (+$3)
+T buys and gains a Silver.
+T draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver and 3 Estates.
+
+Turn 2 - Titan34
+T plays 4 Coppers. (+$4)
+T buys and gains a Silver.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and a Silver.
+
+Turn 3 - Titan34
+T plays 4 Coppers. (+$4)
+T buys and gains a Silver.
+T draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Count.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Count.
+
+Turn 4 - Titan34
+T plays 2 Coppers and a Silver. (+$4)
+T buys and gains an Acting Troupe.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Count.
+J topdecks a Copper.
+J trashes 2 Coppers and an Estate.
+J draws 3 Coppers and 2 Estates.
+
+Turn 5 - Titan34
+T plays an Acting Troupe.
+T gets +4 Villagers.
+T trashes an Acting Troupe.
+T plays 3 Coppers and a Silver. (+$5)
+T buys Academy.
+T draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Acting Troupe.
+J draws 2 Coppers and 3 Silvers.
+
+Turn 6 - Titan34
+T plays 2 Coppers and a Silver. (+$4)
+T buys and gains an Acting Troupe.
+T gets +1 Villager. (Academy)
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 2 Coppers and 3 Silvers. (+$8)
+J buys and gains a Paddock.
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 7 - Titan34
+T plays 3 Coppers and a Silver. (+$5)
+T buys and gains a Kiln.
+T gets +1 Villager. (Academy)
+T draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys Academy.
+J draws 2 Silvers, an Estate, an Acting Troupe and a Paddock.
+
+Turn 8 - Titan34
+T plays an Acting Troupe.
+T gets +4 Villagers.
+T trashes an Acting Troupe.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J uses 1 Villager.
+J plays a Paddock.
+J gets +$2.
+J gains a Horse.
+J gets +1 Villager. (Academy)
+J gains a Horse.
+J gets +1 Villager. (Academy)
+J plays 2 Silvers. (+$4)
+J buys and gains a Falconer.
+J gets +1 Villager. (Academy)
+J shuffles their deck.
+J draws a Copper, an Estate, a Count, a Falconer and a Horse.
+
+Turn 9 - Titan34
+T plays 3 Coppers and 2 Silvers. (+$7)
+T buys and gains a Paddock.
+T gets +1 Villager. (Academy)
+T draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Horse.
+J draws an Estate and a Paddock.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Paddock.
+J gets +$2.
+J gains a Horse.
+J gets +1 Villager. (Academy)
+J gains a Horse.
+J gets +1 Villager. (Academy)
+J uses 1 Villager.
+J plays a Count.
+J topdecks a Falconer.
+J trashes a Copper and 2 Estates.
+J draws 2 Coppers, a Silver, a Falconer and a Horse.
+
+Turn 10 - Titan34
+T plays a Kiln.
+T gets +$2.
+T plays 2 Coppers. (+$2)
+T buys and gains a Silver.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Falconer.
+J gains an Acting Troupe.
+J gets +1 Villager. (Academy)
+J uses 1 Villager.
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Paddock.
+J gets +1 Villager. (Academy)
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Count and a Falconer.
+
+Turn 11 - Titan34
+T plays a Paddock.
+T gets +$2.
+T gains a Horse.
+T gets +1 Villager. (Academy)
+T gains a Horse.
+T gets +1 Villager. (Academy)
+T plays 2 Coppers and a Silver. (+$4)
+T buys and gains a Paddock.
+T gets +1 Villager. (Academy)
+T draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Falconer.
+J gains an Acting Troupe.
+J gets +1 Villager. (Academy)
+J uses 1 Villager.
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Tactician.
+J gets +1 Villager. (Academy)
+J draws 2 Coppers, a Silver, a Paddock and a Horse.
+
+Turn 12 - Titan34
+T plays 3 Coppers and 2 Silvers. (+$7)
+T buys and gains a Paddock.
+

@@ -69,6 +69,10 @@ def parseMultipleCardsFromStrings(words, firstWordIndex, lastWordIndex=99999, st
             cardQuantity = int(qtyString)
         elif qtyString == s_a or qtyString == s_an:
             cardQuantity = 1
+        # Sirs and Dames don't have quantity words (e.g.) "buys and gains Sir Michael"
+        elif qtyString == s_Sir or qtyString == s_Dame:
+            cardQuantity = 1
+            loopIndex -= 1  # this is sort of hacky, but we want to just skip quantity
         else:
             logErrorAndRaise(
                 'Couldn\'t determine quantity: ' + qtyString)
@@ -137,6 +141,8 @@ def getFunctionForLine(words, game):
         return parseSetsLine
     if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_puts]):
         return parsePutsLine
+    if len(words) >= 2 and validateWordSequence(words[0:2], [r_playerLetter, s_calls]):
+        return parseCallsLine
     else:
         return None
 
@@ -152,7 +158,10 @@ def parseDeckStartLine(words, game):
 
 def parseTurnLine(words, game):
     if words[1] == '1':
-        game.getPlayerByInitial(words[3][0]).name = ' '.join(words[3:])
+        for i in range(len(game.players)):
+            if words[3].startswith(game.players[i].initial):
+                game.players[i].name = ' '.join(words[3:])
+                break
 
 
 def parseBuyLine(words, game):
@@ -166,9 +175,11 @@ def parseGainLine(words, game):
         words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2, stopWords=[s_from, s_onto])
 
 
+# J trashes an Estate. (Cathedral)
+# J trashes an Estate. (Sewers)
 def parseTrashLine(words, game):
     removeItemsFromList(game.getPlayerByInitial(
-        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2))
+        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_CathedralBrackets, s_SewersBrackets]))
 
 
 def parseExileLine(words, game):
@@ -196,22 +207,38 @@ def parseReceivesLine(words, game):
 # "a card aside with Library"
 # "Druid sets {Boon} aside."
 # "sets 2 Coppers aside."
+# "sets nothing aside with Church"
 def parseSetsLine(words, game):
-    if words[0] == s_Druid or validateWordSequence(words[-1:], [s_aside]):
+    if validateWordSequence(words[-2:], [s_Native, s_Village]):
+        removeItemsFromList(game.getPlayerByInitial(
+            words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_aside, s_card, s_nothing]))
+    else:
         return
-    removeItemsFromList(game.getPlayerByInitial(
-        words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_aside, s_card]))
 
 
 # "into their hand"
-# "on their Island mad"
+# "on their Island mat"
+# "on their Tavern mat"
 # "puts a Gold in hand (Crypt)."
 # "puts a Magpie back onto their deck."
+# "puts a card in hand (Haven)."
+# "puts a card on the bottom of their deck" (?)
+# "puts a card on the bottom of Draw Pile" (Pearl Diver)
 def parsePutsLine(words, game):
     if validateWordSequence(words[-3:], [s_into, s_their, s_hand])\
             or validateWordSequence(words[-1:], [s_CryptBrackets])\
+            or validateWordSequence(words[-1:], [s_HavenBrackets])\
+            or validateWordSequence(words[-1:], [s_ChurchBrackets])\
+            or validateWordSequence(words[-1:], [s_GearBrackets])\
             or validateWordSequence(words[-2:], [s_CargoLeftBracket, s_ShipRightBracket])\
-            or validateWordSequence(words[-4:], [s_back, s_onto, s_their, s_deck]):
+            or validateWordSequence(words[-4:], [s_back, s_onto, s_their, s_deck])\
+            or validateWordSequence(words[-6:], [s_on, s_the, s_bottom, s_of, s_their, s_deck])\
+            or validateWordSequence(words[-6:], [s_on, s_the, s_bottom, s_of, s_Draw, s_Pile]):
         return
     removeItemsFromList(game.getPlayerByInitial(
         words[0]).totalDeckCardNames, parseMultipleCardsFromStrings(words, 2, stopWords=[s_on]))
+
+
+def parseCallsLine(words, game):
+    game.getPlayerByInitial(
+        words[0]).totalDeckCardNames += parseMultipleCardsFromStrings(words, 2)

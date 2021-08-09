@@ -1,0 +1,499 @@
+Game #82209120, rated.
+Jazzercise: 45.39
+FaithfulHound: 50.9
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+F starts with 7 Coppers.
+F starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Priest.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - FaithfulHound
+F plays 2 Coppers. (+$2)
+F buys and gains a Fisherman.
+F draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Priest.
+
+Turn 2 - FaithfulHound
+F plays 5 Coppers. (+$5)
+F buys and gains a Falconer.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Priest.
+J gets +$2.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Falconer.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - FaithfulHound
+F plays 4 Coppers. (+$4)
+F buys Pageant.
+F ends their buy phase.
+F loses 1 Coin.
+F gets +1 Coffers. (Pageant)
+F draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys Pageant.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - FaithfulHound
+F plays a Falconer.
+F gains a Silver.
+F plays 3 Coppers and a Silver. (+$5)
+F buys and gains a Falconer.
+F ends their buy phase.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Sacrifice.
+J ends their buy phase.
+J draws 2 Coppers, a Silver, an Estate and a Priest.
+
+Turn 5 - FaithfulHound
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Falconer.
+F gains a Fisherman.
+F plays 2 Coppers. (+$2)
+F buys and gains a Fisherman.
+F ends their buy phase.
+F loses 1 Coin.
+F gets +1 Coffers. (Pageant)
+F draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Priest.
+J gets +$2.
+J trashes an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Gold.
+J ends their buy phase.
+J shuffles their deck.
+J draws 2 Coppers, a Gold, a Sacrifice and a Falconer.
+
+Turn 6 - FaithfulHound
+F plays a Falconer.
+F gains a Sacrifice.
+F plays 3 Coppers. (+$3)
+F buys and gains a Vagrant.
+F ends their buy phase.
+F loses 1 Coin.
+F gets +1 Coffers. (Pageant)
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Gold.
+J ends their buy phase.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 7 - FaithfulHound
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays 2 Coppers and a Silver. (+$4)
+F buys and gains a Cartographer.
+F ends their buy phase.
+F draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains a Gold.
+J ends their buy phase.
+J shuffles their deck.
+J draws 3 Coppers, a Gold and a Priest.
+
+Turn 8 - FaithfulHound
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Falconer.
+F gains a Silver.
+F plays 4 Coppers and a Silver. (+$6)
+F buys and gains a Province.
+F ends their buy phase.
+F draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Priest.
+J gets +$2.
+J trashes a Copper.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Gold.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws a Silver, 2 Golds, an Estate and a Sacrifice.
+
+Turn 9 - FaithfulHound
+F plays a Vagrant.
+F shuffles their deck.
+F draws a card.
+F gets +1 Action.
+F reveals a Silver.
+F topdecks a Silver.
+F plays a Sacrifice.
+F trashes an Estate.
+F gets 2 VP.
+F plays 2 Coppers. (+$2)
+F buys and gains a Fisherman.
+F ends their buy phase.
+F draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Sacrifice.
+J trashes an Estate.
+J gets 2 VP.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains a Province.
+J ends their buy phase.
+J shuffles their deck.
+J draws 3 Coppers, a Gold and a Falconer.
+
+Turn 10 - FaithfulHound
+F plays a Cartographer.
+F draws a card.
+F gets +1 Action.
+F looks at 4 cards.
+F discards 2 other cards and a Copper.
+F topdecks a card.
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Falconer.
+F gains a Sacrifice.
+F plays 2 Coppers and a Silver. (+$4)
+F uses 2 Coffers. (+$2)
+F buys and gains a Province.
+F ends their buy phase.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Falconer.
+J gains a Fisherman.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Distant Lands.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws a Copper, 3 Golds and a Sacrifice.
+
+Turn 11 - FaithfulHound
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Sacrifice.
+F trashes an Estate.
+F gets 2 VP.
+F plays 2 Coppers and a Silver. (+$4)
+F buys and gains a Distant Lands.
+F ends their buy phase.
+F loses 1 Coin.
+F gets +1 Coffers. (Pageant)
+F draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Province and a Priest.
+
+Turn 12 - FaithfulHound
+F plays 2 Coppers and a Silver. (+$4)
+F uses 1 Coffers. (+$1)
+F buys and gains a Duchy.
+F ends their buy phase.
+F draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Priest.
+J gets +$2.
+J trashes a Copper.
+J plays a Silver and a Gold. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J ends their buy phase.
+J draws a Copper, a Gold, a Province, a Sacrifice and a Fisherman.
+
+Turn 13 - FaithfulHound
+F plays a Vagrant.
+F draws a card.
+F gets +1 Action.
+F reveals a Fisherman.
+F topdecks a Fisherman.
+F plays a Sacrifice.
+F trashes a Copper.
+F gets +$2.
+F plays 2 Coppers. (+$2)
+F uses 1 Coffers. (+$1)
+F buys and gains a Distant Lands.
+F reacts with a Falconer.
+F plays a Falconer.
+F gains a Sacrifice.
+F ends their buy phase.
+F draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Fisherman.
+J draws a Distant Lands.
+J gets +1 Action.
+J gets +$1.
+J plays a Distant Lands.
+J puts a Distant Lands on their Tavern mat.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Distant Lands.
+F reacts with a Falconer.
+F plays a Falconer.
+F gains a Sacrifice.
+J ends their buy phase.
+F discards a Falconer.
+J draws 2 Coppers, 2 Golds and a Falconer.
+
+Turn 14 - FaithfulHound
+F plays a Cartographer.
+F shuffles their deck.
+F draws a card.
+F gets +1 Action.
+F looks at 4 cards.
+F discards a Copper.
+F topdecks 3 cards.
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Vagrant.
+F draws a card.
+F gets +1 Action.
+F reveals a Distant Lands.
+F puts a Distant Lands into their hand.
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Sacrifice.
+F trashes a Fisherman.
+F draws 2 cards.
+F gets +2 Actions.
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Distant Lands.
+F puts a Distant Lands on their Tavern mat.
+F plays a Sacrifice.
+F trashes a Duchy.
+F gets 2 VP.
+F plays 2 Silvers. (+$4)
+F buys and gains a Duchy.
+F ends their buy phase.
+F loses 1 Coin.
+F gets +1 Coffers. (Pageant)
+F draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Falconer.
+J gains a Night Watchman.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Province.
+J ends their buy phase.
+J plays a Night Watchman.
+J shuffles their deck.
+J looks at 2 Provinces, a Distant Lands, a Gold and a Priest.
+J discards 2 Provinces and a Priest.
+J topdecks a Gold and a Distant Lands.
+J draws 2 Golds, a Province, a Distant Lands and a Sacrifice.
+
+Turn 15 - FaithfulHound
+F plays a Distant Lands.
+F puts a Distant Lands on their Tavern mat.
+F plays 2 Coppers. (+$2)
+F buys and gains a Moat.
+F reacts with a Falconer.
+F plays a Falconer.
+F gains a Sacrifice.
+F ends their buy phase.
+F draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Distant Lands.
+J puts a Distant Lands on their Tavern mat.
+J uses 2 Coffers. (+$2)
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J ends their buy phase.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Provinces and a Fisherman.
+
+Turn 16 - FaithfulHound
+F plays a Sacrifice.
+F trashes a Sacrifice.
+F draws 2 cards.
+F gets +2 Actions.
+F plays a Falconer.
+F gains a Silver.
+F plays 3 Coppers and a Silver. (+$5)
+F buys and gains a Duchy.
+F ends their buy phase.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Fisherman.
+J draws a Gold.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Duchy.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws a Copper, a Gold, 2 Provinces and a Priest.
+
+Turn 17 - FaithfulHound
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Vagrant.
+F draws a card.
+F gets +1 Action.
+F reveals a Copper.
+F topdecks a Copper.
+F plays a Sacrifice.
+F trashes a Copper.
+F gets +$2.
+F plays a Copper and 2 Silvers. (+$5)
+F buys and gains a Duchy.
+F ends their buy phase.
+F loses 1 Coin.
+F gets +1 Coffers. (Pageant)
+F draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Priest.
+J gets +$2.
+J trashes a Copper.
+J plays a Gold. (+$3)
+J buys and gains a Duchy.
+J ends their buy phase.
+J draws a Copper, a Gold, a Province, a Night Watchman and a Falconer.
+
+Turn 18 - FaithfulHound
+F plays a Fisherman.
+F draws a card.
+F gets +1 Action.
+F gets +$1.
+F plays a Sacrifice.
+F trashes a Sacrifice.
+F draws 2 cards.
+F gets +2 Actions.
+F plays 2 Coppers. (+$2)
+F uses 2 Coffers. (+$2)
+F buys and gains a Duchy.
+F ends their buy phase.
+F draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Falconer.
+J gains a Night Watchman.
+J plays a Copper and a Gold. (+$4)
+J uses 1 Coffers. (+$1)
+J buys and gains a Duchy.
+J ends their buy phase.
+J plays a Night Watchman.
+J shuffles their deck.
+J looks at a Duchy, a Province, a Sacrifice and 2 Golds.
+J discards a Duchy, a Province and a Sacrifice.
+J topdecks 2 Golds.
+J plays a Night Watchman.
+J looks at a Province, a Copper, a Fisherman and 2 Golds.
+J discards a Copper and a Province.
+J topdecks 2 Golds and a Fisherman.
+J draws a Silver, 2 Golds, a Duchy and a Fisherman.
+
+Turn 19 - FaithfulHound
+F plays a Cartographer.
+F draws a card.
+F gets +1 Action.
+F looks at 4 cards.
+F discards a Copper.
+F topdecks 3 cards.
+F plays a Sacrifice.
+F trashes an Estate.
+F gets 2 VP.
+F plays a Copper and a Silver. (+$3)
+F buys and gains a Vagrant.
+F ends their buy phase.
+F loses 1 Coin.
+F gets +1 Coffers. (Pageant)
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Fisherman.
+J draws a Gold.
+J gets +1 Action.
+J gets +$1.
+J plays a Silver and 3 Golds. (+$11)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws a Gold, a Duchy, 2 Provinces and a Priest.
+

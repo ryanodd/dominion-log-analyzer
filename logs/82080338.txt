@@ -1,0 +1,73 @@
+Game #82080338, rated.
+Jazzercise: 44.73
+Tobi98: 41.2
+
+
+J gets +1 Coffers.
+T gets +1 Coffers.
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+T starts with 7 Coppers.
+T starts with a Hovel, a Necropolis and an Overgrown Estate.
+J shuffles their deck.
+J draws 3 Coppers, a Hovel and an Overgrown Estate.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J draws 4 Coppers and a Necropolis.
+
+Turn 1 - Tobi98
+T plays 5 Coppers. (+$5)
+T buys and gains a Baker.
+T draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Stockpile.
+J shuffles their deck.
+J draws 2 Coppers, a Necropolis, an Overgrown Estate and a Stockpile.
+
+Turn 2 - Tobi98
+T plays 2 Coppers. (+$2)
+T buys and gains a Haven.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays 2 Coppers. (+$2)
+J uses 1 Coffers. (+$1)
+J buys a Ferry.
+J moves -Cost token to the Baker pile.
+J buys and gains a Baker.
+J draws 3 Coppers, a Hovel and a Stockpile.
+
+Turn 3 - Tobi98
+T plays a Haven.
+T draws a card.
+T gets +1 Action.
+T sets a card aside with Haven.
+T plays 3 Coppers. (+$3)
+T buys and gains a Stockpile.
+T draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays 3 Coppers. (+$3)
+J buys and gains a Baker.
+J buys and gains a Stockpile.
+J discards 2 Stockpiles from Exile.
+J shuffles their deck.
+J draws 4 Coppers and a Stockpile.
+
+Turn 4 - Tobi98
+T starts their turn.
+T puts a card in hand (Haven).
+

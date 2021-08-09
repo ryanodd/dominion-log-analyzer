@@ -1,0 +1,393 @@
+Game #81526967, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Exorcist.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Ghost Town.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Mountebank.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J starts their turn.
+J draws an Estate (Ghost Town).
+J gets +1 Action.
+J plays 4 Coppers. (+$4)
+J buys and gains a Blessed Village.
+J takes The Sea's Gift.
+J sets The Sea's Gift aside.
+J draws 3 Coppers, an Estate and an Exorcist.
+
+Turn 4 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J receives The Sea's Gift.
+J shuffles their deck.
+J draws a Copper.
+J discards The Sea's Gift.
+J plays 4 Coppers. (+$4)
+J buys and gains an Exorcist.
+J plays an Exorcist.
+J trashes an Estate.
+J gains a Will-o'-Wisp.
+J draws 2 Coppers, 2 Estates and a Ghost Town.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Ghost Town.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Blessed Village and an Exorcist.
+
+Turn 6 - Lord Rattington
+L plays a Mountebank.
+L gets +$2.
+J gains a Curse.
+J gains a Copper.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Werewolf.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws a Will-o'-Wisp (Ghost Town).
+J gets +1 Action.
+J plays a Blessed Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Will-o'-Wisp.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays 4 Coppers. (+$4)
+J buys and gains a Conspirator.
+J plays an Exorcist.
+J trashes an Estate.
+J gains a Will-o'-Wisp.
+J shuffles their deck.
+J draws a Curse, 3 Coppers and an Exorcist.
+
+Turn 7 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J plays an Exorcist.
+J trashes a Curse.
+J draws 3 Coppers and 2 Will-o'-Wisps.
+
+Turn 8 - Lord Rattington
+L plays a Werewolf.
+L draws 3 cards.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Legionary.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Ghost Town.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Will-o'-Wisp.
+J draws a Copper.
+J gets +1 Action.
+J reveals an Exorcist.
+J topdecks an Exorcist.
+J plays 5 Coppers. (+$5)
+J buys and gains a Werewolf.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws a Copper, an Estate, a Conspirator, a Blessed Village and an Exorcist.
+
+Turn 9 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J draws a Werewolf (Ghost Town).
+J gets +1 Action.
+J plays a Blessed Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws a Silver, an Exorcist and a Will-o'-Wisp.
+J plays a Conspirator.
+J gets +$2.
+J draws a Will-o'-Wisp.
+J gets +1 Action.
+J plays a Will-o'-Wisp.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Will-o'-Wisp.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays 6 Coppers and a Silver. (+$8)
+J buys and gains a Blessed Village.
+J takes The Mountain's Gift.
+J receives The Mountain's Gift.
+J gains a Silver.
+J discards The Mountain's Gift.
+J plays an Exorcist.
+J trashes an Estate.
+J gains a Will-o'-Wisp.
+J plays an Exorcist.
+J shuffles their deck.
+J draws 2 Coppers, a Conspirator, an Exorcist and a Ghost Town.
+
+Turn 10 - Lord Rattington
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Werewolf.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Conspirator.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains a Conspirator.
+J plays a Ghost Town.
+J draws 2 Coppers, a Blessed Village and 2 Will-o'-Wisps.
+
+Turn 11 - Lord Rattington
+L plays a Mountebank.
+L gets +$2.
+J gains a Curse.
+J gains a Copper.
+L plays a Copper and 3 Silvers. (+$7)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J draws a Silver (Ghost Town).
+J gets +1 Action.
+J plays a Blessed Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Will-o'-Wisp.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Will-o'-Wisp.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays 6 Coppers and 2 Silvers. (+$10)
+J buys and gains a Werewolf.
+J shuffles their deck.
+J draws a Copper, a Blessed Village, an Exorcist, a Werewolf and a Will-o'-Wisp.
+
+Turn 12 - Lord Rattington
+L plays a Werewolf.
+L draws 3 cards.
+L plays 3 Coppers and 2 Golds. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Blessed Village.
+J draws a Conspirator.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws a Copper, a Silver and a Ghost Town.
+J plays a Will-o'-Wisp.
+J draws a Conspirator.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Conspirator.
+J gets +$2.
+J draws a Copper.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Will-o'-Wisp.
+J gets +1 Action.
+J plays a Will-o'-Wisp.
+J draws a Blessed Village.
+J gets +1 Action.
+J reveals a Silver.
+J topdecks a Silver.
+J plays a Blessed Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays 2 Silvers. (+$4)
+J buys and gains a Province.
+J plays a Ghost Town.
+J plays an Exorcist.
+J trashes a Copper.
+J draws a Curse, 3 Coppers and an Exorcist.
+
+Turn 13 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J plays 4 Coppers. (+$4)
+J buys and gains a Conspirator.
+J plays an Exorcist.
+J trashes a Curse.
+J shuffles their deck.
+J draws a Copper, a Blessed Village, a Ghost Town, a Werewolf and a Will-o'-Wisp.
+
+Turn 14 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Blessed Village.
+J draws a Province.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws a Copper, a Silver and a Conspirator.
+J plays a Will-o'-Wisp.
+J draws a Werewolf.
+J gets +1 Action.
+J reveals a Conspirator.
+J topdecks a Conspirator.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Copper.
+J gets +1 Action.
+J plays a Werewolf.
+J draws a Copper and 2 Exorcists.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Province.
+J plays an Exorcist.
+J trashes a Copper.
+J plays an Exorcist.
+J trashes a Copper.
+J plays a Ghost Town.
+J draws 3 Coppers and 2 Will-o'-Wisps.
+
+Turn 15 - Lord Rattington
+L plays a Werewolf.
+L draws 3 cards.
+L plays a Copper, 3 Silvers and a Gold. (+$10)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Silver (Ghost Town).
+J gets +1 Action.
+J plays a Will-o'-Wisp.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Conspirator.
+J topdecks a Conspirator.
+J plays a Will-o'-Wisp.
+J draws a Conspirator.
+J gets +1 Action.
+J reveals a Blessed Village.
+J topdecks a Blessed Village.
+J plays a Conspirator.
+J gets +$2.
+J draws a Blessed Village.
+J gets +1 Action.
+J plays a Blessed Village.
+J shuffles their deck.
+J draws a Conspirator.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Copper.
+J gets +1 Action.
+J plays 5 Coppers and a Silver. (+$7)
+J buys and gains a Province.
+J draws a Province, a Conspirator, a Blessed Village, an Exorcist and a Werewolf.
+
+Turn 16 - Lord Rattington
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Blessed Village.
+J draws a Werewolf.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws a Copper, a Province and a Will-o'-Wisp.
+J plays a Will-o'-Wisp.
+J draws a Silver.
+J gets +1 Action.
+J reveals an Exorcist.
+J topdecks an Exorcist.
+J plays a Conspirator.
+J gets +$2.
+J draws an Exorcist.
+J gets +1 Action.
+J plays a Werewolf.
+J shuffles their deck.
+J draws a Silver, a Conspirator and a Blessed Village.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Duchy.
+

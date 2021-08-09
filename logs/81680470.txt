@@ -1,0 +1,588 @@
+Game #81680470, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Raze.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Scheme.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains an Envoy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, an Estate, a Scheme and a Raze.
+
+Turn 3 - Lord Rattington
+L plays an Envoy.
+L reveals 3 Coppers and 2 Estates.
+L discards a Copper.
+L puts 2 Coppers and 2 Estates into their hand.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Bandit Camp.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J looks at a Copper and an Estate.
+J puts an Estate into their hand.
+J discards a Copper.
+J plays a Scheme.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J topdecks a Raze.
+J draws 3 Coppers, a Silver and a Raze.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Bandit Camp.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys Invest.
+J exiles a Bandit Camp.
+J draws 2 cards when an opponent gains or invests in Bandit Camp.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Scheme.
+
+Turn 5 - Lord Rattington
+L plays an Envoy.
+L shuffles their deck.
+L reveals 2 Coppers, a Bandit Camp and 2 Estates.
+L discards a Bandit Camp.
+L puts 2 Coppers and 2 Estates into their hand.
+L plays 5 Coppers. (+$5)
+L buys and gains a Bandit Camp.
+J draws a Copper and a Silver (Invest).
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Scheme.
+J draws a Silver.
+J gets +1 Action.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Bandit Camp.
+J discards a Bandit Camp from Exile.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Raze.
+
+Turn 6 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Bandit Camp.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys Invest.
+J exiles a City Quarter.
+J draws 2 cards when an opponent gains or invests in City Quarter.
+J draws 2 Coppers, an Estate, a Scheme and a Bandit Camp.
+
+Turn 7 - Lord Rattington
+L plays an Envoy.
+L shuffles their deck.
+L reveals 2 Coppers, a Bandit Camp and 2 Estates.
+L discards a Bandit Camp.
+L puts 2 Coppers and 2 Estates into their hand.
+L plays 5 Coppers. (+$5)
+L buys and gains a Bandit Camp.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Bandit Camp.
+J draws a Bandit Camp.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Bandit Camp.
+J draws a Silver.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Scheme.
+J draws an Estate.
+J gets +1 Action.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a City Quarter.
+J discards a City Quarter from Exile.
+J repays 4 debt (4 remaining).
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Bandit Camp and a Raze.
+
+Turn 8 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays 2 Coppers. (+$2)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Silver. (+$2)
+L buys and gains a Bandit Camp.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Bandit Camp.
+J draws an Estate.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J looks at a Copper and a Spoils.
+J puts a Copper into their hand.
+J discards a Spoils.
+J plays 2 Coppers and a Silver. (+$4)
+J repays 4 debt.
+J plays a Silver. (+$2)
+J buys and gains a City Quarter.
+J repays 2 debt (6 remaining).
+J draws a Scheme, a Bandit Camp, a Spoils and 2 City Quarters.
+
+Turn 9 - Lord Rattington
+L plays an Envoy.
+L reveals 3 Coppers, a Silver and a Bandit Camp.
+L discards a Bandit Camp.
+L puts 3 Coppers and a Silver into their hand.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Bandit Camp.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a City Quarter, a Bandit Camp, a Spoils and a Scheme.
+J draws 2 Coppers and an Estate.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers, a Bandit Camp, a Spoils, an Estate and a Scheme.
+J shuffles their deck.
+J draws 2 Coppers.
+J plays a Scheme.
+J draws a Spoils.
+J gets +1 Action.
+J plays a Bandit Camp.
+J draws a City Quarter.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 4 Coppers, 2 Spoils and an Estate.
+J plays 4 Coppers. (+$4)
+J repays 4 debt (2 remaining).
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J repays 2 debt.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains an Envoy.
+J draws a Copper, 2 Silvers, a Bandit Camp and a Spoils.
+
+Turn 10 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Copper. (+$1)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Copper. (+$1)
+L buys and gains a Bandit Camp.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Bandit Camp.
+J draws a Raze.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays 2 Silvers. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Vassal.
+J shuffles their deck.
+J draws a Copper, a Scheme, a Bandit Camp, a Spoils and a City Quarter.
+
+Turn 11 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays an Envoy.
+L reveals a Copper, 3 Bandit Camps and an Estate.
+L discards a Bandit Camp.
+L puts a Copper, an Estate and 2 Bandit Camps into their hand.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays 4 Coppers. (+$4)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Copper. (+$1)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Spoils, a Bandit Camp and a Scheme.
+J draws a Copper and a Bandit Camp.
+J plays a Bandit Camp.
+J draws a City Quarter.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers, a Spoils, a Bandit Camp and a Scheme.
+J draws a City Quarter and an Envoy.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers, a Spoils, a Bandit Camp, an Envoy and a Scheme.
+J draws 2 Silvers and a Vassal.
+J plays a Vassal.
+J gets +$2.
+J discards a Copper.
+J plays a Scheme.
+J draws a Spoils.
+J gets +1 Action.
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays an Envoy.
+J shuffles their deck.
+J reveals a Copper, 2 Spoils, a Raze and an Estate.
+J discards a Spoils.
+J puts a Copper, an Estate, a Spoils and a Raze into their hand.
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J shuffles their deck.
+J looks at a Spoils.
+J puts a Spoils into their hand.
+J plays 4 Coppers and 2 Silvers. (+$8)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys a Dominate.
+J gains a Province.
+J gets 9 VP.
+J topdecks a City Quarter.
+J shuffles their deck.
+J draws a Bandit Camp, a Spoils, a Raze, a City Quarter and an Envoy.
+
+Turn 12 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Silver. (+$2)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Copper. (+$1)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Spoils, a Bandit Camp, a Raze and an Envoy.
+J draws 2 Coppers and a Province.
+J plays a Bandit Camp.
+J draws a City Quarter.
+J gets +2 Actions.
+J gains a Spoils.
+J plays an Envoy.
+J reveals a Copper, 2 Silvers, a Spoils and a Scheme.
+J discards a Spoils.
+J puts a Copper, 2 Silvers and a Scheme into their hand.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 3 Coppers, a Province, 2 Silvers, a Spoils, a Raze and a Scheme.
+J draws a Copper and a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 4 Coppers, a Province, 2 Silvers, a Spoils, a Raze and a Scheme.
+J draws a Vassal and a Bandit Camp.
+J plays a Bandit Camp.
+J shuffles their deck.
+J draws a Spoils.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Vassal.
+J gets +$2.
+J discards a Spoils.
+J plays a Scheme.
+J shuffles their deck.
+J draws a Spoils.
+J gets +1 Action.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys a Dominate.
+J gains a Province.
+J gets 9 VP.
+J shuffles their deck.
+J draws a Scheme, a Bandit Camp, 2 Spoils and a City Quarter.
+
+Turn 13 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Copper. (+$1)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Bandit Camp, 2 Spoils and a Scheme.
+J draws a Vassal and a Bandit Camp.
+J plays a Bandit Camp.
+J draws an Envoy.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Bandit Camp.
+J draws a City Quarter.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Spoils, an Envoy, a Scheme and a Vassal.
+J draws a Silver, a Province and a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Province, a Silver, 2 Spoils, an Envoy, a Scheme and a Vassal.
+J draws a Copper, a Province and a Raze.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Vassal.
+J gets +$2.
+J discards a Silver.
+J plays an Envoy.
+J shuffles their deck.
+J reveals 2 Coppers, a Silver and 2 Spoils.
+J discards a Spoils.
+J puts 2 Coppers, a Silver and a Spoils into their hand.
+J plays a Scheme.
+J shuffles their deck.
+J draws a Spoils.
+J gets +1 Action.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys a Dominate.
+J gains a Province.
+J gets 9 VP.
+J shuffles their deck.
+J draws a Copper, a Silver, a Province, a Bandit Camp and a Spoils.
+
+Turn 14 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays 2 Coppers. (+$2)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Copper. (+$1)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Bandit Camp.
+J draws a Vassal.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Vassal.
+J gets +$2.
+J discards a Raze.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Silver. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Wayfarer.
+J draws a Copper, a Scheme, a Spoils and 2 City Quarters.
+
+Turn 15 - Lord Rattington
+L plays an Envoy.
+L reveals a Province, 2 Spoils, a Bandit Camp and an Estate.
+L discards a Bandit Camp.
+L puts an Estate, a Province and 2 Spoils into their hand.
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Copper. (+$1)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Spoils, a City Quarter and a Scheme.
+J draws a Province and a Bandit Camp.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Province, a Spoils, a Bandit Camp and a Scheme.
+J draws a Silver and a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Province, a Silver, a Spoils, a Bandit Camp and a Scheme.
+J draws a Province and an Envoy.
+J plays a Bandit Camp.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J gains a Spoils.
+J plays an Envoy.
+J reveals a Wayfarer, a Province, a Spoils, a Raze and a Vassal.
+J discards a Wayfarer.
+J puts a Province, a Vassal, a Spoils and a Raze into their hand.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Vassal.
+J gets +$2.
+J discards a Bandit Camp.
+J plays a Bandit Camp.
+J shuffles their deck.
+J draws a Wayfarer.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Wayfarer.
+J shuffles their deck.
+J draws 2 Spoils.
+J plays a Scheme.
+J gets +1 Action.
+J plays 2 Silvers. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys a Dominate.
+J gains a Province.
+J gets 9 VP.
+J shuffles their deck.
+J draws 2 Silvers, a Spoils, a City Quarter and a Wayfarer.
+
+Turn 16 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L shuffles their deck.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Copper. (+$1)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Silver. (+$2)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L buys and gains a Province.
+L draws 5 cards.
+

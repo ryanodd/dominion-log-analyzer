@@ -1,0 +1,433 @@
+Game #82354643, rated.
+lelaurent: 44.66
+Jazzercise: 46.24
+
+Kingdom generated with these relative percentages:
+50%: Sauna
+
+
+l starts with 7 Coppers.
+l starts with a Hovel, a Necropolis and an Overgrown Estate.
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+l shuffles their deck.
+l draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and a Hovel.
+
+Turn 1 - lelaurent
+l plays a Necropolis using Way of the Owl.
+l draws 2 cards.
+l plays 5 Coppers. (+$5)
+l buys and gains a Sculptor.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, a Necropolis and an Overgrown Estate.
+
+Turn 2 - lelaurent
+l plays a Sculptor.
+l gains a Silver.
+l gets +1 Villager.
+l plays 3 Coppers and a Silver. (+$5)
+l buys and gains a Scepter.
+l draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Hovel and a Necropolis.
+
+Turn 3 - lelaurent
+l plays 4 Coppers. (+$4)
+l buys and gains an Island.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Necropolis using Way of the Owl.
+J draws a Copper and a Silver.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J draws 3 Coppers, a Silver and an Overgrown Estate.
+
+Turn 4 - lelaurent
+l plays a Necropolis using Way of the Owl.
+l draws 2 cards.
+l uses 1 Villager.
+l plays an Island.
+l puts an Island on their Island mat.
+l puts an Overgrown Estate on their Island mat.
+l plays 2 Coppers and a Silver. (+$4)
+l plays a Scepter.
+l buys and gains a Gold.
+l draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Merchant Guild.
+J shuffles their deck.
+J draws 3 Coppers, an Overgrown Estate and a Merchant Guild.
+
+Turn 5 - lelaurent
+l plays a Sculptor.
+l gains a Silver.
+l gets +1 Villager.
+l plays 3 Coppers and a Silver. (+$5)
+l buys and gains a Merchant Guild.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys Cathedral.
+J draws 3 Coppers, a Silver and a Hovel.
+
+Turn 6 - lelaurent
+l plays 2 Coppers and a Gold. (+$5)
+l plays a Scepter.
+l buys an Island.
+l trashes a Hovel.
+l gains an Island.
+l draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J trashes a Hovel. (Cathedral)
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Scepter.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Necropolis and a Merchant Guild.
+
+Turn 7 - lelaurent
+l plays a Necropolis.
+l gets +2 Actions.
+l plays a Sculptor.
+l gains an Island.
+l plays an Island.
+l puts an Island on their Island mat.
+l puts a Copper on their Island mat.
+l plays a Copper and a Silver. (+$3)
+l buys and gains a Sleigh.
+l draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J trashes a Necropolis. (Cathedral)
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys a Gold.
+J gets +1 Coffers.
+J gains a Gold.
+J draws 5 Coppers.
+
+Turn 8 - lelaurent
+l plays a Merchant Guild.
+l gets +1 Buy.
+l gets +$1.
+l plays 3 Coppers and a Silver. (+$5)
+l buys a Butcher.
+l gets +1 Coffers.
+l gains a Butcher.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays 4 Coppers. (+$4)
+J uses 1 Coffers. (+$1)
+J buys and gains a Butcher.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, an Overgrown Estate and a Scepter.
+
+Turn 9 - lelaurent
+l plays a Sculptor.
+l gains an Island.
+l uses 1 Villager.
+l plays an Island.
+l puts an Island on their Island mat.
+l puts a Copper on their Island mat.
+l plays a Copper and a Silver. (+$3)
+l plays a Scepter.
+l buys and gains a Legionary.
+l draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J trashes an Overgrown Estate. (Cathedral)
+J draws a Merchant Guild.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Scepter.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys a Province.
+J gets +1 Coffers.
+J gains a Province.
+J draws 4 Coppers and a Silver.
+
+Turn 10 - lelaurent
+l plays an Island.
+l puts an Island on their Island mat.
+l puts a Copper on their Island mat.
+l plays 2 Coppers. (+$2)
+l uses 1 Coffers. (+$1)
+l buys and gains a Silver.
+l reacts with a Sleigh.
+l discards a Sleigh.
+l looks at 7 cards.
+l topdecks a card.
+l draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays 3 Coppers and a Silver. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains a Captain.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Province and a Butcher.
+
+Turn 11 - lelaurent
+l plays a Butcher.
+l gets +2 Coffers.
+l plays a Copper and 2 Silvers. (+$5)
+l buys and gains a Scepter.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Butcher.
+J gets +2 Coffers.
+J plays a Gold and a Silver. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains a Gold.
+J draws 2 Coppers, a Merchant Guild, a Scepter and a Captain.
+
+Turn 12 - lelaurent
+l plays a Legionary.
+l gets +$3.
+l reveals a Gold.
+J discards 2 Coppers and a Captain.
+J draws a Gold.
+l plays a Silver. (+$2)
+l plays a Scepter.
+l plays a Legionary.
+l gets +$3.
+l reveals a Gold.
+J discards a Merchant Guild.
+J draws a Copper.
+l plays a Gold. (+$3)
+l buys and gains a Province.
+l draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Gold. (+$3)
+J plays a Scepter.
+J uses 1 Coffers. (+$1)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Butcher, a Merchant Guild and a Scepter.
+
+Turn 13 - lelaurent
+l plays a Butcher.
+l gets +2 Coffers.
+l plays a Copper and a Silver. (+$3)
+l plays a Scepter.
+l plays a Butcher.
+l gets +2 Coffers.
+l uses 1 Coffers. (+$1)
+l buys and gains an Island.
+l reacts with a Sleigh.
+l discards a Sleigh.
+l looks at 8 cards.
+l topdecks a card.
+l draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J trashes a Merchant Guild. (Cathedral)
+J plays a Butcher.
+J gets +2 Coffers.
+J plays a Copper and a Silver. (+$3)
+J uses 1 Coffers. (+$1)
+J plays a Scepter.
+J buys and gains a Gold.
+J draws a Silver, 3 Golds and a Province.
+
+Turn 14 - lelaurent
+l plays an Island.
+l puts an Island on their Island mat.
+l puts a Copper on their Island mat.
+l plays a Copper and a Silver. (+$3)
+l uses 3 Coffers. (+$3)
+l buys and gains a Gold.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J trashes a Silver. (Cathedral)
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, 2 Golds and a Captain.
+
+Turn 15 - lelaurent
+l plays a Sculptor.
+l gains a Silver.
+l gets +1 Villager.
+l uses 1 Villager.
+l plays a Sleigh.
+l gains 2 Horses.
+l plays a Copper and 2 Silvers. (+$5)
+l buys and gains a Legionary.
+l draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Captain.
+J plays a Sleigh.
+J gains 2 Horses.
+J plays a Copper and 2 Golds. (+$7)
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J draws a Copper, a Silver, a Gold, a Province and a Scepter.
+
+Turn 16 - lelaurent
+l plays a Necropolis.
+l gets +2 Actions.
+l plays a Legionary.
+l gets +$3.
+l reveals a Gold.
+J discards a Copper, a Silver and a Province.
+J draws a Butcher.
+l plays a Butcher.
+l gets +2 Coffers.
+l plays a Scepter.
+l plays a Butcher.
+l gets +2 Coffers.
+l plays a Gold. (+$3)
+l uses 2 Coffers. (+$2)
+l buys and gains a Province.
+l draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J plays a Sleigh using Way of the Owl.
+J draws 2 Golds and a Province.
+J trashes a Gold. (Cathedral)
+J plays a Butcher.
+J gets +2 Coffers.
+J plays 2 Golds. (+$6)
+J plays a Scepter.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Golds, a Province and a Captain.
+
+Turn 17 - lelaurent
+l plays a Merchant Guild.
+l gets +1 Buy.
+l gets +$1.
+l plays a Copper and 2 Silvers. (+$5)
+l plays a Scepter.
+l plays a Merchant Guild.
+l gets +1 Buy.
+l gets +$1.
+l uses 3 Coffers. (+$3)
+l buys a Duchy.
+l gets +1 Coffers.
+l gains a Duchy.
+l buys a Duchy.
+l gets +1 Coffers.
+l gains a Duchy.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Captain.
+J plays an Island.
+J puts a Province on their Island mat.
+J plays 2 Golds. (+$6)
+J buys and gains a Duchy.
+J draws a Gold, 2 Provinces, a Scepter and a Horse.
+
+Turn 18 - lelaurent
+l plays a Merchant Guild.
+l gets +1 Buy.
+l gets +$1.
+l plays 2 Coppers and a Gold. (+$5)
+l plays a Scepter.
+l plays a Merchant Guild.
+l gets +1 Buy.
+l gets +$1.
+l uses 2 Coffers. (+$2)
+l buys a Duchy.
+l gets +1 Coffers.
+l gains a Duchy.
+l buys an Island.
+l gets +1 Coffers.
+l gains an Island.
+l draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J plays an Island.
+J puts a Province on their Island mat.
+J trashes a Scepter. (Cathedral)
+J plays a Horse.
+J draws a Province and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and a Gold.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Copper and 2 Golds. (+$7)
+J buys and gains a Duchy.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Duchy and a Butcher.
+
+Turn 19 - lelaurent
+l plays a Necropolis.
+l gets +2 Actions.
+l plays a Legionary using Way of the Owl.
+l draws 3 cards.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Butcher.
+l gets +2 Coffers.
+l trashes a Duchy.
+l uses 3 Coffers. (+$3)
+l gains a Province.
+l plays a Silver. (+$2)
+l plays a Scepter.
+l plays a Butcher.
+l gets +2 Coffers.
+l trashes a Duchy.
+l uses 3 Coffers. (+$3)
+l gains a Province.
+l draws 5 cards.
+

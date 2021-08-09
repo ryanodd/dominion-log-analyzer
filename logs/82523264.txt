@@ -1,0 +1,608 @@
+Game #82523264, rated.
+mb53: 48.66
+Jazzercise: 46.45
+
+
+m starts with a Magic Lamp.
+m starts with 6 Coppers.
+m starts with 3 Estates.
+J starts with a Magic Lamp.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+m shuffles their deck.
+m draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Magic Lamp.
+
+Turn 1 - mb53
+m plays 4 Coppers. (+$4)
+m buys and gains a Diplomat.
+m draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays a Magic Lamp and 3 Coppers. (+$4)
+J buys and gains a Swindler.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - mb53
+m plays a Magic Lamp and 2 Coppers. (+$3)
+m buys and gains a Swindler.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Magic Lamp.
+
+Turn 3 - mb53
+m plays a Diplomat.
+m draws 2 cards.
+m plays 4 Coppers. (+$4)
+m buys and gains a Caravan Guard.
+m draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Magic Lamp and 3 Coppers. (+$4)
+J buys and gains an Urchin.
+J draws 2 Coppers, 2 Estates and a Swindler.
+
+Turn 4 - mb53
+m plays a Magic Lamp and 2 Coppers. (+$3)
+m buys and gains a Secret Cave.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Swindler.
+m reacts with a Caravan Guard.
+m plays a Caravan Guard.
+m draws a card.
+m gets +1 Action.
+J gets +$2.
+m trashes a Swindler.
+m gains a Secret Cave.
+J plays 2 Coppers. (+$2)
+J buys and gains a Diplomat.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, an Urchin and a Magic Lamp.
+
+Turn 5 - mb53
+m starts their turn.
+m gets +$1.
+m plays 3 Coppers. (+$3)
+m buys and gains a Swindler.
+m draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Urchin.
+J draws an Urchin.
+J gets +1 Action.
+m discards an Estate.
+J plays an Urchin.
+J trashes an Urchin.
+J gains a Mercenary.
+J draws an Estate.
+J gets +1 Action.
+J plays a Magic Lamp and 2 Coppers. (+$3)
+J buys and gains a Sage.
+J draws 3 Coppers, an Estate and a Swindler.
+
+Turn 6 - mb53
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m plays a Magic Lamp and 3 Coppers. (+$4)
+m buys and gains a Potion.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Swindler.
+m reacts with a Diplomat.
+m draws 2 cards.
+m discards 2 other cards and a Copper.
+J gets +$2.
+m trashes a Swindler.
+m gains a Secret Cave.
+J plays 3 Coppers. (+$3)
+J buys a Forum.
+J gets +1 Buy.
+J gains a Forum.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Diplomat and a Sage.
+
+Turn 7 - mb53
+m plays a Diplomat.
+m draws 2 cards.
+m gets +2 Actions.
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m discards 2 other cards and a Copper.
+m plays a Potion.
+m plays a Magic Lamp. (+$1)
+m buys and gains a Vineyard.
+m draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals an Urchin.
+J puts an Urchin into their hand.
+J plays an Urchin.
+m reacts with a Caravan Guard.
+m plays a Caravan Guard.
+m shuffles their deck.
+m draws a card.
+m gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+m discards an Estate.
+J plays a Diplomat.
+J draws a Copper and a Magic Lamp.
+J plays a Magic Lamp and 4 Coppers. (+$5)
+J buys Pageant.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws 2 Coppers, an Estate, a Mercenary and a Forum.
+
+Turn 8 - mb53
+m starts their turn.
+m gets +$3.
+m gets +$1.
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m discards 2 other cards and a Copper.
+m plays a Copper. (+$1)
+m buys and gains a Bandit.
+m draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Forum.
+J shuffles their deck.
+J draws an Estate, a Swindler and a Sage.
+J gets +1 Action.
+J discards 2 Coppers.
+J plays a Sage.
+J gets +1 Action.
+J reveals an Estate and a Copper and finally Diplomat.
+J puts a Diplomat into their hand.
+J discards a Copper and an Estate.
+J plays a Mercenary.
+J trashes 2 Estates.
+J draws a Copper and an Urchin.
+J gets +$2.
+m discards a card and a Copper.
+J plays a Copper. (+$1)
+J buys and gains a Secret Cave.
+J ends their buy phase.
+J shuffles their deck.
+J draws 2 Coppers, a Diplomat, a Secret Cave and a Magic Lamp.
+
+Turn 9 - mb53
+m starts their turn.
+m gets +$3.
+m plays a Copper. (+$1)
+m plays a Potion.
+m plays a Magic Lamp. (+$1)
+m buys a Forum.
+m gets +1 Buy.
+m gains a Forum.
+m buys and gains a Vineyard.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Secret Cave.
+J draws a Copper.
+J gets +1 Action.
+J discards 3 Coppers.
+J plays a Diplomat.
+J draws an Estate and a Swindler.
+J gets +2 Actions.
+J plays a Swindler.
+m reacts with a Diplomat.
+m draws 2 cards.
+m discards 2 other cards and a Vineyard.
+J gets +$2.
+m trashes a Caravan Guard.
+m gains a Caravan Guard.
+J plays a Magic Lamp. (+$1)
+J buys and gains a Swindler.
+J ends their buy phase.
+J draws 3 Coppers, an Urchin and a Forum.
+
+Turn 10 - mb53
+m plays a Diplomat.
+m draws 2 cards.
+m gets +2 Actions.
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Copper.
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m plays a Copper. (+$1)
+m plays a Potion.
+m plays a Magic Lamp. (+$1)
+m trashes a Magic Lamp.
+m gains 3 Wishes.
+m plays a Copper. (+$1)
+m buys and gains a Vineyard.
+m draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Forum.
+J shuffles their deck.
+J draws a Mercenary, a Sage and a Magic Lamp.
+J gets +1 Action.
+J discards a Copper and a Magic Lamp.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Swindler.
+J puts a Swindler into their hand.
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+m discards a Copper.
+J plays a Mercenary.
+J trashes an Urchin.
+J gains a Mercenary.
+J trashes 2 Coppers.
+J draws a Copper and a Swindler.
+J gets +$2.
+m discards a Copper.
+J plays a Copper. (+$1)
+J buys and gains a Gold.
+J ends their buy phase.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Diplomat.
+
+Turn 11 - mb53
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m plays a Bandit.
+J reacts with a Diplomat.
+J draws a Swindler and a Forum.
+J discards 2 Coppers and an Estate.
+m gains a Gold.
+J reveals a Swindler and a Copper.
+J discards a Copper and a Swindler.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Forum.
+J draws a Gold, a Mercenary and a Secret Cave.
+J gets +1 Action.
+J discards a Gold and a Swindler.
+J plays a Diplomat.
+J draws a Mercenary and a Sage.
+J gets +2 Actions.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Magic Lamp.
+J shuffles their deck.
+J reveals an Estate and a Copper and finally Swindler.
+J puts a Swindler into their hand.
+J discards a Copper, an Estate and a Magic Lamp.
+J plays a Secret Cave.
+J draws a Gold.
+J gets +1 Action.
+J plays a Mercenary.
+J trashes a Copper and a Swindler.
+J draws 2 Coppers.
+J gets +$2.
+m discards a card and a Copper.
+J plays a Mercenary.
+J trashes 2 Coppers.
+J shuffles their deck.
+J draws a Swindler and a Magic Lamp.
+J gets +$2.
+J plays a Magic Lamp and a Gold. (+$4)
+J trashes a Magic Lamp.
+J gains 3 Wishes.
+J buys and gains a Gold.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws a Copper, a Gold, an Estate, a Mercenary and a Sage.
+
+Turn 12 - mb53
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Vineyard.
+m plays a Wish.
+m gets +1 Action.
+m returns a Wish to the Wish pile.
+m gains a Gold.
+m plays 2 Golds. (+$6)
+m plays a Potion.
+m buys a Forum.
+m gets +1 Buy.
+m gains a Forum.
+m buys and gains a Vineyard.
+m draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Wish and finally Gold.
+J puts a Gold into their hand.
+J discards a Wish.
+J plays a Mercenary.
+J trashes a Copper and an Estate.
+J draws a Secret Cave and a Wish.
+J gets +$2.
+m discards a card and an Estate.
+J plays 2 Golds. (+$6)
+J buys and gains a Gold.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws a Diplomat, a Swindler, a Mercenary, a Forum and a Wish.
+
+Turn 13 - mb53
+m draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Gold.
+J plays a Forum.
+J shuffles their deck.
+J draws a Gold, a Secret Cave and a Wish.
+J gets +1 Action.
+J discards a Swindler and a Mercenary.
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Gold.
+J plays a Secret Cave.
+J draws a Gold.
+J gets +1 Action.
+J discards 2 Golds and a Diplomat.
+J plays 2 Golds. (+$6)
+J uses 2 Coffers. (+$2)
+J buys and gains a Province.
+J ends their buy phase.
+J shuffles their deck.
+J draws a Gold, a Swindler, a Mercenary, a Sage and a Wish.
+
+Turn 14 - mb53
+m plays a Caravan Guard.
+m draws a card.
+m gets +1 Action.
+m plays a Wish.
+m gets +1 Action.
+m returns a Wish to the Wish pile.
+m gains a Gold.
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m plays a Wish.
+m gets +1 Action.
+m returns a Wish to the Wish pile.
+m gains a Forum.
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Copper.
+m plays a Secret Cave.
+m shuffles their deck.
+m draws a card.
+m gets +1 Action.
+m discards 2 other cards and a Bandit.
+m plays a Diplomat.
+m draws 2 cards.
+m gets +2 Actions.
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Vineyard.
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Vineyard.
+m plays a Copper and 2 Golds. (+$7)
+m buys and gains a Bank.
+m draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Gold.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Forum.
+J puts a Forum into their hand.
+J plays a Forum.
+J draws 2 Golds and a Province.
+J gets +1 Action.
+J discards a Gold and a Province.
+J plays a Swindler.
+J gets +$2.
+m trashes an Estate.
+m gains an Estate.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws 2 Golds, a Diplomat, a Swindler and a Mercenary.
+
+Turn 15 - mb53
+m starts their turn.
+m gets +$1.
+m gets +$3.
+m plays 2 Coppers and a Gold. (+$5)
+m plays a Potion.
+m buys a Forum.
+m gets +1 Buy.
+m gains a Forum.
+m buys and gains a Vineyard.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Mercenary.
+J trashes a Diplomat and a Swindler.
+J draws a Gold and a Province.
+J gets +$2.
+m discards a card and a Copper.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws a Gold, a Province, a Sage, a Forum and a Secret Cave.
+
+Turn 16 - mb53
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m plays a Bandit.
+m gains a Gold.
+J reveals 2 Golds.
+J trashes a Gold.
+J discards a Gold.
+m draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Mercenary.
+J shuffles their deck.
+J reveals a Province.
+J puts a Province into their hand.
+J discards a Mercenary.
+J plays a Forum.
+J draws 2 Golds and a Province.
+J gets +1 Action.
+J discards 2 Provinces.
+J plays a Secret Cave.
+J draws a Gold.
+J gets +1 Action.
+J discards 2 Golds and a Province.
+J plays 2 Golds. (+$6)
+J uses 2 Coffers. (+$2)
+J buys and gains a Province.
+J ends their buy phase.
+J shuffles their deck.
+J draws 2 Golds, 2 Mercenaries and a Sage.
+
+Turn 17 - mb53
+m plays a Copper and a Gold. (+$4)
+m plays a Potion.
+m buys and gains a Vineyard.
+m draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Forum.
+J puts a Forum into their hand.
+J plays a Forum.
+J draws a Gold and 2 Provinces.
+J gets +1 Action.
+J discards 2 Provinces.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws 3 Golds and 2 Provinces.
+
+Turn 18 - mb53
+m plays a Caravan Guard.
+m draws a card.
+m gets +1 Action.
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Vineyard.
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m discards 2 other cards and a Copper.
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Copper.
+m plays a Diplomat.
+m draws 2 cards.
+m gets +2 Actions.
+m plays a Secret Cave.
+m draws a card.
+m gets +1 Action.
+m plays a Forum.
+m shuffles their deck.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Copper.
+m plays a Forum.
+m draws 3 cards.
+m gets +1 Action.
+m discards a card and a Vineyard.
+m plays 2 Golds. (+$6)
+m plays a Potion.
+m buys a Forum.
+m gets +1 Buy.
+m gains a Forum.
+m buys and gains a Vineyard.
+m draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws a Province, 2 Mercenaries, a Forum and a Secret Cave.
+
+Turn 19 - mb53
+m starts their turn.
+m gets +$1.
+m gets +$3.
+m plays 2 Coppers and a Gold. (+$5)
+m buys and gains a Province.
+m draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Forum.
+J draws a Gold and 2 Provinces.
+J gets +1 Action.
+J discards 2 Provinces.
+J plays a Secret Cave.
+J draws a Gold.
+J gets +1 Action.
+J plays 2 Golds. (+$6)
+J uses 3 Coffers. (+$3)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws 3 Provinces, a Mercenary and a Sage.
+

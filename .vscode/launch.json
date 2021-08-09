@@ -11,6 +11,12 @@
             "module": "main"
         },
         {
+            "name": "ReadDB",
+            "type": "python",
+            "request": "launch",
+            "module": "readDB"
+        },
+        {
             "name": "Test",
             "type": "python",
             "request": "launch",

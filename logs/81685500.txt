@@ -1,0 +1,646 @@
+Game #81685500, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Envoy.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and an Envoy.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Envoy.
+J reveals 3 Coppers and 2 Estates.
+J discards a Copper.
+J puts 2 Coppers and 2 Estates into their hand.
+J plays 5 Coppers. (+$5)
+J buys and gains a Cobbler.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Cobbler.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Cobbler.
+J plays a Cobbler.
+J draws 2 Coppers, 2 Estates and an Envoy.
+
+Turn 4 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Bank.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J gains a Wandering Minstrel.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Copper, an Estate and a Silver.
+J discards a Copper, a Silver and an Estate.
+J plays an Envoy.
+J shuffles their deck.
+J reveals 3 Coppers, a Cobbler and an Estate.
+J discards an Estate.
+J puts 3 Coppers and a Cobbler into their hand.
+J plays 6 Coppers. (+$6)
+J buys and gains a Storeroom.
+J plays a Cobbler.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and an Envoy.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains an Envoy.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J gains a Wandering Minstrel.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals a Storeroom, a Copper and a Cobbler.
+J topdecks a Storeroom.
+J discards a Copper and a Cobbler.
+J plays an Envoy.
+J reveals a Storeroom, 3 Coppers and an Estate.
+J discards a Storeroom.
+J puts 3 Coppers and an Estate into their hand.
+J plays 6 Coppers and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, an Estate, a Province, a Wandering Minstrel and a Cobbler.
+
+Turn 6 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals an Envoy, a Copper and a Silver.
+J topdecks an Envoy.
+J discards a Copper and a Silver.
+J plays 2 Coppers. (+$2)
+J plays a Cobbler.
+J draws a Copper, an Estate, a Storeroom, a Wandering Minstrel and an Envoy.
+
+Turn 7 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L plays a Bank. (+$3)
+L plays a Copper. (+$1)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J gains a Tournament.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals 2 Coppers and a Cobbler.
+J discards 2 Coppers and a Cobbler.
+J plays an Envoy.
+J shuffles their deck.
+J reveals 3 Coppers and 2 Estates.
+J discards a Copper.
+J puts 2 Coppers and 2 Estates into their hand.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Silver.
+J gets +$1.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 3 Coppers and 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers, a Province, a Wandering Minstrel and a Cobbler.
+J discards a Wandering Minstrel.
+J gets +$1.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Province.
+J plays a Cobbler.
+J draws 2 Coppers and 3 Estates.
+
+Turn 8 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays an Envoy.
+L shuffles their deck.
+L reveals 3 Coppers, an Estate and a Silver.
+L discards a Silver.
+L puts 3 Coppers and an Estate into their hand.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Bank.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J gains a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains a Wandering Minstrel.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Tournaments.
+
+Turn 9 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L shuffles their deck.
+L draws a card.
+L gets +$1.
+L plays a Copper. (+$1)
+L plays a Bank. (+$2)
+L plays 3 Coppers. (+$3)
+L buys and gains a Bank.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws an Envoy.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays an Envoy.
+J reveals a Storeroom, a Wandering Minstrel, a Copper and 2 Provinces.
+J discards a Wandering Minstrel.
+J puts a Copper, 2 Provinces and a Storeroom into their hand.
+J plays 4 Coppers. (+$4)
+J buys and gains a Wandering Minstrel.
+J draws a Copper, a Silver, a Wandering Minstrel and 2 Cobblers.
+
+Turn 10 - Lord Rattington
+L plays an Envoy.
+L reveals 2 Tournaments, a Copper, an Estate and a Silver.
+L discards a Tournament.
+L puts a Copper, a Silver, an Estate and a Tournament into their hand.
+L plays a Bank. (+$1)
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains an Envoy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals a Copper and 2 Estates.
+J discards a Copper and 2 Estates.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Wandering Minstrel.
+J plays a Cobbler.
+J plays a Cobbler.
+J shuffles their deck.
+J draws a Copper, a Silver and 3 Wandering Minstrels.
+
+Turn 11 - Lord Rattington
+L plays an Envoy.
+L reveals 2 Tournaments, 2 Coppers and a Bank.
+L discards a Bank.
+L puts 2 Coppers and 2 Tournaments into their hand.
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Bank.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J gains a Tournament.
+J gains an Envoy.
+J plays a Wandering Minstrel.
+J draws a Storeroom.
+J gets +2 Actions.
+J reveals 2 Coppers and a Province.
+J discards 2 Coppers and a Province.
+J plays a Wandering Minstrel.
+J draws an Estate.
+J gets +2 Actions.
+J reveals 2 Coppers and a Wandering Minstrel.
+J topdecks a Wandering Minstrel.
+J discards 2 Coppers.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals a Tournament, a Copper and an Estate.
+J topdecks a Tournament.
+J discards a Copper and an Estate.
+J plays an Envoy.
+J reveals 2 Tournaments, a Wandering Minstrel, an Estate and a Province.
+J discards a Tournament.
+J puts an Estate, a Province, a Tournament and a Wandering Minstrel into their hand.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals an Envoy, a Copper and an Estate.
+J topdecks an Envoy.
+J discards a Copper and an Estate.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 2 Coppers and an Estate.
+J draws 2 Coppers and an Envoy.
+J discards an Estate.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Princess.
+J draws a Princess.
+J gets +$1.
+J plays a Wandering Minstrel.
+J draws a Province.
+J gets +2 Actions.
+J reveals a Tournament and 2 Coppers.
+J topdecks a Tournament.
+J discards 2 Coppers.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Trusty Steed.
+J draws a Trusty Steed.
+J gets +$1.
+J plays a Trusty Steed.
+J shuffles their deck.
+J draws an Estate and a Tournament.
+J gets +2 Actions.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays an Envoy.
+J reveals 3 Coppers, an Estate and a Province.
+J discards an Estate.
+J puts 3 Coppers and a Province into their hand.
+J plays a Princess.
+J gets +1 Buy.
+J plays 6 Coppers and a Silver. (+$8)
+J buys a Pilgrimage.
+J flips Journey token face down.
+J buys and gains a Bank.
+J buys and gains an Envoy.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Province and a Wandering Minstrel.
+
+Turn 12 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Copper. (+$1)
+L plays 2 Banks. (+$5)
+L plays a Copper. (+$1)
+L buys and gains a Bank.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Wandering Minstrel.
+J draws an Envoy.
+J gets +2 Actions.
+J reveals a Copper, a Cobbler and an Estate.
+J discards a Copper, an Estate and a Cobbler.
+J plays an Envoy.
+J reveals a Tournament, a Wandering Minstrel, a Cobbler, an Estate and a Silver.
+J discards a Tournament.
+J puts a Silver, an Estate, a Wandering Minstrel and a Cobbler into their hand.
+J plays a Wandering Minstrel.
+J draws a Trusty Steed.
+J gets +2 Actions.
+J reveals a Copper, a Wandering Minstrel and a Bank.
+J topdecks a Wandering Minstrel.
+J discards a Copper and a Bank.
+J plays a Trusty Steed.
+J draws a Tournament and a Wandering Minstrel.
+J gets +2 Actions.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals a Tournament and 2 Envoys.
+J topdecks a Tournament and 2 Envoys.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Diadem.
+J draws a Diadem.
+J gets +$1.
+J plays a Wandering Minstrel.
+J draws an Envoy.
+J gets +2 Actions.
+J reveals a Tournament, an Envoy and a Copper.
+J topdecks a Tournament and an Envoy.
+J discards a Copper.
+J plays an Envoy.
+J reveals a Tournament, a Princess, an Envoy, a Copper and a Province.
+J discards an Envoy.
+J puts a Copper, a Province, a Princess and a Tournament into their hand.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Diadem, 4 Coppers and a Silver. (+$11)
+J gets +$5.
+J buys a Pilgrimage.
+J flips Journey token face up.
+J gains an Envoy.
+J gains a Wandering Minstrel.
+J gains a Tournament.
+J buys and gains a Storeroom.
+J plays a Cobbler.
+J shuffles their deck.
+J draws an Estate, a Storeroom, 2 Wandering Minstrels and an Envoy.
+
+Turn 13 - Lord Rattington
+L plays an Envoy.
+L shuffles their deck.
+L reveals a Tournament, a Copper, a Silver and 2 Banks.
+L discards a Bank.
+L puts a Copper, a Silver, a Bank and a Tournament into their hand.
+L plays 2 Coppers. (+$2)
+L plays a Bank. (+$3)
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gains a Wandering Minstrel.
+J plays a Wandering Minstrel.
+J draws an Envoy.
+J gets +2 Actions.
+J reveals an Envoy and 2 Estates.
+J topdecks an Envoy.
+J discards 2 Estates.
+J plays an Envoy.
+J reveals a Tournament, a Diadem, an Envoy, a Copper and a Silver.
+J discards a Tournament.
+J puts a Copper, a Silver, a Diadem and an Envoy into their hand.
+J plays a Wandering Minstrel.
+J draws a Trusty Steed.
+J gets +2 Actions.
+J reveals a Princess, an Envoy and a Copper.
+J topdecks a Princess and an Envoy.
+J discards a Copper.
+J plays an Envoy.
+J reveals a Storeroom, a Princess, an Envoy, a Copper and a Cobbler.
+J discards an Envoy.
+J puts a Copper, a Princess, a Storeroom and a Cobbler into their hand.
+J plays a Trusty Steed.
+J draws a Copper and a Wandering Minstrel.
+J gets +2 Actions.
+J plays a Wandering Minstrel.
+J draws a Province.
+J gets +2 Actions.
+J reveals a Tournament, a Copper and a Wandering Minstrel.
+J topdecks a Tournament and a Wandering Minstrel.
+J discards a Copper.
+J plays a Wandering Minstrel.
+J draws a Tournament.
+J gets +2 Actions.
+J reveals a Tournament, a Wandering Minstrel and a Province.
+J topdecks a Tournament and a Wandering Minstrel.
+J discards a Province.
+J plays an Envoy.
+J reveals a Tournament, 2 Coppers, a Wandering Minstrel and a Bank.
+J discards a Bank.
+J puts 2 Coppers, a Tournament and a Wandering Minstrel into their hand.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Wandering Minstrel.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Tournament.
+J gets +$1.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Tournament, a Copper and a Province.
+J topdecks a Tournament.
+J discards a Copper and a Province.
+J plays a Wandering Minstrel.
+J draws a Tournament.
+J gets +2 Actions.
+J reveals a Copper and 2 Estates.
+J discards a Copper and 2 Estates.
+J plays a Wandering Minstrel.
+J draws an Envoy.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Copper, a Province and a Bank.
+J discards a Copper, a Province and a Bank.
+J plays an Envoy.
+J shuffles their deck.
+J reveals 2 Coppers, 2 Estates and a Bank.
+J discards a Bank.
+J puts 2 Coppers and 2 Estates into their hand.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Province.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Bank.
+J gets +$1.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 3 Estates and 2 Provinces.
+J gets +$5.
+J plays a Storeroom.
+J gets +1 Buy.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Diadem, 7 Coppers and a Silver. (+$13)
+J gets +$4.
+J plays a Bank. (+$10)
+J buys and gains a Bank.
+J buys and gains 2 Wandering Minstrels.
+J buys and gains a Storeroom.
+J plays a Cobbler.
+J shuffles their deck.
+J draws 3 Coppers, a Province and a Wandering Minstrel.
+
+Turn 14 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays 2 Coppers. (+$2)
+L plays a Bank. (+$3)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J gains an Envoy.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals an Envoy, a Wandering Minstrel and a Bank.
+J topdecks a Wandering Minstrel and an Envoy.
+J discards a Bank.
+J plays an Envoy.
+J reveals a Tournament, 2 Envoys, a Copper and a Wandering Minstrel.
+J discards a Tournament.
+J puts a Copper, a Wandering Minstrel and 2 Envoys into their hand.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals 2 Wandering Minstrels and a Cobbler.
+J topdecks 2 Wandering Minstrels.
+J discards a Cobbler.
+J plays an Envoy.
+J reveals a Tournament, 3 Wandering Minstrels and an Estate.
+J discards a Wandering Minstrel.
+J puts an Estate, a Tournament and 2 Wandering Minstrels into their hand.
+J plays a Wandering Minstrel.
+J draws a Storeroom.
+J gets +2 Actions.
+J reveals an Envoy, a Wandering Minstrel and a Bank.
+J topdecks a Wandering Minstrel and an Envoy.
+J discards a Bank.
+J plays an Envoy.
+J reveals an Envoy, a Copper, 2 Wandering Minstrels and an Estate.
+J discards a Wandering Minstrel.
+J puts a Copper, an Estate, a Wandering Minstrel and an Envoy into their hand.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals a Diadem, an Envoy and a Province.
+J topdecks an Envoy.
+J discards a Province and a Diadem.
+J plays an Envoy.
+J reveals a Storeroom, a Tournament, a Princess, an Envoy and an Estate.
+J discards a Tournament.
+J puts an Estate, a Princess, a Storeroom and an Envoy into their hand.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals a Storeroom, a Trusty Steed and a Silver.
+J topdecks a Trusty Steed and a Storeroom.
+J discards a Silver.
+J plays an Envoy.
+J shuffles their deck.
+J reveals a Storeroom, 2 Tournaments, a Trusty Steed and a Bank.
+J discards a Bank.
+J puts 2 Tournaments, a Trusty Steed and a Storeroom into their hand.
+J plays a Wandering Minstrel.
+J draws a Tournament.
+J gets +2 Actions.
+J reveals a Wandering Minstrel, a Cobbler and a Silver.
+J topdecks a Wandering Minstrel.
+J discards a Silver and a Cobbler.
+J plays a Trusty Steed.
+J draws a Bank and a Wandering Minstrel.
+J gets +2 Actions.
+J plays a Wandering Minstrel.
+J draws a Diadem.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Wandering Minstrel, a Cobbler and a Province.
+J topdecks a Wandering Minstrel.
+J discards a Province and a Cobbler.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Province, a Silver and a Bank.
+J discards a Silver, a Province and a Bank.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Cobbler.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Silver.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Province.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Bank.
+J gets +$1.
+J plays a Wandering Minstrel.
+J gets +2 Actions.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 3 Estates and 2 Provinces.
+J gets +$5.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Storeroom.
+J gets +1 Buy.
+J plays a Storeroom.
+J gets +1 Buy.
+J plays a Diadem, 7 Coppers and a Silver. (+$13)
+J gets +$4.
+J plays 2 Banks. (+$21)
+J plays a Cobbler.
+J shuffles their deck.
+J draws a Copper, an Estate, a Bank and 2 Storerooms.
+
+Turn 15 - Lord Rattington
+L plays an Envoy.
+L shuffles their deck.
+L reveals an Estate, a Province and 3 Banks.
+

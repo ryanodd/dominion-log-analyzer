@@ -1,0 +1,325 @@
+Game #82146456, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Chapel.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Steward.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Potion.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Potion.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a University.
+J draws 3 Coppers, an Estate and a Steward.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Steward.
+J trashes a Copper and an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Herbalist.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 5 - Lord Rattington
+L plays a Chapel.
+L trashes 2 Coppers and 2 Estates.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Potion.
+J draws a Copper, an Estate, a Steward, a Potion and a University.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Sentry.
+J plays a Steward.
+J trashes a Copper and an Estate.
+J plays a Potion.
+J buys and gains a Transmute.
+J shuffles their deck.
+J draws a Copper, an Estate, a Steward, a Herbalist and a Potion.
+
+Turn 7 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Steward.
+J trashes a Copper and an Estate.
+J plays a Potion.
+J buys and gains a Vineyard.
+J draws 3 Coppers, a Transmute and a University.
+
+Turn 8 - Lord Rattington
+L plays a Chapel.
+L trashes 3 Coppers.
+L plays a Silver. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Sentry.
+J plays a Transmute.
+J trashes a Copper.
+J gains a Transmute.
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws a Copper, a Sentry, a Potion and 2 Transmutes.
+
+Turn 9 - Lord Rattington
+L plays a Chapel.
+L trashes an Estate.
+L plays 3 Silvers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Sentry.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Copper and a Vineyard.
+J trashes a Vineyard.
+J discards a Copper.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a University.
+J draws a Sentry, a Steward, a Herbalist, a Potion and a University.
+
+Turn 10 - Lord Rattington
+L plays a Chapel.
+L trashes 2 Coppers.
+L plays a Gold and a Silver. (+$5)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Steward.
+J plays a Sentry.
+J shuffles their deck.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Steward and a Transmute.
+J trashes a Transmute.
+J topdecks a Steward.
+J plays a Sentry.
+J draws a Steward.
+J gets +1 Action.
+J looks at a Potion and a University.
+J trashes a Potion.
+J topdecks a University.
+J plays a Steward.
+J draws a Transmute and a University.
+J plays a University.
+J gets +2 Actions.
+J gains a Sentry.
+J plays a Herbalist.
+J gets +1 Buy.
+J gets +$1.
+J plays a Steward.
+J draws 2 Coppers.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Steward, a Potion and a University.
+
+Turn 11 - Lord Rattington
+L plays a Gold and 4 Silvers. (+$11)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Sentry.
+J plays a Steward.
+J draws a Silver and a Sentry.
+J plays a Sentry.
+J draws a University.
+J gets +1 Action.
+J looks at a Sentry and a Copper.
+J trashes a Sentry.
+J topdecks a Copper.
+J plays a University.
+J gets +2 Actions.
+J gains a Sentry.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Potion.
+J buys and gains a Philosopher's Stone.
+J draws a Copper, a Sentry, a Steward, a Herbalist and a Transmute.
+
+Turn 12 - Lord Rattington
+L plays a Chapel.
+L plays 2 Golds and a Silver. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Sentry.
+J shuffles their deck.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Sentry and a Philosopher's Stone.
+J discards a Philosopher's Stone.
+J topdecks a Sentry.
+J plays a Sentry.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Copper and a Silver.
+J trashes a Copper.
+J topdecks a Silver.
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J looks at a Copper and a Potion.
+J trashes a Copper.
+J topdecks a Potion.
+J plays a Steward.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J draws a Sentry, a Steward, a Potion and 2 Universities.
+
+Turn 13 - Lord Rattington
+L plays a Chapel.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Sentry.
+J plays a University.
+J gets +2 Actions.
+J gains a Steward.
+J plays a Sentry.
+J shuffles their deck.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Sentry and a Copper.
+J trashes a Copper.
+J topdecks a Sentry.
+J plays a Sentry.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Herbalist and a Transmute.
+J trashes a Transmute.
+J discards a Herbalist.
+J plays a Steward.
+J draws a Sentry and a Philosopher's Stone.
+J plays a Sentry.
+J draws a Sentry.
+J gets +1 Action.
+J looks at 2 Silvers.
+J topdecks 2 Silvers.
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J looks at a Silver and a Steward.
+J topdecks a Silver and a Steward.
+J plays a Sentry.
+J draws a Steward.
+J gets +1 Action.
+J looks at a Silver and a Steward.
+J topdecks a Silver and a Steward.
+J plays a Steward.
+J draws a Silver and a Steward.
+J plays a Steward.
+J gets +$2.
+J plays 2 Silvers and a Philosopher's Stone. (+$4)
+J plays a Potion.
+J buys and gains a Possession.
+J shuffles their deck.
+J draws a Sentry, 2 Stewards, a Herbalist and a Possession.
+
+Turn 14 - Lord Rattington
+L plays 2 Golds. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Sentry.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Silver and a Steward.
+J topdecks a Silver and a Steward.
+J plays a Sentry.
+J draws a Steward.
+J gets +1 Action.
+J looks at a Silver and a University.
+J topdecks a Silver and a University.
+J plays a Possession.
+J draws a Silver, a Sentry, a Philosopher's Stone and 2 Universities.
+
+Turn 14 - Lord Rattington [Possession]
+L plays a Chapel.
+L trashes 4 Silvers.
+L sets 4 Silvers aside.
+L shuffles their deck.
+L draws 5 cards.
+L returns 4 Silvers to Discard Pile.
+
+Turn 15 - Lord Rattington
+L plays a Chapel.
+L plays 2 Golds. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+

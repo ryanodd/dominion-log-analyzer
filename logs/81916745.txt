@@ -1,0 +1,748 @@
+Game #81916745, rated.
+longshanks: 45.15
+Jazzercise: 44.44
+
+
+l gets +1 Coffers.
+J gets +1 Coffers.
+l starts with 7 Coppers.
+l starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+l shuffles their deck.
+l draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - longshanks
+l plays 3 Coppers. (+$3)
+l buys and gains a Silver.
+l draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J uses 1 Coffers. (+$1)
+J buys and gains a Recruiter.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - longshanks
+l plays 4 Coppers. (+$4)
+l uses 1 Coffers. (+$1)
+l buys and gains a Crown.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - longshanks
+l plays 3 Coppers and a Silver. (+$5)
+l buys and gains a Baker.
+l draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Village Green.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - longshanks
+l plays a Crown.
+l plays a Copper. (+$1)
+l plays a Copper again. (+$1)
+l plays a Copper. (+$1)
+l buys and gains a Silver.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Village Green.
+J shuffles their deck.
+J draws 3 Coppers, a Recruiter and a Village Green.
+
+Turn 5 - longshanks
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays 2 Silvers. (+$4)
+l buys and gains a Hostelry.
+l discards and reveals 3 Coppers.
+l gains 3 Horses.
+l draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Recruiter.
+J draws a Copper and an Estate.
+J trashes an Estate.
+J gets +2 Villagers.
+J plays 5 Coppers. (+$5)
+J buys and gains a Recruiter.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 6 - longshanks
+l plays a Crown.
+l plays a Copper. (+$1)
+l plays a Copper again. (+$1)
+l plays 2 Coppers. (+$2)
+l uses 1 Coffers. (+$1)
+l buys and gains a Recruiter.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Village Green.
+J shuffles their deck.
+J draws a Copper, an Estate, 2 Recruiters and a Village Green.
+
+Turn 7 - longshanks
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Recruiter.
+l draws 2 cards.
+l trashes an Estate.
+l gets +2 Villagers.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays 5 Coppers. (+$5)
+l buys and gains a Baker.
+l draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Village Green.
+J uses 1 Villager.
+J plays a Recruiter.
+J draws a Copper and a Silver.
+J trashes an Estate.
+J gets +2 Villagers.
+J uses 1 Villager.
+J plays a Recruiter.
+J draws a Copper and an Estate.
+J trashes an Estate.
+J gets +2 Villagers.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Crown.
+J draws 3 Coppers and 2 Village Greens.
+
+Turn 8 - longshanks
+l plays 2 Coppers and 2 Silvers. (+$6)
+l buys and gains a Gold.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Village Green.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Margrave.
+J draws 3 Coppers and 2 Recruiters.
+
+Turn 9 - longshanks
+l plays a Crown.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Horse again.
+l draws 2 cards.
+l gets +1 Action.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Recruiter.
+l draws 2 cards.
+l trashes an Estate.
+l gets +2 Villagers.
+l plays a Gold and a Silver. (+$5)
+l buys and gains a Hostelry.
+l discards and reveals 5 Coppers.
+l gains 5 Horses.
+l draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J draws a Crown.
+J gets +2 Actions.
+J plays a Recruiter.
+J shuffles their deck.
+J draws a Copper and a Village Green.
+J trashes a Copper.
+J plays a Village Green.
+J plays a Crown.
+J plays a Recruiter.
+J draws a Copper and a Margrave.
+J trashes a Copper.
+J plays a Recruiter again.
+J draws a Copper and a Silver.
+J trashes a Copper.
+J uses 1 Villager.
+J plays a Margrave.
+J draws a Copper and a Village Green.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and a Silver.
+J uses 1 Villager.
+J plays a Village Green.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Gold, a Margrave and a Recruiter.
+
+Turn 10 - longshanks
+l plays a Baker.
+l shuffles their deck.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays 4 Coppers. (+$4)
+l uses 1 Coffers. (+$1)
+l buys and gains a Margrave.
+l draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Recruiter.
+J gets +2 Actions.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Margrave.
+J draws a Copper, a Silver and a Village Green.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and an Estate.
+J plays a Recruiter.
+J draws a Crown.
+J trashes a Copper.
+J plays a Crown.
+J plays a Recruiter.
+J trashes a Copper.
+J plays a Recruiter again.
+J trashes a Copper.
+J plays a Village Green.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Crown.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Margrave and a Village Green.
+
+Turn 11 - longshanks
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Crown.
+l plays a Horse.
+l shuffles their deck.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Horse to the Horse pile.
+l plays a Horse again.
+l draws 2 cards.
+l gets +1 Action.
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Recruiter.
+l draws 2 cards.
+l trashes an Estate.
+l gets +2 Villagers.
+l plays a Margrave.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Crown.
+J discards a Copper, a Silver and a Gold.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays 7 Coppers, a Gold and 2 Silvers. (+$14)
+l uses 1 Coffers. (+$1)
+l buys and gains a Margrave.
+l buys Alliance.
+l gains a Province.
+l gains a Duchy.
+l gains an Estate.
+l gains a Gold.
+l gains a Silver.
+l gains a Copper.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J draws a Crown.
+J gets +2 Actions.
+J plays a Margrave.
+J draws 2 Recruiters and a Village Green.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and a Copper.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Recruiter.
+J draws a Copper and a Silver.
+J trashes a Recruiter.
+J gets +5 Villagers.
+J plays a Village Green.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Silver. (+$2)
+J plays a Silver again. (+$2)
+J plays a Copper. (+$1)
+J buys and gains a Gold.
+J buys and gains a Margrave.
+J shuffles their deck.
+J draws a Silver, a Gold, a Crown, a Recruiter and a Village Green.
+
+Turn 12 - longshanks
+l plays 3 Coppers. (+$3)
+l uses 2 Coffers. (+$2)
+l buys and gains a Recruiter.
+l draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Recruiter.
+J draws a Margrave and a Village Green.
+J trashes a Copper.
+J plays a Margrave.
+J draws a Gold, a Margrave and a Crown.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and a Gold.
+J plays a Village Green.
+J uses 1 Villager.
+J plays a Village Green.
+J uses 1 Villager.
+J plays a Margrave.
+J gets +1 Buy.
+l draws a card.
+l discards a Copper.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Silver. (+$2)
+J buys and gains a Sea Hag.
+J buys and gains a Village Green.
+J buys and gains a Margrave.
+J shuffles their deck.
+J draws 2 Golds, a Margrave, a Crown and a Village Green.
+
+Turn 13 - longshanks
+l plays a Crown.
+l plays a Margrave.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Margrave.
+J discards 2 Golds and a Margrave.
+l plays a Margrave again.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Crown.
+J discards a Crown.
+l uses 1 Villager.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Margrave.
+l shuffles their deck.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Margrave.
+J discards a Margrave.
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays 3 Coppers, 2 Golds and 3 Silvers. (+$15)
+l uses 3 Coffers. (+$3)
+l buys and gains a Crown.
+l buys and gains a Recruiter.
+l buys and gains a Sea Hag.
+l buys and gains a Village Green.
+l draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Village Green.
+J gets +2 Actions.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Margrave.
+J shuffles their deck.
+J draws a Sea Hag, a Margrave and a Recruiter.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and a Copper.
+J plays a Margrave.
+J draws a Gold, a Margrave and a Crown.
+J gets +1 Buy.
+l draws a card.
+l discards a Province.
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Village Green.
+J plays a Sea Hag.
+l discards a Copper.
+l gains a Curse.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Silver. (+$2)
+J buys and gains a Gold.
+J buys and gains a Sea Hag.
+J buys and gains a Village Green.
+J shuffles their deck.
+J draws a Silver, a Margrave, a Crown and 2 Village Greens.
+
+Turn 14 - longshanks
+l plays a Recruiter.
+l draws 2 cards.
+l trashes an Estate.
+l gets +2 Villagers.
+l uses 1 Villager.
+l plays a Recruiter.
+l shuffles their deck.
+l draws 2 cards.
+l trashes a Curse.
+l uses 1 Villager.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Sea Hag.
+J discards a Recruiter.
+J gains a Curse.
+l plays 2 Coppers. (+$2)
+l uses 1 Coffers. (+$1)
+l buys and gains a Silver.
+l draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Margrave.
+J draws a Sea Hag, a Margrave and a Village Green.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and a Copper.
+J plays a Margrave.
+J draws 2 Golds and a Margrave.
+J gets +1 Buy.
+l draws a card.
+l discards a Silver.
+J plays a Margrave.
+J draws a Sea Hag, a Crown and a Village Green.
+J gets +1 Buy.
+l draws a card.
+l discards a Gold.
+J uses 1 Villager.
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Recruiter.
+J gets +2 Actions.
+J plays a Recruiter.
+J trashes a Curse.
+J plays a Village Green.
+J plays a Village Green.
+J gets +2 Actions.
+J plays a Sea Hag.
+l discards a Copper.
+l gains a Curse.
+J plays a Sea Hag.
+l discards a Curse.
+l gains a Curse.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Crown.
+J buys and gains a Margrave.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Golds, a Recruiter and a Village Green.
+
+Turn 15 - longshanks
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Margrave.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Margrave.
+J discards 3 Golds.
+l plays a Crown.
+l plays a Margrave.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Sea Hag.
+J discards a Sea Hag.
+l plays a Margrave again.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Crown.
+J discards a Recruiter.
+l uses 1 Villager.
+l plays a Crown.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Baker again.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Village Green.
+l draws a card.
+l gets +2 Actions.
+l plays a Recruiter.
+l shuffles their deck.
+l draws 2 cards.
+l trashes a Curse.
+l plays a Recruiter.
+l draws 2 cards.
+l trashes a Copper.
+l plays 3 Coppers, 2 Golds and 2 Silvers. (+$13)
+l uses 2 Coffers. (+$2)
+l buys and gains 2 Crowns.
+l buys and gains a Margrave.
+l draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Margrave.
+J gets +2 Actions.
+J plays a Margrave.
+J draws a Gold and 2 Village Greens.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and a Copper.
+J plays a Margrave.
+J draws a Silver, a Crown and a Village Green.
+J gets +1 Buy.
+l draws a card.
+l discards a Copper.
+J plays a Village Green.
+J draws a Margrave.
+J gets +2 Actions.
+J plays a Margrave.
+J draws a Sea Hag, a Margrave and a Crown.
+J gets +1 Buy.
+l draws a card.
+l discards a Silver.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Sea Hag.
+J gets +2 Actions.
+J plays a Margrave.
+J draws 2 Golds and a Recruiter.
+J gets +1 Buy.
+l draws a card.
+l discards a Copper.
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Village Green.
+J plays a Sea Hag.
+l discards a Baker.
+l gains a Curse.
+J uses 1 Villager.
+J plays a Sea Hag.
+l discards a Curse.
+l gains a Curse.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Gold and a Silver. (+$5)
+J buys and gains 2 Crowns.
+J buys and gains a Gold.
+J buys and gains a Margrave.
+J shuffles their deck.
+J draws a Silver, a Sea Hag, 2 Margraves and a Recruiter.
+
+Turn 16 - longshanks
+l plays a Recruiter.
+l shuffles their deck.
+l draws 2 cards.
+l trashes a Curse.
+l uses 1 Villager.
+l plays a Margrave.
+l draws 3 cards.
+l gets +1 Buy.
+J draws a Crown.
+J discards a Silver, a Sea Hag and a Recruiter.
+l uses 1 Villager.
+l plays a Village Green.
+l draws a card.
+l gets +2 Actions.
+l plays a Hostelry.
+l draws a card.
+l gets +2 Actions.
+l plays a Baker.
+l draws a card.
+l gets +1 Action.
+l gets +1 Coffers.
+l plays a Recruiter.
+l draws 2 cards.
+l trashes a Copper.
+l plays a Sea Hag.
+J discards a Margrave.
+J gains a Curse.
+l plays a Copper and 2 Silvers. (+$5)
+l buys and gains a Recruiter.
+l draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Margrave.
+J draws 2 Golds and a Crown.
+J gets +1 Buy.
+l draws a card.
+l discards 2 other cards and a Silver.
+J plays a Crown.
+J plays a Margrave.
+J draws a Margrave and 2 Village Greens.
+J gets +1 Buy.
+l draws a card.
+l discards a Gold.
+J plays a Margrave again.
+J draws 3 Crowns.
+J gets +1 Buy.
+l draws a card.
+l discards a Silver.
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Margrave.
+J draws a Gold and 2 Village Greens.
+J gets +1 Buy.
+l draws a card.
+l discards a Copper.
+J plays a Village Green.
+J draws a Sea Hag.
+J gets +2 Actions.
+J plays a Crown.
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Village Green again.
+J draws a Margrave.
+J gets +2 Actions.
+J plays a Margrave.
+J shuffles their deck.
+J draws a Silver, a Sea Hag and a Recruiter.
+J gets +1 Buy.
+l draws a card.
+l discards a Recruiter.
+J plays a Village Green.
+J plays a Recruiter.
+J draws a Margrave.
+J trashes a Curse.
+J plays a Sea Hag.
+l discards a Copper.
+l gains a Curse.
+J plays a Sea Hag.
+l discards a Curse.
+l gains a Curse.
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays a Crown.
+J plays a Gold. (+$3)
+J plays a Gold again. (+$3)
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Crown.
+J buys and gains a Curse.
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws 2 Provinces, a Margrave and 2 Village Greens.
+
+Turn 17 - longshanks
+

@@ -1,0 +1,92 @@
+Game #81908806, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Poacher.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys Cathedral.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Poacher.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays a Poacher.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Poacher.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L buys and gains a Giant.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays 3 Coppers. (+$3)
+J buys and gains a Church.
+J shuffles their deck.
+J draws 4 Coppers and a Poacher.
+
+Turn 4 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L buys and gains a Catacombs.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Poacher.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Festival.
+J draws 2 Coppers, an Estate, a Poacher and a Church.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays a Church.
+J gets +1 Action.
+J sets nothing aside with Church.
+J plays a Poacher.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+

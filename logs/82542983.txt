@@ -1,0 +1,483 @@
+Game #82542983, rated.
+zayn: 42.63
+Jazzercise: 46.25
+
+
+z starts with 7 Coppers.
+z starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+z shuffles their deck.
+z draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - zayn
+z plays 4 Coppers. (+$4)
+z buys and gains a Bridge.
+z draws 5 cards.
+
+Turn 1 - Jazzercise
+J draws 5 Coppers.
+
+Turn 2 - zayn
+z plays 3 Coppers. (+$3)
+z buys and gains a Silver.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Governor.
+J shuffles their deck.
+J draws 4 Coppers and a Governor.
+
+Turn 3 - zayn
+z plays a Silver and 4 Coppers. (+$6)
+z buys and gains an Artisan.
+z draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J gains a Gold.
+z gains a Silver.
+J plays 4 Coppers. (+$4)
+J buys and gains a Bridge.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - zayn
+z plays 3 Coppers. (+$3)
+z buys and gains a Silver.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 5 - zayn
+z plays an Artisan.
+z gains a City.
+z topdecks a card.
+z draws 5 cards.
+
+Turn 5 - Jazzercise
+J draws 3 Coppers, a Gold and a Bridge.
+
+Turn 6 - zayn
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z plays 4 Coppers. (+$4)
+z buys and gains a Potion.
+z draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold and 3 Coppers. (+$6)
+J buys and gains a Royal Carriage.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Gold and a Governor.
+
+Turn 7 - zayn
+z plays 3 Silvers and a Copper. (+$7)
+z buys and gains an Expand.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J gains a Gold.
+z gains a Silver.
+J plays a Gold, a Silver and 2 Coppers. (+$7)
+J buys and gains an Expand.
+J draws 2 Coppers, 2 Estates and a Royal Carriage.
+
+Turn 8 - zayn
+z plays a Silver and 3 Coppers. (+$5)
+z buys and gains a Governor.
+z draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays 2 Coppers. (+$2)
+J draws 2 Coppers, a Silver, an Estate and a Bridge.
+
+Turn 9 - zayn
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z plays a Bridge.
+z gets +1 Buy.
+z gets +$1.
+z plays an Expand using Way of the Camel.
+z exiles a Gold.
+z plays a Silver and 2 Coppers. (+$4)
+z buys and gains a City.
+z draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J calls a Royal Carriage.
+J plays a Bridge again.
+J gets +1 Buy.
+J gets +$1.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains 2 Cities.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a City.
+
+Turn 10 - zayn
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a City.
+J draws a Governor.
+J gets +2 Actions.
+J plays a Governor.
+J gets +1 Action.
+J draws a Copper, a Gold and a Royal Carriage.
+z draws a card.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Gold and 4 Coppers. (+$7)
+J buys and gains an Expand.
+J draws a Silver, a Gold, 2 Estates and a City.
+
+Turn 11 - zayn
+z plays a Governor.
+z gets +1 Action.
+z draws 3 cards.
+J draws a Copper.
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z plays an Artisan.
+z gains a City.
+z topdecks a card.
+z plays a City using Way of the Camel.
+z exiles a Gold.
+z plays a Silver and 2 Coppers. (+$4)
+z plays a Potion.
+z buys and gains a Golem.
+z draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a City.
+J draws a Bridge.
+J gets +2 Actions.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J calls a Royal Carriage.
+J plays a Bridge again.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold, a Silver and a Copper. (+$6)
+J buys and gains an Expand.
+J buys and gains a City.
+J buys and gains a Royal Blacksmith.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Expand.
+
+Turn 12 - zayn
+z plays a Bridge.
+z gets +1 Buy.
+z gets +$1.
+z plays a Silver and 2 Coppers. (+$4)
+z buys and gains a City.
+z draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Expand.
+J trashes a Copper.
+J gains a Ghost Town.
+J plays a Silver and 2 Coppers. (+$4)
+J repays 4 debt (4 remaining).
+J plays a Ghost Town.
+J draws a Copper, a City, an Expand, a Royal Carriage and a Royal Blacksmith.
+
+Turn 13 - zayn
+z plays an Expand using Way of the Camel.
+z exiles a Gold.
+z plays a Silver and 3 Coppers. (+$5)
+z buys and gains a City.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays an Expand.
+J trashes a Copper.
+J gains a Ghost Town.
+J calls a Royal Carriage.
+J plays an Expand again.
+J trashes a Copper.
+J gains a Ghost Town.
+J plays a City.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Royal Blacksmith.
+J draws a Copper, a Gold, an Estate, a City and an Expand.
+J reveals their hand: an Expand, a Gold, 2 Coppers, 2 Ghost Towns, a City and an Estate.
+J discards 2 Coppers.
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J plays a City.
+J draws an Estate.
+J gets +2 Actions.
+J plays an Expand.
+J trashes an Estate.
+J gains a City.
+J plays a Gold. (+$3)
+J repays 3 debt (1 remaining).
+J plays a Ghost Town.
+J plays a Ghost Town.
+J draws a Silver, a Gold, an Estate, a Bridge and a Governor.
+
+Turn 14 - zayn
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z plays 2 Silvers and a Copper. (+$5)
+z buys and gains a City.
+z draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J draws a Royal Blacksmith (Ghost Town).
+J gets +1 Action.
+J plays a Governor.
+J gets +1 Action.
+J draws 2 Coppers and an Estate.
+z draws a card.
+J plays a Royal Blacksmith.
+J draws a Silver, a Gold, 2 Cities and an Expand.
+J reveals their hand: an Expand, a Bridge, 2 Golds, 2 Silvers, 3 Coppers, 2 Estates and 2 Cities.
+J discards 3 Coppers.
+J plays an Expand.
+J trashes an Estate.
+J gains a Royal Carriage.
+J plays a City.
+J draws a Copper.
+J gets +2 Actions.
+J draws a Royal Carriage.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J calls a Royal Carriage.
+J plays a Bridge again.
+J gets +1 Buy.
+J gets +$1.
+J plays a City.
+J draws a Ghost Town.
+J gets +2 Actions.
+J draws a City.
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J draws an Expand.
+J plays an Expand.
+J trashes an Estate.
+J gains a Royal Carriage.
+J plays a City.
+J draws an Expand.
+J gets +2 Actions.
+J shuffles their deck.
+J draws a Royal Carriage.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays an Expand.
+J trashes a Copper.
+J gains a Royal Carriage.
+J calls a Royal Carriage.
+J plays an Expand again.
+J trashes a Ghost Town.
+J gains an Artisan.
+J plays 2 Golds and 2 Silvers. (+$10)
+J repays 1 debt.
+J buys and gains a Platinum.
+J buys and gains a Royal Carriage.
+J buys and gains a Royal Blacksmith.
+J repays 1 debt (7 remaining).
+J shuffles their deck.
+J draws 3 Coppers, a Platinum and a Royal Carriage.
+
+Turn 15 - zayn
+z plays a Golem.
+z reveals a Governor and an Artisan.
+z plays a Governor.
+z gets +1 Action.
+z draws 3 cards.
+J draws a Royal Carriage.
+z plays an Artisan.
+z gains a Royal Carriage.
+z topdecks a card.
+z plays a Royal Carriage.
+z gets +1 Action.
+z puts a Royal Carriage on their Tavern mat.
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z draws a card.
+z plays a City.
+z draws a card.
+z gets +2 Actions.
+z draws a card.
+z plays a Bridge.
+z gets +1 Buy.
+z gets +$1.
+z calls a Royal Carriage.
+z plays a Bridge again.
+z gets +1 Buy.
+z gets +$1.
+z plays an Expand.
+z trashes a Silver.
+z gains a Gold.
+z discards 3 Golds from Exile.
+z plays a Silver and 4 Coppers. (+$6)
+z buys and gains a Platinum.
+z buys and gains a Ghost Town.
+z plays a Ghost Town.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Platinum and 3 Coppers. (+$8)
+J repays 7 debt.
+J buys and gains a Royal Blacksmith.
+J repays 1 debt (7 remaining).
+J draws a Silver, a City, an Expand, a Royal Carriage and a Governor.
+
+Turn 16 - zayn
+z starts their turn.
+z draws a card (Ghost Town).
+z gets +1 Action.
+z plays a Gold, a Silver and 2 Coppers. (+$7)
+z buys and gains a Royal Blacksmith.
+z repays 7 debt (1 remaining).
+z draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a City.
+J draws an Expand.
+J gets +2 Actions.
+J draws a Gold.
+J plays a Governor.
+J gets +1 Action.
+J draws a City, a Royal Carriage and a Ghost Town.
+z draws a card.
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J draws a Royal Carriage.
+J plays a City.
+J draws a Ghost Town.
+J gets +2 Actions.
+J draws a City.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a City.
+J draws a Gold.
+J gets +2 Actions.
+J draws an Expand.
+J calls a Royal Carriage.
+J plays a City again.
+J draws a Royal Blacksmith.
+J gets +2 Actions.
+J draws an Artisan.
+J plays a Royal Blacksmith.
+J shuffles their deck.
+J draws a Copper, a Silver, a Bridge, a Platinum and a Royal Blacksmith.
+J reveals their hand: 3 Expands, a Bridge, 2 Golds, a Royal Blacksmith, an Artisan, a Platinum, 2 Silvers, a Copper and 2 Ghost Towns.
+J discards a Copper.
+J calls a Royal Carriage.
+J plays a Royal Blacksmith again.
+J shuffles their deck.
+J draws 3 Coppers and a Royal Blacksmith.
+J reveals their hand: 3 Expands, a Bridge, 2 Golds, 2 Royal Blacksmiths, an Artisan, a Platinum, 2 Silvers, 3 Coppers and 2 Ghost Towns.
+J discards 3 Coppers.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J calls a Royal Carriage.
+J plays a Bridge again.
+J gets +1 Buy.
+J gets +$1.
+J calls a Royal Carriage.
+J plays a Bridge again.
+J gets +1 Buy.
+J gets +$1.
+J calls a Royal Carriage.
+J plays a Bridge again.
+J gets +1 Buy.
+J gets +$1.
+J plays an Artisan.
+J gains a Platinum.
+J topdecks a Royal Blacksmith.
+J plays an Expand.
+J trashes a Ghost Town.
+J gains a Royal Carriage.
+J plays an Expand.
+J trashes a Ghost Town.
+J gains an Artisan.
+J plays an Expand.
+J trashes a Silver.
+J gains a Gold.
+J plays 2 Golds, 2 Platina and a Silver. (+$18)
+J repays 7 debt.
+J buys and gains 2 Colonies.
+J buys and gains a Bridge.
+J buys and gains a Royal Carriage.
+J buys and gains a Ghost Town.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws a Copper, a Bridge, 2 Royal Carriages and a Royal Blacksmith.
+
+Turn 17 - zayn
+

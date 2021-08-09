@@ -1,0 +1,143 @@
+Game #82004563, rated.
+BigHarry: 49.36
+Jazzercise: 45.13
+
+
+B starts with a Magic Lamp.
+B starts with 6 Coppers.
+B starts with 3 Estates.
+J starts with a Magic Lamp.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+B shuffles their deck.
+B draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - BigHarry
+B plays a Magic Lamp and 3 Coppers. (+$4)
+B buys and gains a Necromancer.
+B draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Magic Lamp.
+
+Turn 2 - BigHarry
+B plays 3 Coppers. (+$3)
+B buys and gains a Secret Cave.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Magic Lamp and 3 Coppers. (+$4)
+J buys and gains a Necromancer.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Necromancer and a Magic Lamp.
+
+Turn 3 - BigHarry
+B plays a Magic Lamp and 3 Coppers. (+$4)
+B buys and gains a Secret Passage.
+B draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Necromancer.
+J plays a Zombie Mason.
+J trashes a Copper.
+J plays a Silver, a Magic Lamp and a Copper. (+$4)
+J buys and gains a Wandering Minstrel.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - BigHarry
+B plays a Secret Cave.
+B draws a card.
+B gets +1 Action.
+B discards 2 other cards and a Copper.
+B shuffles their deck.
+B draws 5 cards.
+B takes 2 VP from Baths.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Necromancer.
+
+Turn 5 - BigHarry
+B starts their turn.
+B gets +$3.
+B plays a Secret Passage.
+B draws 2 cards.
+B gets +1 Action.
+B topdecks a card.
+B plays a Necromancer.
+B plays a Zombie Mason.
+B trashes an Estate.
+B gains a Secret Cave.
+B plays 4 Coppers. (+$4)
+B buys and gains an Artisan.
+B draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Necromancer.
+J plays a Zombie Mason.
+J trashes a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Necromancer.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 6 - BigHarry
+B plays a Magic Lamp and 2 Coppers. (+$3)
+B buys and gains a Secret Cave.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Wandering Minstrel.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Wandering Minstrel and a Magic Lamp.
+
+Turn 7 - BigHarry
+B plays a Secret Cave.
+B draws a card.
+B gets +1 Action.
+B discards 2 other cards and a Secret Cave.
+B plays an Artisan.
+B gains a Cursed Village.
+B takes Misery.
+B receives Misery.
+B takes Miserable.
+B discards Misery.
+B topdecks a card.
+B draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Silver.
+J gets +2 Actions.
+J reveals 2 Necromancers and an Estate.
+J topdecks 2 Necromancers.
+J discards an Estate.
+J plays 2 Silvers, a Magic Lamp and a Copper. (+$6)
+J buys and gains an Artisan.
+J draws 2 Coppers, a Wandering Minstrel and 2 Necromancers.
+
+Turn 8 - BigHarry
+B starts their turn.
+B gets +$3.
+B plays a Secret Cave.
+B draws a card.
+B gets +1 Action.
+B discards 2 other cards and a Copper.
+B plays a Cursed Village.
+B gets +2 Actions.
+B draws 4 cards.
+B shuffles their deck.
+B draws a card.
+B plays a Secret Passage.
+B draws 2 cards.
+B gets +1 Action.
+B puts a card on the bottom of their deck.
+

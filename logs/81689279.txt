@@ -1,0 +1,421 @@
+Game #81689279, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Candlestick Maker.
+J draws 3 Coppers and 2 Silvers.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Bandit.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys an Inheritance.
+J inherits a Throne Room.
+J shuffles their deck.
+J draws 4 Coppers and a Candlestick Maker.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays 4 Coppers. (+$4)
+J uses 1 Coffers. (+$1)
+J buys and gains an Upgrade.
+J draws a Copper, a Silver and 3 Estates.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Estate.
+J plays a Throne Room.
+J plays an Estate using Way of the Sheep.
+J gets +$2.
+J plays an Estate again.
+J uses Way of the Sheep.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J buys and gains an Upgrade.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and an Upgrade.
+
+Turn 6 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals an Upgrade and an Estate.
+J discards an Estate and an Upgrade.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Estate.
+J plays a Throne Room.
+J plays an Upgrade.
+J draws a Silver.
+J gets +1 Action.
+J trashes a Copper.
+J plays an Upgrade again.
+J draws a Copper.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Storyteller.
+J draws 3 Coppers, an Estate and a Candlestick Maker.
+
+Turn 7 - Lord Rattington
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Haunted Woods.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays an Estate.
+J plays a Throne Room.
+J plays a Candlestick Maker using Way of the Sheep.
+J gets +$2.
+J plays a Candlestick Maker again.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays 3 Coppers. (+$3)
+J buys and gains a Fortress.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and an Upgrade.
+
+Turn 8 - Lord Rattington
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Estate.
+J plays a Throne Room.
+J plays an Estate.
+J plays a Throne Room.
+J plays an Upgrade.
+J draws an Estate.
+J gets +1 Action.
+J trashes a Copper.
+J plays an Upgrade again.
+J uses Way of the Sheep.
+J gets +$2.
+J plays an Estate again.
+J uses Way of the Sheep.
+J gets +$2.
+J plays an Estate using Way of the Sheep.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver, a Candlestick Maker and a Storyteller.
+
+Turn 9 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals a Copper and an Upgrade.
+J discards a Copper and an Upgrade.
+L plays 2 Silvers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers and a Silver. (+$4)
+J loses 5 Coins.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, an Upgrade and a Fortress.
+J plays an Estate.
+J plays a Throne Room.
+J plays a Fortress.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Fortress again.
+J draws an Estate.
+J gets +2 Actions.
+J plays an Upgrade.
+J draws an Estate.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays an Estate.
+J plays a Throne Room.
+J plays an Estate using Way of the Sheep.
+J gets +$2.
+J plays an Estate again.
+J uses Way of the Sheep.
+J gets +$2.
+J plays a Copper and a Gold. (+$4)
+J buys and gains 2 Fortresses.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, an Upgrade and a Candlestick Maker.
+
+Turn 10 - Lord Rattington
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys and gains an Upgrade.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Upgrade.
+J draws a Fortress.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Fortress.
+J draws an Estate.
+J gets +2 Actions.
+J plays an Estate.
+J plays a Throne Room.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Candlestick Maker again.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Silver and a Gold. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver, an Upgrade and a Storyteller.
+
+Turn 11 - Lord Rattington
+L plays a Haunted Woods.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Storyteller.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Upgrade.
+J draws an Estate.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Silver. (+$3)
+J loses 4 Coins.
+J shuffles their deck.
+J draws an Estate and 3 Fortresses.
+J plays an Estate.
+J plays a Throne Room.
+J plays an Estate.
+J plays a Throne Room.
+J plays a Fortress.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Fortress again.
+J draws a Candlestick Maker.
+J gets +2 Actions.
+J plays an Estate again.
+J plays a Throne Room.
+J plays a Fortress.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Fortress again.
+J draws an Estate.
+J gets +2 Actions.
+J plays an Estate.
+J plays a Throne Room.
+J plays a Fortress.
+J draws an Upgrade.
+J gets +2 Actions.
+J plays a Fortress again.
+J draws a Gold.
+J gets +2 Actions.
+J plays an Upgrade using Way of the Sheep.
+J gets +$2.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains 2 Storytellers.
+J shuffles their deck.
+J draws a Copper, 3 Estates and a Fortress.
+
+Turn 12 - Lord Rattington
+L starts their turn.
+L draws 3 cards (Haunted Woods).
+L plays 2 Coppers and 3 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Estate.
+J plays a Throne Room.
+J plays a Fortress.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Fortress again.
+J draws a Silver.
+J gets +2 Actions.
+J plays an Estate.
+J plays a Throne Room.
+J plays an Estate using Way of the Sheep.
+J gets +$2.
+J plays an Estate again.
+J uses Way of the Sheep.
+J gets +$2.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Gold.
+J draws 2 Upgrades, a Fortress and 2 Storytellers.
+
+Turn 13 - Lord Rattington
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Upgrade.
+J draws a Fortress.
+J gets +1 Action.
+J trashes an Upgrade.
+J gains a Gold.
+J plays a Fortress.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Silver. (+$2)
+J loses 3 Coins.
+J shuffles their deck.
+J draws a Copper, a Candlestick Maker and a Storyteller.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper. (+$1)
+J loses 2 Coins.
+J draws a Gold and an Estate.
+J plays an Estate.
+J plays a Throne Room using Way of the Sheep.
+J gets +$2.
+J plays a Storyteller using Way of the Sheep.
+J gets +$2.
+J plays 2 Golds. (+$6)
+J uses 1 Coffers. (+$1)
+J buys and gains a Storyteller.
+J buys and gains a Gold.
+J draws a Silver, 2 Golds and 2 Estates.
+
+Turn 14 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes an Estate.
+L gains a Silver.
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Estate.
+J plays a Throne Room using Way of the Sheep.
+J gets +$2.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, a Province, an Upgrade and 2 Fortresses.
+
+Turn 15 - Lord Rattington
+L plays a Storyteller.
+L gets +1 Action.
+L gets +$1.
+L loses 1 Coin.
+L draws a card.
+L plays a Bandit.
+L gains a Gold.
+J reveals a Silver and a Gold.
+J trashes a Silver.
+J discards a Gold.
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Fortress.
+J draws a Storyteller.
+J gets +2 Actions.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold. (+$3)
+J loses 4 Coins.
+J draws 2 Golds, a Candlestick Maker and a Storyteller.
+J plays a Fortress.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J loses 1 Coin.
+J draws a Copper.
+J plays an Upgrade.
+J draws a Silver.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays an Estate using Way of the Sheep.
+J gets +$2.
+J plays a Silver and 2 Golds. (+$8)
+

@@ -1,0 +1,606 @@
+Game #82662955, rated.
+Jazzercise: 46.21
+dialuga: 50.63
+
+Kingdom generated with these relative percentages:
+0%: Ambassador, Soothsayer, Witch, King's Court and Bridge Troll
+
+
+Druid sets The Mountain's Gift aside.
+Druid sets The Field's Gift aside.
+Druid sets The River's Gift aside.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+d starts with 7 Coppers.
+d starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys Cathedral.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - dialuga
+d plays 4 Coppers. (+$4)
+d buys and gains a Masquerade.
+d draws 5 cards.
+
+Turn 2 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays 4 Coppers. (+$4)
+J buys and gains a Watchtower.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - dialuga
+d plays 3 Coppers. (+$3)
+d buys and gains a Silver.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 3 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Watchtower.
+
+Turn 3 - dialuga
+d plays a Silver and 2 Coppers. (+$4)
+d buys and gains a Silver.
+d draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays a Watchtower.
+J shuffles their deck.
+J draws 2 Coppers and a Silver.
+J plays a Silver and 5 Coppers. (+$7)
+J buys and gains a Hunting Lodge.
+J shuffles their deck.
+J draws 4 Coppers and a Hunting Lodge.
+
+Turn 4 - dialuga
+d plays a Masquerade.
+d draws 2 cards.
+d passes an Estate to J.
+J passes a Copper to d.
+d trashes a Copper.
+d plays 5 Coppers. (+$5)
+d buys and gains a Junk Dealer.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J discards 4 Coppers.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Watchtower.
+J plays a Watchtower.
+J draws 2 Coppers.
+J plays a Silver and 5 Coppers. (+$7)
+J buys and gains an Outpost.
+J shuffles their deck.
+J draws 4 Coppers and an Outpost.
+
+Turn 5 - dialuga
+d plays a Silver and 3 Coppers. (+$5)
+d buys and gains an Outpost.
+d draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays an Outpost.
+J plays 3 Coppers. (+$3)
+J buys and gains a Watchtower.
+J draws a Copper, a Watchtower and a Hunting Lodge.
+
+Turn 6 - Jazzercise [Outpost]
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J discards a Copper and a Watchtower.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Watchtowers.
+J plays a Watchtower.
+J draws 2 Coppers.
+J plays a Silver and 4 Coppers. (+$6)
+J buys and gains a Gold.
+J reacts with a Watchtower.
+J topdecks a Gold.
+J shuffles their deck.
+J draws 3 Coppers, a Gold and a Watchtower.
+
+Turn 6 - dialuga
+d plays a Masquerade.
+d draws 2 cards.
+d passes an Estate to J.
+J passes a Copper to d.
+d trashes a Copper.
+d plays a Silver and 3 Coppers. (+$5)
+d buys and gains a Hunting Lodge.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays a Watchtower.
+J draws a Silver, an Outpost and a Hunting Lodge.
+J plays a Gold, a Silver and 2 Coppers. (+$7)
+J buys and gains a Druid.
+J shuffles their deck.
+J draws 2 Coppers, a Watchtower, a Druid and a Hunting Lodge.
+
+Turn 7 - dialuga
+d plays a Masquerade.
+d draws 2 cards.
+d passes an Estate to J.
+J passes a Copper to d.
+d trashes a Copper.
+d plays a Silver and 3 Coppers. (+$5)
+d buys and gains a Hunting Lodge.
+d draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J trashes an Estate. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Watchtower.
+J draws a Gold, an Outpost and a Watchtower.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays an Outpost.
+J plays a Gold and 2 Coppers. (+$5)
+J buys and gains a Gold.
+J reacts with a Watchtower.
+J topdecks a Gold.
+J shuffles their deck.
+J draws a Silver, a Gold and a Druid.
+
+Turn 8 - Jazzercise [Outpost]
+J starts their turn.
+J trashes a Silver. (Cathedral)
+J plays a Druid.
+J gets +1 Buy.
+J receives The Mountain's Gift.
+J gains a Silver.
+J plays a Gold. (+$3)
+J buys and gains a Watchtower.
+J draws 2 Coppers, a Gold, a Watchtower and a Hunting Lodge.
+
+Turn 8 - dialuga
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes a Copper.
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d discards 3 other cards and a Copper.
+d shuffles their deck.
+d draws 5 cards.
+d plays an Outpost.
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d discards 3 other cards and a Copper.
+d draws 5 cards.
+d plays a Masquerade.
+d shuffles their deck.
+d draws 2 cards.
+d passes a Copper to J.
+J passes a Copper to d.
+d trashes a Copper.
+d plays 2 Silvers and 3 Coppers. (+$7)
+d buys and gains a Province.
+d shuffles their deck.
+d draws 3 cards.
+
+Turn 8 - dialuga [Outpost]
+d starts their turn.
+d plays a Silver and 2 Coppers. (+$4)
+d buys and gains a Masquerade.
+d draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Watchtower.
+J gets +2 Actions.
+J discards a Copper, a Gold and 2 Watchtowers.
+J shuffles their deck.
+J draws a Silver, 2 Golds, an Outpost and a Watchtower.
+J plays an Outpost.
+J plays a Watchtower.
+J draws a Copper and 2 Watchtowers.
+J plays 2 Golds, a Silver and a Copper. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Golds and a Druid.
+
+Turn 9 - Jazzercise [Outpost]
+J starts their turn.
+J trashes a Druid. (Cathedral)
+J plays 2 Golds. (+$6)
+J buys and gains a Druid.
+J draws a Copper, a Silver, a Province, a Watchtower and a Hunting Lodge.
+
+Turn 9 - dialuga
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes a Copper.
+d plays a Masquerade.
+d draws 2 cards.
+d passes a Copper to J.
+J passes a Copper to d.
+d trashes a Copper.
+d plays a Copper. (+$1)
+d buys and gains a Druid.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Watchtower.
+J gets +2 Actions.
+J discards a Silver, a Province and 2 Watchtowers.
+J shuffles their deck.
+J draws a Silver, a Gold and 3 Watchtowers.
+J plays a Watchtower.
+J draws an Outpost and a Druid.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays a Watchtower.
+J draws a Gold and a Province.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Hunting Lodge.
+J reacts with a Watchtower.
+J topdecks a Hunting Lodge.
+J buys and gains a Druid.
+J shuffles their deck.
+J draws a Gold, a Watchtower, 2 Druids and a Hunting Lodge.
+
+Turn 10 - dialuga
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d plays an Outpost.
+d plays 2 Silvers and 2 Coppers. (+$6)
+d buys and gains a Gold.
+d draws 3 cards.
+
+Turn 10 - dialuga [Outpost]
+d starts their turn.
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes a Druid.
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d discards a card and a Masquerade.
+d shuffles their deck.
+d draws 5 cards.
+d plays a Masquerade.
+d draws 2 cards.
+d passes a Copper to J.
+J passes a Watchtower to d.
+d trashes a Watchtower.
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d plays a Gold, 2 Silvers and 2 Coppers. (+$9)
+d buys and gains a Province.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Province.
+J gets +2 Actions.
+J discards a Gold, a Province and 2 Druids.
+J draws a Silver, a Gold, an Outpost and 2 Watchtowers.
+J plays an Outpost.
+J plays a Watchtower.
+J draws a Hunting Lodge.
+J shuffles their deck.
+J draws 2 Druids.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Hunting Lodge.
+J reacts with a Watchtower.
+J topdecks a Hunting Lodge.
+J draws a Gold, a Province and a Hunting Lodge.
+
+Turn 11 - Jazzercise [Outpost]
+J starts their turn.
+J trashes a Gold. (Cathedral)
+J plays a Hunting Lodge.
+J shuffles their deck.
+J draws a Watchtower.
+J gets +2 Actions.
+J discards a Province and a Watchtower.
+J draws a Gold, a Watchtower, 2 Druids and a Hunting Lodge.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays a Hunting Lodge.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Watchtower.
+J draws a Hunting Lodge.
+J shuffles their deck.
+J draws a Province and a Watchtower.
+J plays a Druid.
+J gets +1 Buy.
+J receives The River's Gift.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Gold.
+J reacts with a Watchtower.
+J topdecks a Gold.
+J shuffles their deck.
+J draws a Silver, a Gold, a Province, a Watchtower and 2 Druids.
+
+Turn 11 - dialuga
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes a Copper.
+d plays a Masquerade.
+d draws 2 cards.
+d passes a Copper to J.
+J passes a Druid to d.
+d trashes a Druid.
+d plays a Gold and a Silver. (+$5)
+d buys and gains a Hunting Lodge.
+d draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J trashes a Copper. (Cathedral)
+J plays a Watchtower.
+J draws a Gold and a Hunting Lodge.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, an Outpost, a Watchtower and 2 Hunting Lodges.
+
+Turn 12 - dialuga
+d plays a Hunting Lodge.
+d shuffles their deck.
+d draws a card.
+d gets +2 Actions.
+d plays a Masquerade.
+d draws 2 cards.
+d passes an Outpost to J.
+J passes a Watchtower to d.
+d plays a Masquerade.
+d draws 2 cards.
+d passes a Watchtower to J.
+J passes an Outpost to d.
+d plays a Gold and 2 Silvers. (+$7)
+d buys and gains a Gold.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J trashes a Watchtower. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J draws a Gold.
+J gets +2 Actions.
+J plays an Outpost.
+J plays a Hunting Lodge.
+J draws a Province.
+J gets +2 Actions.
+J discards a Silver, a Gold and a Province.
+J shuffles their deck.
+J draws a Gold, 2 Provinces, a Watchtower and a Druid.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Mountain's Gift.
+J gains a Silver.
+J reacts with a Watchtower.
+J topdecks a Silver.
+J plays a Watchtower.
+J draws 2 Silvers and a Gold.
+J plays 2 Golds and 2 Silvers. (+$10)
+J buys and gains a Watchtower.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Silver, a Gold and a Watchtower.
+
+Turn 13 - Jazzercise [Outpost]
+J starts their turn.
+J trashes a Silver. (Cathedral)
+J plays a Watchtower.
+J draws a Gold, 2 Provinces, a Watchtower and a Hunting Lodge.
+J plays 2 Golds. (+$6)
+J buys and gains a Gold.
+J reacts with a Watchtower.
+J topdecks a Gold.
+J draws 2 Golds, a Druid and 2 Hunting Lodges.
+
+Turn 13 - dialuga
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d plays an Outpost.
+d plays a Gold and 2 Silvers. (+$7)
+d buys and gains a Gold.
+d draws 3 cards.
+
+Turn 13 - dialuga [Outpost]
+d starts their turn.
+d plays a Masquerade.
+d draws 2 cards.
+d passes a Masquerade to J.
+J passes a Druid to d.
+d trashes a Druid.
+d plays a Gold. (+$3)
+d buys and gains a Masquerade.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J trashes a Masquerade. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J shuffles their deck.
+J draws a Gold.
+J gets +2 Actions.
+J plays 3 Golds and a Silver. (+$11)
+J buys and gains a Province.
+J draws a Gold, a Province, an Outpost, a Watchtower and a Hunting Lodge.
+
+Turn 14 - dialuga
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d plays a Masquerade.
+d draws 2 cards.
+d passes a Junk Dealer to J.
+J passes a Watchtower to d.
+d trashes a Watchtower.
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d plays a Hunting Lodge.
+d draws a card.
+d gets +2 Actions.
+d discards 4 other cards and a Silver.
+d shuffles their deck.
+d draws 5 cards.
+d plays an Outpost.
+d plays 2 Golds. (+$6)
+d buys and gains a Gold.
+d draws 3 cards.
+
+Turn 14 - dialuga [Outpost]
+d starts their turn.
+d plays a Gold and 2 Silvers. (+$7)
+d buys and gains a Gold.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J trashes a Junk Dealer. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Province.
+J gets +2 Actions.
+J discards a Gold, 2 Provinces and an Outpost.
+J shuffles their deck.
+J draws a Silver, 2 Provinces, a Watchtower and a Hunting Lodge.
+J plays a Hunting Lodge.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Watchtower.
+J draws a Gold and an Outpost.
+J plays an Outpost.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J draws 2 Golds and a Province.
+
+Turn 15 - Jazzercise [Outpost]
+J starts their turn.
+J trashes a Gold. (Cathedral)
+J plays a Gold. (+$3)
+J buys and gains a Watchtower.
+J shuffles their deck.
+J draws a Gold, a Province, a Watchtower and 2 Hunting Lodges.
+
+Turn 15 - dialuga
+d plays a Masquerade.
+d draws 2 cards.
+d passes a Masquerade to J.
+J passes a Watchtower to d.
+d trashes a Watchtower.
+d plays 3 Golds. (+$9)
+d buys and gains a Duchy.
+d draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J trashes a Masquerade. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J discards a Silver, a Gold, a Province and a Hunting Lodge.
+J draws 3 Provinces, an Outpost and a Watchtower.
+J plays an Outpost.
+J plays a Watchtower.
+J draws 2 Golds.
+J shuffles their deck.
+J draws a Hunting Lodge.
+J plays a Hunting Lodge.
+J draws a Gold.
+J gets +2 Actions.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Province and a Hunting Lodge.
+
+Turn 16 - Jazzercise [Outpost]
+J starts their turn.
+J trashes a Silver. (Cathedral)
+J plays a Hunting Lodge.
+J draws a Province.
+J gets +2 Actions.
+J discards 2 Provinces.
+J draws 2 Golds, a Province and 2 Hunting Lodges.
+J plays a Hunting Lodge.
+J draws a Gold.
+J gets +2 Actions.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Provinces, an Outpost, a Watchtower and a Hunting Lodge.
+

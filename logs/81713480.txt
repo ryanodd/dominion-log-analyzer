@@ -1,0 +1,645 @@
+Game #81713480, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Peasant.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Peasant.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys a Ferry.
+J moves -Cost token to the Old Witch pile.
+J returns a Peasant.
+J receives a Soldier.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Counterfeit.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Old Witch.
+J draws 3 Coppers, an Estate and a Soldier.
+
+Turn 5 - Lord Rattington
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Soldier.
+J gets +$2.
+L discards a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Festival.
+J returns a Soldier.
+J receives a Fugitive.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Counterfeit and a Fugitive.
+
+Turn 6 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Fugitive.
+J draws 2 Coppers.
+J gets +1 Action.
+J discards a Copper.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Peasant.
+J buys and gains a Festival.
+J returns a Fugitive.
+J receives a Disciple.
+J draws 3 Coppers and 2 Estates.
+
+Turn 7 - Lord Rattington
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Chariot Race.
+J shuffles their deck.
+J draws 2 Estates, a Festival, a Counterfeit and an Old Witch.
+
+Turn 8 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays an Old Witch.
+J draws a Copper, a Festival and a Disciple.
+L gains a Curse.
+J plays a Disciple.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Festival again.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J gains a Festival.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J buys and gains 2 Old Witches.
+J buys and gains a Chariot Race.
+J returns a Disciple.
+J receives a Teacher.
+J draws 3 Coppers, an Estate and a Peasant.
+
+Turn 9 - Lord Rattington
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains a Herald.
+J returns a Peasant.
+J receives a Soldier.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Soldier and a Chariot Race.
+
+Turn 10 - Lord Rattington
+L plays a Silver. (+$2)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Library.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+L reveals a Copper.
+J plays a Soldier.
+J gets +$2.
+L discards an Estate.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Festival.
+J returns a Soldier.
+J receives a Fugitive.
+J draws a Festival, a Counterfeit, a Chariot Race and 2 Old Witches.
+
+Turn 11 - Lord Rattington
+L plays 2 Silvers. (+$4)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays an Old Witch.
+J draws a Copper, an Estate and a Festival.
+L gains a Curse.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays an Old Witch.
+J draws a Copper, a Teacher and an Old Witch.
+L gains a Curse.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals an Estate.
+J puts an Estate into their hand.
+L reveals a Silver.
+J plays a Teacher.
+J puts a Teacher on their Tavern mat.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Copper. (+$1)
+J buys and gains an Old Witch.
+J buys and gains a Chariot Race.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Festival and a Herald.
+
+Turn 12 - Lord Rattington
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J calls a Teacher.
+J moves +Card token to the Chariot Race pile.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Herald.
+J draws a Chariot Race.
+J gets +1 Action.
+J reveals an Estate.
+J plays a Chariot Race.
+J draws an Estate (from Teacher).
+J gets +1 Action.
+J reveals a Festival.
+J puts a Festival into their hand.
+L reveals a Curse.
+J gets +$1.
+J gets 1 VP.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver and a Copper. (+$3)
+J buys and gains 2 Chariot Races.
+J draws a Copper, 2 Festivals, a Fugitive and an Old Witch.
+
+Turn 13 - Lord Rattington
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Fugitive.
+J draws a Chariot Race and an Old Witch.
+J gets +1 Action.
+J discards a Copper.
+J plays an Old Witch.
+J draws a Counterfeit, a Chariot Race and an Old Witch.
+L gains a Curse.
+L trashes a Curse.
+J plays an Old Witch.
+J draws a Copper, an Estate and an Old Witch.
+L gains a Curse.
+J plays a Chariot Race.
+J draws a Copper (from Teacher).
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Festival.
+J puts a Festival into their hand.
+L reveals a Curse.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J draws a Festival (from Teacher).
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Curse.
+J gets +$1.
+J gets 1 VP.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Chariot Race.
+J draws an Estate (from Teacher).
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+L reveals a Curse.
+J gets +$1.
+J gets 1 VP.
+J plays an Old Witch.
+J draws 2 Coppers and a Teacher.
+L gains a Curse.
+J plays a Teacher.
+J puts a Teacher on their Tavern mat.
+J plays an Old Witch.
+J draws an Estate, a Herald and a Chariot Race.
+L gains a Curse.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains 5 Chariot Races.
+J buys and gains a Herald.
+J returns a Fugitive.
+J receives a Disciple.
+J shuffles their deck.
+J draws an Estate, a Festival and 3 Chariot Races.
+
+Turn 14 - Lord Rattington
+L plays a Library.
+L draws 4 cards.
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J calls a Teacher.
+J moves +Card token to the Festival pile.
+J plays a Festival.
+J draws a Copper (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals an Estate.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals an Estate.
+J puts an Estate into their hand.
+L reveals an Estate.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals an Estate.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals an Estate.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Festival.
+J puts a Festival into their hand.
+L reveals an Estate.
+J gets +$1.
+J gets 1 VP.
+J plays a Festival.
+J draws a Counterfeit (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals an Estate.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+L reveals an Estate.
+J plays a Copper. (+$1)
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J buys a Ferry.
+J moves -Cost token to the Herald pile.
+J buys and gains 2 Old Witches.
+J draws 2 Festivals, a Chariot Race and 2 Old Witches.
+
+Turn 15 - Lord Rattington
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Festival.
+J draws a Herald (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Festival.
+J draws a Herald (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Herald.
+J draws a Copper.
+J gets +1 Action.
+J reveals an Old Witch.
+J plays an Old Witch.
+J draws a Silver, a Disciple and a Chariot Race.
+L gains a Curse.
+J plays a Disciple.
+J plays an Old Witch.
+J draws an Estate, a Chariot Race and an Old Witch.
+L gains a Curse.
+J plays an Old Witch again.
+J shuffles their deck.
+J draws 2 Chariot Races and an Old Witch.
+L gains a Curse.
+J gains an Old Witch.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals an Estate.
+J puts an Estate into their hand.
+L shuffles their deck.
+L reveals a Counterfeit.
+J plays a Herald.
+J draws a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Counterfeit.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Counterfeit.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Counterfeit.
+J puts a Counterfeit into their hand.
+L reveals a Counterfeit.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Festival.
+J puts a Festival into their hand.
+L reveals a Counterfeit.
+J plays a Festival.
+J draws a Teacher (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Counterfeit.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Festival.
+J puts a Festival into their hand.
+L reveals a Counterfeit.
+J plays a Festival.
+J draws an Old Witch (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays an Old Witch.
+J shuffles their deck.
+J draws a Copper, an Estate and an Old Witch.
+J plays a Chariot Race.
+J gets +1 Action.
+L reveals a Counterfeit.
+J plays a Chariot Race.
+J gets +1 Action.
+L reveals a Counterfeit.
+J plays a Chariot Race.
+J gets +1 Action.
+L reveals a Counterfeit.
+J plays a Teacher.
+J puts a Teacher on their Tavern mat.
+J plays a Copper. (+$1)
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Silver. (+$2)
+J buys and gains 6 Heralds.
+J shuffles their deck.
+J draws a Herald, 2 Chariot Races and 2 Old Witches.
+
+Turn 16 - Lord Rattington
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Silver. (+$2)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J calls a Teacher.
+J moves +Action token to the Old Witch pile.
+J plays a Herald.
+J draws an Old Witch.
+J gets +1 Action.
+J reveals an Old Witch.
+J plays an Old Witch.
+J gets +1 Action (from Teacher).
+J draws a Festival, a Herald and a Disciple.
+J plays a Festival.
+J draws a Herald (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Disciple.
+J plays an Old Witch.
+J gets +1 Action (from Teacher).
+J draws a Copper, an Estate and a Herald.
+J plays an Old Witch again.
+J gets +1 Action (from Teacher).
+J draws a Festival, a Counterfeit and a Herald.
+J gains an Old Witch.
+J plays a Herald.
+J draws a Chariot Race.
+J gets +1 Action.
+J reveals an Old Witch.
+J plays an Old Witch.
+J gets +1 Action (from Teacher).
+J draws a Silver, a Herald and a Chariot Race.
+J plays a Herald.
+J draws a Chariot Race.
+J gets +1 Action.
+J reveals an Estate.
+J plays a Herald.
+J draws an Estate.
+J gets +1 Action.
+J reveals a Festival.
+J plays a Festival.
+J draws a Herald (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Herald.
+J draws a Herald.
+J gets +1 Action.
+J reveals a Chariot Race.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals an Estate.
+J gets +$1.
+J gets 1 VP.
+J plays a Herald.
+J draws a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals an Estate.
+J gets +$1.
+J gets 1 VP.
+J plays a Herald.
+J draws an Old Witch.
+J gets +1 Action.
+J reveals an Estate.
+J plays a Herald.
+J draws an Estate.
+J gets +1 Action.
+J reveals a Festival.
+J plays a Festival.
+J draws an Old Witch (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Festival.
+J shuffles their deck.
+J draws an Old Witch (from Teacher).
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays an Old Witch.
+J gets +1 Action (from Teacher).
+J plays a Chariot Race.
+J gets +1 Action.
+L reveals an Estate.
+J plays a Silver. (+$2)
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J buys and gains 2 Old Witches.
+J buys and gains 2 Heralds.
+J shuffles their deck.
+J draws 2 Heralds, a Chariot Race and 2 Old Witches.
+

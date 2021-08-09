@@ -1,0 +1,550 @@
+Game #82455137, rated.
+Jazzercise: 46.43
+Honyloop: 48.08
+
+Kingdom generated with these relative percentages:
+0%: Distant Lands, Bureaucrat and Catapult
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+H starts with 7 Coppers.
+H starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Honyloop
+H plays 4 Coppers. (+$4)
+H buys and gains a Caravan.
+H draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Loan.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 2 - Honyloop
+H plays 3 Coppers. (+$3)
+H buys and gains a Caravan Guard.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Caravan.
+J draws 3 Coppers, an Estate and a Loan.
+
+Turn 3 - Honyloop
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays 4 Coppers. (+$4)
+H buys and gains a Caravan.
+H draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Loan.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 4 - Honyloop
+H starts their turn.
+H draws a card (Caravan).
+H plays a Caravan Guard.
+H shuffles their deck.
+H draws a card.
+H gets +1 Action.
+H plays 4 Coppers. (+$4)
+H buys Banish.
+H exiles 2 Estates.
+H draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys Banish.
+J exiles 2 Estates.
+J draws 2 Coppers, an Estate, a Caravan and a Loan.
+
+Turn 5 - Honyloop
+H starts their turn.
+H gets +$1.
+H plays a Caravan.
+H shuffles their deck.
+H draws a card.
+H gets +1 Action.
+H plays 4 Coppers. (+$4)
+H buys and gains a Caravan.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Caravan.
+J draws a Loan.
+J gets +1 Action.
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Loan.
+
+Turn 6 - Honyloop
+H starts their turn.
+H draws a card (Caravan).
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays 5 Coppers. (+$5)
+H buys and gains a Caravan.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J draws an Estate (Caravan).
+J plays a Loan. (+$1)
+J reveals a Silver.
+J discards a Silver.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains an Artisan.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Loan.
+
+Turn 7 - Honyloop
+H starts their turn.
+H draws a card (Caravan).
+H plays a Caravan Guard.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays 6 Coppers. (+$6)
+H buys and gains a Gold.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Loan. (+$1)
+J reveals a Loan.
+J discards a Loan.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Crypt.
+J draws a Copper, a Silver, an Estate, an Artisan and a Caravan.
+
+Turn 8 - Honyloop
+H starts their turn.
+H gets +$1.
+H draws 2 cards (Caravan).
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays 6 Coppers. (+$6)
+H buys and gains an Artisan.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Caravan.
+J shuffles their deck.
+J draws a Loan.
+J gets +1 Action.
+J plays an Artisan.
+J gains a Caravan.
+J topdecks a Caravan.
+J plays a Loan. (+$1)
+J reveals a Caravan and finally Copper.
+J trashes a Copper.
+J discards a Caravan.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Caravan.
+J draws 2 Coppers, a Silver, a Loan and a Crypt.
+
+Turn 9 - Honyloop
+H starts their turn.
+H draws 2 cards (Caravan).
+H plays a Caravan Guard.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays an Artisan.
+H gains a Caravan.
+H topdecks a card.
+H plays 4 Coppers and a Gold. (+$7)
+H buys and gains a Gold.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Caravan (Caravan).
+J plays a Caravan.
+J draws an Estate.
+J gets +1 Action.
+J plays a Loan. (+$1)
+J reveals a Caravan and finally Loan.
+J trashes a Loan.
+J discards a Caravan.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Mill.
+J plays a Crypt.
+J sets 2 Coppers, a Silver and a Loan aside.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, an Artisan and a Caravan.
+
+Turn 10 - Honyloop
+H starts their turn.
+H gets +$1.
+H draws 2 cards (Caravan).
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Gold. (+$3)
+H buys Banish.
+H exiles 5 Coppers.
+H draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J draws a Mill (Caravan).
+J puts a Copper in hand (Crypt).
+J plays a Caravan.
+J draws a Caravan.
+J gets +1 Action.
+J plays a Caravan.
+J gets +1 Action.
+J plays a Mill.
+J gets +1 Action.
+J discards a Copper and an Estate.
+J gets +$2.
+J plays an Artisan.
+J gains a Silver.
+J topdecks a Copper.
+J plays 2 Silvers. (+$4)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Artisan and a Mill.
+
+Turn 11 - Honyloop
+H starts their turn.
+H draws a card (Caravan).
+H plays a Caravan.
+H shuffles their deck.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan Guard.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays an Artisan.
+H gains a Leprechaun.
+H topdecks a card.
+H plays 2 Golds. (+$6)
+H buys Banish.
+H exiles 2 Coppers.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J puts a Loan in hand (Crypt).
+J draws an Estate and a Caravan (Caravan).
+J plays a Caravan.
+J draws a Silver.
+J gets +1 Action.
+J plays a Mill.
+J draws a Gold.
+J gets +1 Action.
+J discards a Copper and an Estate.
+J gets +$2.
+J plays an Artisan.
+J gains a Mill.
+J topdecks a Copper.
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, an Estate, an Artisan, a Mill and a Caravan.
+
+Turn 12 - Honyloop
+H starts their turn.
+H gets +$1.
+H draws a card (Caravan).
+H plays a Caravan.
+H gets +1 Action.
+H plays a Leprechaun.
+H gains a Gold.
+H gains a Wish.
+H plays 2 Golds. (+$6)
+H buys and gains a Caravan.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Mill (Caravan).
+J puts a Copper in hand (Crypt).
+J plays a Caravan.
+J draws a Silver.
+J gets +1 Action.
+J plays a Mill.
+J draws a Caravan.
+J gets +1 Action.
+J plays a Caravan.
+J draws a Loan.
+J gets +1 Action.
+J plays a Mill.
+J draws a Copper.
+J gets +1 Action.
+J discards a Copper and an Estate.
+J gets +$2.
+J plays an Artisan.
+J gains a Silver.
+J topdecks a Copper.
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J plays 3 Silvers. (+$6)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Province and a Mill.
+
+Turn 13 - Honyloop
+H starts their turn.
+H draws a card (Caravan).
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan Guard.
+H draws a card.
+H gets +1 Action.
+H plays a Wish.
+H gets +1 Action.
+H returns a Wish to the Wish pile.
+H gains a Caravan.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Leprechaun.
+H gains a Gold.
+H gains a Wish.
+H plays 2 Golds. (+$6)
+H buys and gains a Duchy.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws a Silver and a Province (Caravan).
+J puts a Silver in hand (Crypt).
+J plays a Mill.
+J draws a Mill.
+J gets +1 Action.
+J plays a Mill.
+J draws a Loan.
+J gets +1 Action.
+J discards 2 Provinces.
+J gets +$2.
+J plays a Copper, 3 Silvers and a Gold. (+$10)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, an Estate, an Artisan, a Mill and a Caravan.
+
+Turn 14 - Honyloop
+H starts their turn.
+H gets +$1.
+H draws 4 cards (Caravan).
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Wish.
+H gets +1 Action.
+H returns a Wish to the Wish pile.
+H gains a Duchy.
+H plays a Leprechaun.
+H gains a Gold.
+H gains a Wish.
+H plays 4 Golds. (+$12)
+H buys and gains a Province.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Caravan.
+J draws a Loan.
+J gets +1 Action.
+J plays a Mill.
+J draws a Silver.
+J gets +1 Action.
+J discards an Estate and a Loan.
+J gets +$2.
+J plays an Artisan.
+J gains a Tormentor.
+J topdecks a Tormentor.
+J plays 2 Silvers. (+$4)
+J buys and gains a Gold.
+J draws a Copper, a Gold, a Province, a Caravan and a Tormentor.
+
+Turn 15 - Honyloop
+H starts their turn.
+H draws a card (Caravan).
+H plays a Caravan Guard.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Wish.
+H gets +1 Action.
+H returns a Wish to the Wish pile.
+H gains a Duchy.
+H plays an Artisan.
+H gains a Duchy.
+H topdecks a card.
+H plays 2 Golds. (+$6)
+H buys Banish.
+H exiles 2 Duchies.
+H draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J draws a Caravan (Caravan).
+J plays a Caravan.
+J draws a Silver.
+J gets +1 Action.
+J plays a Caravan.
+J draws a Province.
+J gets +1 Action.
+J plays a Tormentor.
+J gets +$2.
+J takes Plague.
+H receives Plague.
+H gains a Curse.
+J discards Plague.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Gold, a Province, a Mill and a Crypt.
+
+Turn 16 - Honyloop
+H starts their turn.
+H gets +$1.
+H draws 2 cards (Caravan).
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Leprechaun.
+H gains a Gold.
+H gains a Wish.
+H plays 2 Golds. (+$6)
+H buys and gains a Duchy.
+H shuffles their deck.
+H draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J draws a Silver and a Province (Caravan).
+J plays a Mill.
+J draws a Caravan.
+J gets +1 Action.
+J discards 2 Provinces.
+J gets +$2.
+J plays a Caravan.
+J draws an Estate.
+J gets +1 Action.
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains a Province.
+J plays a Crypt.
+J sets 2 Silvers and a Gold aside.
+J draws 2 Provinces, an Artisan, a Mill and a Loan.
+
+Turn 17 - Honyloop
+H starts their turn.
+H draws 3 cards (Caravan).
+H plays a Caravan Guard.
+H draws a card.
+H gets +1 Action.
+H plays a Caravan.
+H draws a card.
+H gets +1 Action.
+H plays a Wish.
+H gets +1 Action.
+H returns a Wish to the Wish pile.
+H gains a Duchy.
+H plays 5 Golds. (+$15)
+H buys and gains a Province.
+H draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J draws a Copper (Caravan).
+J puts a Silver in hand (Crypt).
+J plays a Mill.
+J draws a Silver.
+J gets +1 Action.
+J discards 2 Provinces.
+J gets +$2.
+J plays an Artisan.
+J gains a Duchy.
+J topdecks a Duchy.
+J plays a Copper and 2 Silvers. (+$5)
+J plays a Loan. (+$1)
+J reveals a Tormentor and a Duchy and finally Gold.
+J discards a Gold, a Duchy and a Tormentor.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Gold, a Duchy, a Province and a Tormentor.
+

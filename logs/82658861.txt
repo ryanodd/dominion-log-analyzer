@@ -1,0 +1,581 @@
+Game #82658861, rated.
+ironic_jo: 43.9
+Jazzercise: 46.34
+
+
+i starts with 7 Coppers.
+i starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+i shuffles their deck.
+i draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - ironic_jo
+i plays 4 Coppers. (+$4)
+i buys and gains a Gladiator.
+i draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - ironic_jo
+i plays 3 Coppers. (+$3)
+i buys and gains a Cargo Ship.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Stockpile.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - ironic_jo
+i plays a Cargo Ship.
+i gets +$2.
+i plays a Copper. (+$1)
+i buys and gains a Gladiator.
+i sets a card aside with Cargo Ship.
+i draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Oasis.
+J draws 3 Coppers, an Estate and a Stockpile.
+
+Turn 4 - ironic_jo
+i starts their turn.
+i puts a Gladiator in hand (Cargo Ship).
+i plays a Gladiator.
+i gets +$2.
+i reveals a Gladiator.
+i gets +$1.
+i trashes a Gladiator.
+i discards a Gladiator.
+i takes 2 VP from Arena.
+i plays 4 Coppers. (+$4)
+i buys and gains a Soothsayer.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Wharf.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Wharf and a Stockpile.
+
+Turn 5 - ironic_jo
+i plays 5 Coppers. (+$5)
+i buys and gains a Wharf.
+i draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Wharf.
+J draws 2 Coppers.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains an Oasis.
+J buys and gains an Acting Troupe.
+J draws 3 Coppers, an Estate and an Oasis.
+
+Turn 6 - ironic_jo
+i plays a Soothsayer.
+i gains a Gold.
+J gains a Curse.
+J draws a Copper.
+i discards a Gladiator.
+i takes 2 VP from Arena.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws 2 Coppers (Wharf).
+J gets +1 Buy.
+J plays an Oasis.
+J draws an Acting Troupe.
+J gets +1 Action.
+J gets +$1.
+J discards an Estate.
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J plays 6 Coppers. (+$6)
+J buys and gains a Soothsayer.
+J draws a Curse, a Copper, 2 Estates and an Oasis.
+
+Turn 7 - ironic_jo
+i plays a Soothsayer.
+i gains a Gold.
+J gains a Curse.
+J shuffles their deck.
+J draws a Copper.
+i discards a Gladiator.
+i takes 2 VP from Arena.
+i draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Oasis.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J discards a Curse.
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J discards 2 Stockpiles from Exile.
+J draws 3 Coppers, an Estate and a Wharf.
+
+Turn 8 - ironic_jo
+i plays a Cargo Ship.
+i gets +$2.
+i plays a Gold and 3 Coppers. (+$6)
+i buys and gains a Forge.
+i sets a card aside with Cargo Ship.
+i draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Wharf.
+J draws a Curse and a Copper.
+J gets +1 Buy.
+J plays 4 Coppers. (+$4)
+J buys and gains an Oasis.
+J shuffles their deck.
+J draws a Curse, an Estate, 2 Oases and a Soothsayer.
+
+Turn 9 - ironic_jo
+i starts their turn.
+i puts a Forge in hand (Cargo Ship).
+i plays a Gladiator.
+i gets +$2.
+i reveals a Forge.
+i gets +$1.
+i trashes a Gladiator.
+i discards a Forge.
+i takes 2 VP from Arena.
+i plays 3 Coppers. (+$3)
+i buys and gains a Laboratory.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J draws a Copper and a Stockpile (Wharf).
+J gets +1 Buy.
+J plays an Oasis.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J discards a Curse.
+J plays an Oasis.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J discards an Estate.
+J plays a Soothsayer.
+J gains a Gold.
+i gains a Curse.
+i draws a card.
+J plays 3 Coppers. (+$3)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Forge.
+J draws 3 Coppers, an Estate and a Stockpile.
+
+Turn 10 - ironic_jo
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Forge.
+i trashes 3 Coppers and an Estate.
+i gains an Estate.
+i plays 2 Golds. (+$6)
+i buys and gains a Laboratory.
+i draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Laboratory.
+J draws a Curse, a Copper, an Estate, an Oasis and a Stockpile.
+
+Turn 11 - ironic_jo
+i plays a Cargo Ship.
+i gets +$2.
+i plays 3 Coppers. (+$3)
+i buys and gains a Laboratory.
+i sets a card aside with Cargo Ship.
+i draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Oasis.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J discards a Curse.
+J plays 2 Coppers. (+$2)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Wharf.
+J draws 3 Coppers, an Estate and an Oasis.
+
+Turn 12 - ironic_jo
+i starts their turn.
+i puts a Laboratory in hand (Cargo Ship).
+i plays a Laboratory.
+i shuffles their deck.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Gladiator.
+i gets +$2.
+i reveals a Wharf.
+i gets +$1.
+i trashes a Gladiator.
+i discards a Wharf.
+i takes 2 VP from Arena.
+i plays a Gold and a Copper. (+$4)
+i buys and gains an Acting Troupe.
+i draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Oasis.
+J draws a Soothsayer.
+J gets +1 Action.
+J gets +$1.
+J discards an Estate.
+J plays a Soothsayer.
+J gains a Gold.
+i gains a Curse.
+i draws a card.
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J discards 3 Stockpiles from Exile.
+J draws a Curse, a Copper, an Estate, a Laboratory and a Forge.
+
+Turn 13 - ironic_jo
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Gold and 3 Coppers. (+$6)
+i buys and gains an Acting Troupe.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Laboratory.
+J draws a Copper and an Oasis.
+J gets +1 Action.
+J plays an Oasis.
+J draws a Wharf.
+J gets +1 Action.
+J gets +$1.
+J discards a Copper.
+J plays a Wharf.
+J shuffles their deck.
+J draws a Copper and a Gold.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Forge.
+J trashes a Curse, 2 Coppers and an Estate.
+J gains an Estate.
+J plays a Gold. (+$3)
+J buys and gains a Gear.
+J draws 2 Coppers, an Estate, a Wharf and an Oasis.
+
+Turn 14 - ironic_jo
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays an Acting Troupe.
+i gets +4 Villagers.
+i trashes an Acting Troupe.
+i uses 1 Villager.
+i plays a Gladiator.
+i gets +$2.
+i reveals a Forge.
+i gets +$1.
+i discards a Forge.
+i takes 2 VP from Arena.
+i plays a Gold and a Copper. (+$4)
+i buys and gains a Laboratory.
+i draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws a Gold and a Stockpile (Wharf).
+J gets +1 Buy.
+J plays an Oasis.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J discards an Estate.
+J plays a Wharf.
+J draws a Copper and a Stockpile.
+J gets +1 Buy.
+J plays a Gold and 3 Coppers. (+$6)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Wharf.
+J buys and gains a Fortune.
+J draws a Curse, 2 Coppers, a Soothsayer and a Stockpile.
+
+Turn 15 - ironic_jo
+i plays an Acting Troupe.
+i gets +4 Villagers.
+i trashes an Acting Troupe.
+i plays 3 Coppers. (+$3)
+i buys and gains an Acting Troupe.
+i draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws an Oasis and a Stockpile (Wharf).
+J gets +1 Buy.
+J plays an Oasis.
+J shuffles their deck.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J discards a Curse.
+J plays a Soothsayer.
+J gains a Gold.
+i gains a Curse.
+i draws a card.
+J plays 2 Coppers. (+$2)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J repays 8 debt.
+J draws 2 Golds, an Estate, a Forge and an Oasis.
+
+Turn 16 - ironic_jo
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Wharf.
+i shuffles their deck.
+i draws 2 cards.
+i gets +1 Buy.
+i uses 1 Villager.
+i plays an Acting Troupe.
+i gets +4 Villagers.
+i trashes an Acting Troupe.
+i uses 1 Villager.
+i plays a Gladiator.
+i gets +$2.
+i reveals a Cargo Ship.
+i gets +$1.
+i uses 1 Villager.
+i plays a Cargo Ship.
+i gets +$2.
+i uses 1 Villager.
+i plays a Soothsayer.
+i gains a Gold.
+i sets a card aside with Cargo Ship.
+J gains a Curse.
+J draws a Copper.
+i plays a Gold. (+$3)
+i buys and gains a Fortune.
+i gains a Gold.
+i draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays an Oasis.
+J draws a Wharf.
+J gets +1 Action.
+J gets +$1.
+J discards an Estate.
+J plays a Wharf.
+J draws an Estate and a Gear.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Gear.
+J draws a Copper and an Oasis.
+J sets a Forge and an Estate aside with Gear.
+J plays 2 Golds and 2 Coppers. (+$8)
+J buys and gains a Laboratory.
+J buys and gains a Stockpile.
+J discards 4 Stockpiles from Exile.
+J shuffles their deck.
+J draws a Copper, a Laboratory, a Wharf, a Fortune and a Stockpile.
+
+Turn 17 - ironic_jo
+i starts their turn.
+i draws 2 cards (Wharf).
+i gets +1 Buy.
+i puts a Gold in hand (Cargo Ship).
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Gladiator.
+i gets +$2.
+i reveals a Forge.
+i gets +$1.
+i uses 1 Villager.
+i plays a Forge.
+i trashes a Curse, 3 Coppers and an Estate.
+i gains an Estate.
+i plays 2 Golds. (+$6)
+i repays 8 debt.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J draws a Copper and an Estate (Wharf).
+J gets +1 Buy.
+J puts an Estate and a Forge in hand (Gear).
+J plays a Laboratory.
+J draws a Copper and an Oasis.
+J gets +1 Action.
+J plays a Wharf.
+J draws a Gold and a Wharf.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Wharf.
+J draws an Estate and a Stockpile.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Forge.
+J trashes 3 Coppers, 3 Estates and an Oasis.
+J plays a Gold. (+$3)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Fortune.
+J gets +1 Buy.
+J buys and gains a Wharf.
+J buys and gains 2 Acting Troupes.
+J buys and gains a Laboratory.
+J draws a Copper, a Gold, 2 Oases and a Stockpile.
+
+Turn 18 - ironic_jo
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Gladiator.
+i gets +$2.
+i reveals a Curse.
+i gets +$1.
+i plays a Gold and a Copper. (+$4)
+i buys and gains a Wharf.
+i draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J draws a Curse and a Stockpile (Wharf).
+J gets +1 Buy.
+J draws a Copper and a Soothsayer (Wharf).
+J gets +1 Buy.
+J plays an Oasis.
+J draws a Gold.
+J gets +1 Action.
+J gets +$1.
+J discards a Curse.
+J plays an Oasis.
+J draws a Stockpile.
+J gets +1 Action.
+J gets +$1.
+J discards a Copper.
+J plays a Soothsayer.
+J gains a Gold.
+i gains a Curse.
+i draws a card.
+J plays 2 Golds and a Copper. (+$7)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Stockpile.
+J discards 5 Stockpiles from Exile.
+J buys and gains a Wharf.
+J buys and gains a Laboratory.
+J buys and gains an Acting Troupe.
+J shuffles their deck.
+J draws a Curse, a Copper, a Laboratory and 2 Wharves.
+
+Turn 19 - ironic_jo
+i plays a Wharf.
+i draws 2 cards.
+i gets +1 Buy.
+i uses 1 Villager.
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Gladiator.
+i gets +$2.
+i reveals a Cargo Ship.
+i gets +$1.
+i uses 1 Villager.
+i plays a Cargo Ship.
+i gets +$2.
+i uses 1 Villager.
+i plays a Soothsayer.
+i gains a Gold.
+i sets a card aside with Cargo Ship.
+J gains a Curse.
+J draws a Gear.
+i plays 2 Golds. (+$6)
+i plays a Fortune.
+i gets +1 Buy.
+i buys and gains 2 Provinces.
+i buys and gains an Acting Troupe.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Laboratory.
+J draws a Wharf and a Fortune.
+J gets +1 Action.
+J plays a Gear.
+J draws a Curse and a Laboratory.
+J sets a Laboratory and a Fortune aside with Gear.
+J draws 2 Golds, an Oasis, a Soothsayer and an Acting Troupe.
+
+Turn 20 - ironic_jo
+i starts their turn.
+i draws 2 cards (Wharf).
+i gets +1 Buy.
+i puts a Gold in hand (Cargo Ship).
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Laboratory.
+i draws 2 cards.
+i gets +1 Action.
+i plays a Gladiator.
+i gets +$2.
+

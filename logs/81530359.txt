@@ -1,0 +1,496 @@
+Game #81530359, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains an Upgrade.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws 3 Coppers, an Estate and an Upgrade.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains an Idol.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Ghost Town.
+J plays 4 Coppers. (+$4)
+J buys and gains a Blessed Village.
+J takes The Sea's Gift.
+J sets The Sea's Gift aside.
+J plays a Ghost Town.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains an Upgrade.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J receives The Sea's Gift.
+J draws an Upgrade.
+J discards The Sea's Gift.
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Ghost Town.
+J plays 5 Coppers. (+$5)
+J buys and gains an Upgrade.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws 2 Coppers, 2 Upgrades and a Blessed Village.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J draws an Estate (Ghost Town).
+J gets +1 Action.
+J plays a Blessed Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Ghost Town.
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes a Ghost Town.
+J gains a Blessed Village.
+J takes The Field's Gift.
+J sets The Field's Gift aside.
+J plays 5 Coppers. (+$5)
+J buys and gains a Peddler.
+J shuffles their deck.
+J draws 4 Coppers and a Ghost Town.
+
+Turn 6 - Lord Rattington
+L plays a Silver. (+$2)
+L plays an Idol. (+$2)
+L takes The Mountain's Gift.
+L receives The Mountain's Gift.
+L gains a Silver.
+L discards The Mountain's Gift.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Storeroom.
+J plays a Ghost Town.
+J discards The Field's Gift.
+J draws a Copper, an Upgrade, 2 Blessed Villages and a Ghost Town.
+
+Turn 7 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes an Estate.
+L gains a Silver.
+L plays an Idol. (+$2)
+L takes The Swamp's Gift.
+L receives The Swamp's Gift.
+L gains a Will-o'-Wisp.
+L discards The Swamp's Gift.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J plays a Blessed Village.
+J draws an Upgrade.
+J gets +2 Actions.
+J plays a Blessed Village.
+J draws a Peddler.
+J gets +2 Actions.
+J plays a Peddler.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays an Upgrade.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J trashes a Copper.
+J plays an Upgrade.
+J draws a Storeroom.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards a Ghost Town.
+J draws a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Conspirator.
+J shuffles their deck.
+J draws 2 Coppers, a Conspirator, an Upgrade and a Storeroom.
+
+Turn 8 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays an Upgrade.
+J draws a Ghost Town.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Conspirator.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys and gains a Ghost Town.
+J plays a Ghost Town.
+J plays a Ghost Town.
+J draws a Copper, an Upgrade, a Peddler, a Blessed Village and a Ghost Town.
+
+Turn 9 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J plays a Blessed Village.
+J draws a Blessed Village.
+J gets +2 Actions.
+J plays a Peddler.
+J shuffles their deck.
+J draws a Storeroom.
+J gets +1 Action.
+J gets +$1.
+J plays a Blessed Village.
+J draws an Upgrade.
+J gets +2 Actions.
+J plays an Upgrade.
+J draws a Conspirator.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Conspirator.
+J gets +$2.
+J draws a Copper.
+J gets +1 Action.
+J plays an Upgrade.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Storeroom.
+J gets +1 Buy.
+J plays 2 Coppers. (+$2)
+J buys and gains a Peddler.
+J buys and gains a Conspirator.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws a Copper, a Conspirator, an Upgrade, a Blessed Village and a Ghost Town.
+
+Turn 10 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes an Estate.
+L gains a Silver.
+L plays a Copper, a Gold and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws an Upgrade (Ghost Town).
+J gets +1 Action.
+J plays a Blessed Village.
+J draws a Blessed Village.
+J gets +2 Actions.
+J plays a Blessed Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays an Upgrade.
+J draws a Ghost Town.
+J gets +1 Action.
+J trashes a Ghost Town.
+J gains a Conspirator.
+J plays an Upgrade.
+J draws a Storeroom.
+J gets +1 Action.
+J trashes a Ghost Town.
+J gains a Conspirator.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Peddler.
+J gets +1 Action.
+J plays a Peddler.
+J draws a Peddler.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J shuffles their deck.
+J draws a Conspirator.
+J gets +1 Action.
+J gets +$1.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J gets +1 Action.
+J plays a Storeroom.
+J gets +1 Buy.
+J plays 2 Coppers. (+$2)
+J buys and gains a Conspirator.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Conspirators and 2 Blessed Villages.
+
+Turn 11 - Lord Rattington
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper.
+L puts a Copper into their hand.
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Blessed Village.
+J draws an Upgrade.
+J gets +2 Actions.
+J plays a Blessed Village.
+J draws a Conspirator.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Copper.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Peddler.
+J gets +1 Action.
+J plays a Peddler.
+J draws a Conspirator.
+J gets +1 Action.
+J gets +$1.
+J plays a Conspirator.
+J gets +$2.
+J draws a Ghost Town.
+J gets +1 Action.
+J plays an Upgrade.
+J draws a Storeroom.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards a Copper and a Province.
+J draws an Upgrade and a Peddler.
+J plays a Peddler.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays an Upgrade.
+J draws a Province.
+J gets +1 Action.
+J trashes a Ghost Town.
+J gains a Conspirator.
+J plays a Copper. (+$1)
+J buys and gains a Conspirator.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Province, a Conspirator, an Upgrade and a Peddler.
+
+Turn 12 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L plays an Idol. (+$2)
+L takes The Sky's Gift.
+L receives The Sky's Gift.
+L discards an Estate.
+L fails to discard for The Sky's Gift
+L discards The Sky's Gift.
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Peddler.
+J draws a Conspirator.
+J gets +1 Action.
+J gets +$1.
+J plays an Upgrade.
+J draws a Blessed Village.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Blessed Village.
+J draws a Storeroom.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Blessed Village.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Blessed Village.
+J draws a Conspirator.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Peddler.
+J gets +1 Action.
+J plays a Peddler.
+J draws an Upgrade.
+J gets +1 Action.
+J gets +$1.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 2 Provinces and an Upgrade.
+J gets +$3.
+J buys and gains a Blessed Village.
+J takes The Earth's Gift.
+J receives The Earth's Gift.
+J discards The Earth's Gift.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Province and 4 Conspirators.
+
+Turn 13 - Lord Rattington
+L plays a Copper, a Gold and 3 Silvers. (+$10)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Conspirator.
+J gets +$2.
+J draws 2 Conspirators, an Upgrade, a Peddler and a Blessed Village.
+
+Turn 14 - Lord Rattington
+L plays 2 Coppers and 3 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Blessed Village.
+J draws a Peddler.
+J gets +2 Actions.
+J plays a Peddler.
+J draws a Province.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws an Upgrade.
+J gets +1 Action.
+J gets +$1.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Storeroom.
+J gets +1 Action.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 2 Provinces and 2 Upgrades.
+J shuffles their deck.
+J draws a Province, a Conspirator and 2 Blessed Villages.
+J discards a Province.
+J gets +$1.
+J plays a Blessed Village.
+J draws a Conspirator.
+J gets +2 Actions.
+J plays a Blessed Village.
+J draws an Upgrade.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays an Upgrade.
+J draws an Upgrade.
+J gets +1 Action.
+J trashes a Conspirator.
+J gains a Duchy.
+J buys and gains a Province.
+J buys and gains a Duchy.
+J shuffles their deck.
+J draws a Province, a Conspirator, 2 Upgrades and a Blessed Village.
+

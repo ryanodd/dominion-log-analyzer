@@ -1,0 +1,388 @@
+Game #82101362, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Moneylender.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Militia.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Merchant.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Sentry.
+J draws 2 Coppers, an Estate, a Merchant and a Moneylender.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Library.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Merchant.
+J draws an Estate.
+J gets +1 Action.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Merchant and a Sentry.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Merchant.
+J draws a Moneylender.
+J gets +1 Action.
+J plays a Sentry.
+J draws a Copper.
+J gets +1 Action.
+J looks at 2 Coppers.
+J trashes 2 Coppers.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains a Mine.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 5 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards 2 Estates.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Poacher.
+J draws a Copper, an Estate, a Merchant, a Mine and a Moneylender.
+
+Turn 6 - Lord Rattington
+L plays a Library.
+L draws 3 cards.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Poacher.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Merchant.
+J draws a Sentry.
+J gets +1 Action.
+J plays a Sentry.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Copper and a Silver.
+J trashes a Copper.
+J topdecks a Silver.
+J plays a Mine.
+J trashes a Copper.
+J gains a Silver.
+J plays a Copper and a Silver. (+$3)
+J gets +$1.
+J buys and gains a Moat.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Poacher.
+
+Turn 7 - Lord Rattington
+L plays 3 Coppers, a Silver and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Poacher.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Remodel.
+J draws a Silver, a Merchant, a Mine, a Moat and a Moneylender.
+
+Turn 8 - Lord Rattington
+L plays a Militia.
+J reacts with a Moat.
+L gets +$2.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Merchant.
+J draws a Sentry.
+J gets +1 Action.
+J plays a Sentry.
+J shuffles their deck.
+J draws an Estate.
+J gets +1 Action.
+J looks at an Estate and a Poacher.
+J trashes an Estate.
+J discards a Poacher.
+J plays a Mine.
+J trashes a Silver.
+J gains a Gold.
+J plays a Gold. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Moneylender and a Remodel.
+
+Turn 9 - Lord Rattington
+L plays a Poacher.
+L draws a card.
+L gets +1 Action.
+L gets +$1.
+L plays a Library.
+L shuffles their deck.
+L draws 3 cards.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Remodel.
+J trashes an Estate.
+J gains a Poacher.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Merchant.
+J draws a Gold, a Merchant, a Mine, a Moat and a Poacher.
+
+Turn 10 - Lord Rattington
+L plays 2 Coppers and 2 Golds. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Poacher.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays a Merchant.
+J draws a Sentry.
+J gets +1 Action.
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Copper and a Remodel.
+J trashes a Copper.
+J topdecks a Remodel.
+J plays a Moat.
+J draws a Silver and a Remodel.
+J plays a Silver. (+$2)
+J gets +$1.
+J plays a Silver and a Gold. (+$5)
+J buys and gains a Library.
+J shuffles their deck.
+J draws an Estate, a Merchant, a Mine, a Moneylender and a Poacher.
+
+Turn 11 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards an Estate and a Mine.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Poacher.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Merchant.
+J draws a Remodel.
+J gets +1 Action.
+J plays a Remodel.
+J trashes a Moneylender.
+J gains a Gold.
+J plays a Silver. (+$2)
+J gets +$1.
+J buys and gains a Merchant.
+J draws a Silver, a Gold, a Merchant, a Moat and a Sentry.
+
+Turn 12 - Lord Rattington
+L plays a Library.
+L draws 2 cards.
+L looks at a card.
+L sets a card aside with Library.
+L draws 2 cards.
+L discards a Poacher.
+L plays 2 Coppers and 2 Golds. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Merchant.
+J draws a Poacher.
+J gets +1 Action.
+J plays a Poacher.
+J draws a Library.
+J gets +1 Action.
+J gets +$1.
+J plays a Library.
+J shuffles their deck.
+J draws an Estate and a Poacher.
+J looks at a Poacher.
+J sets a Poacher aside with Library.
+J draws a Gold and a Merchant.
+J looks at a Merchant.
+J sets a Merchant aside with Library.
+J draws a Mine.
+J looks at a Mine.
+J discards a Merchant and a Poacher.
+J plays a Silver. (+$2)
+J gets +$1.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Library, a Merchant, a Poacher and a Remodel.
+
+Turn 13 - Lord Rattington
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Merchant.
+J draws a Gold.
+J gets +1 Action.
+J plays a Poacher.
+J draws a Gold.
+J gets +1 Action.
+J gets +$1.
+J plays a Remodel.
+J trashes a Library.
+J gains a Gold.
+J plays a Silver. (+$2)
+J gets +$1.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J draws a Silver, a Province, a Merchant, a Moat and a Poacher.
+
+Turn 14 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Merchant.
+J draws an Estate.
+J gets +1 Action.
+J plays a Poacher.
+J draws a Sentry.
+J gets +1 Action.
+J gets +$1.
+J plays a Sentry.
+J draws a Mine.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Merchant and a Gold.
+J topdecks a Gold and a Merchant.
+J plays a Moat.
+J draws a Gold and a Merchant.
+J plays a Silver. (+$2)
+J gets +$1.
+J plays a Gold. (+$3)
+J buys and gains a Duchy.
+J draws a Silver, 2 Golds, a Merchant and a Poacher.
+
+Turn 15 - Lord Rattington
+L plays a Poacher.
+L draws a card.
+L gets +1 Action.
+L gets +$1.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Merchant.
+J draws a Remodel.
+J gets +1 Action.
+J plays a Poacher.
+J draws a Province.
+J gets +1 Action.
+J gets +$1.
+J plays a Remodel.
+J trashes a Gold.
+J gains a Province.
+J plays a Silver. (+$2)
+J gets +$1.
+J plays a Gold. (+$3)
+J buys and gains a Duchy.
+J shuffles their deck.
+J draws 2 Merchants, 2 Poachers and a Sentry.
+
+Turn 16 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards 2 Merchants.
+L plays a Silver. (+$2)
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Sentry.
+J draws a Merchant.
+J gets +1 Action.
+J looks at a Remodel and a Gold.
+J trashes a Remodel.
+J topdecks a Gold.
+J plays a Merchant.
+J draws a Gold.
+J gets +1 Action.
+J plays a Poacher.
+J draws a Province.
+J gets +1 Action.
+J gets +$1.
+J plays a Poacher.
+J draws a Duchy.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold. (+$3)
+J buys and gains a Duchy.
+J draws a Gold, an Estate, a Duchy, a Province and a Moat.
+
+Turn 17 - Lord Rattington
+L plays a Library.
+L draws 2 cards.
+L shuffles their deck.
+L draws a card.
+L plays 2 Coppers, a Silver and 2 Golds. (+$10)
+L buys and gains a Province.
+L draws 5 cards.
+

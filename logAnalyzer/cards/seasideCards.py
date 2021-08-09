@@ -193,12 +193,12 @@ def create_Outpost():
 cardFns['Outpost'] = create_Outpost
 
 
-def create_Tactitian():
+def create_Tactician():
     cardParams = CardParams()
     return cardParams
 
 
-cardFns['Tactitian'] = create_Tactitian
+cardFns['Tactician'] = create_Tactician
 
 
 def create_Treasury():

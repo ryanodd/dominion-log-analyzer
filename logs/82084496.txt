@@ -1,0 +1,340 @@
+Game #82084496, rated.
+Jazzercise: 44.94
+Sebbik9421: 44.82
+
+Kingdom generated with these relative percentages:
+0%: Conspirator, Baron, Courtier, Bridge and Courtyard
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+S starts with 7 Coppers.
+S starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Sebbik9421
+S plays 4 Coppers. (+$4)
+S buys and gains a Wishing Well.
+S draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 2 - Sebbik9421
+S plays 3 Coppers. (+$3)
+S buys and gains a Silver.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Count.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - Sebbik9421
+S plays 3 Coppers. (+$3)
+S buys and gains a Silver.
+S draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Bandit Camp.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - Sebbik9421
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Silver and finds it.
+S plays a Silver and 4 Coppers. (+$6)
+S buys and gains a Count.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Estate and a Bandit Camp.
+
+Turn 5 - Sebbik9421
+S plays a Count.
+S topdecks a card.
+S trashes 2 Coppers and an Estate.
+S draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Bandit Camp.
+J draws a Silver.
+J gets +2 Actions.
+J gains a Spoils.
+J plays 2 Silvers and 2 Coppers. (+$6)
+J buys and gains a Bridge Troll.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Bandit Camp and a Count.
+
+Turn 6 - Sebbik9421
+S plays a Silver and 2 Coppers. (+$4)
+S buys and gains a Feodum.
+S draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Count.
+J topdecks a Silver.
+J trashes 2 Coppers and an Estate.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 7 - Sebbik9421
+S plays a Wishing Well.
+S shuffles their deck.
+S draws a card.
+S gets +1 Action.
+S wishes for Estate but reveals Copper.
+S plays a Silver and 4 Coppers. (+$6)
+S buys and gains a Treasury.
+S draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 2 Silvers and 2 Coppers. (+$6)
+J buys and gains a Bandit Camp.
+J draws 2 Coppers, a Silver, an Estate and a Bridge Troll.
+
+Turn 8 - Sebbik9421
+S plays a Silver and a Copper. (+$3)
+S buys and gains a Wishing Well.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Bridge Troll.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Spoils and a Bridge Troll.
+
+Turn 9 - Sebbik9421
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Copper and finds it.
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Estate but reveals Silver.
+S plays a Treasury.
+S draws a card.
+S gets +1 Action.
+S returns -Coin token set by Bridge Troll. (-$1)
+S plays a Count.
+S topdecks a card.
+S trashes 3 Coppers and an Estate.
+S topdecks a Treasury.
+S draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Silver and 2 Coppers. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains an Expand.
+J buys and gains a Wishing Well.
+J buys and gains a Faithful Hound.
+J draws 3 Coppers, an Estate and a Bandit Camp.
+
+Turn 10 - Sebbik9421
+S plays a Treasury.
+S draws a card.
+S gets +1 Action.
+S returns -Coin token set by Bridge Troll. (-$1)
+S plays 2 Silvers and 2 Coppers. (+$6)
+S buys and gains a Bridge Troll.
+S topdecks a Treasury.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Bandit Camp.
+J draws a Bandit Camp.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Bandit Camp.
+J draws a Silver.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Bandit Camp.
+J buys and gains a Faithful Hound.
+J shuffles their deck.
+J draws 2 Silvers, an Estate, a Count and a Spoils.
+
+Turn 11 - Sebbik9421
+S plays a Treasury.
+S draws a card.
+S gets +1 Action.
+S gets +$1.
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Estate but reveals Silver.
+S plays a Count.
+S topdecks a card.
+S trashes a Copper, an Estate and a Feodum.
+S gains 3 Silvers.
+S topdecks a Treasury.
+S draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Count.
+J topdecks a Spoils.
+J gets +$3.
+J plays 2 Silvers. (+$4)
+J buys and gains an Expand.
+J draws an Estate, a Bandit Camp and 3 Spoils.
+
+Turn 12 - Sebbik9421
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S shuffles their deck.
+S wishes for Silver and finds it.
+S plays a Treasury.
+S draws a card.
+S gets +1 Action.
+S gets +$1.
+S plays a Bridge Troll.
+S gets +1 Buy.
+S plays 4 Silvers and a Copper. (+$9)
+S buys and gains a Bandit Camp.
+S buys and gains a Bridge Troll.
+S topdecks a Treasury.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Spoils. (+$3)
+J returns -Coin token set by Bridge Troll. (-$1)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Copper. (+$1)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J draws a Copper, a Silver, 2 Bandit Camps and a Faithful Hound.
+
+Turn 13 - Sebbik9421
+S starts their turn.
+S gets +1 Buy.
+S plays a Treasury.
+S draws a card.
+S gets +1 Action.
+S gets +$1.
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Copper but reveals Silver.
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Bridge Troll and finds it.
+S plays a Bridge Troll.
+S gets +1 Buy.
+S plays 4 Silvers. (+$8)
+S buys and gains an Expand.
+S buys and gains a Bandit Camp.
+S buys and gains a Wishing Well.
+S topdecks a Treasury.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Bandit Camp.
+J draws an Expand.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Faithful Hound.
+J draws a Copper and a Bridge Troll.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays an Expand.
+J trashes a Copper.
+J gains a Wishing Well.
+J plays a Copper. (+$1)
+J returns -Coin token set by Bridge Troll. (-$1)
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Wishing Well.
+J shuffles their deck.
+J draws 2 Coppers, a Wishing Well, a Bridge Troll and a Faithful Hound.
+
+Turn 14 - Sebbik9421
+S starts their turn.
+S gets +1 Buy.
+S plays a Treasury.
+S draws a card.
+S gets +1 Action.
+S returns -Coin token set by Bridge Troll. (-$1)
+S plays a Bandit Camp.
+S draws a card.
+S gets +2 Actions.
+S gains a Spoils.
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Silver but reveals Wishing Well.
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Silver and finds it.
+S plays a Wishing Well.
+S draws a card.
+S gets +1 Action.
+S wishes for Bandit Camp but reveals Silver.
+S plays a Bridge Troll.
+S gets +1 Buy.
+S plays an Expand.
+S trashes a Copper.
+S gains a Bandit Camp.
+S plays 3 Silvers. (+$6)
+S buys and gains a Faithful Hound.
+S buys and gains a Bridge Troll.
+S buys and gains a Bandit Camp.
+S topdecks a Treasury.
+S draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Wishing Well.
+J draws a Faithful Hound.
+J gets +1 Action.
+J wishes for Bandit Camp but reveals Count.
+

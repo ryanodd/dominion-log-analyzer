@@ -1,0 +1,594 @@
+Game #81626578, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Lookout.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Lookout.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at 2 Coppers and an Estate.
+J trashes an Estate.
+J discards a Copper.
+J topdecks a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Lookout.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Settlers.
+J shuffles their deck.
+J draws a Copper, an Estate, 2 Lookouts and a Settlers.
+
+Turn 4 - Lord Rattington
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Silver and 2 Coppers.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Silver.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Silver and 2 Coppers.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Silver.
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J looks at 2 Coppers.
+J looks at 2 Coppers.
+J puts a Copper into their hand.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Lookout.
+
+Turn 5 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L buys and gains a Rabble.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at an Estate, a Lookout and a Settlers.
+J trashes an Estate.
+J discards a Settlers.
+J topdecks a Lookout.
+J plays 3 Coppers. (+$3)
+J buys and gains a Settlers.
+J draws 2 Coppers, 2 Silvers and a Lookout.
+
+Turn 6 - Lord Rattington
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J shuffles their deck.
+J looks at 2 Coppers and a Settlers.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Settlers.
+J plays 2 Silvers and 2 Coppers. (+$6)
+J buys and gains a Ghost Ship.
+J draws a Copper, an Estate, a Lookout and 2 Settlers.
+
+Turn 7 - Lord Rattington
+L plays a Silver, a Copper and a Gold. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J shuffles their deck.
+J looks at 2 Coppers and a Ghost Ship.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Ghost Ship.
+J plays a Settlers.
+J draws a Ghost Ship.
+J gets +1 Action.
+J looks at a Copper.
+J puts a Copper into their hand.
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J plays a Ghost Ship.
+J draws a Silver and a Lookout.
+L topdecks 2 cards.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Bridge.
+J shuffles their deck.
+J draws a Copper, a Silver, a Lookout and 2 Settlers.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Bridge and a Ghost Ship.
+J trashes a Copper.
+J discards a Bridge.
+J topdecks a Ghost Ship.
+J plays a Settlers.
+J draws a Ghost Ship.
+J gets +1 Action.
+J looks at a Bridge.
+J plays a Ghost Ship.
+J draws an Estate and a Lookout.
+L topdecks 2 cards.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Settlers.
+J shuffles their deck.
+J draws a Silver, an Estate, 2 Lookouts and a Settlers.
+
+Turn 9 - Lord Rattington
+L plays 2 Silvers and a Copper. (+$5)
+L buys and gains a Rabble.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at 2 Coppers and a Settlers.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Settlers.
+J plays a Settlers.
+J draws a Settlers.
+J gets +1 Action.
+J looks at a Copper.
+J puts a Copper into their hand.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Silver, a Bridge and a Settlers.
+J trashes a Settlers.
+J discards a Silver.
+J topdecks a Bridge.
+J plays a Settlers.
+J draws a Bridge.
+J gets +1 Action.
+J looks at a Silver.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Silver and a Copper. (+$3)
+J buys and gains 2 Settlers.
+J shuffles their deck.
+J draws a Ghost Ship, a Lookout and 3 Settlers.
+
+Turn 10 - Lord Rattington
+L plays a Rabble.
+L shuffles their deck.
+L draws 3 cards.
+J reveals 2 Silvers and an Estate.
+J discards 2 Silvers.
+J topdecks an Estate.
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, an Estate and a Lookout.
+J trashes an Estate.
+J discards a Lookout.
+J topdecks a Copper.
+J plays a Settlers.
+J draws a Copper.
+J gets +1 Action.
+J looks at 2 Silvers and a Lookout.
+J plays a Settlers.
+J draws a Settlers.
+J gets +1 Action.
+J looks at 2 Silvers and a Lookout.
+J plays a Settlers.
+J draws a Bridge.
+J gets +1 Action.
+J looks at 2 Silvers and a Lookout.
+J plays a Settlers.
+J shuffles their deck.
+J draws a Lookout.
+J gets +1 Action.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Copper. (+$1)
+J buys and gains 2 Encampments.
+J shuffles their deck.
+J draws 2 Silvers, a Bridge, a Lookout and a Settlers.
+
+Turn 11 - Lord Rattington
+L plays a Rabble.
+L draws 3 cards.
+J reveals a Lookout and 2 Settlers.
+J discards a Lookout and 2 Settlers.
+L plays 3 Silvers, 2 Coppers and a Gold. (+$11)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Settlers.
+J draws a Ghost Ship.
+J gets +1 Action.
+J looks at a Lookout and 2 Settlers.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Settlers and an Encampment.
+J trashes a Copper.
+J discards an Encampment.
+J topdecks a Settlers.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Silvers. (+$4)
+J buys and gains a Mastermind.
+J buys and gains an Encampment.
+J shuffles their deck.
+J draws 2 Silvers, an Encampment and 2 Settlers.
+
+Turn 12 - Lord Rattington
+L plays a Silver, 3 Coppers and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Encampment.
+J draws a Ghost Ship and a Lookout.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Lookout and 2 Settlers.
+J trashes a Lookout.
+J discards a Settlers.
+J topdecks a Settlers.
+J plays a Settlers.
+J draws a Settlers.
+J gets +1 Action.
+J looks at a Settlers.
+J plays a Settlers.
+J draws a Bridge.
+J gets +1 Action.
+J looks at a Settlers.
+J plays a Settlers.
+J draws an Encampment.
+J gets +1 Action.
+J looks at a Settlers.
+J plays a Ghost Ship.
+J draws an Encampment and a Mastermind.
+L topdecks 2 cards.
+J plays a Mastermind.
+J plays 2 Silvers. (+$4)
+J buys and gains a Bridge.
+J returns an Encampment to the Encampment pile.
+J shuffles their deck.
+J draws 2 Bridges and 3 Settlers.
+
+Turn 13 - Lord Rattington
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Rabble.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J plays a Settlers.
+J draws a Settlers.
+J gets +1 Action.
+J plays a Settlers again.
+J draws an Encampment.
+J gets +1 Action.
+J plays a Settlers a third time.
+J draws a Silver.
+J gets +1 Action.
+J plays a Settlers.
+J draws an Encampment.
+J gets +1 Action.
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J plays a Settlers.
+J draws a Lookout.
+J gets +1 Action.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Silvers. (+$4)
+J buys and gains 2 Bustling Villages.
+J buys an Advance.
+J trashes a Lookout.
+J gains a Prince.
+J shuffles their deck.
+J draws a Bridge, a Ghost Ship, an Encampment and 2 Settlers.
+
+Turn 14 - Lord Rattington
+L plays 2 Silvers and a Copper. (+$5)
+L buys and gains a Rabble.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Settlers.
+J draws an Encampment.
+J gets +1 Action.
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J plays an Encampment.
+J draws a Settlers and a Bustling Village.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays a Bustling Village.
+J draws a Mastermind.
+J gets +3 Actions.
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J plays a Ghost Ship.
+J draws a Bustling Village and a Prince.
+L topdecks 2 cards.
+J plays a Prince.
+J sets a Bridge aside with Prince.
+J plays a Bustling Village.
+J draws a Settlers.
+J gets +3 Actions.
+J plays a Settlers.
+J draws a Bridge.
+J gets +1 Action.
+J plays a Mastermind.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Silvers. (+$4)
+J buys and gains a Gold.
+J returns an Encampment to the Encampment pile.
+J shuffles their deck.
+J draws a Silver, a Bridge, 2 Settlers and a Bustling Village.
+
+Turn 15 - Lord Rattington
+L plays a Rabble.
+L draws 3 cards.
+J reveals a Bustling Village and 2 Settlers.
+J discards 2 Settlers and a Bustling Village.
+L plays a Silver and a Gold. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J plays a Bustling Village.
+J draws a Gold.
+J gets +3 Actions.
+J looks at a Bustling Village and 2 Settlers.
+J looks at a Bustling Village and 2 Settlers.
+J puts a Settlers into their hand.
+J plays a Bustling Village again.
+J draws a Ghost Ship.
+J gets +3 Actions.
+J looks at a Bustling Village and a Settlers.
+J puts a Settlers into their hand.
+J plays a Bustling Village a third time.
+J draws an Encampment.
+J gets +3 Actions.
+J looks at a Bustling Village.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Settlers.
+J draws a Silver.
+J gets +1 Action.
+J looks at a Bustling Village.
+J plays a Settlers.
+J shuffles their deck.
+J draws a Bustling Village.
+J gets +1 Action.
+J plays a Settlers.
+J gets +1 Action.
+J plays a Settlers.
+J gets +1 Action.
+J plays a Ghost Ship.
+L topdecks 2 cards.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains 2 Bridges.
+J buys and gains a Bustling Village.
+J sets a Bridge aside.
+J shuffles their deck.
+J draws a Ghost Ship, 2 Settlers, a Bustling Village and a Mastermind.
+
+Turn 16 - Lord Rattington
+L plays a Silver and a Copper. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bustling Village.
+J draws a Silver.
+J gets +3 Actions.
+J plays a Settlers.
+J draws a Bridge.
+J gets +1 Action.
+J plays a Settlers.
+J draws a Bustling Village.
+J gets +1 Action.
+J plays a Bustling Village.
+J draws a Settlers.
+J gets +3 Actions.
+J plays a Settlers.
+J draws a Bustling Village.
+J gets +1 Action.
+J plays a Bustling Village.
+J draws a Bridge.
+J gets +3 Actions.
+J plays a Mastermind.
+J plays a Ghost Ship.
+J draws a Silver and an Encampment.
+L topdecks 2 cards.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays an Encampment.
+J draws a Gold and a Bridge.
+J gets +2 Actions.
+J reveals a Gold.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains a Rabble.
+J buys and gains a Bustling Village.
+J buys and gains 2 Bridges.
+J buys and gains a Bustling Village.
+J sets a Bridge aside.
+J shuffles their deck.
+J draws 3 Bridges, a Rabble and a Settlers.
+
+Turn 17 - Lord Rattington
+L plays a Rabble.
+L draws 3 cards.
+J reveals 2 Silvers and a Settlers.
+J discards 2 Silvers and a Settlers.
+L plays 2 Silvers and a Copper. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J plays a Settlers.
+J draws a Bustling Village.
+J gets +1 Action.
+J looks at 2 Silvers and a Settlers.
+J plays a Settlers again.
+J draws a Gold.
+J gets +1 Action.
+J looks at 2 Silvers and a Settlers.
+J plays a Settlers a third time.
+J draws a Bustling Village.
+J gets +1 Action.
+J looks at 2 Silvers and a Settlers.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bustling Village.
+J draws a Bridge.
+J gets +3 Actions.
+J looks at 2 Silvers and a Settlers.
+J plays a Bustling Village.
+J draws a Ghost Ship.
+J gets +3 Actions.
+J looks at 2 Silvers and a Settlers.
+J puts a Settlers into their hand.
+J plays a Settlers.
+J draws a Settlers.
+J gets +1 Action.
+J looks at 2 Silvers.
+J plays a Settlers.
+J draws a Bustling Village.
+J gets +1 Action.
+J looks at 2 Silvers.
+J plays a Bustling Village.
+J draws a Bridge.
+J gets +3 Actions.
+J looks at 2 Silvers.
+J plays a Ghost Ship.
+J draws a Settlers and a Bustling Village.
+L topdecks 2 cards.
+J plays a Bustling Village.
+J draws an Encampment.
+J gets +3 Actions.
+J looks at 2 Silvers.
+J plays a Rabble.
+J shuffles their deck.
+J draws 2 Silvers and a Bustling Village.
+L reveals a Silver, a Copper and a Gold.
+L discards a Copper, a Silver and a Gold.
+J plays an Encampment.
+J gets +2 Actions.
+J reveals a Gold.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains 6 Provinces.
+J sets a Bridge aside.
+J shuffles their deck.
+J draws a Silver, a Province, a Bridge, a Bustling Village and a Mastermind.
+

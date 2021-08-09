@@ -1,0 +1,388 @@
+Game #81563214, unrated.
+
+
+L starts with a Goat.
+L starts with 6 Coppers.
+L starts with a Hovel, a Necropolis and an Overgrown Estate.
+J starts with a Goat.
+J starts with 6 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers, a Hovel and a Goat.
+
+Turn 1 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Goat. (+$1)
+L trashes a Copper.
+L plays a Copper. (+$1)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays a Goat. (+$1)
+J trashes a Hovel.
+J plays 3 Coppers. (+$3)
+J buys and gains a Potion.
+J draws 3 Coppers, a Necropolis and an Overgrown Estate.
+
+Turn 2 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Necropolis.
+J gets +2 Actions.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Potion and a Goat.
+
+Turn 3 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Goat. (+$1)
+L trashes a Copper.
+L plays a Silver and a Copper. (+$3)
+L buys and gains a Potion.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a Familiar.
+J draws 2 Coppers, a Silver, a Necropolis and an Overgrown Estate.
+
+Turn 4 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains an Acting Troupe.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Overgrown Estate.
+
+Turn 5 - Lord Rattington
+L plays a Potion.
+L plays 2 Coppers. (+$2)
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Falconer.
+J draws 2 Coppers, a Familiar, a Potion and an Acting Troupe.
+
+Turn 6 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 3 Silvers and a Copper. (+$7)
+L buys and gains a Legionary.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Familiar.
+J draws a Goat.
+J gets +1 Action.
+L gains a Curse.
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J plays a Goat. (+$1)
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a Familiar.
+J shuffles their deck.
+J draws 2 Coppers, a Familiar, a Necropolis and a Falconer.
+
+Turn 7 - Lord Rattington
+L plays a Silver and a Copper. (+$3)
+L plays a Potion.
+L plays a Goat. (+$1)
+L trashes a Copper.
+L buys and gains a Familiar.
+J reacts with a Falconer.
+J plays a Falconer.
+J gains a Silver.
+J discards a Falconer.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Familiar.
+J draws a Potion.
+J gets +1 Action.
+L gains a Curse.
+J plays a Silver and 2 Coppers. (+$4)
+J plays a Potion.
+J buys and gains a Familiar.
+J draws 2 Coppers, a Familiar, an Overgrown Estate and a Goat.
+
+Turn 8 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 2 Silvers and a Copper. (+$5)
+L buys and gains a Legionary.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+L gains a Curse.
+J plays a Goat. (+$1)
+J trashes an Overgrown Estate.
+J draws a Silver.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Hireling.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Familiar.
+
+Turn 9 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Legionary.
+L gets +$3.
+L plays a Legionary.
+L gets +$3.
+L plays a Copper. (+$1)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Familiar.
+J draws a Potion.
+J gets +1 Action.
+L gains a Curse.
+J plays a Silver and 3 Coppers. (+$5)
+J plays a Potion.
+J buys and gains a Legionary.
+J draws a Copper, 2 Familiars, a Hireling and a Goat.
+
+Turn 10 - Lord Rattington
+L plays a Goat. (+$1)
+L trashes a Curse.
+L plays a Copper. (+$1)
+L plays a Potion.
+L plays a Copper. (+$1)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Familiar.
+J draws a Silver.
+J gets +1 Action.
+L gains a Curse.
+J plays a Familiar.
+J draws a Necropolis.
+J gets +1 Action.
+L gains a Curse.
+J plays a Hireling.
+J plays a Goat. (+$1)
+J trashes a Necropolis.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, a Familiar, a Goat and a Falconer.
+
+Turn 11 - Lord Rattington
+L plays a Familiar.
+L draws a card.
+L gets +1 Action.
+J gains a Curse.
+L plays 3 Silvers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J draws a Legionary (Hireling).
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+L gains a Curse.
+J plays a Falconer.
+J gains an Acting Troupe.
+J uses 1 Villager.
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J uses 1 Villager.
+J plays a Legionary.
+J gets +$3.
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Hireling.
+J draws 2 Silvers, 2 Familiars and a Potion.
+
+Turn 12 - Lord Rattington
+L plays a Familiar.
+L draws a card.
+L gets +1 Action.
+J gains a Curse.
+L plays a Silver and a Gold. (+$5)
+L plays a Goat. (+$1)
+L trashes a Copper.
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Copper (Hireling).
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+L gains a Curse.
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+J plays 2 Silvers and 3 Coppers. (+$7)
+J plays a Potion.
+J buys and gains a Hireling.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Familiar and a Goat.
+
+Turn 13 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Legionary.
+L gets +$3.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Potion (Hireling).
+J plays a Familiar.
+J draws a Silver.
+J gets +1 Action.
+J plays a Goat. (+$1)
+J trashes a Potion.
+J plays 3 Silvers and a Copper. (+$7)
+J buys and gains a Hireling.
+J draws a Curse, 2 Coppers, a Legionary and a Falconer.
+
+Turn 14 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays a Silver and a Copper. (+$3)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws a Familiar (Hireling).
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Curse.
+J gets +1 Action.
+J plays a Falconer.
+J gains an Acting Troupe.
+J uses 1 Villager.
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J uses 1 Villager.
+J plays a Legionary.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains a Treasure Map.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Hirelings and a Goat.
+
+Turn 15 - Lord Rattington
+L plays a Silver. (+$2)
+L plays a Potion.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Copper (Hireling).
+J plays a Hireling.
+J uses 1 Villager.
+J plays a Hireling.
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Treasure Map.
+J draws a Copper, a Familiar, a Hireling, a Legionary and a Falconer.
+
+Turn 16 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays 2 Silvers and a Gold. (+$7)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J draws a Silver and 2 Familiars (Hireling).
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Treasure Map.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Curse.
+J gets +1 Action.
+J plays a Hireling.
+J uses 1 Villager.
+J plays a Legionary.
+J gets +$3.
+J uses 1 Villager.
+J plays a Falconer.
+J gains an Acting Troupe.
+J uses 1 Villager.
+J plays an Acting Troupe.
+J gets +4 Villagers.
+J trashes an Acting Troupe.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Hireling.
+J shuffles their deck.
+J draws a Curse, a Copper, a Silver, a Treasure Map and a Familiar.
+
+Turn 17 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays a Goat. (+$1)
+L trashes a Curse.
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J draws a Curse, a Silver, a Treasure Map and a Familiar (Hireling).
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Hireling.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Goat.
+J gets +1 Action.
+J plays a Hireling.
+J uses 1 Villager.
+J plays a Treasure Map.
+J trashes a Treasure Map.
+J trashes a Treasure Map.
+J gains 4 Golds onto their drawpile.
+

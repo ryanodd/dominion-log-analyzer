@@ -1,0 +1,737 @@
+Game #82212029, rated.
+Jazzercise: 45.65
+Gubo: 45.61
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+G starts with 7 Coppers.
+G starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Gubo
+G plays 4 Coppers. (+$4)
+G buys and gains a Procession.
+G draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Raze.
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 2 - Gubo
+G plays 3 Coppers. (+$3)
+G buys and gains a Raze.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J draws 2 Coppers, 2 Estates and a Raze.
+
+Turn 3 - Gubo
+G plays a Procession.
+G plays a Raze.
+G gets +1 Action.
+G trashes an Estate.
+G gets 1 VP from Tomb.
+G looks at 2 cards.
+G puts a card into their hand.
+G discards a Copper.
+G plays a Raze again.
+G gets +1 Action.
+G trashes an Estate.
+G gets 1 VP from Tomb.
+G looks at 2 cards.
+G puts a card into their hand.
+G discards a Copper.
+G trashes a Raze.
+G gets 1 VP from Tomb.
+G gains a Sage.
+G plays 3 Coppers. (+$3)
+G buys and gains a Raze.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J gets 1 VP from Tomb.
+J looks at an Estate and a Copper.
+J puts an Estate into their hand.
+J discards a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Raze.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Raze.
+
+Turn 4 - Gubo
+G plays a Raze.
+G gets +1 Action.
+G trashes an Estate.
+G gets 1 VP from Tomb.
+G looks at 2 cards.
+G puts a card into their hand.
+G discards a Procession.
+G plays 4 Coppers. (+$4)
+G buys and gains a Silver.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J gets 1 VP from Tomb.
+J looks at an Estate and a Copper.
+J puts a Copper into their hand.
+J discards an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Sage.
+J draws 3 Coppers, a Gold and a Raze.
+
+Turn 5 - Gubo
+G plays a Sage.
+G gets +1 Action.
+G reveals a Procession.
+G puts a Procession into their hand.
+G plays a Procession using Way of the Monkey.
+G gets +1 Buy.
+G gets +$1.
+G plays 4 Coppers. (+$4)
+G buys and gains Sir Vander.
+G draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J gets 1 VP from Tomb.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a City Quarter.
+J repays 5 debt (3 remaining).
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Gold and a Sage.
+
+Turn 6 - Gubo
+G plays a Raze.
+G gets +1 Action.
+G trashes a Raze.
+G gets 1 VP from Tomb.
+G shuffles their deck.
+G looks at 2 cards.
+G puts a card into their hand.
+G discards a Procession.
+G plays 4 Coppers and a Silver. (+$6)
+G buys and gains a Gold.
+G draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a City Quarter, an Estate, 4 Coppers and 2 Razes.
+J discards 4 Coppers, an Estate, 2 Razes and a City Quarter.
+J plays a Copper and a Silver. (+$3)
+J repays 3 debt.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a City Quarter.
+J repays 4 debt (4 remaining).
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 City Quarters.
+
+Turn 7 - Gubo
+G plays a Sage.
+G gets +1 Action.
+G shuffles their deck.
+G reveals a Silver.
+G puts a Silver into their hand.
+G plays Sir Vander.
+J reveals a Copper and a Sage.
+J trashes a Sage.
+J gets 1 VP from Tomb.
+J discards a Copper.
+G plays 3 Coppers and a Silver. (+$5)
+G buys and gains a City Quarter.
+G repays 5 debt (3 remaining).
+G draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a City Quarter, 2 Coppers and a Silver.
+J draws a Raze.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers, a Raze and a Silver.
+J draws an Estate.
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J gets 1 VP from Tomb.
+J looks at a Copper and a Raze.
+J puts a Raze into their hand.
+J discards a Copper.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J gets 1 VP from Tomb.
+J plays a Copper and a Silver. (+$3)
+J repays 3 debt (1 remaining).
+J shuffles their deck.
+J draws 3 Coppers, a Gold and a City Quarter.
+
+Turn 8 - Gubo
+G plays a Procession using Way of the Monkey.
+G gets +1 Buy.
+G gets +$1.
+G plays 3 Coppers and a Gold. (+$6)
+G repays 3 debt.
+G buys and gains 2 Razes.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a City Quarter using Way of the Monkey.
+J gets +1 Buy.
+J gets +$1.
+J repays 1 debt.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Sage.
+J buys and gains a Village.
+J draws 2 Coppers, a Silver, a Raze and a City Quarter.
+
+Turn 9 - Gubo
+G plays a Sage.
+G gets +1 Action.
+G reveals a City Quarter, 2 Coppers and a Raze and finally Procession.
+G puts a Procession into their hand.
+G discards 2 Coppers, a Raze and a City Quarter.
+G plays a Procession.
+G plays Sir Vander.
+J shuffles their deck.
+J reveals a City Quarter and a Raze.
+J discards a Raze and a City Quarter.
+G plays Sir Vander again.
+J reveals a Copper and a Sage.
+J trashes a Sage.
+J gets 1 VP from Tomb.
+J discards a Copper.
+G trashes Sir Vander.
+G gets 1 VP from Tomb.
+G gains a Gold.
+G plays 3 Coppers. (+$3)
+G buys and gains a Sage.
+G draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers, a Raze and a Silver.
+J draws a Village.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J gets 1 VP from Tomb.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains Sir Martin.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Gold and a City Quarter.
+
+Turn 10 - Gubo
+G plays a Raze.
+G gets +1 Action.
+G trashes a Copper.
+G gets 1 VP from Tomb.
+G plays a Copper, a Silver and a Gold. (+$6)
+G buys and gains Sir Destry.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers, a Silver and a Gold.
+J plays 2 Coppers, a Silver and a Gold. (+$7)
+J buys and gains an Expand.
+J draws 2 Coppers, a Village, a Raze and a City Quarter.
+
+Turn 11 - Gubo
+G plays a Procession.
+G plays a Sage.
+G gets +1 Action.
+G reveals a City Quarter and finally Sage.
+G puts a Sage into their hand.
+G discards a City Quarter.
+G plays a Sage again.
+G gets +1 Action.
+G reveals Sir Destry.
+G puts Sir Destry into their hand.
+G trashes a Sage.
+G gets 1 VP from Tomb.
+G gains a Procession.
+G plays a Sage.
+G gets +1 Action.
+G reveals a Copper and a Raze and finally Silver.
+G puts a Silver into their hand.
+G discards a Copper and a Raze.
+G plays Sir Destry.
+G draws 2 cards.
+J reveals Sir Martin and a Raze.
+J trashes Sir Martin.
+J gets 1 VP from Tomb.
+J discards a Raze.
+G trashes Sir Destry.
+G gets 1 VP from Tomb.
+G plays a Raze using Way of the Monkey.
+G gets +1 Buy.
+G gets +$1.
+G plays 3 Coppers, a Silver and a Gold. (+$8)
+G buys and gains an Expand.
+G buys and gains a Raze.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Village, 2 Coppers and a Raze.
+J shuffles their deck.
+J draws a Silver and a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Village, 2 Coppers, a Raze and a Silver.
+J draws a Copper and a Raze.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J gets 1 VP from Tomb.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J gets 1 VP from Tomb.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Sage.
+J shuffles their deck.
+J draws a Silver, a Gold, an Expand and 2 Razes.
+
+Turn 12 - Gubo
+G plays a Sage.
+G gets +1 Action.
+G reveals a City Quarter, 2 Coppers and 2 Razes and finally Procession.
+G puts a Procession into their hand.
+G discards 2 Coppers, 2 Razes and a City Quarter.
+G plays a Procession.
+G plays a Raze.
+G gets +1 Action.
+G trashes a Copper.
+G gets 1 VP from Tomb.
+G plays a Raze again.
+G gets +1 Action.
+G trashes a Copper.
+G gets 1 VP from Tomb.
+G trashes a Raze.
+G gets 1 VP from Tomb.
+G gains a Sage.
+G plays a Gold. (+$3)
+G buys and gains a Raze.
+G draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Raze.
+J gets 1 VP from Tomb.
+J looks at a City Quarter and a Village.
+J puts a City Quarter into their hand.
+J discards a Village.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Raze, a Silver, an Expand and a Gold.
+J draws a Copper and a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Raze, a Silver, an Expand and a Gold.
+J draws a Copper and a Sage.
+J plays a Sage.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Village.
+J puts a Village into their hand.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J gets 1 VP from Tomb.
+J plays an Expand.
+J trashes a Village.
+J gets 1 VP from Tomb.
+J gains a Spices.
+J gets +2 Coffers.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Gold, an Expand, a Sage and 2 City Quarters.
+
+Turn 13 - Gubo
+G plays an Expand.
+G trashes a Procession.
+G gets 1 VP from Tomb.
+G gains an Expand.
+G plays 2 Coppers and a Silver. (+$4)
+G buys and gains a Procession.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a City Quarter, a Sage, an Expand and a Gold.
+J draws a Copper, a Gold and a Raze.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Raze, a Sage, an Expand and 2 Golds.
+J draws a Silver and a Spices.
+J plays a Sage.
+J gets +1 Action.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J gets 1 VP from Tomb.
+J plays an Expand.
+J trashes a Silver.
+J gets 1 VP from Tomb.
+J gains Sir Bailey.
+J plays 2 Golds. (+$6)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J uses 2 Coffers. (+$2)
+J buys and gains Dame Sylvia.
+J buys and gains a Spices.
+J gets +2 Coffers.
+J shuffles their deck.
+J draws Dame Sylvia, a Sage, a Raze, a City Quarter and a Spices.
+
+Turn 14 - Gubo
+G plays a Raze.
+G gets +1 Action.
+G trashes a Raze.
+G gets 1 VP from Tomb.
+G looks at 2 cards.
+G puts a card into their hand.
+G discards a Copper.
+G plays a Raze.
+G gets +1 Action.
+G trashes a Raze.
+G gets 1 VP from Tomb.
+G looks at 2 cards.
+G puts a card into their hand.
+G discards a Procession.
+G plays an Expand.
+G trashes a Copper.
+G gets 1 VP from Tomb.
+G gains a Sage.
+G plays a Silver and 2 Golds. (+$8)
+G buys and gains a Province.
+G draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: Dame Sylvia, a Spices, a Raze and a Sage.
+J draws a Gold, an Expand and a Spices.
+J plays a Sage.
+J gets +1 Action.
+J reveals Sir Bailey.
+J puts Sir Bailey into their hand.
+J plays Sir Bailey.
+J draws a Gold.
+J gets +1 Action.
+G reveals a Procession and a Raze.
+G trashes a Procession.
+G gets 1 VP from Tomb.
+G discards a Raze.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Raze.
+J gets 1 VP from Tomb.
+J looks at a City Quarter.
+J puts a City Quarter into their hand.
+J plays Dame Sylvia.
+J gets +$2.
+G shuffles their deck.
+G reveals a City Quarter and a Procession.
+G trashes a Procession.
+G gets 1 VP from Tomb.
+G discards a City Quarter.
+J plays an Expand using Way of the Monkey.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Golds. (+$6)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J buys and gains a Gold.
+J buys and gains an Expand.
+J shuffles their deck.
+J draws a Gold, 2 Expands, a Sage and Sir Bailey.
+
+Turn 15 - Gubo
+G plays a Sage.
+G gets +1 Action.
+G reveals a Silver.
+G puts a Silver into their hand.
+G plays a Sage.
+G gets +1 Action.
+G reveals a Raze and finally Sage.
+G puts a Sage into their hand.
+G discards a Raze.
+G plays a Sage.
+G gets +1 Action.
+G reveals an Expand.
+G puts an Expand into their hand.
+G plays an Expand.
+G trashes a Silver.
+G gets 1 VP from Tomb.
+G gains Sir Michael.
+G plays 2 Coppers. (+$2)
+G buys and gains a City Quarter.
+G repays 2 debt (6 remaining).
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays Sir Bailey.
+J draws a City Quarter.
+J gets +1 Action.
+G reveals a City Quarter and a Sage.
+G trashes a Sage.
+G gets 1 VP from Tomb.
+G discards a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Sage, 2 Expands and a Gold.
+J draws 2 Golds and a Spices.
+J plays a Sage.
+J gets +1 Action.
+J reveals a City Quarter and finally Spices.
+J puts a Spices into their hand.
+J discards a City Quarter.
+J plays an Expand using Way of the Monkey.
+J gets +1 Buy.
+J gets +$1.
+J plays an Expand using Way of the Monkey.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Golds. (+$9)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J uses 1 Coffers. (+$1)
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws a Gold, Dame Sylvia, a City Quarter and 2 Spices.
+
+Turn 16 - Gubo
+G plays a Raze.
+G gets +1 Action.
+G trashes a Raze.
+G gets 1 VP from Tomb.
+G looks at 2 cards.
+G puts a card into their hand.
+G discards an Expand.
+G plays Sir Michael.
+J discards Dame Sylvia and a City Quarter.
+J reveals 2 Provinces.
+J discards 2 Provinces.
+G plays 2 Golds. (+$6)
+G repays 6 debt.
+G draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Gold. (+$3)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J draws 2 Golds, 2 Expands and a Sage.
+
+Turn 17 - Gubo
+G plays a City Quarter.
+G gets +2 Actions.
+G reveals their hand: 2 Coppers, a Sage and an Expand.
+G shuffles their deck.
+G draws 2 cards.
+G plays a Sage.
+G gets +1 Action.
+G reveals a Province.
+G puts a Province into their hand.
+G plays a Sage.
+G gets +1 Action.
+G reveals a Gold.
+G puts a Gold into their hand.
+G plays an Expand.
+G trashes a Copper.
+G gets 1 VP from Tomb.
+G gains a Silver.
+G plays 2 Coppers and a Gold. (+$5)
+G buys and gains a Spices.
+G gets +2 Coffers.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals Sir Bailey.
+J puts Sir Bailey into their hand.
+J plays Sir Bailey.
+J draws a City Quarter.
+J gets +1 Action.
+G reveals a Copper and a Sage.
+G trashes a Sage.
+G gets 1 VP from Tomb.
+G discards a Copper.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Expands and 2 Golds.
+J shuffles their deck.
+J draws a Province and a Spices.
+J plays an Expand.
+J trashes a Province.
+J gets 1 VP from Tomb.
+J gains a Province.
+J plays an Expand.
+J trashes a Spices.
+J gets 1 VP from Tomb.
+J gains a Province.
+J plays 2 Golds. (+$6)
+J buys and gains Dame Josephine.
+J draws a Gold, a Province, Dame Sylvia, a City Quarter and a Spices.
+
+Turn 18 - Gubo
+G plays a City Quarter.
+G gets +2 Actions.
+G reveals their hand: Sir Michael, a Copper, an Expand and a Gold.
+G draws 2 cards.
+G plays a Sage.
+G gets +1 Action.
+G reveals a City Quarter and finally Silver.
+G puts a Silver into their hand.
+G discards a City Quarter.
+G plays Sir Michael.
+J discards a Province and a Spices.
+J shuffles their deck.
+J reveals a Province and an Expand.
+J discards a Province and an Expand.
+G plays an Expand.
+G trashes a Copper.
+G gets 1 VP from Tomb.
+G gains a Silver.
+G plays a Silver and a Gold. (+$5)
+G plays a Spices. (+$2)
+G gets +1 Buy.
+G buys and gains a Duchy.
+G buys and gains an Estate.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: Dame Sylvia and a Gold.
+J draws a Spices.
+J plays Dame Sylvia.
+J gets +$2.
+G reveals a City Quarter and a Duchy.
+G trashes a Duchy.
+G gets 1 VP from Tomb.
+G discards a City Quarter.
+J plays a Gold. (+$3)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J buys and gains a Duchy.
+J draws 2 Golds, 2 Provinces and Dame Josephine.
+
+Turn 19 - Gubo
+G plays an Expand.
+G trashes a Copper.
+G gets 1 VP from Tomb.
+G gains an Estate.
+G plays a Gold. (+$3)
+G uses 2 Coffers. (+$2)
+G buys and gains a Duchy.
+G draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays Dame Josephine.
+G reveals Sir Michael and an Estate.
+G trashes Sir Michael.
+G gets 1 VP from Tomb.
+G discards an Estate.
+J trashes Dame Josephine.
+J gets 1 VP from Tomb.
+J plays 2 Golds. (+$6)
+J buys and gains a Spices.
+J gets +2 Coffers.
+J draws a Province, an Expand, a Sage, Sir Bailey and a City Quarter.
+
+Turn 20 - Gubo
+G plays a City Quarter.
+G gets +2 Actions.
+G reveals their hand: a Spices, 2 Silvers and a Sage.
+G draws a card.
+G plays a Sage.
+G gets +1 Action.
+G shuffles their deck.
+G reveals a Gold.
+G puts a Gold into their hand.
+G plays 2 Silvers and 2 Golds. (+$10)
+G plays a Spices. (+$2)
+G gets +1 Buy.
+G buys and gains a Province.
+G buys and gains an Estate.
+G draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: Sir Bailey, a Province, a Sage and an Expand.
+J shuffles their deck.
+J draws a Gold, a Duchy and a Province.
+J plays Sir Bailey.
+J draws a Gold.
+J gets +1 Action.
+G reveals a Province and an Expand.
+G discards a Province and an Expand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+J plays an Expand.
+J trashes a Gold.
+J gets 1 VP from Tomb.
+J gains a Province.
+J plays 2 Golds. (+$6)
+J buys and gains a Duchy.
+J draws 2 Provinces, an Expand and 2 Spices.
+

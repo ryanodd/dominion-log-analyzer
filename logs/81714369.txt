@@ -1,0 +1,272 @@
+Game #81714369, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Forager.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Bounty Hunter.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Forager.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Bounty Hunter.
+
+Turn 3 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes an Estate.
+L plays 3 Coppers. (+$3)
+L buys and gains a Faithful Hound.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles an Estate.
+J gets +$3.
+J plays 3 Coppers. (+$3)
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes an Estate.
+L plays 2 Coppers. (+$2)
+L buys and gains a Faithful Hound.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Crypt.
+J draws 3 Coppers, a Gold and an Estate.
+
+Turn 6 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays 2 Coppers. (+$2)
+L buys and gains a Faithful Hound.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Gold and 3 Coppers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Bounty Hunter.
+
+Turn 7 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Copper.
+J gets +$3.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 8 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Bounty Hunter.
+J draws 2 Coppers, 2 Golds and a Crypt.
+
+Turn 9 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes a Copper.
+L gets +$1.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L buys and gains a Faithful Hound.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays 2 Golds and 2 Coppers. (+$8)
+J buys and gains a Province.
+J plays a Crypt.
+J sets 2 Coppers and 2 Golds aside.
+J shuffles their deck.
+J draws a Silver, a Gold, 2 Estates and a Bounty Hunter.
+
+Turn 10 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J puts a Gold in hand (Crypt).
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles an Estate.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J draws 4 Coppers and a Silver.
+
+Turn 11 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays a Gold, a Copper and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays 5 Coppers and a Silver. (+$7)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Province and 2 Bounty Hunters.
+
+Turn 12 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J puts a Gold in hand (Crypt).
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Province.
+J gets +$3.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Copper.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Province.
+J draws 2 Coppers, a Silver, a Gold and an Estate.
+
+Turn 13 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Gold, 3 Coppers and a Silver. (+$8)
+J buys and gains a Province.
+J draws 2 Coppers, 2 Golds and a Province.
+
+Turn 14 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays a Gold, 2 Coppers and a Silver. (+$7)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays 2 Golds and 2 Coppers. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Gold and a Bounty Hunter.
+
+Turn 15 - Lord Rattington
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Silver.
+J gets +$3.
+J plays a Gold and 2 Coppers. (+$5)
+J buys and gains a Province.
+J draws a Gold, 2 Provinces, a Crypt and a Bounty Hunter.
+
+Turn 16 - Lord Rattington
+L plays a Faithful Hound.
+L draws 2 cards.
+L plays a Gold and 2 Coppers. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Province.
+J plays a Gold. (+$3)
+J buys and gains a Silver.
+J plays a Crypt.
+J sets a Gold aside.
+J draws 2 Coppers, a Gold, an Estate and a Province.
+
+Turn 17 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes a Copper.
+L gets +$1.
+L plays a Silver. (+$2)
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J puts a Gold in hand (Crypt).
+J plays 2 Golds and 2 Coppers. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, an Estate and a Province.
+

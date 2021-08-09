@@ -1,0 +1,432 @@
+Game #82414125, rated.
+Jazzercise: 46.03
+Rave: 38.96
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+R starts with 7 Coppers.
+R starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Amulet.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Rave
+R plays 4 Coppers. (+$4)
+R buys and gains a Militia.
+R draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Amulet.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and an Amulet.
+
+Turn 2 - Rave
+R plays 3 Coppers. (+$3)
+R buys and gains an Urchin.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Amulet.
+J trashes an Estate.
+J draws 4 Coppers and an Amulet.
+
+Turn 3 - Rave
+R plays 4 Coppers. (+$4)
+R buys and gains a Potion.
+R draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J trashes a Copper.
+J plays an Amulet.
+J gains a Silver.
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 4 - Rave
+R plays an Urchin.
+R draws a card.
+R gets +1 Action.
+J discards an Estate.
+R plays a Militia.
+R trashes an Urchin.
+R gains a Mercenary.
+R gets +$2.
+J discards an Estate.
+R plays 2 Coppers. (+$2)
+R buys and gains an Amulet.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J trashes a Copper.
+J plays a Copper and a Silver. (+$3)
+J buys and gains an Urchin.
+J draws 3 Coppers, an Urchin and an Amulet.
+
+Turn 5 - Rave
+R plays a Militia.
+R gets +$2.
+J discards 2 Coppers.
+R plays a Copper. (+$1)
+R buys and gains an Urchin.
+R draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+R discards a Copper.
+J plays an Amulet.
+J trashes a Copper.
+J shuffles their deck.
+J draws 3 Coppers, an Urchin and an Amulet.
+
+Turn 6 - Rave
+R plays an Amulet.
+R trashes a Copper.
+R plays a Potion.
+R buys and gains a Transmute.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J trashes a Copper.
+J plays an Urchin.
+J draws an Urchin.
+J gets +1 Action.
+R discards a Copper.
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+J plays an Amulet.
+J gains a Silver.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Silvers, 2 Estates and an Amulet.
+
+Turn 7 - Rave
+R starts their turn.
+R gains a Silver.
+R plays a Mercenary.
+R trashes 2 Coppers.
+R draws 2 cards.
+R gets +$2.
+J discards 2 Estates.
+R plays a Copper. (+$1)
+R buys and gains an Urchin.
+R draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays an Amulet.
+J gets +$1.
+J plays 2 Silvers. (+$4)
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver and 2 Urchins.
+
+Turn 8 - Rave
+R plays an Urchin.
+R draws a card.
+R gets +1 Action.
+J discards a Copper.
+R plays a Militia.
+R trashes an Urchin.
+R gains a Mercenary.
+R gets +$2.
+J discards a Copper.
+R plays a Copper. (+$1)
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+R discards an Amulet.
+J plays an Urchin.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Gold.
+J draws 2 Coppers, a Gold, an Estate and an Amulet.
+
+Turn 9 - Rave
+R plays an Urchin.
+R draws a card.
+R gets +1 Action.
+J discards a Copper.
+R plays a Mercenary.
+R trashes an Urchin.
+R gains a Mercenary.
+R trashes 2 Coppers.
+R draws 2 cards.
+R gets +$2.
+J discards a Copper.
+R plays a Copper. (+$1)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Amulet.
+J trashes an Estate.
+J plays a Gold. (+$3)
+J buys and gains an Urchin.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 10 - Rave
+R plays a Transmute.
+R trashes an Estate.
+R gains a Gold.
+R plays 2 Silvers. (+$4)
+R plays a Potion.
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J trashes an Estate.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Gold.
+J draws a Silver, a Gold, 2 Urchins and an Amulet.
+
+Turn 11 - Rave
+R plays a Militia.
+R gets +$2.
+J discards an Urchin and an Amulet.
+R plays a Copper, a Gold and a Silver. (+$6)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Urchin.
+J draws a Gold.
+J gets +1 Action.
+R discards a Mercenary.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Gold and 3 Urchins.
+
+Turn 12 - Rave
+R plays a Transmute.
+R trashes an Estate.
+R gains a Gold.
+R plays a Silver. (+$2)
+R buys a Travelling Fair.
+R gets +2 Buys.
+R buys and gains a Copper.
+R draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Urchin.
+J draws an Amulet.
+J gets +1 Action.
+R discards a Potion.
+J plays an Urchin.
+J draws an Amulet.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Silver.
+J gets +1 Action.
+J plays an Amulet.
+J trashes an Amulet.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Gold.
+J draws 2 Silvers, 2 Golds and a Province.
+
+Turn 13 - Rave
+R plays an Amulet.
+R gains a Silver.
+R plays a Copper and 2 Silvers. (+$5)
+R buys and gains a Venture.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays 2 Golds and 2 Silvers. (+$10)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Gold and an Urchin.
+
+Turn 14 - Rave
+R starts their turn.
+R gains a Silver.
+R plays a Mercenary.
+R trashes 2 Coppers.
+R draws 2 cards.
+R gets +$2.
+J discards 2 Coppers.
+R plays a Venture. (+$1)
+R reveals a Transmute and finally Gold.
+R discards a Transmute.
+R plays a Gold. (+$3)
+R plays a Gold. (+$3)
+R buys and gains a Province.
+R draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Urchin.
+J draws a Province.
+J gets +1 Action.
+R discards a Mercenary.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Venture.
+J draws 2 Silvers, a Gold, an Urchin and an Amulet.
+
+Turn 15 - Rave
+R plays a Copper and a Silver. (+$3)
+R plays a Potion.
+R buys and gains a Leprechaun.
+R draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays an Urchin.
+J draws a Gold.
+J gets +1 Action.
+R discards a Silver.
+J plays an Amulet.
+J gets +$1.
+J plays 2 Golds and 2 Silvers. (+$10)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Gold, a Province and an Urchin.
+
+Turn 16 - Rave
+R plays a Gold and 3 Silvers. (+$9)
+R buys and gains a Province.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J trashes a Copper.
+J plays an Urchin.
+J draws a Province.
+J gets +1 Action.
+R discards a Leprechaun.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Militia.
+J draws a Silver, 3 Golds and an Urchin.
+
+Turn 17 - Rave
+R plays a Militia.
+R gets +$2.
+J discards a Silver and an Urchin.
+R plays a Silver. (+$2)
+R plays a Venture. (+$1)
+R reveals a Silver.
+R plays a Silver. (+$2)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J draws a Copper, 2 Silvers, a Province and a Venture.
+
+Turn 18 - Rave
+R plays a Mercenary.
+R trashes a Copper and a Silver.
+R draws 2 cards.
+R gets +$2.
+J discards a Copper and a Province.
+R plays 2 Golds and a Silver. (+$8)
+R buys and gains a Duchy.
+R draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays 2 Silvers. (+$4)
+J plays a Venture. (+$1)
+J reveals an Urchin.
+J shuffles their deck.
+J reveals an Urchin and finally Gold.
+J discards 2 Urchins.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J draws a Copper, a Silver, a Gold, a Province and an Amulet.
+
+Turn 19 - Rave
+R plays a Transmute.
+R trashes an Estate.
+R gains a Gold.
+R plays 2 Silvers. (+$4)
+R plays a Potion.
+R buys and gains a Potion.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays an Amulet.
+J trashes a Copper.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Venture.
+J draws a Copper, 3 Provinces and an Urchin.
+
+Turn 20 - Rave
+R plays an Amulet.
+R gains a Silver.
+R plays 2 Golds. (+$6)
+R buys and gains a Venture.
+R draws 5 cards.
+
+Turn 21 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays an Urchin.
+J draws a Gold.
+J gets +1 Action.
+R discards a Militia.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Venture.
+J shuffles their deck.
+J draws a Gold, 2 Provinces, a Militia and a Venture.
+
+Turn 21 - Rave
+R starts their turn.
+R gains a Silver.
+R plays a Transmute.
+R trashes a Mercenary.
+R gains a Duchy.
+R plays a Gold and a Silver. (+$5)
+R buys and gains a Venture.
+R draws 5 cards.
+
+Turn 22 - Jazzercise
+J plays a Militia.
+J gets +$2.
+R discards a card and a Silver.
+J plays a Venture. (+$1)
+J reveals a Province and finally Silver.
+J discards a Province.
+J plays a Silver. (+$2)
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J draws 2 Silvers, 2 Golds and an Urchin.
+

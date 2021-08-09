@@ -1,0 +1,519 @@
+Game #82101560, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Workshop.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Vassal.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Workshop.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Workshop.
+J gains a Throne Room.
+J plays 3 Coppers. (+$3)
+J buys and gains a Village.
+J draws 3 Coppers, an Estate and a Vassal.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Witch.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Vassal.
+J gets +$2.
+J discards an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Witch.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Village and a Witch.
+
+Turn 4 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Witch.
+J draws a Copper and a Vassal.
+L gains a Curse.
+J plays a Vassal.
+J gets +$2.
+J discards an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Workshop.
+J draws 2 Coppers, an Estate, a Throne Room and a Workshop.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Smithy.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Throne Room.
+J plays a Workshop.
+J gains a Village.
+J plays a Workshop again.
+J gains a Village.
+J shuffles their deck.
+J draws 2 Coppers, a Throne Room, a Village and a Workshop.
+
+Turn 6 - Lord Rattington
+L plays a Witch.
+L draws 2 cards.
+J gains a Curse.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Workshop.
+J gains a Village.
+J plays a Workshop again.
+J gains a Smithy.
+J draws 3 Coppers, a Village and a Workshop.
+
+Turn 7 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Workshop.
+J gains a Smithy.
+J plays 3 Coppers. (+$3)
+J buys and gains a Village.
+J draws 2 Coppers, an Estate, a Vassal and a Witch.
+
+Turn 8 - Lord Rattington
+L plays a Witch.
+L draws 2 cards.
+J gains a Curse.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Vassal.
+J gets +$2.
+J discards a Village.
+J plays a Village.
+J shuffles their deck.
+J draws a Workshop.
+J gets +2 Actions.
+J plays a Witch.
+J draws 2 Coppers.
+L gains a Curse.
+J plays a Workshop.
+J gains a Smithy.
+J plays 4 Coppers. (+$4)
+J buys and gains a Witch.
+J draws a Curse, a Copper, a Throne Room and 2 Villages.
+
+Turn 9 - Lord Rattington
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village again.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Workshop.
+J gets +2 Actions.
+J plays a Village.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Workshop.
+J gains a Smithy.
+J draws 2 Coppers, an Estate and 2 Smithies.
+
+Turn 10 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Smithy.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Smithy.
+J shuffles their deck.
+J draws a Curse and 2 Witches.
+J plays 2 Coppers. (+$2)
+J draws 2 Coppers, an Estate and 2 Villages.
+
+Turn 11 - Lord Rattington
+L plays a Copper, a Gold and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Village.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Village.
+J draws a Smithy.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Village and 2 Workshops.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Workshop.
+J gains a Smithy.
+J plays a Workshop.
+J gains a Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Village.
+J draws 2 Coppers, an Estate, a Throne Room and a Village.
+
+Turn 12 - Lord Rattington
+L plays a Witch.
+L draws 2 cards.
+J gains a Curse.
+L plays 2 Coppers, a Gold and a Silver. (+$7)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Throne Room.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village again.
+J draws a Smithy.
+J gets +2 Actions.
+J plays a Village.
+J draws a Vassal.
+J gets +2 Actions.
+J plays a Smithy.
+J shuffles their deck.
+J draws 2 Coppers and a Smithy.
+J plays a Vassal.
+J gets +$2.
+J discards a Witch.
+J plays a Witch.
+J draws a Curse and a Smithy.
+L gains a Curse.
+J plays a Smithy.
+J draws an Estate, a Village and a Witch.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Curse, an Estate and a Workshop.
+J plays a Witch.
+J draws a Copper and a Village.
+L gains a Curse.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Workshop.
+J gets +2 Actions.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Workshop.
+J gains a Throne Room.
+J plays a Workshop.
+J gains a Throne Room.
+J plays 6 Coppers. (+$6)
+J buys and gains a Mine.
+J draws a Curse, a Copper, 2 Smithies and a Village.
+
+Turn 13 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Village.
+J shuffles their deck.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Copper, a Village and a Workshop.
+J plays a Village.
+J draws a Throne Room.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Smithy.
+J draws a Copper, an Estate and a Village.
+J plays a Smithy again.
+J draws a Smithy and 2 Villages.
+J plays a Village.
+J draws a Vassal.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards an Estate.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Smithy, a Village and a Witch.
+J plays a Village.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Village.
+J draws a Mine.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Curse, a Copper and a Throne Room.
+J plays a Throne Room.
+J plays a Mine.
+J trashes a Copper.
+J gains a Silver.
+J plays a Mine again.
+J trashes a Copper.
+J gains a Silver.
+J plays a Workshop.
+J gains a Village.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Province.
+J draws a Smithy, a Throne Room, a Village, a Witch and a Workshop.
+
+Turn 14 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 2 Coppers, a Gold and 2 Silvers. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Smithy.
+J shuffles their deck.
+J draws a Copper, a Smithy and a Village.
+J plays a Smithy again.
+J draws 2 Curses and a Workshop.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Witch.
+J draws a Curse and a Village.
+L gains a Curse.
+J plays a Smithy.
+J draws an Estate, a Province and a Mine.
+J plays a Village.
+J draws a Vassal.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Smithy.
+J plays a Smithy.
+J draws a Copper, an Estate and a Throne Room.
+J plays a Throne Room.
+J plays a Mine.
+J trashes a Copper.
+J gains a Silver.
+J plays a Mine again.
+J trashes a Copper.
+J gains a Silver.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Province.
+J draws a Copper, a Silver, a Throne Room, a Village and a Witch.
+
+Turn 15 - Lord Rattington
+L plays 2 Coppers, a Gold and 2 Silvers. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Witch.
+J draws a Smithy and a Village.
+L gains a Curse.
+J plays a Witch again.
+J draws a Smithy and a Village.
+L gains a Curse.
+J plays a Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Smithy.
+J shuffles their deck.
+J draws a Curse, a Mine and a Village.
+J plays a Village.
+J draws a Province.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Curse, a Province and a Vassal.
+J plays a Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Smithy.
+J plays a Smithy.
+J draws a Copper, a Silver and a Village.
+J plays a Village.
+J draws a Smithy.
+J gets +2 Actions.
+J plays a Smithy.
+J draws 2 Estates and a Village.
+J plays a Village.
+J draws a Throne Room.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Mine.
+J trashes a Copper.
+J gains a Silver.
+J plays a Mine again.
+J trashes a Copper.
+J gains a Silver.
+J plays 6 Silvers. (+$12)
+J buys and gains a Province.
+J draws a Curse, a Copper, 2 Villages and a Workshop.
+
+Turn 16 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 3 Golds. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Village.
+J draws a Witch.
+J gets +2 Actions.
+J plays a Village.
+J draws a Smithy.
+J gets +2 Actions.
+J plays a Smithy.
+J shuffles their deck.
+J draws a Silver, a Throne Room and a Workshop.
+J plays a Throne Room.
+J plays a Workshop.
+J gains a Village.
+J plays a Workshop again.
+J gains a Smithy.
+J plays a Witch.
+J draws 2 Provinces.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Village.
+J draws a Silver, a Mine, 2 Smithies and a Village.
+
+Turn 17 - Lord Rattington
+L plays 2 Coppers, a Gold and a Silver. (+$7)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Silver, a Throne Room and a Village.
+J plays a Village.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Smithy.
+J draws a Curse, a Village and a Witch.
+J plays a Smithy again.
+J draws a Silver, a Vassal and a Village.
+J plays a Village.
+J draws a Smithy.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Silver.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Silver, an Estate and a Province.
+J plays a Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Witch.
+J draws a Smithy and a Village.
+J plays a Village.
+J draws a Throne Room.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Smithy.
+J shuffles their deck.
+J draws a Silver, a Smithy and a Village.
+J plays a Smithy again.
+J draws 2 Villages and a Workshop.
+J plays a Village.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Province, a Smithy and a Village.
+J plays a Village.
+J draws a Witch.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Silver, a Province and a Workshop.
+J plays a Workshop.
+J gains a Smithy.
+J plays a Workshop.
+J gains a Smithy.
+J plays a Copper and 6 Silvers. (+$13)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Province, a Smithy, a Throne Room, a Village and a Workshop.
+

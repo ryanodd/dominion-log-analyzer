@@ -1,0 +1,331 @@
+Game #82101161, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Chapel.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Harbinger.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Bureaucrat.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Bureaucrat.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Bureaucrat.
+J gains a Silver.
+L topdecks an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Cellar.
+J draws 2 Coppers, a Silver, an Estate and a Harbinger.
+
+Turn 4 - Lord Rattington
+L plays a Chapel.
+L trashes 3 Coppers.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Harbinger.
+J draws a Copper.
+J gets +1 Action.
+J looks at 2 Coppers, a Bureaucrat, a Cellar and 2 Estates.
+J looks at 2 Coppers, a Bureaucrat, a Cellar and 2 Estates.
+J topdecks a Bureaucrat.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Bandit.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Bandit and a Bureaucrat.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Bureaucrat.
+J gains a Silver.
+L topdecks an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Chapel.
+J draws 4 Coppers and a Silver.
+
+Turn 6 - Lord Rattington
+L plays a Chapel.
+L trashes 2 Coppers.
+L plays a Silver. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains an Artisan.
+J draws a Silver, 2 Estates, a Cellar and a Harbinger.
+
+Turn 7 - Lord Rattington
+L plays a Chapel.
+L trashes 3 Estates.
+L plays a Silver. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Harbinger.
+J draws a Copper.
+J gets +1 Action.
+J looks at 6 Coppers, a Chapel, a Bureaucrat, a Bandit, an Artisan, a Silver and an Estate.
+J looks at 6 Coppers, a Chapel, a Bureaucrat, a Bandit, an Artisan, a Silver and an Estate.
+J topdecks a Bandit.
+J plays a Cellar.
+J gets +1 Action.
+J discards a Copper and 2 Estates.
+J shuffles their deck.
+J draws a Copper, an Artisan and a Bandit.
+J plays an Artisan.
+J gains a Festival.
+J topdecks a Bandit.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and a Bandit.
+
+Turn 8 - Lord Rattington
+L plays a Chapel.
+L trashes 2 Coppers.
+L plays 2 Silvers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Bandit.
+J gains a Gold.
+J plays 4 Coppers. (+$4)
+J buys and gains a Gardens.
+J draws 2 Coppers, a Silver, an Estate and a Chapel.
+
+Turn 9 - Lord Rattington
+L plays a Chapel.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Chapel.
+J trashes 2 Coppers and an Estate.
+J shuffles their deck.
+J draws 2 Estates, an Artisan, a Bureaucrat and a Cellar.
+
+Turn 10 - Lord Rattington
+L plays a Chapel.
+L plays 3 Silvers. (+$6)
+L buys and gains a Council Room.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Cellar.
+J gets +1 Action.
+J discards 2 Estates and a Bureaucrat.
+J draws a Gold, a Chapel and a Harbinger.
+J plays a Harbinger.
+J draws a Silver.
+J gets +1 Action.
+J looks at a Bureaucrat and 2 Estates.
+J topdecks a Bureaucrat.
+J plays an Artisan.
+J gains a Laboratory.
+J topdecks a Silver.
+J plays a Gold. (+$3)
+J buys and gains a Silver.
+J draws a Copper, 2 Silvers, a Bureaucrat and a Festival.
+
+Turn 11 - Lord Rattington
+L plays a Council Room.
+L draws 2 cards.
+L gets +1 Buy.
+J draws a Bandit.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Bandit.
+J gains a Gold.
+L reveals a Chapel and a Province.
+L discards a Province and a Chapel.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Council Room.
+J draws 3 Coppers, a Silver and a Gardens.
+
+Turn 12 - Lord Rattington
+L plays a Council Room.
+L shuffles their deck.
+L draws 3 cards.
+L gets +1 Buy.
+J draws a Copper.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, an Estate, an Artisan, a Chapel and a Laboratory.
+
+Turn 13 - Lord Rattington
+L plays 3 Silvers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Laboratory.
+J draws a Copper and a Gold.
+J gets +1 Action.
+J plays an Artisan.
+J gains a Laboratory.
+J topdecks a Laboratory.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Festival.
+J draws 2 Silvers, a Gardens, a Harbinger and a Laboratory.
+
+Turn 14 - Lord Rattington
+L plays a Council Room.
+L draws 4 cards.
+L gets +1 Buy.
+J draws a Council Room.
+L plays a Gold and 4 Silvers. (+$11)
+L buys and gains a Province.
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Laboratory.
+J draws a Silver and a Bureaucrat.
+J gets +1 Action.
+J plays a Harbinger.
+J draws a Gold.
+J gets +1 Action.
+J looks at 2 Coppers, a Chapel, a Gold, a Laboratory, an Artisan, a Festival and an Estate.
+J plays a Bureaucrat.
+J gains a Silver.
+L topdecks a Province.
+J plays a Gold and 3 Silvers. (+$9)
+J buys and gains a Province.
+J draws a Copper, a Silver, a Gold, an Estate and a Cellar.
+
+Turn 15 - Lord Rattington
+L plays a Council Room.
+L draws 4 cards.
+L gets +1 Buy.
+J draws a Festival.
+L plays 2 Silvers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Cellar.
+J gets +1 Action.
+J discards a Copper and an Estate.
+J draws a Silver and a Bandit.
+J plays a Bandit.
+J gains a Gold.
+L reveals 2 Provinces.
+L discards 2 Provinces.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 4 Coppers and a Gold.
+
+Turn 16 - Lord Rattington
+L plays a Gold and 4 Silvers. (+$11)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays 4 Coppers and a Gold. (+$7)
+J buys and gains a Gardens.
+J draws a Silver, an Estate, a Province, a Harbinger and a Laboratory.
+
+Turn 17 - Lord Rattington
+L plays a Chapel.
+L plays 2 Silvers. (+$4)
+L buys and gains a Gardens.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Laboratory.
+J draws 2 Silvers.
+J gets +1 Action.
+J plays a Harbinger.
+J draws a Cellar.
+J gets +1 Action.
+J looks at a Gardens, 4 Coppers and a Gold.
+J topdecks a Gold.
+J plays a Cellar.
+J gets +1 Action.
+J discards 2 Silvers, an Estate and a Province.
+J draws a Silver, a Gold, a Bandit and a Festival.
+J plays a Festival.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$2.
+J plays a Bandit.
+J gains a Gold.
+L reveals 2 Provinces.
+L discards 2 Provinces.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains 2 Gardens.
+J draws a Copper, 2 Golds, an Estate and a Festival.
+
+Turn 18 - Lord Rattington
+L plays a Council Room.
+L draws 4 cards.
+L gets +1 Buy.
+J draws a Gardens.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+

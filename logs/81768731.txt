@@ -1,0 +1,821 @@
+Game #81768731, rated.
+Jazzercise: 43.08
+Souljourner: 47.58
+
+Kingdom generated with these relative percentages:
+50%: Witch, Masquerade, Tournament and Swindler
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+S starts with 7 Coppers.
+S starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Souljourner
+S plays 3 Coppers. (+$3)
+S buys and gains a Stockpile.
+S draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Sacrifice.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Souljourner
+S plays 4 Coppers. (+$4)
+S buys and gains a Sacrifice.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Sacrifice.
+J draws a Copper, 2 Estates, a Sacrifice and a Stockpile.
+
+Turn 3 - Souljourner
+S plays a Sacrifice.
+S trashes an Estate.
+S gets 2 VP.
+S plays 3 Coppers. (+$3)
+S buys and gains a Stockpile.
+S draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Sacrifice.
+J trashes an Estate.
+J gets 2 VP.
+J plays a Copper. (+$1)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains an Advisor.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Sacrifice.
+
+Turn 4 - Souljourner
+S plays 3 Coppers. (+$3)
+S buys and gains a Silver.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Sacrifice.
+J trashes an Estate.
+J gets 2 VP.
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J discards a Stockpile from Exile.
+J draws 4 Coppers and a Sacrifice.
+
+Turn 5 - Souljourner
+S plays 3 Coppers. (+$3)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains a Gold.
+S draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys and gains an Artificer.
+J shuffles their deck.
+J draws a Copper, an Estate, an Advisor, a Sacrifice and a Stockpile.
+
+Turn 6 - Souljourner
+S plays a Sacrifice.
+S trashes a Copper.
+S gets +$2.
+S plays 2 Coppers and a Silver. (+$4)
+S buys and gains a Gold.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Coppers and a Sacrifice.
+J discards a Sacrifice.
+J puts 2 Coppers into their hand.
+J plays a Sacrifice.
+J trashes an Estate.
+J gets 2 VP.
+J plays 3 Coppers. (+$3)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Plaza.
+J buys and gains a Courtyard.
+J draws 3 Coppers, an Artificer and a Stockpile.
+
+Turn 7 - Souljourner
+S plays a Sacrifice.
+S trashes an Estate.
+S gets 2 VP.
+S plays a Copper. (+$1)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains a Stockpile.
+S discards 2 Stockpiles from Exile.
+S draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays an Artificer.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Plaza.
+J buys and gains an Advisor.
+J draws 2 Coppers, an Advisor, a Plaza and a Sacrifice.
+
+Turn 8 - Souljourner
+S plays 3 Coppers, a Gold and a Silver. (+$8)
+S buys and gains a Gold.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Plaza.
+J draws a Courtyard.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Copper, an Artificer and a Sacrifice.
+J discards a Sacrifice.
+J puts a Copper and an Artificer into their hand.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays an Artificer.
+J draws a Plaza.
+J gets +1 Action.
+J gets +$1.
+J plays a Plaza.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Courtyard.
+J draws 2 Coppers and an Advisor.
+J topdecks a Copper.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals 2 Coppers and a Sacrifice.
+J discards a Sacrifice.
+J puts 2 Coppers into their hand.
+J plays 5 Coppers. (+$5)
+J buys and gains a Groundskeeper.
+J shuffles their deck.
+J draws 3 Coppers, an Advisor and a Plaza.
+
+Turn 9 - Souljourner
+S plays 2 Coppers and 2 Golds. (+$8)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains 2 Groundskeepers.
+S draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Plaza.
+J draws an Artificer.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Plaza, an Advisor and a Sacrifice.
+J discards a Sacrifice.
+J puts an Advisor and a Plaza into their hand.
+J plays a Plaza.
+J draws a Courtyard.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Coppers and a Sacrifice.
+J discards a Sacrifice.
+J puts 2 Coppers into their hand.
+J plays an Artificer.
+J draws a Groundskeeper.
+J gets +1 Action.
+J gets +$1.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays a Courtyard.
+J draws a Copper and 2 Sacrifices.
+J topdecks a Copper.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains a Stockpile.
+J discards 2 Stockpiles from Exile.
+J shuffles their deck.
+J draws a Copper, an Advisor, an Artificer, a Groundskeeper and a Stockpile.
+
+Turn 10 - Souljourner
+S plays 2 Coppers, a Gold and a Silver. (+$7)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains 2 Groundskeepers.
+S draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Groundskeeper.
+J draws a Plaza.
+J gets +1 Action.
+J plays a Plaza.
+J draws a Plaza.
+J gets +2 Actions.
+J plays a Plaza.
+J draws a Stockpile.
+J gets +2 Actions.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Courtyard, a Stockpile and a Sacrifice.
+J discards a Stockpile.
+J puts a Courtyard and a Sacrifice into their hand.
+J plays an Artificer.
+J draws an Advisor.
+J gets +1 Action.
+J gets +$1.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Coppers and a Sacrifice.
+J discards a Sacrifice.
+J puts 2 Coppers into their hand.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Courtyard.
+J shuffles their deck.
+J draws a Sacrifice and a Stockpile.
+J topdecks a Copper.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Plaza.
+J buys and gains an Advisor.
+J buys and gains an Improve.
+J buys and gains a Stockpile.
+J discards 3 Stockpiles from Exile.
+J shuffles their deck.
+J draws a Copper, an Advisor, a Plaza, a Sacrifice and a Stockpile.
+
+Turn 11 - Souljourner
+S plays a Sacrifice.
+S trashes an Estate.
+S gets 2 VP.
+S plays 2 Coppers. (+$2)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains a Stockpile.
+S discards 3 Stockpiles from Exile.
+S buys Ride.
+S gains a Horse.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Plaza.
+J draws a Courtyard.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Plaza, a Stockpile and a Sacrifice.
+J discards a Stockpile.
+J puts a Plaza and a Sacrifice into their hand.
+J plays a Plaza.
+J draws a Stockpile.
+J gets +2 Actions.
+J plays a Sacrifice.
+J trashes a Sacrifice.
+J draws an Advisor and an Improve.
+J gets +2 Actions.
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Artificer, a Plaza and an Advisor.
+J discards an Artificer.
+J puts an Advisor and a Plaza into their hand.
+J plays a Plaza.
+J draws a Stockpile.
+J gets +2 Actions.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals an Artificer, a Groundskeeper and a Stockpile.
+J discards a Stockpile.
+J puts an Artificer and a Groundskeeper into their hand.
+J plays a Courtyard.
+J shuffles their deck.
+J draws a Copper and a Stockpile.
+J topdecks an Artificer.
+J plays a Groundskeeper.
+J draws an Artificer.
+J gets +1 Action.
+J plays an Improve.
+J gets +$2.
+J plays an Artificer.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper. (+$1)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains 2 Groundskeepers.
+J buys Ride.
+J gains a Horse.
+J buys and gains a Stockpile.
+J discards 4 Stockpiles from Exile.
+J trashes a Courtyard.
+J gains an Improve.
+J shuffles their deck.
+J draws a Plaza, an Artificer, a Groundskeeper, a Sacrifice and a Stockpile.
+
+Turn 12 - Souljourner
+S plays 2 Coppers and a Gold. (+$5)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains a Groundskeeper.
+S buys and gains a Stockpile.
+S discards 2 Stockpiles from Exile.
+S buys and gains a Silver.
+S draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Plaza.
+J draws a Horse.
+J gets +2 Actions.
+J discards a Stockpile.
+J gets +1 Coffers.
+J plays a Groundskeeper.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Plaza.
+J gets +1 Action.
+J plays a Plaza.
+J draws an Advisor.
+J gets +2 Actions.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Improves and an Advisor.
+J discards an Advisor.
+J puts 2 Improves into their hand.
+J plays an Artificer.
+J draws an Advisor.
+J gets +1 Action.
+J gets +$1.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 3 Stockpiles.
+J discards a Stockpile.
+J puts 2 Stockpiles into their hand.
+J plays a Horse.
+J draws a Copper and a Groundskeeper.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Groundskeeper.
+J draws a Plaza.
+J gets +1 Action.
+J plays a Plaza.
+J draws a Stockpile.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays an Improve.
+J gets +$2.
+J plays a Sacrifice.
+J trashes an Improve.
+J shuffles their deck.
+J draws 2 Stockpiles.
+J gets +2 Actions.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J uses 6 Coffers. (+$6)
+J buys and gains 2 Groundskeepers.
+J buys and gains a Province.
+J gets 3 VP from Groundskeeper.
+J buys and gains 2 Improves.
+J trashes an Improve.
+J gains an Advisor.
+J shuffles their deck.
+J draws a Copper, an Advisor, an Artificer, a Groundskeeper and an Improve.
+
+Turn 13 - Souljourner
+S plays a Groundskeeper.
+S draws a card.
+S gets +1 Action.
+S plays a Groundskeeper.
+S draws a card.
+S gets +1 Action.
+S plays 2 Coppers, a Gold and a Silver. (+$7)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains a Province.
+S gets 2 VP from Groundskeeper.
+S buys and gains an Estate.
+S gets 2 VP from Groundskeeper.
+S draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Groundskeepers and an Advisor.
+J discards a Groundskeeper.
+J puts an Advisor and a Groundskeeper into their hand.
+J plays a Groundskeeper.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Sacrifice.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Plaza.
+J gets +1 Action.
+J plays a Plaza.
+J draws a Province.
+J gets +2 Actions.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Plaza and 2 Advisors.
+J discards an Advisor.
+J puts an Advisor and a Plaza into their hand.
+J plays a Plaza.
+J draws a Groundskeeper.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays a Groundskeeper.
+J draws an Improve.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Copper, a Plaza and an Advisor.
+J discards an Advisor.
+J puts a Copper and a Plaza into their hand.
+J plays a Plaza.
+J draws a Groundskeeper.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws an Advisor.
+J gets +1 Action.
+J plays an Artificer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J discards a Province.
+J plays an Improve.
+J gets +$2.
+J plays an Improve.
+J gets +$2.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J buys and gains a Gold.
+J trashes an Artificer.
+J gains a Gold.
+J trashes a Plaza.
+J gains a Forum.
+J shuffles their deck.
+J draws a Gold, an Advisor, 2 Groundskeepers and an Improve.
+
+Turn 14 - Souljourner
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Groundskeeper.
+S draws a card.
+S gets +1 Action.
+S plays a Groundskeeper.
+S shuffles their deck.
+S draws a card.
+S gets +1 Action.
+S plays a Sacrifice.
+S trashes a Copper.
+S gets +$2.
+S plays a Copper and a Gold. (+$4)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains a Province.
+S gets 2 VP from Groundskeeper.
+S draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Groundskeeper.
+J draws a Sacrifice.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Groundskeeper, a Forum and a Gold.
+J discards a Groundskeeper.
+J puts a Gold and a Forum into their hand.
+J plays a Sacrifice.
+J trashes an Improve.
+J draws 2 Advisors.
+J gets +2 Actions.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Plazas and an Improve.
+J discards an Improve.
+J puts 2 Plazas into their hand.
+J plays a Plaza.
+J draws a Groundskeeper.
+J gets +2 Actions.
+J plays a Plaza.
+J draws an Advisor.
+J gets +2 Actions.
+J plays a Groundskeeper.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws an Improve.
+J gets +1 Action.
+J plays a Forum.
+J draws a Groundskeeper.
+J gets +1 Action.
+J discards a Province and an Advisor.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws a Province.
+J gets +1 Action.
+J plays an Improve.
+J gets +$2.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J gets 5 VP from Groundskeeper.
+J trashes a Plaza.
+J gains an Artificer.
+J shuffles their deck.
+J draws a Gold, 2 Advisors, an Artificer and a Groundskeeper.
+
+Turn 15 - Souljourner
+S plays a Groundskeeper.
+S draws a card.
+S gets +1 Action.
+S plays a Groundskeeper.
+S draws a card.
+S gets +1 Action.
+S plays a Copper, a Gold and a Silver. (+$6)
+S plays a Stockpile.
+S gets +1 Buy.
+S exiles a Stockpile.
+S buys and gains a Province.
+S gets 2 VP from Groundskeeper.
+S draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Groundskeeper.
+J draws an Improve.
+J gets +1 Action.
+J plays an Artificer.
+J draws a Groundskeeper.
+J gets +1 Action.
+J gets +$1.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 3 Groundskeepers.
+J discards a Groundskeeper.
+J puts 2 Groundskeepers into their hand.
+J plays a Groundskeeper.
+J draws an Advisor.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Gold, a Sacrifice and an Advisor.
+J discards a Gold.
+J puts an Advisor and a Sacrifice into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Groundskeeper, a Forum and a Plaza.
+J discards a Groundskeeper.
+J puts a Plaza and a Forum into their hand.
+J plays a Plaza.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Forum.
+J shuffles their deck.
+J draws a Groundskeeper.
+J gets +1 Action.
+J discards 2 Provinces.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws a Province.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J plays an Improve.
+J gets +$2.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J gets 5 VP from Groundskeeper.
+J trashes an Artificer.
+J gains a Gold.
+J shuffles their deck.
+J draws an Advisor, a Plaza, a Groundskeeper, a Sacrifice and an Improve.
+
+Turn 16 - Souljourner
+S plays a Groundskeeper.
+S draws a card.
+S gets +1 Action.
+S plays a Copper, a Gold and a Silver. (+$6)
+S buys and gains a Duchy.
+S gets 1 VP from Groundskeeper.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Plaza.
+J draws a Groundskeeper.
+J gets +2 Actions.
+J plays a Groundskeeper.
+J draws an Advisor.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Groundskeeper and 2 Golds.
+J discards a Gold.
+J puts a Gold and a Groundskeeper into their hand.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Forum, a Province and an Advisor.
+J discards a Forum.
+J puts a Province and an Advisor into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Groundskeeper, a Gold and an Advisor.
+J discards a Gold.
+J puts an Advisor and a Groundskeeper into their hand.
+J plays a Groundskeeper.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Forum and a Gold.
+J discards a Gold.
+J puts a Forum into their hand.
+J plays a Forum.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J discards 2 Provinces.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J gets 5 VP from Groundskeeper.
+J shuffles their deck.
+J draws a Province, 2 Advisors, a Groundskeeper and a Sacrifice.
+
+Turn 17 - Souljourner
+S plays 3 Coppers and a Silver. (+$5)
+S buys and gains a Duchy.
+S draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Groundskeeper.
+J draws an Advisor.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Provinces and an Improve.
+J discards an Improve.
+J puts 2 Provinces into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Groundskeeper, a Gold and an Advisor.
+J discards a Gold.
+J puts an Advisor and a Groundskeeper into their hand.
+J plays a Groundskeeper.
+J draws a Plaza.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Forum, a Gold and a Province.
+J discards a Gold.
+J puts a Province and a Forum into their hand.
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Groundskeepers and a Gold.
+J discards a Gold.
+J puts 2 Groundskeepers into their hand.
+J plays a Groundskeeper.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws an Improve.
+J gets +1 Action.
+J plays a Plaza.
+J draws a Gold.
+J gets +2 Actions.
+J discards a Gold.
+J gets +1 Coffers.
+J plays a Forum.
+J shuffles their deck.
+J draws 2 Golds.
+J gets +1 Action.
+J discards 2 Provinces.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J gets 5 VP from Groundskeeper.
+J shuffles their deck.
+J draws a Gold, an Advisor, a Forum and 2 Groundskeepers.
+

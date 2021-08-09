@@ -1,0 +1,338 @@
+Game #82401265, unrated.
+
+
+Druid sets The Sky's Gift aside.
+Druid sets The River's Gift aside.
+Druid sets The Sun's Gift aside.
+L gets +1 Coffers.
+J gets +1 Coffers.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L uses 1 Coffers. (+$1)
+L buys and gains a Potion.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J uses 1 Coffers. (+$1)
+J plays 4 Coppers. (+$4)
+J buys and gains a Witch.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Swindler.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Swindler.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Witch and a Swindler.
+
+Turn 3 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J trashes an Estate.
+J gains an Estate.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Swindler.
+J gets +$2.
+L trashes a Copper.
+L gains a Curse.
+J plays a Copper. (+$1)
+J buys and gains a Stockpile.
+J draws 5 Coppers.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Potion.
+J shuffles their deck.
+J draws 4 Coppers and a Potion.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L plays a Potion.
+L buys and gains an Apothecary.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J plays a Potion.
+J buys and gains an Alchemist.
+J draws a Copper, an Estate, a Witch, a Swindler and a Stockpile.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Witch.
+J draws a Copper and an Estate.
+L gains a Curse.
+J plays 2 Coppers. (+$2)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Groom.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 7 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J trashes a Copper.
+J gains a Curse.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J discards a Stockpile from Exile.
+J draws 3 Coppers, an Estate and a Groom.
+
+Turn 8 - Lord Rattington
+L plays a Potion.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains an Apothecary.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Groom.
+J gains a Stockpile.
+J gains a Silver.
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J shuffles their deck.
+J draws a Curse, a Witch, a Swindler, an Alchemist and a Potion.
+
+Turn 9 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L shuffles their deck.
+L reveals a Curse, a Copper, a Silver and a Gold.
+L puts a Copper into their hand.
+L topdecks a Curse, a Silver and a Gold.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Baker.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Alchemist.
+J draws a Copper and a Silver.
+J gets +1 Action.
+J plays a Witch.
+J draws a Stockpile and a Groom.
+L gains a Curse.
+J plays a Copper and a Silver. (+$3)
+J plays a Stockpile and a Potion.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains an Alchemist.
+J buys and gains a Stockpile.
+J discards a Stockpile from Exile.
+J topdecks an Alchemist.
+J draws 2 Coppers, an Estate, an Alchemist and a Stockpile.
+
+Turn 10 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Potion.
+L plays a Silver and a Gold. (+$5)
+L buys and gains an Apothecary.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Alchemist.
+J draws 2 Stockpiles.
+J gets +1 Action.
+J plays 2 Coppers. (+$2)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains 2 Bakers.
+J draws 3 Coppers and 2 Estates.
+
+Turn 11 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L shuffles their deck.
+L reveals a Curse, a Copper, a Silver and a Potion.
+L puts a Copper and a Potion into their hand.
+L topdecks a Curse and a Silver.
+L plays a Swindler.
+L gets +$2.
+J shuffles their deck.
+J trashes a Witch.
+J gains a Duchy.
+L plays 2 Coppers. (+$2)
+L plays a Potion.
+L plays a Copper. (+$1)
+L buys and gains an Apothecary.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Stockpile.
+J discards 3 Stockpiles from Exile.
+J draws a Curse, an Estate, 2 Alchemists and a Baker.
+
+Turn 12 - Lord Rattington
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Baker.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Alchemist.
+J draws a Copper and a Silver.
+J gets +1 Action.
+J plays an Alchemist.
+J draws 2 Stockpiles.
+J gets +1 Action.
+J plays a Baker.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains 3 Peddlers.
+J draws a Copper, a Swindler, a Potion, a Baker and a Groom.
+
+Turn 13 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L shuffles their deck.
+L reveals an Apothecary, a Curse and 2 Coppers.
+L puts 2 Coppers into their hand.
+L topdecks a Curse and an Apothecary.
+L plays a Baker.
+L draws a card.
+L gets +1 Action.
+L gets +1 Coffers.
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L reveals 3 Coppers and a Potion.
+L puts 3 Coppers and a Potion into their hand.
+L plays 3 Coppers, a Silver and a Gold. (+$8)
+L plays a Potion.
+L plays 2 Coppers. (+$2)
+L uses 1 Coffers. (+$1)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Baker.
+J shuffles their deck.
+J draws a Duchy.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Swindler.
+J gets +$2.
+L trashes an Apothecary.
+L gains an Apothecary.
+J plays a Copper. (+$1)
+J plays a Potion.
+J buys and gains an Apothecary.
+J draws a Copper, a Silver, a Peddler and 2 Stockpiles.
+
+Turn 14 - Lord Rattington
+L plays a Baker.
+L draws a card.
+L gets +1 Action.
+L gets +1 Coffers.
+L plays a Swindler.
+L gets +$2.
+J trashes a Stockpile.
+J gains a Silver.
+L plays 2 Silvers. (+$4)
+L uses 1 Coffers. (+$1)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Peddler.
+J draws a Peddler.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J plays a Stockpile.
+J gets +1 Buy.
+J exiles a Stockpile.
+J buys and gains a Province.
+J buys and gains a Stockpile.
+J discards 4 Stockpiles from Exile.
+J draws 3 Coppers, an Alchemist and a Baker.
+
+Turn 15 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L reveals an Apothecary, a Curse, a Silver and a Gold.
+L topdecks a Curse, a Silver, a Gold and an Apothecary.
+L plays a Baker.
+L draws a card.
+L gets +1 Action.
+L gets +1 Coffers.
+L plays 2 Coppers. (+$2)
+L plays a Potion.
+L uses 1 Coffers. (+$1)
+L buys and gains an Apothecary.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Alchemist.
+J draws an Estate and an Alchemist.
+J gets +1 Action.
+J plays an Alchemist.
+J draws an Estate and a Stockpile.
+J gets +1 Action.
+J plays a Baker.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays 2 Coppers. (+$2)
+

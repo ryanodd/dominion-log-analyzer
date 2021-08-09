@@ -1,0 +1,330 @@
+Game #82145823, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Smugglers.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Warehouse.
+J draws 3 Coppers, an Estate and a Smugglers.
+
+Turn 4 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Patrol.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Smugglers.
+J gains a Patrol.
+J plays 3 Coppers. (+$3)
+J buys and gains a Warehouse.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Patrol.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws a Copper, a Silver, a Patrol, a Smugglers and a Warehouse.
+
+Turn 6 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Warehouse.
+J draws 2 Coppers and a Warehouse.
+J gets +1 Action.
+J discards 2 Coppers and a Smugglers.
+J plays a Warehouse.
+J shuffles their deck.
+J draws a Copper and 2 Estates.
+J gets +1 Action.
+J discards a Copper and 2 Estates.
+J plays a Patrol.
+J draws 2 Coppers and an Estate.
+J reveals 2 Coppers, a Silver and a Smugglers.
+J topdecks 2 Coppers, a Silver and a Smugglers.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Wharf.
+J draws 3 Coppers, a Silver and a Smugglers.
+
+Turn 7 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L reveals a Copper, a Silver and 2 Estates.
+L puts 2 Estates into their hand.
+L topdecks a Copper and a Silver.
+L plays 4 Coppers and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Smugglers.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Treasury.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Treasury and a Warehouse.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Treasury.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Warehouse.
+J draws a Copper, a Warehouse and a Wharf.
+J gets +1 Action.
+J discards 2 Coppers and an Estate.
+J plays a Warehouse.
+J draws 2 Coppers and a Silver.
+J gets +1 Action.
+J discards 3 Coppers.
+J plays a Wharf.
+J draws 2 Coppers.
+J gets +1 Buy.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Coven.
+J topdecks a Treasury.
+J draws 2 Estates, a Patrol, a Smugglers and a Treasury.
+
+Turn 9 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L reveals 3 Coppers and a Patrol.
+L topdecks 3 Coppers and a Patrol.
+L plays a Copper and 3 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws 2 Coppers (Wharf).
+J gets +1 Buy.
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Smugglers.
+J gains a Gold.
+J plays 3 Coppers. (+$3)
+J buys Invest.
+J exiles a Tactician.
+J draws 2 cards when an opponent gains or invests in Tactician.
+J topdecks a Treasury.
+J draws 3 Coppers, an Estate and a Treasury.
+
+Turn 10 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L shuffles their deck.
+L reveals 2 Coppers, an Estate and a Silver.
+L puts an Estate into their hand.
+L topdecks 2 Coppers and a Silver.
+L plays 5 Coppers and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Treasury.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Gold.
+J topdecks a Treasury.
+J draws a Copper, a Silver, a Treasury and 2 Warehouses.
+
+Turn 11 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L shuffles their deck.
+L reveals a Copper, a Gold and 2 Silvers.
+L topdecks a Copper, 2 Silvers and a Gold.
+L plays 2 Coppers, a Gold and 2 Silvers. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Treasury.
+J draws a Coven.
+J gets +1 Action.
+J gets +$1.
+J plays a Warehouse.
+J shuffles their deck.
+J draws a Copper, a Silver and an Estate.
+J gets +1 Action.
+J discards 2 Coppers and an Estate.
+J plays a Warehouse.
+J draws a Copper, a Gold and a Smugglers.
+J gets +1 Action.
+J discards a Copper and 2 Silvers.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Smugglers.
+J plays a Gold. (+$3)
+J buys and gains a Tactician.
+J discards a Tactician from Exile.
+J topdecks a Treasury.
+J draws 2 Estates, a Patrol, a Treasury and a Wharf.
+
+Turn 12 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L reveals 3 Coppers and an Estate.
+L puts an Estate into their hand.
+L topdecks 3 Coppers.
+L plays 2 Coppers, a Gold and 2 Silvers. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Wharf.
+J draws a Copper and a Gold.
+J gets +1 Buy.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Gold.
+J topdecks a Treasury.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Tactician and a Treasury.
+
+Turn 13 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Copper and a Warehouse (Wharf).
+J gets +1 Buy.
+J plays a Tactician.
+J discards 3 Coppers, a Silver, a Treasury and a Warehouse.
+J draws 3 Coppers, a Gold and a Warehouse.
+
+Turn 14 - Lord Rattington
+L plays a Copper, a Gold and a Silver. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +1 Buy, +1 Action and draws a Gold, 2 Estates, a Tactician and a Coven (Tactician).
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Warehouse.
+J draws a Gold, an Estate and a Patrol.
+J gets +1 Action.
+J discards 3 Estates.
+J plays a Patrol.
+J draws a Copper, a Silver and a Smugglers.
+J shuffles their deck.
+J reveals 2 Coppers and 2 Estates.
+J puts 2 Estates into their hand.
+J topdecks 2 Coppers.
+J plays a Tactician.
+J discards 4 Coppers, a Silver, 3 Golds, 2 Estates and a Smugglers.
+J draws 2 Coppers, a Silver, a Treasury and a Wharf.
+
+Turn 15 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L reveals a Copper, 2 Silvers and a Province.
+L puts a Province into their hand.
+L topdecks a Copper and 2 Silvers.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J gets +1 Buy, +1 Action and draws a Copper, an Estate, a Smugglers and 2 Warehouses (Tactician).
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Treasury.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Warehouse.
+J draws 2 Coppers and a Patrol.
+J gets +1 Action.
+J discards 2 Coppers and an Estate.
+J plays a Wharf.
+J draws a Gold and a Coven.
+J gets +1 Buy.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Warehouse.
+J draws a Copper, a Gold and an Estate.
+J gets +1 Action.
+J discards 2 Coppers and an Estate.
+J plays a Patrol.
+J draws a Copper, a Gold and a Tactician.
+J shuffles their deck.
+J reveals 2 Coppers and 2 Estates.
+J puts 2 Estates into their hand.
+J topdecks 2 Coppers.
+J plays 3 Coppers, 3 Golds and 2 Silvers. (+$16)
+J buys and gains 2 Provinces.
+

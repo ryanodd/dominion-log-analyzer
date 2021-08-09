@@ -1,0 +1,194 @@
+Game #81579102, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Catapult.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Engineer.
+J repays 4 debt.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Catapult.
+J draws 2 Coppers, an Estate, a Catapult and an Engineer.
+
+Turn 3 - Lord Rattington
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Swashbuckler.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Catapult.
+J gets +$1.
+J trashes a Copper.
+L discards a card and a Copper.
+J plays a Copper. (+$1)
+J buys and gains an Engineer.
+J repays 2 debt (2 remaining).
+J shuffles their deck.
+J draws 3 Coppers and 2 Engineers.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Engineer.
+J gains a Worker's Village.
+J plays 2 Coppers. (+$2)
+J repays 2 debt.
+J plays a Copper. (+$1)
+J draws 3 Coppers, an Estate and a Catapult.
+
+Turn 5 - Lord Rattington
+L plays a Swashbuckler.
+L draws 3 cards.
+L plays 3 Silvers and 2 Coppers. (+$8)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Catapult.
+J gets +$1.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Transmogrify.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Catapult.
+
+Turn 6 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Catapult.
+J gets +$1.
+J trashes an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J draws 3 Coppers, a Transmogrify and an Engineer.
+
+Turn 7 - Lord Rattington
+L plays 2 Silvers and a Copper. (+$5)
+L buys and gains a Swashbuckler.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Transmogrify.
+J gets +1 Action.
+J puts a Transmogrify on their Tavern mat.
+J plays an Engineer.
+J gains a Worker's Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Worker's Village, a Catapult and an Engineer.
+
+Turn 8 - Lord Rattington
+L plays a Swashbuckler.
+L draws 3 cards.
+L gets +1 Coffers.
+L plays a Silver, 4 Coppers and a Gold. (+$9)
+L uses 1 Coffers. (+$1)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J plays a Worker's Village.
+J draws a Copper.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays an Engineer.
+J gains a Worker's Village.
+J plays a Catapult.
+J gets +$1.
+J trashes a Copper.
+L discards a card and a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, a Worker's Village and an Engineer.
+
+Turn 9 - Lord Rattington
+L plays 2 Silvers and a Copper. (+$5)
+L buys and gains a Swashbuckler.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J plays a Worker's Village.
+J draws a Catapult.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays an Engineer.
+J gains a Worker's Village.
+J plays a Catapult.
+J gets +$1.
+J trashes a Copper.
+L discards a card and a Copper.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Worker's Village.
+J buys and gains an Engineer.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate and 2 Catapults.
+
+Turn 10 - Lord Rattington
+L plays a Swashbuckler.
+L draws 3 cards.
+L gets +1 Coffers.
+L plays 2 Silvers, a Copper and a Gold. (+$8)
+L uses 1 Coffers. (+$1)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J calls a Transmogrify.
+J trashes an Estate.
+J gains a Silver.
+J plays a Catapult.
+J gets +$1.
+J trashes a Copper.
+L discards a card and an Estate.
+J plays 2 Silvers. (+$4)
+J repays 4 debt.
+J draws 2 Coppers, a Silver and 2 Worker's Villages.
+
+Turn 11 - Lord Rattington
+L plays a Copper. (+$1)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+

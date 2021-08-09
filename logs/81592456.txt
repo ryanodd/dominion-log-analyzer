@@ -1,0 +1,278 @@
+Game #81592456, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys a Delve.
+L gets +1 Buy.
+L gains a Silver.
+L buys a Delve.
+L gets +1 Buy.
+L gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Pawn.
+J draws 5 Coppers.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys a Delve.
+L gets +1 Buy.
+L gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Replace.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Pawn.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Witch.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Pawn.
+J draws an Estate.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J draws 5 Coppers.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys a Delve.
+L gets +1 Buy.
+L gains a Silver.
+L buys a Delve.
+L gets +1 Buy.
+L gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Replace.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Replace.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys a Delve.
+L gets +1 Buy.
+L gains a Silver.
+L buys a Delve.
+L gets +1 Buy.
+L gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Replace.
+J trashes an Estate.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Estate and a Mining Village.
+
+Turn 6 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Witch.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Pawn and a Replace.
+
+Turn 7 - Lord Rattington
+L plays a Witch.
+L shuffles their deck.
+L draws 2 cards.
+J gains a Curse.
+L plays a Copper and 3 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Pawn.
+J draws a Copper.
+J gets +1 Action.
+J plays a Replace.
+J trashes an Estate.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Silvers and a Mining Village.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Hunting Party.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Hunting Party.
+J draws a Copper, an Estate, a Witch, a Mining Village and a Replace.
+
+Turn 9 - Lord Rattington
+L plays a Gold, a Copper and 3 Silvers. (+$10)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Mining Village.
+J shuffles their deck.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Replace.
+J trashes an Estate.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays a Witch.
+J draws a Mining Village and a Replace.
+L gains a Curse.
+J plays a Copper. (+$1)
+J draws 4 Coppers and a Silver.
+
+Turn 10 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Hunting Party.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Laboratory.
+J draws a Copper, 2 Silvers, a Mining Village and a Hunting Party.
+
+Turn 11 - Lord Rattington
+L plays a Gold and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Mining Village.
+J draws a Pawn.
+J gets +2 Actions.
+J plays a Hunting Party.
+J draws a Copper.
+J gets +1 Action.
+J reveals their hand: a Pawn, 2 Coppers and 2 Silvers.
+J shuffles their deck.
+J reveals 3 Coppers and finally Curse.
+J puts a Curse into their hand.
+J discards 3 Coppers.
+J plays a Pawn.
+J draws a Replace.
+J gets +1 Action.
+J plays a Replace.
+J trashes a Curse.
+J gains a Pawn.
+J topdecks a Pawn.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Witch.
+J draws 2 Coppers, a Silver, a Pawn and a Replace.
+
+Turn 12 - Lord Rattington
+L plays a Gold, a Copper and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Pawn.
+J draws a Witch.
+J gets +1 Action.
+J plays a Witch.
+J draws 2 Mining Villages.
+L gains a Curse.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Mining Village.
+J shuffles their deck.
+J draws 2 Coppers, a Laboratory, a Mining Village and a Hunting Party.
+
+Turn 13 - Lord Rattington
+L plays a Hunting Party.
+L draws a card.
+L gets +1 Action.
+L reveals their hand: 2 Coppers, 2 Silvers and a Witch.
+L reveals a Copper.
+L shuffles their deck.
+L reveals an Estate.
+L puts an Estate into their hand.
+L discards a Copper.
+L plays a Witch.
+L draws 2 cards.
+J gains a Curse.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Mining Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Laboratory.
+J draws a Copper and a Pawn.
+J gets +1 Action.
+J plays a Pawn.
+J draws a Copper.
+J gets +1 Action.
+J plays a Hunting Party.
+J draws a Mining Village.
+J gets +1 Action.
+J reveals their hand: 4 Coppers, a Mining Village and a Silver.
+J reveals a Copper and finally Witch.
+J puts a Witch into their hand.
+J discards a Copper.
+J plays a Mining Village.
+J draws a Witch.
+J gets +2 Actions.
+J plays a Witch.
+J draws 2 Mining Villages.
+L gains a Curse.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Replace.
+J gets +2 Actions.
+J plays a Witch.
+J draws a Copper and a Silver.
+L gains a Curse.
+J plays a Replace.
+J trashes a Copper.
+J gains a Pawn.
+J topdecks a Pawn.
+J plays 5 Coppers and 2 Silvers. (+$9)
+J shuffles their deck.
+J draws a Silver, a Mining Village, 2 Pawns and a Replace.
+
+Turn 14 - Lord Rattington
+L plays a Gold, a Copper and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+

@@ -1,0 +1,451 @@
+Game #82019420, rated.
+Annaline: 42.09
+Jazzercise: 44.96
+
+
+A starts with 7 Coppers.
+A starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+A shuffles their deck.
+A draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Annaline
+A plays 4 Coppers. (+$4)
+A buys and gains a Bridge.
+A draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Urchin.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Annaline
+A plays 3 Coppers. (+$3)
+A buys and gains an Urchin.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and an Urchin.
+
+Turn 3 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards an Estate.
+A plays a Bridge.
+A gets +1 Buy.
+A gets +$1.
+A plays 2 Coppers. (+$2)
+A buys and gains an Urchin.
+A draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+A discards a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains an Urchin.
+J draws 2 Coppers, 2 Estates and an Urchin.
+
+Turn 4 - Annaline
+A plays 4 Coppers. (+$4)
+A buys and gains an Urchin.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+A discards an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Urchin.
+
+Turn 5 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards a Copper.
+A plays a Bridge.
+A gets +1 Buy.
+A gets +$1.
+A plays 3 Coppers. (+$3)
+A buys and gains a Sacred Grove.
+A draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Urchin.
+J draws an Urchin.
+J gets +1 Action.
+A discards an Estate.
+J plays an Urchin.
+J trashes an Urchin.
+J gains a Mercenary.
+J draws a Copper.
+J gets +1 Action.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Sacred Grove.
+J takes 2 VP from Labyrinth.
+J draws 3 Coppers and 2 Estates.
+
+Turn 6 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards an Estate.
+A plays an Urchin.
+A trashes an Urchin.
+A gains a Mercenary.
+A draws a card.
+A gets +1 Action.
+A plays 3 Coppers. (+$3)
+A buys and gains a Silver.
+A takes 2 VP from Labyrinth.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and an Urchin.
+
+Turn 7 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards an Estate.
+A plays 5 Coppers. (+$5)
+A buys and gains a Taxman.
+A draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+A discards an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 4 Coppers and a Sacred Grove.
+
+Turn 8 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards a Copper.
+A plays a Bridge.
+A gets +1 Buy.
+A gets +$1.
+A plays a Copper and a Silver. (+$3)
+A buys and gains a Conspirator.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Swamp's Gift.
+J receives The Swamp's Gift.
+J gains a Will-o'-Wisp.
+J discards The Swamp's Gift.
+A gains a Will-o'-Wisp.
+J plays 3 Coppers. (+$3)
+J buys and gains a Gold.
+J takes 2 VP from Labyrinth.
+J draws a Copper, a Silver, an Estate, a Mercenary and an Urchin.
+
+Turn 9 - Annaline
+A plays a Sacred Grove.
+A gets +1 Buy.
+A gets +$3.
+A takes The Sea's Gift.
+A receives The Sea's Gift.
+A draws a card.
+A discards The Sea's Gift.
+J shuffles their deck.
+J draws an Estate.
+A plays 2 Coppers. (+$2)
+A buys and gains a Silver.
+A draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+A discards a Conspirator.
+J plays a Mercenary.
+J trashes an Urchin.
+J gains a Mercenary.
+J trashes 2 Estates.
+J draws 2 Coppers.
+J gets +$2.
+A discards a Copper.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J takes 2 VP from Labyrinth.
+J draws 2 Coppers, a Silver, a Sacred Grove and a Will-o'-Wisp.
+
+Turn 10 - Annaline
+A plays a Taxman.
+A trashes a Copper.
+J discards a Copper.
+A gains a Silver.
+A draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws an Urchin.
+J gets +1 Action.
+J reveals a Silver.
+J topdecks a Silver.
+J plays an Urchin.
+J draws a Silver.
+J gets +1 Action.
+A discards a Bridge.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Sun's Gift.
+J receives The Sun's Gift.
+J shuffles their deck.
+J looks at 2 Coppers, an Estate and a Gold.
+J discards 2 Coppers and an Estate.
+J topdecks a Gold.
+J discards The Sun's Gift.
+A shuffles their deck.
+A looks at 4 cards.
+A discards an Urchin.
+A topdecks 3 cards.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Province.
+J draws 3 Coppers, a Silver and a Gold.
+
+Turn 11 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards a Copper.
+A plays a Mercenary.
+A trashes an Urchin.
+A gains a Mercenary.
+A trashes a Copper and an Estate.
+A draws 2 cards.
+A gets +$2.
+J discards a Copper.
+A plays 2 Coppers and a Silver. (+$4)
+A buys and gains a Gold.
+A takes 2 VP from Labyrinth.
+A draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Gold, 2 Mercenaries and a Will-o'-Wisp.
+
+Turn 12 - Annaline
+A plays a Bridge.
+A gets +1 Buy.
+A gets +$1.
+A plays 2 Coppers and a Silver. (+$4)
+A buys and gains a Gold.
+A draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Silver.
+J topdecks a Silver.
+J plays a Mercenary.
+J trashes a Copper and a Mercenary.
+J draws a Copper and a Silver.
+J gets +$2.
+A discards a card and a Sacred Grove.
+J plays a Copper, 2 Silvers and a Gold. (+$8)
+J buys and gains a Province.
+J draws 4 Coppers and a Gold.
+
+Turn 13 - Annaline
+A plays a Will-o'-Wisp.
+A draws a card.
+A gets +1 Action.
+A reveals a Conspirator.
+A topdecks a Conspirator.
+A plays a Taxman.
+A trashes a Copper.
+J discards a Copper.
+A gains a Silver.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Gold.
+J draws a Copper, a Silver, an Estate, an Urchin and a Sacred Grove.
+
+Turn 14 - Annaline
+A plays a Sacred Grove.
+A gets +1 Buy.
+A gets +$3.
+A takes The Sky's Gift.
+A receives The Sky's Gift.
+A fails to discard for The Sky's Gift
+A discards The Sky's Gift.
+A plays a Copper and 2 Silvers. (+$5)
+A buys and gains a Province.
+A draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Urchin.
+J draws a Gold.
+J gets +1 Action.
+A discards a Mercenary.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Mountain's Gift.
+J receives The Mountain's Gift.
+J gains a Silver.
+J discards The Mountain's Gift.
+A gains a Silver.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Province.
+J takes 2 VP from Labyrinth.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Province and a Mercenary.
+
+Turn 15 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards a Province.
+A plays a Mercenary.
+A trashes 2 Coppers.
+A draws 2 cards.
+A gets +$2.
+J discards a Silver.
+A plays a Copper and a Silver. (+$3)
+A buys and gains a Duchy.
+A draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Mercenary.
+J trashes a Copper and a Silver.
+J draws a Copper and an Estate.
+J gets +$2.
+A discards a card and a Taxman.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Silvers and a Province.
+
+Turn 16 - Annaline
+A plays a Will-o'-Wisp.
+A draws a card.
+A gets +1 Action.
+A reveals an Estate.
+A puts an Estate into their hand.
+A plays a Silver and 2 Golds. (+$8)
+A buys and gains a Province.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Duchy.
+J draws 2 Golds, a Province, a Sacred Grove and a Will-o'-Wisp.
+
+Turn 17 - Annaline
+A plays an Urchin.
+A draws a card.
+A gets +1 Action.
+J discards a Province.
+A plays a Sacred Grove.
+A gets +1 Buy.
+A gets +$3.
+A takes The Moon's Gift.
+A receives The Moon's Gift.
+A discards The Moon's Gift.
+J looks at 3 Coppers, a Duchy, 4 Silvers, a Mercenary, an Estate and 3 Provinces.
+J looks at 3 Coppers, a Duchy, 4 Silvers, a Mercenary, an Estate and 3 Provinces.
+J topdecks a Mercenary.
+A plays a Silver. (+$2)
+A buys and gains a Duchy.
+A draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The River's Gift.
+J receives The River's Gift.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J discards The River's Gift.
+J draws 2 Coppers, 2 Golds, a Mercenary and an Urchin.
+A draws a card.
+
+Turn 18 - Annaline
+A plays a Mercenary.
+A trashes 2 Estates.
+A draws 2 cards.
+A gets +$2.
+J discards 2 Golds and an Urchin.
+A plays 3 Silvers. (+$6)
+A buys and gains a Province.
+A draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Mercenary.
+J trashes 2 Coppers.
+J shuffles their deck.
+J draws 2 Provinces.
+J gets +$2.
+A discards a card and a Copper.
+J draws a Silver, 2 Golds, an Urchin and a Sacred Grove.
+
+Turn 19 - Annaline
+A plays a Will-o'-Wisp.
+A draws a card.
+A gets +1 Action.
+A reveals a Duchy.
+A topdecks a Duchy.
+A plays a Copper, a Silver and a Gold. (+$6)
+A buys and gains a Duchy.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Field's Gift.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays an Urchin.
+J draws a Will-o'-Wisp.
+J gets +1 Action.
+A discards a Duchy.
+J plays a Will-o'-Wisp.
+J draws a Gold.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Copper, a Silver and 3 Golds. (+$12)
+J buys and gains a Province.
+J buys and gains a Duchy.
+J discards The Field's Gift.
+J draws 2 Coppers, 2 Silvers and a Duchy.
+

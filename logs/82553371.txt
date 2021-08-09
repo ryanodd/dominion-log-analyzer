@@ -1,0 +1,355 @@
+Game #82553371, rated.
+Jazzercise: 46.56
+Bridge: 41.86
+
+Kingdom generated with these relative percentages:
+0%: Knights, Possession, Rebuild, Familiar and Rogue
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+B starts with 7 Coppers.
+B starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Bridge
+B plays 4 Coppers. (+$4)
+B buys and gains a Sauna.
+B draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys Sinister Plot.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 2 - Bridge
+B plays 3 Coppers. (+$3)
+B buys and gains a Silver.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 3 - Jazzercise
+J starts their turn.
+J plays 5 Coppers. (+$5)
+J buys and gains a Junk Dealer.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - Bridge
+B plays 4 Coppers. (+$4)
+B buys and gains a Sauna.
+B draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J draws an Estate (Sinister Plot).
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Junk Dealer.
+
+Turn 4 - Bridge
+B plays a Silver and 3 Coppers. (+$5)
+B buys and gains a Haggler.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J plays a Junk Dealer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J trashes an Estate.
+J plays a Silver and 2 Coppers. (+$4)
+J buys a Junk Dealer.
+J takes 2 VP from Colonnade.
+J gains a Junk Dealer.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays 4 Coppers. (+$4)
+B buys a Sauna.
+B takes 2 VP from Colonnade.
+B gains a Sauna.
+B draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Junk Dealer.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Junk Dealer.
+
+Turn 6 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Silver. (+$2)
+B trashes an Estate.
+B plays 2 Coppers. (+$2)
+B buys a Sauna.
+B takes 2 VP from Colonnade.
+B gains a Sauna.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J draws a Copper and a Junk Dealer (Sinister Plot).
+J plays a Junk Dealer.
+J draws a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Junk Dealer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Junk Dealer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Junk Dealer.
+
+Turn 7 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Haggler.
+B gets +$2.
+B plays 3 Coppers. (+$3)
+B buys a Sauna.
+B takes 2 VP from Colonnade.
+B gains a Silver.
+B gains a Sauna.
+B draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J plays a Junk Dealer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J trashes an Estate.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Jester.
+J draws 2 Coppers, a Silver, a Gold and a Junk Dealer.
+
+Turn 8 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Silver. (+$2)
+B trashes 2 Coppers and an Estate.
+B plays a Copper. (+$1)
+B buys and gains a Silver.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J plays a Junk Dealer.
+J draws a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Junk Dealer.
+J shuffles their deck.
+J draws a Jester.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Jester.
+J gets +$2.
+B discards a Sauna.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Tactician.
+J draws 2 Coppers, a Silver, an Estate and a Junk Dealer.
+
+Turn 9 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Haggler.
+B gets +$2.
+B plays 3 Coppers. (+$3)
+B buys an Avanto.
+B gains a Silver.
+B gains an Avanto.
+B draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Silver and a Jester (Sinister Plot).
+J plays a Junk Dealer.
+J draws a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes an Estate.
+J plays a Junk Dealer.
+J draws a Tactician.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Tactician.
+J discards a Copper, 2 Silvers and a Jester.
+J shuffles their deck.
+J draws a Silver, a Gold, a Jester and 2 Junk Dealers.
+
+Turn 10 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Silver. (+$2)
+B trashes a Copper.
+B plays a Silver. (+$2)
+B trashes a Copper.
+B plays a Silver. (+$2)
+B buys and gains an Avanto.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J gets +1 Buy, +1 Action and draws a Copper, a Silver and a Junk Dealer (Tactician).
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes a Junk Dealer.
+J plays a Jester.
+J gets +$2.
+B discards a Sauna.
+J plays a Gold and 2 Silvers. (+$7)
+J buys a Tactician.
+J takes 2 VP from Colonnade.
+J gains a Tactician.
+J buys and gains a Cursed Village.
+J takes Poverty.
+J receives Poverty.
+J discards Poverty.
+J shuffles their deck.
+J draws a Silver, a Gold, a Tactician, a Junk Dealer and a Cursed Village.
+
+Turn 11 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays an Avanto.
+B draws 3 cards.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays an Avanto.
+B draws 3 cards.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Haggler.
+B gets +$2.
+B plays a Silver. (+$2)
+B trashes 3 Coppers and an Estate.
+B plays 3 Silvers. (+$6)
+B buys a Province.
+B gains a Gold.
+B gains a Province.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Tactician (Sinister Plot).
+J plays a Junk Dealer.
+J draws a Jester.
+J gets +1 Action.
+J gets +$1.
+J trashes a Silver.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Silver and a Junk Dealer.
+J plays a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes a Silver.
+J plays a Jester.
+J gets +$2.
+B discards a Silver.
+B gains a Silver.
+J plays a Tactician.
+J discards a Gold and a Tactician.
+J shuffles their deck.
+J draws a Tactician, a Jester, 2 Junk Dealers and a Cursed Village.
+
+Turn 12 - Bridge
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays an Avanto.
+B draws 3 cards.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays an Avanto.
+B draws 3 cards.
+B plays a Sauna.
+B shuffles their deck.
+B draws a card.
+B gets +1 Action.
+B plays a Sauna.
+B draws a card.
+B gets +1 Action.
+B plays a Sauna.
+B gets +1 Action.
+B plays a Haggler.
+B gets +$2.
+B plays a Gold and 5 Silvers. (+$13)
+B buys a Province.
+B gains an Avanto.
+B gains a Province.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gets +1 Buy, +1 Action and draws a Gold (Tactician).
+J gets +1 Action.
+J gets +1 Buy.
+

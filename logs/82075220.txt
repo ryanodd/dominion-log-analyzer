@@ -1,0 +1,675 @@
+Game #82075220, rated.
+Jazzercise: 45.04
+xcvkfdiui: 38.75
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+x starts with 7 Coppers.
+x starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Marauder.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - xcvkfdiui
+x plays 4 Coppers. (+$4)
+x buys and gains a Marauder.
+x draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - xcvkfdiui
+x plays 3 Coppers. (+$3)
+x buys and gains a Sage.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Marauder.
+J draws a Copper, a Silver, 2 Estates and a Marauder.
+
+Turn 3 - xcvkfdiui
+x plays a Marauder.
+x gains a Spoils.
+J gains a Ruined Library.
+x plays 3 Coppers. (+$3)
+x buys and gains a Sage.
+x draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Marauder.
+J gains a Spoils.
+x gains an Abandoned Mine.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Sage.
+J shuffles their deck.
+J draws 4 Coppers and a Marauder.
+
+Turn 4 - xcvkfdiui
+x plays 4 Coppers. (+$4)
+x buys and gains a Marauder.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Marauder.
+J gains a Spoils.
+x gains a Ruined Village.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 5 - xcvkfdiui
+x plays a Marauder.
+x gains a Spoils.
+J gains a Survivors.
+x plays 2 Coppers. (+$2)
+x buys and gains a Vagrant.
+x draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Sage.
+J draws a Silver, an Estate, a Marauder, a Ruined Library and a Sage.
+
+Turn 6 - xcvkfdiui
+x plays an Abandoned Mine.
+x gets +$1.
+x plays a Copper. (+$1)
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x buys and gains a Trading Post.
+x draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Spoils.
+J shuffles their deck.
+J reveals 3 Coppers and finally Silver.
+J puts a Silver into their hand.
+J discards 3 Coppers and a Spoils.
+J plays a Marauder.
+J gains a Spoils.
+x gains an Abandoned Mine.
+J plays 2 Silvers. (+$4)
+J buys and gains a Sage.
+J draws 2 Coppers, an Estate, a Marauder and a Spoils.
+
+Turn 7 - xcvkfdiui
+x plays a Marauder.
+x gains a Spoils.
+J gains a Ruined Library.
+x plays 3 Coppers. (+$3)
+x buys and gains a Silver.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Marauder.
+J gains a Spoils.
+x gains a Ruined Village.
+J plays 2 Coppers. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Trading Post.
+J draws 2 Coppers, an Estate, a Sage and a Survivors.
+
+Turn 8 - xcvkfdiui
+x plays a Marauder.
+x gains a Spoils.
+J gains a Ruined Village.
+x plays 2 Coppers and a Silver. (+$4)
+x buys and gains a Vagrant.
+x draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J shuffles their deck.
+J reveals 2 Coppers and finally Marauder.
+J puts a Marauder into their hand.
+J discards 2 Coppers.
+J plays a Marauder.
+J gains a Spoils.
+x gains a Survivors.
+J plays 2 Coppers. (+$2)
+J buys and gains a Vagrant.
+J draws a Silver, an Estate, a Ruined Village, a Sage and a Spoils.
+
+Turn 9 - xcvkfdiui
+x plays a Marauder.
+x gains a Spoils.
+J gains a Ruined Village.
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x plays 2 Coppers. (+$2)
+x buys and gains a Treasury.
+x draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Ruined Library and an Estate and finally Sage.
+J puts a Sage into their hand.
+J discards an Estate and a Ruined Library.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Ruined Library and finally Trading Post.
+J puts a Trading Post into their hand.
+J discards a Ruined Library.
+J plays a Trading Post.
+J trashes an Estate and a Ruined Village.
+J gains a Silver.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays 2 Silvers. (+$4)
+J buys and gains a Trading Post.
+J draws 2 Coppers, a Silver, a Marauder and a Spoils.
+
+Turn 10 - xcvkfdiui
+x plays a Vagrant.
+x draws a card.
+x gets +1 Action.
+x reveals a Sage.
+x topdecks a Sage.
+x plays 2 Coppers. (+$2)
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x buys and gains a Trading Post.
+x draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Marauder.
+J gains a Spoils.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys a Mint.
+J trashes 2 Coppers and a Silver.
+J gains a Mint.
+J shuffles their deck.
+J draws a Copper, a Silver, a Trading Post, a Ruined Village and a Spoils.
+
+Turn 11 - xcvkfdiui
+x plays a Sage.
+x gets +1 Action.
+x reveals an Estate.
+x shuffles their deck.
+x reveals 3 Coppers, an Estate, a Ruined Village, a Spoils and an Abandoned Mine and finally Silver.
+x puts a Silver into their hand.
+x discards 3 Coppers, 2 Estates, an Abandoned Mine, a Ruined Village and a Spoils.
+x plays a Sage.
+x gets +1 Action.
+x reveals an Estate and finally Trading Post.
+x puts a Trading Post into their hand.
+x discards an Estate.
+x plays a Trading Post.
+x trashes a Copper and an Abandoned Mine.
+x gains a Silver.
+x plays 2 Silvers. (+$4)
+x buys and gains a Vagrant.
+x draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Trading Post.
+J trashes a Copper and a Ruined Village.
+J gains a Silver.
+J plays 2 Silvers. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Gold.
+J draws 2 Coppers, an Estate, a Sage and a Survivors.
+
+Turn 12 - xcvkfdiui
+x plays a Vagrant.
+x draws a card.
+x gets +1 Action.
+x reveals a Copper.
+x topdecks a Copper.
+x plays a Vagrant.
+x draws a card.
+x gets +1 Action.
+x reveals a Ruined Village.
+x puts a Ruined Village into their hand.
+x plays a Survivors.
+x looks at 2 cards.
+x topdecks 2 cards.
+x buys a Quest.
+x discards a Marauder.
+x gains a Gold.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Copper and finally Sage.
+J puts a Sage into their hand.
+J discards a Copper.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Spoils and finally Trading Post.
+J puts a Trading Post into their hand.
+J discards a Spoils.
+J plays a Trading Post.
+J trashes an Estate and a Survivors.
+J gains a Silver.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Sage.
+J draws a Copper, a Silver, an Estate and 2 Ruined Libraries.
+
+Turn 13 - xcvkfdiui
+x plays a Vagrant.
+x draws a card.
+x gets +1 Action.
+x reveals a Marauder.
+x topdecks a Marauder.
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Marauder.
+x gains a Spoils.
+x plays a Copper. (+$1)
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x buys and gains a Province.
+x draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Ruined Library.
+J draws a Mint.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Sage.
+J draws 2 Marauders, a Sage, a Spoils and a Vagrant.
+
+Turn 14 - xcvkfdiui
+x plays a Survivors.
+x looks at 2 cards.
+x discards a card and a Copper.
+x plays a Gold and 2 Silvers. (+$7)
+x buys and gains a Captain.
+x draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Sage.
+J puts a Sage into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Sage.
+J puts a Sage into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+J plays a Vagrant.
+J draws a Mint.
+J gets +1 Action.
+J reveals a Sage.
+J topdecks a Sage.
+J plays a Marauder.
+J gains a Spoils.
+J plays a Silver. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Trading Post.
+J draws a Copper, a Trading Post, a Ruined Library and 2 Sages.
+
+Turn 15 - xcvkfdiui
+x plays a Vagrant.
+x draws a card.
+x gets +1 Action.
+x reveals a Vagrant.
+x topdecks a Vagrant.
+x plays a Sage.
+x gets +1 Action.
+x reveals a Vagrant and finally Sage.
+x puts a Sage into their hand.
+x discards a Vagrant.
+x plays a Sage.
+x gets +1 Action.
+x reveals 3 Coppers, 2 Estates and an Abandoned Mine.
+x shuffles their deck.
+x reveals a Treasury.
+x puts a Treasury into their hand.
+x discards 3 Coppers, 2 Estates and an Abandoned Mine.
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Trading Post.
+x trashes a Marauder and a Ruined Village.
+x gains a Silver.
+x plays 2 Silvers. (+$4)
+x buys and gains a Treasury.
+x topdecks a Treasury.
+x draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals 2 Coppers and an Estate and finally Trading Post.
+J puts a Trading Post into their hand.
+J discards 2 Coppers and an Estate.
+J plays a Trading Post.
+J trashes a Copper and a Ruined Library.
+J gains a Silver.
+J plays 2 Silvers. (+$4)
+J buys and gains a Sage.
+J draws a Copper, a Silver, a Gold, a Ruined Library and a Spoils.
+
+Turn 16 - xcvkfdiui
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Captain.
+x plays a Sage.
+x gets +1 Action.
+x reveals 2 Vagrants, an Estate, a Ruined Village and a Spoils and finally Marauder.
+x puts a Marauder into their hand.
+x discards an Estate, a Ruined Village, a Spoils and 2 Vagrants.
+x plays a Marauder.
+x gains a Spoils.
+x plays 3 Coppers. (+$3)
+x topdecks a Treasury.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Ruined Library.
+J draws a Silver.
+J plays a Copper, a Gold and 2 Silvers. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 3 Silvers, a Sage and a Spoils.
+
+Turn 17 - xcvkfdiui
+x starts their turn.
+x plays a Sage.
+x gets +1 Action.
+x reveals a Spoils and finally Marauder.
+x puts a Marauder into their hand.
+x discards a Spoils.
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Survivors.
+x looks at 2 cards.
+x topdecks 2 cards.
+x plays a Marauder.
+x gains a Spoils.
+x plays a Gold and a Silver. (+$5)
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x buys and gains a Province.
+x draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+J plays 3 Silvers. (+$6)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J draws a Gold, a Trading Post, a Mint, a Marauder and a Spoils.
+
+Turn 18 - xcvkfdiui
+x plays a Sage.
+x gets +1 Action.
+x reveals a Copper, 2 Vagrants, an Estate and a Ruined Village and finally Silver.
+x puts a Silver into their hand.
+x discards a Copper, an Estate, a Ruined Village and 2 Vagrants.
+x plays a Sage.
+x gets +1 Action.
+x reveals an Estate, a Vagrant and an Abandoned Mine and finally Treasury.
+x puts a Treasury into their hand.
+x discards an Estate, an Abandoned Mine and a Vagrant.
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Trading Post.
+x trashes 2 Coppers.
+x gains a Silver.
+x plays 3 Silvers. (+$6)
+x buys and gains a Duchy.
+x draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Trading Post.
+J trashes a Mint and a Marauder.
+J gains a Silver.
+J plays a Gold and a Silver. (+$5)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J draws a Copper, a Silver, a Ruined Library and 2 Sages.
+
+Turn 19 - xcvkfdiui
+x plays a Trading Post.
+x trashes 2 Coppers.
+x gains a Silver.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Trading Post.
+J puts a Trading Post into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Copper, a Vagrant and an Estate and finally Trading Post.
+J puts a Trading Post into their hand.
+J discards a Copper, an Estate and a Vagrant.
+J plays a Trading Post.
+J trashes a Copper and a Ruined Library.
+J gains a Silver.
+J plays 2 Silvers. (+$4)
+J buys and gains a Sage.
+J draws a Copper, a Silver, a Marauder and 2 Sages.
+
+Turn 20 - xcvkfdiui
+x plays a Sage.
+x gets +1 Action.
+x reveals 2 Spoils and finally Treasury.
+x puts a Treasury into their hand.
+x discards 2 Spoils.
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Trading Post.
+x trashes a Copper and a Survivors.
+x gains a Silver.
+x plays 2 Silvers. (+$4)
+x buys and gains a Duchy.
+x draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Sage.
+J puts a Sage into their hand.
+J plays a Sage.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Trading Post.
+J puts a Trading Post into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+J plays a Trading Post.
+J trashes a Copper and a Marauder.
+J gains a Silver.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Gold.
+J draws a Silver, a Province, a Trading Post, a Sage and a Vagrant.
+
+Turn 21 - xcvkfdiui
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Captain.
+x plays a Sage.
+x gets +1 Action.
+x reveals 3 Vagrants and an Estate and finally Province.
+x puts a Province into their hand.
+x discards an Estate and 3 Vagrants.
+x plays a Copper and a Gold. (+$4)
+x buys and gains a Duchy.
+x draws 5 cards.
+
+Turn 22 - Jazzercise
+J plays a Vagrant.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Sage.
+J topdecks a Sage.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Sage.
+J puts a Sage into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals an Estate and finally Province.
+J puts a Province into their hand.
+J discards an Estate.
+J plays a Trading Post.
+J trashes 2 Silvers.
+J gains a Silver.
+J draws 2 Silvers, a Trading Post and 2 Sages.
+
+Turn 22 - xcvkfdiui
+x starts their turn.
+x plays a Sage.
+x gets +1 Action.
+x reveals a Ruined Village and finally Sage.
+x puts a Sage into their hand.
+x discards a Ruined Village.
+x plays a Sage.
+x gets +1 Action.
+x reveals a Silver.
+x puts a Silver into their hand.
+x plays a Trading Post.
+x trashes a Silver and an Estate.
+x gains a Silver.
+x plays 4 Silvers. (+$8)
+x buys and gains a Province.
+x shuffles their deck.
+x draws 5 cards.
+
+Turn 23 - Jazzercise
+J plays a Sage.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+J plays a Trading Post.
+J trashes 2 Silvers.
+J gains a Silver.
+J plays 2 Silvers. (+$4)
+J buys and gains a Sage.
+J shuffles their deck.
+J draws a Copper, a Silver, a Trading Post, a Sage and a Vagrant.
+
+Turn 23 - xcvkfdiui
+x plays a Vagrant.
+x draws a card.
+x gets +1 Action.
+x reveals a Silver.
+x topdecks a Silver.
+x plays a Treasury.
+x draws a card.
+x gets +1 Action.
+x gets +$1.
+x plays a Vagrant.
+x draws a card.
+x gets +1 Action.
+x reveals a Province.
+x puts a Province into their hand.
+x plays an Abandoned Mine.
+x gets +$1.
+x plays 2 Silvers. (+$4)
+x buys and gains a Duchy.
+x draws 5 cards.
+
+Turn 24 - Jazzercise
+J plays a Vagrant.
+J draws a Province.
+J gets +1 Action.
+J reveals a Sage.
+J topdecks a Sage.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Sage.
+J puts a Sage into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Sage.
+J puts a Sage into their hand.
+J plays a Sage.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+J plays a Trading Post.
+J trashes a Copper and a Silver.
+J gains a Silver.
+J draws 4 Silvers and an Estate.
+
+Turn 24 - xcvkfdiui
+x plays a Sage.
+x gets +1 Action.
+x reveals a Trading Post.
+x puts a Trading Post into their hand.
+x plays a Trading Post.
+x trashes a Silver and a Ruined Village.
+x gains a Silver.
+x plays a Silver. (+$2)
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x buys and gains a Duchy.
+x draws 5 cards.
+
+Turn 25 - Jazzercise
+J plays 4 Silvers. (+$8)
+J buys and gains a Province.
+J draws a Silver, 2 Trading Posts and 2 Sages.
+
+Turn 25 - xcvkfdiui
+x plays a Copper, a Gold and a Silver. (+$6)
+x plays a Spoils. (+$3)
+x returns a Spoils to the Spoils pile.
+x buys and gains a Province.
+x draws 5 cards.
+

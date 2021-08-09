@@ -1,0 +1,570 @@
+Game #81708993, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Loan.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Potion.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Forager.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Sentry.
+J draws 3 Coppers, an Estate and a Loan.
+
+Turn 3 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Potion.
+L plays 2 Coppers. (+$2)
+L buys and gains a Forager.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Loan. (+$1)
+J reveals an Estate and finally Copper.
+J trashes a Copper.
+J discards an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Sentry.
+
+Turn 4 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$1.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Sentry.
+J draws a Loan.
+J gets +1 Action.
+J looks at a Copper and an Estate.
+J trashes a Copper and an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J buys and gains a Sacred Grove.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$1.
+L plays a Potion.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Sacred Grove.
+J draws a Copper, an Estate, a Sentry, a Loan and a Sacred Grove.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Copper and a Silver.
+J trashes a Copper.
+J topdecks a Silver.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Sun's Gift.
+J receives The Sun's Gift.
+J looks at 2 Coppers, a Sacred Grove and a Silver.
+J discards 2 Coppers.
+J topdecks a Silver and a Sacred Grove.
+J discards The Sun's Gift.
+L looks at 4 cards.
+L topdecks 4 cards.
+J plays a Loan. (+$1)
+J reveals a Silver.
+J discards a Silver.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Sentry and a Sacred Grove.
+
+Turn 7 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes a Copper.
+L gets +$1.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Sentry.
+J draws a Loan.
+J gets +1 Action.
+J looks at a Sacred Grove and an Estate.
+J trashes an Estate.
+J topdecks a Sacred Grove.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Forest's Gift.
+J receives The Forest's Gift.
+J gets +1 Buy.
+J gets +$1.
+J plays a Loan. (+$1)
+J reveals a Sacred Grove and finally Gold.
+J discards a Gold and a Sacred Grove.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Province.
+J discards The Forest's Gift.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Sentry and a Sacred Grove.
+
+Turn 8 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L plays a Potion.
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Sentry.
+J draws an Estate.
+J gets +1 Action.
+J looks at a Copper and a Loan.
+J trashes a Copper and a Loan.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Field's Gift.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains 2 Chariot Races.
+J discards The Field's Gift.
+J shuffles their deck.
+J draws a Silver, a Gold, a Province, a Chariot Race and a Sacred Grove.
+
+Turn 9 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes a Copper.
+L gets +$2.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Sentry.
+J puts a Sentry into their hand.
+L reveals a Silver.
+J gets +$1.
+J gets 1 VP.
+J plays a Sentry.
+J draws a Chariot Race.
+J gets +1 Action.
+J looks at a Sacred Grove and an Estate.
+J trashes an Estate.
+J topdecks a Sacred Grove.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Sacred Grove.
+J puts a Sacred Grove into their hand.
+L reveals a Silver.
+J gets +$1.
+J gets 1 VP.
+J plays a Sacred Grove using Way of the Mule.
+J gets +1 Action.
+J gets +$1.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Sea's Gift.
+J receives The Sea's Gift.
+J draws a Copper.
+J discards The Sea's Gift.
+L draws a card.
+J plays a Gold, a Copper and a Silver. (+$6)
+J buys and gains a Chariot Race.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Province and a Chariot Race.
+
+Turn 10 - Lord Rattington
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Sentry.
+J puts a Sentry into their hand.
+L reveals a Silver.
+J gets +$1.
+J gets 1 VP.
+J plays a Sentry.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Sacred Grove and a Chariot Race.
+J topdecks a Chariot Race and a Sacred Grove.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Gold.
+J draws a Gold, a Province, a Chariot Race and 2 Sacred Groves.
+
+Turn 11 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes a Copper.
+L gets +$2.
+L plays a Silver. (+$2)
+L plays a Potion.
+L plays a Silver. (+$2)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Gold.
+J plays a Chariot Race.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Copper.
+J puts a Copper into their hand.
+L reveals a Gold.
+J plays a Sacred Grove using Way of the Mule.
+J gets +1 Action.
+J gets +$1.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Earth's Gift.
+J receives The Earth's Gift.
+J discards a Copper.
+J gains a Chariot Race.
+J discards The Earth's Gift.
+J plays a Gold. (+$3)
+J buys and gains 2 Chariot Races.
+J draws a Copper, a Gold, a Province, a Sentry and a Chariot Race.
+
+Turn 12 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes a Copper.
+L gets +$2.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+L reveals a Copper.
+J gets +$1.
+J gets 1 VP.
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Sacred Grove and a Chariot Race.
+J topdecks a Chariot Race and a Sacred Grove.
+J plays a Gold, a Copper and 2 Silvers. (+$8)
+J buys and gains a Province.
+J draws a Copper, 2 Chariot Races and 2 Sacred Groves.
+
+Turn 13 - Lord Rattington
+L plays 2 Golds, a Copper and a Silver. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+L reveals a Province.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Province.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Province.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Province.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+L reveals a Province.
+J plays a Sacred Grove using Way of the Mule.
+J gets +1 Action.
+J gets +$1.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The River's Gift.
+J receives The River's Gift.
+J plays a Gold and a Copper. (+$4)
+J buys and gains 2 Chariot Races.
+J discards The River's Gift.
+J shuffles their deck.
+J draws a Gold, a Sentry, 3 Chariot Races and a Sacred Grove.
+L draws a card.
+
+Turn 14 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$2.
+L plays a Potion.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+L reveals a Silver.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+L reveals a Silver.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+L reveals a Silver.
+J plays a Sentry.
+J draws a Chariot Race.
+J gets +1 Action.
+J looks at a Gold and a Sacred Grove.
+J topdecks a Gold and a Sacred Grove.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+L reveals a Silver.
+J gets +$1.
+J gets 1 VP.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Wind's Gift.
+J receives The Wind's Gift.
+J draws a Chariot Race and a Sacred Grove.
+J discards a Chariot Race and a Sacred Grove.
+J discards The Wind's Gift.
+L draws 2 cards.
+L discards a card and a Copper.
+J plays 2 Golds, a Copper and a Silver. (+$9)
+J buys and gains 2 Chariot Races.
+J draws a Silver, 2 Provinces and 2 Chariot Races.
+
+Turn 15 - Lord Rattington
+L plays 2 Golds and 3 Silvers. (+$12)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+L reveals a Potion.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Potion.
+J plays a Chariot Race.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Potion.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+L reveals a Potion.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Sentry.
+J draws a Sentry, 3 Chariot Races and a Sacred Grove.
+
+Turn 16 - Lord Rattington
+L plays a Forager.
+L gets +1 Action.
+L gets +1 Buy.
+L trashes a Forager.
+L gets +$2.
+L plays 2 Golds and a Silver. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Sacred Grove.
+J puts a Sacred Grove into their hand.
+L reveals a Copper.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+L reveals a Copper.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+L reveals a Copper.
+J plays a Sentry.
+J draws a Chariot Race.
+J gets +1 Action.
+J looks at 2 Chariot Races.
+J topdecks 2 Chariot Races.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Copper.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Copper.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+L reveals a Copper.
+J gets +$1.
+J gets 1 VP.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Flame's Gift.
+J receives The Flame's Gift.
+J trashes a Copper.
+J discards The Flame's Gift.
+L trashes a Copper.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J buys and gains an Estate.
+J shuffles their deck.
+J draws a Silver, 2 Golds, an Estate and a Chariot Race.
+
+Turn 17 - Lord Rattington
+L plays a Gold and a Silver. (+$5)
+L plays a Potion.
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Silver.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Chariot Race.
+J puts a Chariot Race into their hand.
+L reveals a Silver.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Sentry.
+J puts a Sentry into their hand.
+L reveals a Silver.
+J gets +$1.
+J gets 1 VP.
+J plays a Sentry.
+J draws a Province.
+J gets +1 Action.
+J looks at a Province and a Chariot Race.
+J discards a Province.
+J topdecks a Chariot Race.
+J plays 2 Golds and a Silver. (+$8)
+J draws a Silver, 3 Chariot Races and a Sacred Grove.
+
+Turn 18 - Lord Rattington
+L plays a Gold, a Copper and 2 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+

@@ -1,4 +1,4 @@
-from saveLogToDB import saveErrorToDB
+from saveLogToDB import saveErrorToDB, saveLogToDB
 import sys
 
 

@@ -1,0 +1,305 @@
+Game #82365602, rated.
+mich_12: 50.65
+Jazzercise: 46.28
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+Druid sets The River's Gift aside.
+Druid sets The Swamp's Gift aside.
+Druid sets The Moon's Gift aside.
+m starts with 7 Coppers.
+m starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+m shuffles their deck.
+m draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - mich_12
+m plays 5 Coppers. (+$5)
+m buys and gains a Bazaar.
+m draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Moneylender.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - mich_12
+m plays 2 Coppers. (+$2)
+m buys and gains a Monastery.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys a Ferry.
+J moves -Cost token to the Bazaar pile.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - mich_12
+m plays 3 Coppers. (+$3)
+m buys and gains a Silver.
+m plays a Monastery.
+m trashes an Estate.
+m draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Bazaar.
+J draws 4 Coppers and a Moneylender.
+
+Turn 4 - mich_12
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays 3 Coppers. (+$3)
+m buys a Ferry.
+m moves -Cost token to the Bazaar pile.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 3 Coppers. (+$3)
+J buys and gains a Moneylender.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Moneylender.
+
+Turn 5 - mich_12
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays 4 Coppers. (+$4)
+m buys and gains a Tragic Hero.
+m draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains a Bazaar.
+J draws 3 Coppers, an Estate and a Bazaar.
+
+Turn 6 - mich_12
+m plays 3 Coppers. (+$3)
+m buys and gains a Bazaar.
+m plays a Monastery.
+m trashes an Estate.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Squire.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Moneylender.
+
+Turn 7 - mich_12
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays 4 Coppers and a Silver. (+$6)
+m buys and gains a City Quarter.
+m repays 7 debt (1 remaining).
+m draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains a Monastery.
+J draws a Copper, 2 Estates, a Moneylender and a Squire.
+
+Turn 8 - mich_12
+m plays a Tragic Hero.
+m shuffles their deck.
+m draws 3 cards.
+m gets +1 Buy.
+m plays 3 Coppers. (+$3)
+m repays 1 debt.
+m buys and gains a Squire.
+m plays a Monastery.
+m trashes an Estate.
+m draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Squire.
+J gets +$1.
+J gets +2 Actions.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J buys and gains a City Quarter.
+J repays 4 debt (4 remaining).
+J shuffles their deck.
+J draws a Copper, 2 Estates and 2 Bazaars.
+
+Turn 9 - mich_12
+m plays a City Quarter using Way of the Turtle.
+m sets a City Quarter aside.
+m plays 3 Coppers and a Silver. (+$5)
+m buys and gains a Tragic Hero.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Monastery.
+J gets +2 Actions.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J repays 4 debt.
+J buys and gains a City Quarter.
+J plays a Monastery.
+J trashes an Estate.
+J draws a Copper, an Estate, 2 Moneylenders and a City Quarter.
+
+Turn 10 - mich_12
+m starts their turn.
+m plays a City Quarter. (Way of the Turtle)
+m gets +2 Actions.
+m reveals their hand: 2 Tragic Heroes, a Copper, a Silver and a Bazaar.
+m draws 3 cards.
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays a Tragic Hero.
+m draws 3 cards.
+m gets +1 Buy.
+m trashes a Tragic Hero.
+m gains a Gold.
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays a Squire.
+m gets +$1.
+m gets +2 Buys.
+m plays a Tragic Hero.
+m shuffles their deck.
+m draws 2 cards.
+m gets +1 Buy.
+m trashes a Tragic Hero.
+m gains a Gold.
+m plays 7 Coppers, a Gold and a Silver. (+$12)
+m buys and gains 3 Bazaars.
+m buys and gains a Tragic Hero.
+m plays a Monastery.
+m trashes 6 Coppers.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, an Estate and 2 Moneylenders.
+J shuffles their deck.
+J draws a Squire and a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, an Estate, 2 Moneylenders and a Squire.
+J draws 2 Bazaars and a Monastery.
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws an Estate.
+J gets +2 Actions.
+J gets +$1.
+J plays a Squire.
+J gets +$1.
+J gets +2 Buys.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J repays 8 debt.
+J plays a Monastery.
+J shuffles their deck.
+J draws a Copper, a Bazaar, a Squire and 2 City Quarters.
+
+Turn 11 - mich_12
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays a Squire.
+m gets +$1.
+m gets +2 Buys.
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays a Bazaar.
+m draws a card.
+m gets +2 Actions.
+m gets +$1.
+m plays a Tragic Hero.
+m draws 3 cards.
+m gets +1 Buy.
+m plays a City Quarter using Way of the Turtle.
+m sets a City Quarter aside.
+m plays a Copper, 2 Golds and a Silver. (+$9)
+m buys and gains 3 Bazaars.
+m buys and gains a Patron.
+m plays a Monastery.
+m trashes a Copper.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a City Quarter, a Copper, a Bazaar and a Squire.
+J draws 2 Estates and a Moneylender.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, 2 Estates, a Bazaar, a Squire and a Moneylender.
+J draws a Moneylender, a Bazaar and a Monastery.
+J plays a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Squire.
+J gets +$1.
+J gets +2 Buys.
+J buys a Ferry.
+J moves -Cost token to the Patron pile.
+J buys and gains a Patron.
+J plays a Monastery.
+J shuffles their deck.
+J draws 2 Estates, 2 Moneylenders and a Bazaar.
+
+Turn 12 - mich_12
+m starts their turn.
+m plays a City Quarter. (Way of the Turtle)
+

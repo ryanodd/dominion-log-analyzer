@@ -1,0 +1,357 @@
+Game #81591711, unrated.
+
+
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+L starts with 7 Coppers.
+L starts with a Hovel, a Necropolis and an Overgrown Estate.
+J shuffles their deck.
+J draws 2 Coppers, a Hovel, a Necropolis and an Overgrown Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J draws 5 Coppers.
+
+Turn 1 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Paddock.
+J shuffles their deck.
+J draws 3 Coppers, an Overgrown Estate and a Paddock.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 3 Coppers. (+$3)
+J buys a Noble Brigand.
+L reveals 2 Coppers.
+L discards 2 Coppers.
+J gains a Noble Brigand.
+J draws 4 Coppers and a Necropolis.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Scholar.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, a Hovel and 2 Horses.
+
+Turn 4 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and a Noble Brigand.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Noble Brigand.
+J gets +$1.
+L reveals 2 Coppers.
+L discards 2 Coppers.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Bridge Troll.
+J draws 3 Coppers, a Necropolis and a Paddock.
+
+Turn 5 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Scholar.
+L discards 2 other cards and a Copper.
+L draws 7 cards.
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Scholar.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 3 Coppers. (+$3)
+J buys and gains a Wild Hunt.
+J shuffles their deck.
+J draws 3 Coppers, a Noble Brigand and an Overgrown Estate.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Scholar.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Noble Brigand.
+J gets +$1.
+L reveals a Copper and a Silver.
+L trashes a Silver.
+L discards a Copper.
+J gains a Silver from trash.
+J plays 3 Coppers. (+$3)
+J buys and gains a Dungeon.
+J draws 3 Coppers, a Bridge Troll and a Wild Hunt.
+
+Turn 7 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Scholar.
+L discards 2 other cards and a Copper.
+L shuffles their deck.
+L draws 7 cards.
+L plays 5 Coppers and a Silver. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Wild Hunt.
+J draws a Copper, a Silver and a Hovel.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Wild Hunt.
+J shuffles their deck.
+J draws a Necropolis, a Bridge Troll, a Paddock and 2 Horses.
+
+Turn 8 - Lord Rattington
+L plays a Scholar.
+L discards 3 other cards and a Copper.
+L shuffles their deck.
+L draws 7 cards.
+L plays 4 Coppers, a Silver and a Gold. (+$9)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Dungeon and a Wild Hunt.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Necropolis.
+J gets +2 Actions.
+J plays a Wild Hunt.
+J draws a Copper, a Hovel and a Wild Hunt.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Copper and a Noble Brigand.
+J discards a Noble Brigand and a Hovel.
+J plays a Wild Hunt.
+J draws 2 Coppers and an Overgrown Estate.
+J plays 6 Coppers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and a Paddock.
+
+Turn 9 - Lord Rattington
+L plays a Scholar.
+L discards 3 other cards and a Hovel.
+L shuffles their deck.
+L draws 7 cards.
+L plays 3 Coppers, a Silver and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Copper and a Necropolis.
+J discards a Copper and a Necropolis.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Province.
+J draws 2 Coppers, an Overgrown Estate, a Bridge Troll and a Wild Hunt.
+
+Turn 10 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Wild Hunt.
+J draws a Copper, a Gold and a Wild Hunt.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Noble Brigand, a Hovel, a Bridge Troll and a Horse.
+
+Turn 11 - Lord Rattington
+L plays a Scholar.
+L discards 3 other cards and a Gold.
+L draws 7 cards.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Scholar.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Wild Hunt.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Wild Hunt.
+J draws 2 Coppers and a Gold.
+J plays 4 Coppers and a Gold. (+$7)
+J buys and gains a Gold.
+J draws a Silver, a Province, a Necropolis, an Overgrown Estate and a Paddock.
+
+Turn 12 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Necropolis.
+J gets +2 Actions.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays a Silver. (+$2)
+J buys and gains a Dungeon.
+J draws 2 Coppers, a Silver, a Dungeon and a Horse.
+
+Turn 13 - Lord Rattington
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Copper and a Gold.
+J discards 2 Coppers.
+J plays a Horse.
+J shuffles their deck.
+J draws a Copper and a Wild Hunt.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Wild Hunt.
+J draws 2 Coppers and a Necropolis.
+J plays 4 Coppers, a Silver and a Gold. (+$9)
+J buys and gains a Province.
+J draws a Silver, a Gold, a Hovel, a Dungeon and a Horse.
+
+Turn 14 - Lord Rattington
+L plays a Scholar.
+L discards 3 other cards and a Copper.
+L draws 7 cards.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Copper and a Horse.
+J discards a Copper and a Hovel.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Province and a Wild Hunt.
+J discards a Province and a Horse.
+J plays a Horse.
+J draws a Copper and a Noble Brigand.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Wild Hunt.
+J draws a Copper, an Overgrown Estate and a Paddock.
+J plays 2 Coppers, a Silver and a Gold. (+$7)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Gold, 2 Provinces and a Bridge Troll.
+
+Turn 15 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 2 Silvers and a Gold. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J draws a Copper and a Gold.
+J discards 2 Provinces.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws 2 Coppers, a Silver, a Dungeon and a Paddock.
+
+Turn 16 - Lord Rattington
+L plays a Copper. (+$1)
+L returns -Coin token set by Bridge Troll. (-$1)
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Hovel and a Horse.
+J discards a Hovel and a Horse.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Gold.
+J draws a Silver, a Gold, a Noble Brigand, a Necropolis and a Wild Hunt.
+
+Turn 17 - Lord Rattington
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J draws 2 Coppers.
+J discards 2 Coppers.
+J plays a Necropolis.
+J gets +2 Actions.
+J plays a Wild Hunt.
+J gains an Estate.
+J gets 7 VP.
+J plays a Silver and a Gold. (+$5)
+J buys and gains a Bridge Troll.
+J shuffles their deck.
+J draws a Copper, a Gold, an Overgrown Estate, a Wild Hunt and a Horse.
+
+Turn 18 - Lord Rattington
+L plays a Scholar.
+L discards 3 other cards and a Scholar.
+L shuffles their deck.
+L draws 7 cards.
+L plays 3 Coppers and 2 Golds. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+

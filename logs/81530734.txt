@@ -1,0 +1,494 @@
+Game #81530734, unrated.
+
+
+J starts with a Goat and a Pouch.
+J starts with 5 Coppers.
+J starts with 3 Estates.
+L starts with a Goat and a Pouch.
+L starts with 5 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Goat.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Goat. (+$1)
+J trashes an Estate.
+J buys and gains a Steward.
+J draws 3 Coppers, an Estate and a Pouch.
+
+Turn 1 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Goat. (+$1)
+L trashes an Estate.
+L buys and gains a Masquerade.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Steward.
+J shuffles their deck.
+J draws a Copper, an Estate, a Steward, a Goat and a Pouch.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Steward.
+J gets +$2.
+J plays a Goat. (+$1)
+J trashes an Estate.
+J plays a Copper. (+$1)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Sacred Grove.
+J draws 3 Coppers, an Estate and a Steward.
+
+Turn 3 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Masquerade.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Steward.
+J trashes a Copper and an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Pixie.
+J shuffles their deck.
+J draws 3 Coppers, a Steward and a Pixie.
+
+Turn 4 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Goat. (+$1)
+L trashes a Copper.
+L plays a Copper. (+$1)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Steward.
+J trashes 2 Coppers.
+J draws a Copper, a Steward, a Sacred Grove, a Goat and a Pouch.
+
+Turn 5 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes an Estate to J.
+J passes a Copper to L.
+L trashes a Copper.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Forest's Gift.
+J receives The Forest's Gift.
+J gets +1 Buy.
+J gets +$1.
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J plays a Goat. (+$1)
+J trashes an Estate.
+J buys and gains a Gold.
+J discards The Forest's Gift.
+J shuffles their deck.
+J draws a Gold, 2 Stewards, a Sacred Grove and a Pouch.
+
+Turn 6 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Goat. (+$1)
+L trashes an Estate.
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Flame's Gift.
+J receives The Flame's Gift.
+J discards The Flame's Gift.
+L trashes a Copper.
+J plays a Gold. (+$3)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Conspirator.
+J buys and gains a Pixie.
+J shuffles their deck.
+J draws a Copper, a Steward, a Pixie, a Sacred Grove and a Goat.
+
+Turn 7 - Lord Rattington
+L plays a Goat. (+$1)
+L trashes a Copper.
+L plays 2 Silvers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Pixie.
+J draws a Pouch.
+J gets +1 Action.
+J takes The Earth's Gift.
+J discards The Earth's Gift.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Swamp's Gift.
+J receives The Swamp's Gift.
+J gains a Will-o'-Wisp.
+J discards The Swamp's Gift.
+L gains a Will-o'-Wisp.
+J plays a Copper. (+$1)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J plays a Goat. (+$1)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Gold, a Conspirator, a Steward, a Pixie and a Will-o'-Wisp.
+
+Turn 8 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Copper to J.
+J passes a Steward to L.
+L trashes a Copper.
+L plays a Silver. (+$2)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Silver. (+$2)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Pixie.
+J draws a Sacred Grove.
+J gets +1 Action.
+J takes The Moon's Gift.
+J discards The Moon's Gift.
+J plays a Will-o'-Wisp.
+J draws a Steward.
+J gets +1 Action.
+J reveals a Goat.
+J puts a Goat into their hand.
+J plays a Conspirator.
+J gets +$2.
+J draws a Pixie.
+J gets +1 Action.
+J plays a Pixie.
+J draws a Copper.
+J gets +1 Action.
+J takes The Field's Gift.
+J discards The Field's Gift.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Mountain's Gift.
+J receives The Mountain's Gift.
+J gains a Silver.
+J discards The Mountain's Gift.
+L gains a Silver.
+J plays 2 Coppers and a Gold. (+$5)
+J plays a Goat. (+$1)
+J buys and gains a Necromancer.
+J buys and gains a Conspirator.
+J shuffles their deck.
+J draws a Copper, 2 Golds, a Pixie and a Pouch.
+
+Turn 9 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Will-o'-Wisp to J.
+J passes a Copper to L.
+L trashes a Copper.
+L plays 3 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Necromancer.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Pixie.
+J draws a Steward.
+J gets +1 Action.
+J takes The Sea's Gift.
+J discards The Sea's Gift.
+J plays a Necromancer.
+J plays a Zombie Spy.
+J draws a Conspirator.
+J gets +1 Action.
+J looks at a Will-o'-Wisp.
+J topdecks a Will-o'-Wisp.
+J plays a Conspirator.
+J gets +$2.
+J draws a Will-o'-Wisp.
+J gets +1 Action.
+J plays a Will-o'-Wisp.
+J draws a Sacred Grove.
+J gets +1 Action.
+J reveals a Pixie.
+J puts a Pixie into their hand.
+J plays a Pixie.
+J draws a Conspirator.
+J gets +1 Action.
+J takes The Sky's Gift.
+J discards The Sky's Gift.
+J plays a Conspirator.
+J gets +$2.
+J draws a Goat.
+J gets +1 Action.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Sun's Gift.
+J receives The Sun's Gift.
+J looks at a Silver.
+J topdecks a Silver.
+J discards The Sun's Gift.
+L shuffles their deck.
+L looks at 4 cards.
+L topdecks 4 cards.
+J plays a Copper and 2 Golds. (+$7)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J plays a Goat. (+$1)
+J buys and gains a Conspirator.
+J buys and gains a Necromancer.
+J buys and gains a Conspirator.
+J shuffles their deck.
+J draws a Silver, 2 Conspirators, a Necromancer and a Pixie.
+
+Turn 10 - Lord Rattington
+L plays a Goat. (+$1)
+L trashes a Pouch.
+L plays 3 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Pixie.
+J draws a Conspirator.
+J gets +1 Action.
+J takes The Wind's Gift.
+J discards The Wind's Gift.
+J plays a Necromancer.
+J plays a Zombie Spy.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Will-o'-Wisp.
+J topdecks a Will-o'-Wisp.
+J plays a Conspirator.
+J gets +$2.
+J draws a Will-o'-Wisp.
+J gets +1 Action.
+J plays a Will-o'-Wisp.
+J draws a Sacred Grove.
+J gets +1 Action.
+J reveals a Pixie.
+J puts a Pixie into their hand.
+J plays a Pixie.
+J draws a Conspirator.
+J gets +1 Action.
+J takes The River's Gift.
+J discards The River's Gift.
+J plays a Conspirator.
+J gets +$2.
+J draws a Goat.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Gold.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Gold.
+J gets +1 Action.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Mountain's Gift.
+J receives The Mountain's Gift.
+J gains a Silver.
+J discards The Mountain's Gift.
+L gains a Silver.
+J plays a Copper, a Silver and 2 Golds. (+$9)
+J plays a Goat. (+$1)
+J buys and gains a Gold.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, a Steward, a Necromancer, a Pouch and a Will-o'-Wisp.
+
+Turn 11 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Silver to J.
+J passes a Will-o'-Wisp to L.
+L trashes a Will-o'-Wisp.
+L plays 3 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Necromancer.
+J plays a Will-o'-Wisp.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Conspirator.
+J topdecks a Conspirator.
+J plays a Steward.
+J gets +$2.
+J plays 2 Silvers and a Gold. (+$7)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Province.
+J draws a Conspirator, a Necromancer, a Pixie, a Goat and a Will-o'-Wisp.
+
+Turn 12 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Steward to J.
+J passes a Goat to L.
+L plays 4 Silvers and a Gold. (+$11)
+L plays a Goat. (+$1)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Conspirator.
+J gets +1 Action.
+J reveals a Conspirator.
+J topdecks a Conspirator.
+J plays a Pixie.
+J draws a Conspirator.
+J gets +1 Action.
+J takes The River's Gift.
+J discards The River's Gift.
+J plays a Conspirator.
+J gets +$2.
+J draws a Silver.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Gold.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Necromancer.
+J plays a Zombie Spy.
+J draws a Conspirator.
+J gets +1 Action.
+J looks at a Gold.
+J topdecks a Gold.
+J plays a Conspirator.
+J gets +$2.
+J draws a Gold.
+J gets +1 Action.
+J plays a Steward.
+J gets +$2.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Gold, 2 Pixies and a Sacred Grove.
+
+Turn 13 - Lord Rattington
+L plays a Goat. (+$1)
+L plays 3 Silvers. (+$6)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Pixie.
+J draws a Pouch.
+J gets +1 Action.
+J takes The Forest's Gift.
+J discards The Forest's Gift.
+J plays a Pixie.
+J draws a Conspirator.
+J gets +1 Action.
+J takes The Flame's Gift.
+J discards The Flame's Gift.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Wind's Gift.
+J receives The Wind's Gift.
+J draws a Silver and a Steward.
+J discards a Conspirator and a Steward.
+J discards The Wind's Gift.
+L draws 2 cards.
+L discards a card and a Duchy.
+J plays a Copper, a Silver and a Gold. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Province.
+J buys and gains a Pixie.
+J draws a Silver, a Gold, a Province, a Conspirator and a Will-o'-Wisp.
+
+Turn 14 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Goat to J.
+J passes a Silver to L.
+L plays 4 Silvers and 2 Golds. (+$14)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Necromancer.
+J gets +1 Action.
+J reveals a Gold.
+J topdecks a Gold.
+J plays a Necromancer.
+J plays a Zombie Spy.
+J draws a Gold.
+J gets +1 Action.
+J looks at a Necromancer.
+J topdecks a Necromancer.
+J plays a Conspirator.
+J gets +$2.
+J draws a Necromancer.
+J gets +1 Action.
+J plays a Necromancer.
+J plays a Zombie Mason.
+J trashes a Steward.
+J plays 2 Golds. (+$6)
+J buys and gains a Duchy.
+J draws a Silver, 2 Provinces and 2 Conspirators.
+
+Turn 15 - Lord Rattington
+L plays a Masquerade.
+L draws 2 cards.
+L passes a Goat to J.
+J passes a Conspirator to L.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+

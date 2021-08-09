@@ -1,0 +1,704 @@
+Game #82144692, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains an Ambassador.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Caravan.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Ambassador.
+J shuffles their deck.
+J draws 4 Coppers and an Ambassador.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Cutpurse.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+L gains a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains an Embargo.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays an Ambassador.
+L reveals an Estate.
+L returns 2 Estates to the Estate pile.
+J gains an Estate.
+L plays 2 Coppers. (+$2)
+L buys and gains an Embargo.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Fishing Village.
+J shuffles their deck.
+J draws a Copper, an Estate, an Ambassador, a Caravan and an Embargo.
+
+Turn 5 - Lord Rattington
+L plays an Ambassador.
+L reveals a Copper.
+L returns 2 Coppers to the Copper pile.
+J gains a Copper.
+L plays 2 Coppers. (+$2)
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Caravan.
+J draws a Copper.
+J gets +1 Action.
+J plays an Ambassador.
+J reveals an Estate.
+J returns an Estate to the Estate pile.
+L gains an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Haven.
+J draws 3 Coppers and 2 Estates.
+
+Turn 6 - Lord Rattington
+L plays an Embargo.
+L gets +$2.
+L trashes an Embargo.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws an Estate (Caravan).
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Caravan and a Fishing Village.
+
+Turn 7 - Lord Rattington
+L plays a Cutpurse.
+L gets +$2.
+J discards a Copper.
+L plays 3 Coppers. (+$3)
+L buys and gains a Bazaar.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Caravan.
+J draws a Silver.
+J gets +1 Action.
+J plays a Copper and a Silver. (+$3)
+J buys and gains an Island.
+J draws 2 Coppers, an Estate, an Ambassador and an Embargo.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Bazaar.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J draws a Haven (Caravan).
+J plays a Haven.
+J draws a Copper.
+J gets +1 Action.
+J sets an Embargo aside with Haven.
+J plays an Ambassador.
+J reveals an Estate.
+J returns an Estate to the Estate pile.
+L gains an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Cutpurse.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, an Ambassador and a Cutpurse.
+
+Turn 9 - Lord Rattington
+L plays an Ambassador.
+L reveals an Estate.
+L returns an Estate to the Estate pile.
+J gains an Estate.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Bazaar.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J puts an Embargo in hand (Haven).
+J plays an Embargo.
+J gets +$2.
+J trashes an Embargo.
+J plays 2 Coppers. (+$2)
+J buys and gains an Embargo.
+J draws 4 Coppers and an Island.
+
+Turn 10 - Lord Rattington
+L plays a Cutpurse.
+L gets +$2.
+J discards a Copper.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Island.
+J puts an Island on their Island mat.
+J puts a Copper on their Island mat.
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws a Silver, 2 Estates, a Caravan and a Fishing Village.
+
+Turn 11 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Caravan.
+J draws a Haven.
+J gets +1 Action.
+J plays a Haven.
+J draws a Cutpurse.
+J gets +1 Action.
+J sets an Estate aside with Haven.
+J plays a Cutpurse.
+J gets +$2.
+L discards a Copper.
+J plays a Silver. (+$2)
+J buys an Ambassador.
+J gains a Curse.
+J gains an Ambassador.
+J draws 3 Coppers, an Estate and an Ambassador.
+
+Turn 12 - Lord Rattington
+L plays an Ambassador.
+L reveals a Copper.
+L returns 2 Coppers to the Copper pile.
+J gains a Copper.
+L plays a Copper. (+$1)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J draws a Copper (Caravan).
+J puts an Estate in hand (Haven).
+J plays an Ambassador.
+J reveals an Estate.
+J returns 2 Estates to the Estate pile.
+L gains an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Ghost Ship.
+J shuffles their deck.
+J draws a Curse, 2 Coppers, a Silver and an Embargo.
+
+Turn 13 - Lord Rattington
+L plays a Cutpurse.
+L gets +$2.
+J discards a Copper.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Embargo.
+J gets +$2.
+J trashes an Embargo.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Bazaar.
+J draws a Copper, an Estate, 2 Ambassadors and a Cutpurse.
+
+Turn 14 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays an Ambassador.
+L reveals a Copper.
+L returns a Copper to the Copper pile.
+J gains a Copper.
+L plays a Silver and a Gold. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Ambassador.
+J reveals an Estate.
+J returns an Estate to the Estate pile.
+L gains an Estate.
+J plays a Copper. (+$1)
+J draws a Copper, a Caravan, a Fishing Village, a Ghost Ship and a Haven.
+
+Turn 15 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays 2 Coppers and 2 Golds. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Haven.
+J draws a Copper.
+J gets +1 Action.
+J sets a Copper aside with Haven.
+J plays a Caravan.
+J draws a Copper.
+J gets +1 Action.
+J plays a Ghost Ship.
+J shuffles their deck.
+J draws a Copper and a Silver.
+L topdecks 2 cards.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains an Explorer.
+J draws 2 Coppers, an Ambassador, a Bazaar and a Cutpurse.
+
+Turn 16 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Cutpurse.
+L gets +$2.
+J discards a Copper.
+L plays an Ambassador.
+L reveals a Silver.
+J gains a Silver.
+L plays a Silver. (+$2)
+L buys and gains a Bazaar.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J puts a Copper in hand (Haven).
+J draws an Ambassador (Caravan).
+J plays a Bazaar.
+J draws a Curse.
+J gets +2 Actions.
+J gets +$1.
+J plays an Ambassador.
+J reveals a Curse.
+J returns a Curse to the Curse pile.
+L gains a Curse.
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+L gains a Copper.
+J plays a Cutpurse.
+J gets +$2.
+L discards a Copper.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, an Ambassador, a Caravan, a Ghost Ship and a Haven.
+
+Turn 17 - Lord Rattington
+L plays a Gold. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Haven.
+J draws an Explorer.
+J gets +1 Action.
+J sets an Explorer aside with Haven.
+J plays a Ghost Ship.
+J draws a Copper and an Ambassador.
+L topdecks 2 cards.
+J plays 2 Coppers. (+$2)
+J draws 2 Coppers, a Silver, a Bazaar and a Cutpurse.
+
+Turn 18 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Silver and 2 Golds. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J puts an Explorer in hand (Haven).
+J plays a Bazaar.
+J draws a Silver.
+J gets +2 Actions.
+J gets +$1.
+J plays a Cutpurse.
+J gets +$2.
+L reveals their hand: a Bazaar, a Province, an Ambassador and 2 Golds.
+J plays an Explorer.
+J gains a Silver.
+J plays 2 Coppers and 3 Silvers. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Fishing Village and a Ghost Ship.
+
+Turn 19 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays an Ambassador.
+L reveals a Curse.
+L returns a Curse to the Curse pile.
+J gains a Curse.
+L plays 2 Golds. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Ghost Ship.
+J draws a Province and a Cutpurse.
+L topdecks 2 cards.
+J plays a Cutpurse.
+J gets +$2.
+L discards a Copper.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Province.
+J draws 2 Coppers, a Silver, a Caravan and an Explorer.
+
+Turn 20 - Lord Rattington
+L draws 5 cards.
+
+Turn 20 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Caravan.
+J draws a Haven.
+J gets +1 Action.
+J plays a Haven.
+J draws an Ambassador.
+J gets +1 Action.
+J sets an Explorer aside with Haven.
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+L gains a Copper.
+J plays a Silver. (+$2)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Ambassador and a Bazaar.
+
+Turn 21 - Lord Rattington
+L plays a Cutpurse.
+L gets +$2.
+J discards a Copper.
+L plays 2 Coppers. (+$2)
+L buys and gains an Island.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 21 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Curse (Caravan).
+J puts an Explorer in hand (Haven).
+J plays a Bazaar.
+J draws a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays an Ambassador.
+J reveals a Copper.
+J returns a Copper to the Copper pile.
+L gains a Copper.
+J plays an Explorer.
+J gains a Silver.
+J plays 2 Silvers. (+$4)
+J buys and gains an Explorer.
+J draws a Silver, 2 Provinces, a Cutpurse and a Ghost Ship.
+
+Turn 22 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays an Ambassador.
+L reveals a Copper.
+L returns a Copper to the Copper pile.
+J gains a Copper.
+L plays 2 Silvers. (+$4)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 22 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Ghost Ship.
+J draws a Silver and an Ambassador.
+L topdecks 2 cards.
+J plays an Ambassador.
+J reveals a Cutpurse.
+J returns a Cutpurse to the Cutpurse pile.
+L gains a Cutpurse.
+J plays 2 Silvers. (+$4)
+J buys and gains an Explorer.
+J shuffles their deck.
+J draws 2 Coppers and 3 Silvers.
+
+Turn 23 - Lord Rattington
+L plays an Island.
+L puts an Island on their Island mat.
+L puts an Estate on their Island mat.
+L draws 5 cards.
+
+Turn 23 - Jazzercise
+J plays 2 Coppers and 3 Silvers. (+$8)
+J buys and gains a Bazaar.
+J draws a Province, an Ambassador, a Bazaar, an Explorer and a Ghost Ship.
+
+Turn 24 - Lord Rattington
+L plays a Cutpurse.
+L gets +$2.
+J reveals their hand: an Explorer, a Bazaar, a Ghost Ship, a Province and an Ambassador.
+L plays a Copper and 2 Golds. (+$7)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 24 - Jazzercise
+J plays a Bazaar.
+J draws a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Ghost Ship.
+J draws a Province and an Explorer.
+L topdecks 2 cards.
+J plays an Explorer.
+J reveals a Province.
+J gains a Gold.
+J plays an Ambassador.
+J reveals a Province.
+J returns 2 Provinces to the Province pile.
+L gains a Province.
+J plays a Gold. (+$3)
+J buys and gains a Bazaar.
+J draws a Curse, a Copper, a Silver, an Ambassador and a Caravan.
+
+Turn 25 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Copper. (+$1)
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 25 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Caravan.
+J draws a Silver.
+J gets +1 Action.
+J plays an Ambassador.
+J reveals a Curse.
+J returns a Curse to the Curse pile.
+L gains a Curse.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains an Island.
+J shuffles their deck.
+J draws 2 Silvers, a Bazaar, an Explorer and a Haven.
+
+Turn 26 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 26 - Jazzercise
+J starts their turn.
+J draws a Bazaar (Caravan).
+J plays a Bazaar.
+J draws a Copper.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Silver.
+J gets +2 Actions.
+J gets +$1.
+J plays a Haven.
+J draws a Copper.
+J gets +1 Action.
+J sets a Copper aside with Haven.
+J plays an Explorer.
+J gains a Silver.
+J plays a Copper and 4 Silvers. (+$9)
+J buys and gains an Island.
+J draws 2 Silvers, a Gold, an Ambassador and a Ghost Ship.
+
+Turn 27 - Lord Rattington
+L plays an Ambassador.
+L reveals a Copper.
+L returns a Copper to the Copper pile.
+J gains a Copper.
+L plays a Gold. (+$3)
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 27 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Haven).
+J plays a Ghost Ship.
+J draws an Explorer and an Island.
+L topdecks 2 cards.
+J plays a Copper, 2 Silvers and a Gold. (+$8)
+J buys and gains an Island.
+J draws a Copper, a Silver, a Bazaar, an Explorer and a Fishing Village.
+
+Turn 28 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Gold. (+$3)
+L buys and gains an Island.
+L draws 5 cards.
+
+Turn 28 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws an Ambassador.
+J gets +2 Actions.
+J gets +$1.
+J plays an Ambassador.
+J reveals a Copper.
+J returns a Copper to the Copper pile.
+L gains a Copper.
+J plays a Silver. (+$2)
+J buys and gains an Island.
+J shuffles their deck.
+J draws a Copper, an Ambassador, 2 Bazaars and a Haven.
+
+Turn 29 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Cutpurse.
+L gets +$2.
+J discards a Copper.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 29 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Bazaar.
+J draws an Island.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Silver.
+J gets +2 Actions.
+J gets +$1.
+J plays a Haven.
+J draws a Copper.
+J gets +1 Action.
+J sets a Copper aside with Haven.
+J plays an Island.
+J puts an Island on their Island mat.
+J puts a Silver on their Island mat.
+J plays an Ambassador.
+J draws 3 Silvers, a Gold and a Ghost Ship.
+
+Turn 30 - Lord Rattington
+L plays a Bazaar.
+L draws a card.
+L gets +2 Actions.
+L gets +$1.
+L plays a Copper and a Silver. (+$3)
+L buys and gains an Island.
+L draws 5 cards.
+
+Turn 30 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Haven).
+

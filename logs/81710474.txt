@@ -1,0 +1,537 @@
+Game #81710474, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Peasant.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Peasant.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Peasant.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J returns a Peasant.
+J receives a Soldier.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Peasant.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J returns a Peasant.
+J receives a Soldier.
+J draws a Copper, 2 Estates, a Port and a Soldier.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Merchant.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Soldier.
+J gets +$2.
+L discards a Copper.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Sacrifice.
+J returns a Soldier.
+J receives a Fugitive.
+J shuffles their deck.
+J draws 4 Coppers and a Port.
+
+Turn 7 - Lord Rattington
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays a Silver. (+$2)
+L gets +$1.
+L plays a Copper. (+$1)
+L buys and gains a Merchant.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Port.
+J draws a Sacrifice.
+J gets +2 Actions.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys and gains a Sacrifice.
+J draws 2 Coppers, a Silver, an Estate and a Port.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Merchant.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Port.
+J draws a Soldier.
+J gets +2 Actions.
+J plays a Soldier.
+J gets +$2.
+L discards a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Gold.
+J returns a Soldier.
+J receives a Fugitive.
+J draws 2 Estates, a Fugitive and 2 Ports.
+
+Turn 9 - Lord Rattington
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Fugitive.
+J shuffles their deck.
+J draws a Copper and a Sacrifice.
+J gets +1 Action.
+J discards an Estate.
+J plays a Port.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Port.
+J draws a Fugitive.
+J gets +2 Actions.
+J plays a Fugitive.
+J draws a Copper and a Port.
+J gets +1 Action.
+J discards an Estate.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Sacrifice.
+J gets +2 Actions.
+J plays a Sacrifice.
+J trashes an Estate.
+J gets 2 VP.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys and gains a Merchant.
+J returns a Fugitive.
+J receives a Disciple.
+J returns a Fugitive.
+J receives a Disciple.
+J draws 3 Coppers, a Silver and a Gold.
+
+Turn 10 - Lord Rattington
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays 3 Coppers, a Silver and a Gold. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Merchant and a Sacrifice.
+
+Turn 11 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Merchant.
+J draws a Disciple.
+J gets +1 Action.
+J plays a Disciple.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Sacrifice again.
+J trashes a Copper.
+J gets +$2.
+J gains a Sacrifice.
+J plays a Silver. (+$2)
+J gets +$1.
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J returns a Disciple.
+J receives a Teacher.
+J draws an Estate, a Province, 2 Ports and a Sacrifice.
+
+Turn 12 - Lord Rattington
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays 2 Coppers and a Silver. (+$4)
+L gets +$2.
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Disciple.
+J gets +2 Actions.
+J plays a Disciple.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Port again.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Port.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys and gains a Merchant.
+J returns a Disciple.
+J receives a Teacher.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, an Estate and a Port.
+
+Turn 13 - Lord Rattington
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays a Silver. (+$2)
+L gets +$2.
+L plays 2 Coppers. (+$2)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Port.
+J draws a Teacher.
+J gets +2 Actions.
+J plays a Teacher.
+J puts a Teacher on their Tavern mat.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J draws an Estate, a Province and 3 Ports.
+
+Turn 14 - Lord Rattington
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays a Copper and a Silver. (+$3)
+L gets +$1.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Bank.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J calls a Teacher.
+J moves +Card token to the Port pile.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Sacrifice.
+J gets +2 Actions.
+J plays a Port.
+J draws a Merchant (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Sacrifice (from Teacher).
+J draws a Copper.
+J gets +2 Actions.
+J plays a Port.
+J draws a Teacher (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Merchant (from Teacher).
+J draws a Sacrifice.
+J gets +2 Actions.
+J plays a Port.
+J shuffles their deck.
+J draws a Gold (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Silver.
+J gets +2 Actions.
+J plays a Port.
+J draws an Estate (from Teacher).
+J draws a Copper.
+J gets +2 Actions.
+J plays a Merchant.
+J draws a Port.
+J gets +1 Action.
+J plays a Merchant.
+J gets +1 Action.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Sacrifice.
+J trashes an Estate.
+J gets 2 VP.
+J plays a Port.
+J gets +2 Actions.
+J plays a Teacher.
+J puts a Teacher on their Tavern mat.
+J plays a Silver. (+$2)
+J gets +$2.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws an Estate, 3 Ports and a Sacrifice.
+
+Turn 15 - Lord Rattington
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J calls a Teacher.
+J moves +Coin token to the Merchant pile.
+J plays a Port.
+J draws a Merchant (from Teacher).
+J draws a Province.
+J gets +2 Actions.
+J plays a Port.
+J draws a Silver (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Province.
+J gets +2 Actions.
+J plays a Port.
+J draws a Gold (from Teacher).
+J draws a Teacher.
+J gets +2 Actions.
+J plays a Port.
+J draws a Merchant (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Sacrifice.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Sacrifice (from Teacher).
+J gets +2 Actions.
+J plays a Port.
+J gets +2 Actions.
+J plays a Merchant.
+J gets +1 Coin (from Teacher).
+J gets +1 Action.
+J plays a Merchant.
+J gets +1 Coin (from Teacher).
+J gets +1 Action.
+J plays a Sacrifice.
+J trashes a Teacher.
+J gets +2 Actions.
+J plays a Sacrifice.
+J trashes an Estate.
+J gets 2 VP.
+J plays a Silver. (+$2)
+J gets +$2.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Gold, 2 Provinces and a Port.
+
+Turn 16 - Lord Rattington
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Province.
+J gets +2 Actions.
+J plays a Port.
+J draws a Sacrifice (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Sacrifice.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Merchant.
+J gets +2 Actions.
+J plays a Sacrifice.
+J trashes a Sacrifice.
+J draws a Port and a Sacrifice.
+J gets +2 Actions.
+J plays a Merchant.
+J gets +1 Coin (from Teacher).
+J draws a Merchant.
+J gets +1 Action.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Teacher (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J gets +2 Actions.
+J plays a Port.
+J gets +2 Actions.
+J plays a Merchant.
+J gets +1 Coin (from Teacher).
+J gets +1 Action.
+J plays a Port.
+J gets +2 Actions.
+J plays a Silver. (+$2)
+J gets +$2.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Province, 2 Ports and 2 Sacrifices.
+
+Turn 17 - Lord Rattington
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays 2 Coppers and a Silver. (+$4)
+L gets +$1.
+L plays a Copper. (+$1)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Merchant.
+J gets +2 Actions.
+J plays a Port.
+J draws a Gold (from Teacher).
+J draws a Province.
+J gets +2 Actions.
+J plays a Port.
+J draws a Silver (from Teacher).
+J draws a Teacher.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Merchant.
+J gets +1 Coin (from Teacher).
+J draws a Province.
+J gets +1 Action.
+J plays a Port.
+J draws a Merchant (from Teacher).
+J draws a Port.
+J gets +2 Actions.
+J plays a Merchant.
+J gets +1 Coin (from Teacher).
+J draws a Province.
+J gets +1 Action.
+J plays a Port.
+J draws a Port (from Teacher).
+J gets +2 Actions.
+J plays a Sacrifice.
+J trashes a Sacrifice.
+J gets +2 Actions.
+J plays a Silver. (+$2)
+J gets +$2.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Province and 4 Ports.
+
+Turn 18 - Lord Rattington
+L plays a Merchant.
+L draws a card.
+L gets +1 Action.
+L plays a Silver. (+$2)
+L gets +$1.
+L plays a Gold. (+$3)
+L plays a Bank. (+$3)
+L plays a Gold. (+$3)
+L buys and gains a Province.
+L draws 5 cards.
+

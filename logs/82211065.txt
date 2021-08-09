@@ -1,0 +1,92 @@
+Game #82211065, rated.
+Jazzercise: 45.92
+fkrug16: 40.53
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+f starts with 7 Coppers.
+f starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+f shuffles their deck.
+f draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - fkrug16
+f plays 5 Coppers. (+$5)
+f buys and gains a Swashbuckler.
+f draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 2 - fkrug16
+f plays 2 Coppers. (+$2)
+f buys Ride.
+f gains a Horse.
+f shuffles their deck.
+f draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys Sewers.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - fkrug16
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Swashbuckler.
+f draws 3 cards.
+f plays 6 Coppers. (+$6)
+f buys and gains a Gold.
+f shuffles their deck.
+f draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Overlord.
+J repays 4 debt (4 remaining).
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 4 - fkrug16
+f plays 2 Coppers. (+$2)
+f buys Ride.
+f gains a Horse.
+f draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J repays 4 debt.
+J buys Ride.
+J gains a Horse.
+J draws 2 Coppers, 2 Estates and an Overlord.
+
+Turn 5 - fkrug16
+f plays a Swashbuckler.
+f shuffles their deck.
+f draws 3 cards.
+f plays 5 Coppers and a Gold. (+$8)
+f buys and gains a Gold.
+f draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Overlord.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes an Estate.
+J trashes an Estate. (Sewers)
+

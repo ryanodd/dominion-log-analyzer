@@ -1,0 +1,214 @@
+Game #81764022, rated.
+nick001: 51.98
+Jazzercise: 42.25
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+n starts with 7 Coppers.
+n starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+n shuffles their deck.
+n draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - nick001
+n plays 2 Coppers. (+$2)
+n buys and gains a Chapel.
+n draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Advisor.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - nick001
+n plays 2 Coppers. (+$2)
+n buys and gains a Fool's Gold.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Chapel.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Chapel.
+
+Turn 3 - nick001
+n plays 2 Coppers. (+$2)
+n buys and gains a Fool's Gold.
+n draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Chapel.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and an Advisor.
+
+Turn 4 - nick001
+n plays a Fool's Gold. (+$1)
+n gets +$1.
+n plays a Copper. (+$1)
+n buys and gains a Fool's Gold.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals 2 Coppers and an Estate.
+J discards a Copper.
+J puts a Copper and an Estate into their hand.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Chapel.
+
+Turn 5 - nick001
+n plays a Chapel.
+n trashes 3 Coppers.
+n draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Chapel.
+J trashes 2 Coppers.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Merchant.
+J draws 2 Coppers, a Silver, an Estate and an Advisor.
+
+Turn 6 - nick001
+n plays a Fool's Gold. (+$1)
+n gets +$1.
+n plays 3 Coppers. (+$3)
+n buys and gains a Fool's Gold.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Coppers and an Estate.
+J discards a Copper.
+J puts a Copper and an Estate into their hand.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Stables.
+J shuffles their deck.
+J draws 2 Coppers, a Merchant, a Stables and an Advisor.
+
+Turn 7 - nick001
+n plays a Fool's Gold. (+$1)
+n gets +$1.
+n plays a Fool's Gold. (+$4)
+n gets +$4.
+n plays a Copper. (+$1)
+n buys and gains a Stables.
+n draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals 2 Coppers and a Silver.
+J discards a Silver.
+J puts 2 Coppers into their hand.
+J plays a Stables.
+J discards a Copper.
+J draws a Silver, an Estate and a Chapel.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays a Chapel.
+J trashes 2 Coppers and an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J gets +$1.
+J buys and gains a Merchant.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Merchant and a Stables.
+
+Turn 8 - nick001
+n plays a Copper and a Fool's Gold. (+$2)
+n gets +$1.
+n plays 2 Coppers. (+$2)
+n buys and gains an Advisor.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Merchant.
+J draws a Chapel.
+J gets +1 Action.
+J plays a Stables.
+J discards a Copper.
+J draws 2 Coppers and a Silver.
+J gets +1 Action.
+J plays a Chapel.
+J trashes an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J gets +$1.
+J plays a Silver. (+$2)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Merchant and an Advisor.
+
+Turn 9 - nick001
+n plays a Chapel.
+n trashes a Copper.
+n plays a Fool's Gold. (+$1)
+n gets +$1.
+n plays a Fool's Gold. (+$4)
+n gets +$4.
+n buys and gains a Livery.
+n draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Copper, a Chapel and a Gold.
+J discards a Gold.
+J puts a Copper and a Chapel into their hand.
+J plays a Merchant.
+J draws a Stables.
+J gets +1 Action.
+J plays a Stables.
+J discards a Copper.
+J shuffles their deck.
+J draws 2 Coppers and a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Gold.
+J gets +1 Action.
+J plays a Chapel.
+J trashes 3 Coppers.
+J plays a Silver. (+$2)
+J gets +$2.
+J plays a Silver and a Gold. (+$5)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Chapel, 2 Merchants and a Stables.
+
+Turn 10 - nick001
+n plays a Fool's Gold. (+$1)
+n gets +$1.
+n plays a Copper. (+$1)
+n buys and gains a Fool's Gold.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Merchant.
+J draws a Silver.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Gold.
+J gets +1 Action.
+J plays a Stables.
+J discards a Silver.
+J shuffles their deck.
+J draws a Silver, a Province and an Advisor.
+J gets +1 Action.
+

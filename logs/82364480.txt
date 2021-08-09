@@ -1,0 +1,128 @@
+Game #82364480, rated.
+Jazzercise: 45.66
+Rumble88: 53.68
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+R starts with 7 Coppers.
+R starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Rumble88
+R plays 3 Coppers. (+$3)
+R buys and gains an Enchantress.
+R draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Dungeon.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Dungeon.
+
+Turn 2 - Rumble88
+R plays 4 Coppers. (+$4)
+R buys and gains a Hideout.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Copper and a Silver.
+J discards a Copper and an Estate.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains an Upgrade.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - Rumble88
+R plays a Hideout.
+R draws a card.
+R gets +2 Actions.
+R trashes an Estate.
+R gains a Curse.
+R plays 3 Coppers. (+$3)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws an Estate and an Upgrade.
+J discards 2 Estates.
+J plays an Upgrade.
+J draws a Silver.
+J gets +1 Action.
+J trashes an Estate.
+J gains an Enchantress.
+J plays 3 Coppers and a Silver. (+$5)
+J buys an Upgrade.
+J takes 2 VP from Colonnade.
+J gains an Upgrade.
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 4 - Rumble88
+R plays 4 Coppers. (+$4)
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Destrier.
+J draws 2 Estates, an Upgrade, a Dungeon and an Enchantress.
+
+Turn 5 - Rumble88
+R plays a Hideout.
+R draws a card.
+R gets +2 Actions.
+R trashes a Curse.
+R plays an Enchantress.
+R plays 2 Coppers and a Silver. (+$4)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Dungeon.
+Dungeon is enchanted by Enchantress
+J draws a Copper.
+J gets +1 Action.
+J plays an Upgrade.
+J draws an Upgrade.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Dungeon.
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Vassal.
+J plays an Enchantress.
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Dungeon.
+
+Turn 6 - Rumble88
+R starts their turn.
+R draws 2 cards (Enchantress).
+R plays 5 Coppers. (+$5)
+R buys and gains an Upgrade.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J draws a Copper and a Vassal (Enchantress).
+

@@ -1,0 +1,512 @@
+Game #82459238, rated.
+Jazzercise: 46.66
+motiz88: 46.56
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+m starts with 7 Coppers.
+m starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Remake.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - motiz88
+m plays 4 Coppers. (+$4)
+m buys and gains a Conclave.
+m draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Remake.
+
+Turn 2 - motiz88
+m plays 3 Coppers. (+$3)
+m buys and gains a Silver.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Remake.
+J trashes a Copper and an Estate.
+J gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - motiz88
+m plays 4 Coppers. (+$4)
+m buys and gains a Remake.
+m draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Dungeon.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Remake.
+
+Turn 4 - motiz88
+m plays 2 Coppers and a Silver. (+$4)
+m buys and gains a Conclave.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Silver.
+J trashes a Copper.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Dungeon.
+J draws 3 Coppers, a Silver and a Dungeon.
+
+Turn 5 - motiz88
+m plays a Conclave.
+m gets +$2.
+m plays 2 Coppers and a Silver. (+$4)
+m buys Academy.
+m draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Copper and an Estate.
+J discards a Copper and an Estate.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Seer.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Remake and a Seer.
+
+Turn 6 - motiz88
+m plays a Conclave.
+m gets +$2.
+m plays 3 Coppers. (+$3)
+m buys and gains a Seer.
+m gets +1 Villager. (Academy)
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J draws a Silver and a Dungeon.
+J discards a Copper and a Dungeon.
+J plays a Seer.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper, an Estate and a Silver.
+J puts a Silver and an Estate into their hand.
+J topdecks a Copper.
+J plays a Remake.
+J trashes a Copper and an Estate.
+J gains a Silver.
+J plays a Copper and 3 Silvers. (+$7)
+J buys and gains a Goons.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and a Goons.
+
+Turn 7 - motiz88
+m plays 3 Coppers. (+$3)
+m buys and gains a Dungeon.
+m gets +1 Villager. (Academy)
+m draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Copper.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys a Remake.
+J gets 1 VP from Goons.
+J gains a Remake.
+J buys a Conclave.
+J gets 1 VP from Goons.
+J gains a Conclave.
+J draws 2 Coppers, a Remake, a Dungeon and a Seer.
+
+Turn 8 - motiz88
+m plays a Seer.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper, a Remake and a Conclave.
+m puts a Remake and a Conclave into their hand.
+m topdecks a Copper.
+m plays a Conclave.
+m gets +$2.
+m plays a Remake.
+m trashes a Copper and a Conclave.
+m gains a Seer.
+m gets +1 Villager. (Academy)
+m gets +1 Action.
+m plays a Silver. (+$2)
+m buys and gains a Conclave.
+m gets +1 Villager. (Academy)
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Seer.
+J draws a Dungeon.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Remake and 2 Silvers.
+J puts 2 Silvers and a Remake into their hand.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Copper and a Conclave.
+J discards a Copper and a Dungeon.
+J plays a Conclave.
+J gets +$2.
+J plays a Remake.
+J trashes 2 Coppers.
+J gets +1 Action.
+J plays a Remake.
+J trashes a Silver.
+J gains a Conclave.
+J trashes a Silver.
+J gains a Conclave.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and a Goons.
+
+Turn 9 - motiz88
+m plays a Seer.
+m draws a card.
+m gets +1 Action.
+m reveals a Remake, a Silver and a Dungeon.
+m puts a Silver, a Remake and a Dungeon into their hand.
+m plays a Seer.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper, an Estate and a Conclave.
+m puts an Estate and a Conclave into their hand.
+m topdecks a Copper.
+m plays a Conclave.
+m gets +$2.
+m plays a Dungeon.
+m gets +1 Action.
+m draws 2 cards.
+m discards a card and a Copper.
+m gets +1 Action.
+m plays a Remake.
+m trashes an Estate.
+m gains a Dungeon.
+m gets +1 Villager. (Academy)
+m trashes an Estate.
+m gains a Silver.
+m plays 4 Coppers and a Silver. (+$6)
+m buys and gains a Province.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Remake and a Conclave.
+J discards 2 Silvers.
+J plays a Conclave.
+J gets +$2.
+J plays a Remake.
+J trashes 2 Coppers.
+J gets +1 Action.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Conclave.
+J buys a Conclave.
+J gets 1 VP from Goons.
+J gains a Conclave.
+J draws a Remake, a Dungeon, 2 Conclaves and a Seer.
+
+Turn 10 - motiz88
+m starts their turn.
+m draws 2 cards.
+m discards a card and a Copper.
+m plays a Conclave.
+m gets +$2.
+m plays a Copper and a Silver. (+$3)
+m buys and gains a Seer.
+m gets +1 Villager. (Academy)
+m draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Seer.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Remake, a Conclave and a Dungeon.
+J puts a Remake, a Dungeon and a Conclave into their hand.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Silver and a Conclave.
+J discards 2 Silvers.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Remake.
+J trashes a Remake.
+J gains a Seer.
+J trashes a Dungeon.
+J gains a Conclave.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J buys and gains a Goons.
+J shuffles their deck.
+J draws a Silver, 2 Goons, a Remake and a Seer.
+
+Turn 11 - motiz88
+m plays a Seer.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper, a Seer and a Silver.
+m puts a Silver into their hand.
+m topdecks a Copper and a Seer.
+m plays a Dungeon.
+m gets +1 Action.
+m draws 2 cards.
+m discards a card and a Copper.
+m plays a Seer.
+m shuffles their deck.
+m draws a card.
+m gets +1 Action.
+m reveals a Seer, an Estate and a Conclave.
+m puts an Estate and a Conclave into their hand.
+m topdecks a Seer.
+m plays a Conclave.
+m gets +$2.
+m plays 4 Coppers and a Silver. (+$6)
+m buys and gains a Province.
+m draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Silver and a Conclave.
+J discards 2 Silvers.
+J plays a Conclave.
+J gets +$2.
+J plays a Seer.
+J draws a Conclave.
+J gets +1 Action.
+J reveals a Seer and 2 Conclaves.
+J puts 2 Conclaves into their hand.
+J topdecks a Seer.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Remake.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J buys an Advance.
+J trashes a Conclave.
+J gains a Goons.
+J buys a Seer.
+J gets 2 VP from Goons.
+J gains a Seer.
+J buys a Bazaar.
+J gets 2 VP from Goons.
+J gains a Bazaar.
+J shuffles their deck.
+J draws 2 Silvers, 2 Conclaves and a Seer.
+
+Turn 12 - motiz88
+m starts their turn.
+m draws 2 cards.
+m discards a card and a Silver.
+m plays a Conclave.
+m gets +$2.
+m plays a Seer.
+m draws a card.
+m gets +1 Action.
+m shuffles their deck.
+m reveals a Copper and 2 Seers.
+m topdecks a Copper and 2 Seers.
+m gets +1 Action.
+m plays a Dungeon.
+m gets +1 Action.
+m draws 2 cards.
+m discards a card and a Seer.
+m plays a Seer.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper, a Remake and a Conclave.
+m puts a Remake and a Conclave into their hand.
+m topdecks a Copper.
+m plays a Conclave.
+m gets +$2.
+m plays a Remake.
+m trashes a Copper.
+m gets +1 Action.
+m buys and gains a Silver.
+m draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Seer.
+J draws a Bazaar.
+J gets +1 Action.
+J reveals a Goons and 2 Conclaves.
+J puts 2 Conclaves into their hand.
+J topdecks a Goons.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Bazaar.
+J draws a Goons.
+J gets +2 Actions.
+J gets +$1.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Copper.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays 2 Silvers. (+$4)
+J buys a Goons.
+J gets 1 VP from Goons.
+J gains a Goons.
+J buys a Seer.
+J gets 1 VP from Goons.
+J gains a Seer.
+J draws a Goons, a Remake, a Dungeon and 2 Seers.
+
+Turn 13 - motiz88
+m starts their turn.
+m draws 2 cards.
+m discards a card and a Copper.
+m plays a Copper and 2 Silvers. (+$5)
+m buys and gains a Seer.
+m gets +1 Villager. (Academy)
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Seer.
+J draws a Goons.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Seer, a Silver and a Conclave.
+J puts a Silver and a Conclave into their hand.
+J topdecks a Seer.
+J plays a Conclave.
+J gets +$2.
+J plays a Remake.
+J trashes a Silver.
+J gains a Remake.
+J trashes a Dungeon.
+J gains a Conclave.
+J gets +1 Action.
+J plays a Seer.
+J draws a Seer.
+J gets +1 Action.
+J reveals a Goons, a Silver and a Conclave.
+J puts a Silver and a Conclave into their hand.
+J topdecks a Goons.
+J plays a Conclave.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Remake.
+J gets +1 Action.
+J plays a Seer.
+J draws a Goons.
+J gets +1 Action.
+J reveals a Seer, a Bazaar and a Conclave.
+J puts a Conclave into their hand.
+J topdecks a Bazaar and a Seer.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys a Bazaar.
+J gets 2 VP from Goons.
+J gains a Bazaar.
+J buys a Bazaar.
+J gets 2 VP from Goons.
+J gains a Bazaar.
+J buys an Advance.
+J trashes a Conclave.
+J gains a Seer.
+J shuffles their deck.
+J draws a Silver, a Bazaar, a Goons, a Conclave and a Seer.
+
+Turn 14 - motiz88
+m plays a Seer.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper, a Silver and a Dungeon.
+m puts a Silver and a Dungeon into their hand.
+m topdecks a Copper.
+m plays a Dungeon.
+m gets +1 Action.
+m draws 2 cards.
+m discards a card and a Copper.
+m plays 2 Coppers and 2 Silvers. (+$6)
+m buys and gains a Goons.
+m gets +1 Villager. (Academy)
+m draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Seer.
+J draws a Bazaar.
+J gets +1 Action.
+J reveals 2 Goons and a Bazaar.
+J topdecks a Bazaar and 2 Goons.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Goons.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Goons.
+J gets +2 Actions.
+J gets +$1.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+m discards a card and a Conclave.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys a Goons.
+J gets 3 VP from Goons.
+J gains a Goons.
+J buys a Bazaar.
+J gets 3 VP from Goons.
+J gains a Bazaar.
+J buys a Copper.
+J gets 3 VP from Goons.
+J gains a Copper.
+

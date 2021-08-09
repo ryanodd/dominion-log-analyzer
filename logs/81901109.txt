@@ -1,0 +1,72 @@
+Game #81901109, rated.
+Jazzercise: 44.21
+Bounciness: 52.58
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+B starts with 7 Coppers.
+B starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Save.
+J gets +1 Buy.
+J sets an Estate aside with Save.
+J buys and gains a Church.
+J draws 3 Coppers and 2 Estates.
+J puts an Estate into their hand.
+
+Turn 1 - Bounciness
+B plays 3 Coppers. (+$3)
+B buys and gains a Silver.
+B draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Catapult.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Church.
+
+Turn 2 - Bounciness
+B plays 4 Coppers. (+$4)
+B buys a Save.
+B gets +1 Buy.
+B sets a card aside with Save.
+B buys and gains a Catapult.
+B shuffles their deck.
+B draws 5 cards.
+B puts a card into their hand.
+
+Turn 3 - Jazzercise
+J plays a Church.
+J gets +1 Action.
+J sets 2 Estates aside with Church.
+J plays 2 Coppers. (+$2)
+J buys a Scouting Party.
+J gets +1 Buy.
+J looks at 3 Coppers, a Catapult and an Estate.
+J discards 2 Coppers and an Estate.
+J topdecks a Copper and a Catapult.
+J shuffles their deck.
+J draws 4 Coppers and a Catapult.
+
+Turn 3 - Bounciness
+B plays a Catapult.
+B gets +$1.
+B trashes an Estate.
+B plays 2 Coppers. (+$2)
+B buys and gains a Silver.
+B draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J puts 2 Estates in hand (Church).
+

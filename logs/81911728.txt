@@ -1,0 +1,309 @@
+Game #81911728, rated.
+Jazzercise: 44.29
+srinidhir: 47.63
+
+Kingdom generated with these relative percentages:
+0%: Smugglers and Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+s starts with 7 Coppers.
+s starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Chapel.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - srinidhir
+s plays 5 Coppers. (+$5)
+s buys and gains a Rebuild.
+s draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 2 - srinidhir
+s plays 2 Coppers. (+$2)
+s buys and gains a Chapel.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Haggler.
+J draws 3 Coppers, an Estate and a Chapel.
+
+Turn 3 - srinidhir
+s plays 2 Coppers. (+$2)
+s buys a Delve.
+s gets +1 Buy.
+s gains a Silver.
+s draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Chapel.
+J trashes 3 Coppers and an Estate.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Chapel.
+
+Turn 4 - srinidhir
+s plays a Chapel.
+s trashes 4 Coppers.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Chapel.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Haggler.
+
+Turn 5 - srinidhir
+s plays a Rebuild.
+s gets +1 Action.
+s names Province.
+s reveals a Chapel and finally Estate.
+s discards a Chapel.
+s trashes an Estate.
+s gains a Duchy.
+s plays 2 Coppers and a Silver. (+$4)
+s buys a Delve.
+s gets +1 Buy.
+s gains a Silver.
+s buys a Delve.
+s gets +1 Buy.
+s gains a Silver.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Haggler.
+J gets +$2.
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Wayfarer.
+J gains a Farming Village.
+J gains a Wayfarer.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and a Chapel.
+
+Turn 6 - srinidhir
+s plays a Copper and a Silver. (+$3)
+s buys a Delve.
+s gets +1 Buy.
+s gains a Silver.
+s draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Chapel.
+J trashes 2 Coppers.
+J plays 2 Silvers. (+$4)
+J buys and gains a Farming Village.
+J draws 2 Coppers, a Farming Village, a Haggler and a Wayfarer.
+
+Turn 7 - srinidhir
+s plays a Chapel.
+s trashes a Copper.
+s plays a Copper and 2 Silvers. (+$5)
+s buys and gains a Rebuild.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Estate.
+J shuffles their deck.
+J reveals a Silver.
+J puts a Silver into their hand.
+J discards an Estate.
+J plays a Wayfarer.
+J draws a Silver, a Chapel and a Farming Village.
+J plays a Farming Village.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals an Estate.
+J discards an Estate.
+J plays a Haggler.
+J gets +$2.
+J plays a Chapel.
+J trashes 2 Coppers.
+J plays 2 Silvers. (+$4)
+J buys a Wayfarer.
+J gains a Farming Village.
+J gains a Wayfarer.
+J shuffles their deck.
+J draws a Silver, an Estate, a Haggler and 2 Wayfarers.
+
+Turn 8 - srinidhir
+s plays a Rebuild.
+s gets +1 Action.
+s names Province.
+s reveals a Copper, a Chapel and a Silver and finally Estate.
+s discards a Copper, a Silver and a Chapel.
+s trashes an Estate.
+s gains a Duchy.
+s plays a Rebuild.
+s gets +1 Action.
+s names Province.
+s reveals a Silver and finally Estate.
+s discards a Silver.
+s trashes an Estate.
+s gains a Duchy.
+s plays 2 Silvers. (+$4)
+s buys a Delve.
+s gets +1 Buy.
+s gains a Silver.
+s buys a Delve.
+s gets +1 Buy.
+s gains a Silver.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Haggler.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys a Messenger.
+J gains a Farming Village.
+s gains a Farming Village.
+J gains an Oasis.
+J gains a Messenger.
+J draws a Silver, a Chapel and 3 Farming Villages.
+
+Turn 9 - srinidhir
+s plays a Rebuild.
+s gets +1 Action.
+s names Province.
+s reveals a Copper and a Rebuild and finally Duchy.
+s discards a Copper and a Rebuild.
+s trashes a Duchy.
+s gains a Province.
+s plays a Copper and 2 Silvers. (+$5)
+s buys and gains a Rebuild.
+s draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Silver.
+J puts a Silver into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals an Oasis.
+J puts an Oasis into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Wayfarer.
+J puts a Wayfarer into their hand.
+J plays a Wayfarer.
+J draws an Estate, a Farming Village and a Haggler.
+J gains a Silver.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Messenger.
+J puts a Messenger into their hand.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays an Oasis.
+J draws a Wayfarer.
+J gets +1 Action.
+J gets +$1.
+J discards a Chapel.
+J plays a Wayfarer.
+J shuffles their deck.
+J draws a Silver and a Chapel.
+J plays a Haggler.
+J gets +$2.
+J plays a Chapel.
+J trashes an Estate.
+J plays 3 Silvers. (+$6)
+J buys a Wayfarer.
+J gains a Guardian.
+J gains a Wayfarer.
+J buys a Messenger.
+J gains an Oasis.
+J gains a Messenger.
+J plays a Guardian.
+J shuffles their deck.
+J draws a Silver, 2 Farming Villages, an Oasis and a Wayfarer.
+
+Turn 10 - srinidhir
+s plays 3 Silvers. (+$6)
+s buys and gains a Gold.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Wayfarer.
+J puts a Wayfarer into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Haggler.
+J puts a Haggler into their hand.
+J plays a Wayfarer.
+J draws a Silver, a Chapel and a Farming Village.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Messenger.
+J puts a Messenger into their hand.
+J plays a Wayfarer.
+J draws a Farming Village, an Oasis and a Wayfarer.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Silver.
+J puts a Silver into their hand.
+J plays an Oasis.
+J draws a Messenger.
+J gets +1 Action.
+J gets +$1.
+J discards a Wayfarer.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Haggler.
+J gets +$2.
+J plays 3 Silvers. (+$6)
+J buys a Wayfarer.
+J gains a Farming Village.
+J gains a Wayfarer.
+J buys a Province.
+J gains a Wayfarer.
+J gains a Province.
+J shuffles their deck.
+J draws a Silver, a Farming Village, an Oasis and 2 Wayfarers.
+
+Turn 11 - srinidhir
+s plays a Farming Village.
+s gets +2 Actions.
+s reveals a Chapel.
+s puts a Chapel into their hand.
+s plays 3 Silvers. (+$6)
+s buys and gains a Duchy.
+s draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+

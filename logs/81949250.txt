@@ -1,0 +1,628 @@
+Game #81949250, rated.
+troika: 53.17
+Jazzercise: 45.14
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+t starts with a Goat.
+t starts with 6 Coppers.
+t starts with 3 Estates.
+J starts with a Goat.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+t shuffles their deck.
+t draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - troika
+t plays 3 Coppers. (+$3)
+t buys and gains a Silver.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Poacher.
+J draws 2 Coppers, 2 Estates and a Goat.
+
+Turn 2 - troika
+t plays a Goat. (+$1)
+t trashes an Estate.
+t plays 3 Coppers. (+$3)
+t buys and gains a Poacher.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Goat. (+$1)
+J trashes an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and a Goat.
+
+Turn 3 - troika
+t plays a Goat. (+$1)
+t trashes a Copper.
+t plays 3 Coppers. (+$3)
+t buys and gains a Mill.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Village Green.
+J draws 2 Coppers, a Silver, an Estate and a Poacher.
+
+Turn 4 - troika
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t plays 2 Coppers and a Silver. (+$4)
+t buys and gains a Rogue.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Poacher.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Haggler.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Poacher.
+
+Turn 5 - troika
+t plays a Rogue.
+t gets +$2.
+J reveals a Village Green and a Haggler.
+J trashes a Village Green.
+J discards a Haggler.
+t plays a Goat. (+$1)
+t trashes an Estate.
+t plays 2 Coppers. (+$2)
+t buys and gains a Village Green.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Poacher.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers and a Silver. (+$4)
+J buys Stampede.
+J gains 5 Horses.
+J draws 5 Horses.
+
+Turn 6 - troika
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t plays a Mill.
+t draws a card.
+t gets +1 Action.
+t discards a card and a Copper.
+t gets +$2.
+t plays 2 Coppers and a Silver. (+$4)
+t buys and gains a Goons.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Goat.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J shuffles their deck.
+J draws a Copper and an Estate.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws an Estate and a Haggler.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Haggler.
+J gets +$2.
+J plays a Goat. (+$1)
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys a Destrier.
+J gains a Village Green.
+J gains a Destrier.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Poacher and a Horse.
+
+Turn 7 - troika
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t plays a Village Green.
+t plays 3 Coppers and a Silver. (+$5)
+t buys and gains a Goons.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Poacher.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Horse.
+J draws a Haggler and a Village Green.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Haggler.
+J gets +$2.
+J plays 4 Coppers and a Silver. (+$6)
+J buys a Goons.
+J gains a Giant.
+J gains a Goons.
+J shuffles their deck.
+J draws a Copper, an Estate, a Poacher, a Goat and a Destrier.
+
+Turn 8 - troika
+t starts their turn.
+t draws a card.
+t gets +2 Actions.
+t plays a Mill.
+t draws a card.
+t gets +1 Action.
+t plays a Rogue.
+t gets +$2.
+t gains a Village Green.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+J discards a Copper and an Estate.
+t plays a Goat. (+$1)
+t trashes an Estate.
+t plays 2 Coppers. (+$2)
+t buys a Pixie.
+t gets 1 VP from Goons.
+t gains a Pixie.
+t buys a Destrier.
+t gets 1 VP from Goons.
+t gains a Destrier.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Poacher.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Destrier.
+J draws a Copper and a Haggler.
+J gets +1 Action.
+J plays a Haggler.
+J gets +$2.
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays a Copper. (+$1)
+J buys a Giant.
+J gains a Village Green.
+J gains a Giant.
+J draws 2 Coppers, a Silver, a Goons and a Village Green.
+
+Turn 9 - troika
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Rogue.
+t gets +$2.
+J shuffles their deck.
+J reveals a Destrier and a Giant.
+J trashes a Giant.
+J discards a Destrier.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+J discards 2 Coppers.
+t plays 3 Coppers. (+$3)
+t buys a Village Green.
+t gets 1 VP from Goons.
+t gains a Village Green.
+t buys a Village Green.
+t gets 1 VP from Goons.
+t gains a Village Green.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Village Green.
+J draws a Haggler.
+J gets +2 Actions.
+J plays a Haggler.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+t discards a card and a Silver.
+J plays a Silver. (+$2)
+J buys a Destrier.
+J gets 1 VP from Goons.
+J gains a Village Green.
+J gains a Destrier.
+J draws 2 Coppers, a Poacher, a Goat and a Village Green.
+
+Turn 10 - troika
+t plays a Pixie.
+t draws a card.
+t gets +1 Action.
+t takes The Moon's Gift.
+t discards The Moon's Gift.
+t plays a Mill.
+t draws a card.
+t gets +1 Action.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+J discards 2 Coppers.
+t plays a Goat. (+$1)
+t trashes a Copper.
+t buys a Pixie.
+t gets 1 VP from Goons.
+t gains a Pixie.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Poacher.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays a Village Green.
+J draws a Giant.
+J gets +2 Actions.
+J plays a Giant.
+J flips Journey token face down.
+J gets +$1.
+J plays a Goat. (+$1)
+J trashes an Estate.
+J buys Ride.
+J gains a Horse.
+J shuffles their deck.
+J draws 2 Coppers, a Poacher, a Goons and a Haggler.
+
+Turn 11 - troika
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Pixie.
+t draws a card.
+t gets +1 Action.
+t takes The Mountain's Gift.
+t trashes a Pixie.
+t gains 2 Silvers.
+t discards The Mountain's Gift.
+t plays a Pixie.
+t draws a card.
+t gets +1 Action.
+t takes The Flame's Gift.
+t trashes a Pixie.
+t trashes 2 Coppers.
+t discards The Flame's Gift.
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+J discards 2 Coppers.
+t plays 2 Coppers and a Silver. (+$4)
+t buys a Destrier.
+t gets 1 VP from Goons.
+t gains a Destrier.
+t buys a Destrier.
+t gets 1 VP from Goons.
+t gains a Destrier.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Poacher.
+J draws a Destrier.
+J gets +1 Action.
+J gets +$1.
+J plays a Destrier.
+J draws a Copper and a Horse.
+J gets +1 Action.
+J plays a Horse.
+J draws a Goat and a Village Green.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Village Green.
+J draws a Village Green.
+J gets +2 Actions.
+J plays a Village Green.
+J draws a Giant.
+J gets +2 Actions.
+J plays a Giant.
+J flips Journey token face up.
+J gets +$5.
+t shuffles their deck.
+t reveals a Destrier.
+t trashes a Destrier.
+J plays a Haggler.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+t discards a card and a Goat.
+t plays a Village Green.
+t looks at 2 cards.
+J plays a Goat. (+$1)
+J trashes a Copper.
+J buys a Goons.
+J gets 1 VP from Goons.
+J gains a Village Green.
+J gains a Goons.
+J buys a Destrier.
+J gets 1 VP from Goons.
+J gains a Pixie.
+J gains a Destrier.
+J shuffles their deck.
+J draws a Copper, a Silver, a Haggler, a Village Green and a Destrier.
+
+Turn 12 - troika
+t starts their turn.
+t draws a card.
+t gets +2 Actions.
+t plays a Mill.
+t draws a card.
+t gets +1 Action.
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t plays a Rogue.
+t gets +$2.
+t gains a Destrier.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+J discards a Copper and a Silver.
+t plays 2 Coppers. (+$2)
+t buys a Goons.
+t gets 1 VP from Goons.
+t gains a Goons.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Destrier.
+J draws a Copper and a Pixie.
+J gets +1 Action.
+J plays a Pixie.
+J draws a Goat.
+J gets +1 Action.
+J takes The Forest's Gift.
+J discards The Forest's Gift.
+J plays a Village Green.
+J draws a Destrier.
+J gets +2 Actions.
+J plays a Destrier.
+J draws a Copper and a Giant.
+J gets +1 Action.
+J plays a Giant.
+J flips Journey token face down.
+J gets +$1.
+J plays a Haggler.
+J gets +$2.
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays a Copper. (+$1)
+J buys a Giant.
+J gains a Village Green.
+J gains a Giant.
+J draws a Poacher, a Goons, 2 Village Greens and a Destrier.
+
+Turn 13 - troika
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Village Green.
+t shuffles their deck.
+t draws a card.
+t gets +2 Actions.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Rogue.
+t gets +$2.
+t gains a Giant.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+J discards a Poacher and a Goons.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+t plays a Goat. (+$1)
+t trashes a Copper.
+t plays 3 Silvers. (+$6)
+t buys a Village Green.
+t gets 2 VP from Goons.
+t gains a Village Green.
+t buys a Goons.
+t gets 2 VP from Goons.
+t gains a Goons.
+t buys a Destrier.
+t gets 2 VP from Goons.
+t gains a Destrier.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Village Green.
+J draws a Village Green.
+J gets +2 Actions.
+J plays a Destrier.
+J shuffles their deck.
+J draws a Goons and a Haggler.
+J gets +1 Action.
+J plays a Village Green.
+J draws a Goons.
+J gets +2 Actions.
+J plays a Village Green.
+J draws a Giant.
+J gets +2 Actions.
+J plays a Giant.
+J flips Journey token face up.
+J gets +$5.
+t reveals a Silver.
+t trashes a Silver.
+J plays a Haggler.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+t discards a card and a Goat.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J buys a Goons.
+J gets 2 VP from Goons.
+J gains a Mining Village.
+J gains a Goons.
+J buys a Destrier.
+J gets 2 VP from Goons.
+J gains a Pixie.
+J gains a Destrier.
+J draws 2 Coppers, a Giant, a Village Green and a Destrier.
+
+Turn 14 - troika
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Poacher.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t discards a Village Green.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Mill.
+t draws a card.
+t gets +1 Action.
+t discards a card and a Village Green.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t gets +$2.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Rogue.
+t gets +$2.
+t gains a Silver.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+J discards 2 Coppers.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+t plays a Goons.
+t gets +1 Buy.
+t gets +$2.
+t plays a Silver. (+$2)
+t buys a Goons.
+t gets 3 VP from Goons.
+t gains a Goons.
+t buys a Pixie.
+t gets 3 VP from Goons.
+t gains a Pixie.
+t buys a Destrier.
+t gets 3 VP from Goons.
+t gains a Destrier.
+t buys a Destrier.
+t gets 3 VP from Goons.
+t gains a Destrier.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Destrier.
+J draws a Poacher and a Village Green.
+J gets +1 Action.
+J plays a Village Green.
+J draws a Pixie.
+J gets +2 Actions.
+J plays a Pixie.
+J draws a Destrier.
+J gets +1 Action.
+J takes The Field's Gift.
+J discards The Field's Gift.
+J plays a Destrier.
+J draws a Silver and a Goat.
+J gets +1 Action.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Poacher.
+J draws a Goons.
+J gets +1 Action.
+J gets +$1.
+J discards a Copper and a Silver.
+J plays a Giant.
+J flips Journey token face down.
+J gets +$1.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+

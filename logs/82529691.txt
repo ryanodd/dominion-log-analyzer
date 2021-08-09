@@ -1,0 +1,468 @@
+Game #82529691, rated.
+Jazzercise: 46.95
+Silvan: 42.62
+
+Kingdom generated with these relative percentages:
+50%: Sea Hag, Envoy, Militia and Governor
+
+
+J starts with a Haunted Mirror.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+S starts with a Haunted Mirror.
+S starts with 6 Coppers.
+S starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Haunted Mirror.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays a Haunted Mirror and 3 Coppers. (+$4)
+J buys and gains a Potion.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Silvan
+S plays a Haunted Mirror and 3 Coppers. (+$4)
+S buys and gains a Potion.
+S draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Smugglers.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Smugglers and a Potion.
+
+Turn 2 - Silvan
+S plays 3 Coppers. (+$3)
+S buys and gains a Smugglers.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Smugglers.
+J gains a Smugglers.
+J draws 3 Coppers, an Estate and a Haunted Mirror.
+
+Turn 3 - Silvan
+S plays a Smugglers.
+S gains a Smugglers.
+S plays 2 Coppers. (+$2)
+S plays a Potion.
+S plays a Haunted Mirror. (+$1)
+S buys and gains a Familiar.
+S draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Haunted Mirror and 3 Coppers. (+$4)
+J buys and gains a Mining Village.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Potion and a Haunted Mirror.
+
+Turn 4 - Silvan
+S plays 3 Coppers. (+$3)
+S buys and gains a Silver.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J plays a Haunted Mirror. (+$1)
+J buys and gains a Familiar.
+J draws 3 Coppers, an Estate and a Mining Village.
+
+Turn 5 - Silvan
+S plays 3 Coppers. (+$3)
+S buys and gains a Workshop.
+S draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Mining Village.
+J draws a Smugglers.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys and gains a Minion.
+J shuffles their deck.
+J draws a Copper, an Estate, 2 Smugglers and a Haunted Mirror.
+
+Turn 6 - Silvan
+S plays a Smugglers.
+S gains a Minion.
+S plays 3 Coppers and a Silver. (+$5)
+S buys and gains a Minion.
+S draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Smugglers.
+J gains a Minion.
+J plays a Haunted Mirror and a Copper. (+$2)
+J buys a Scouting Party.
+J gets +1 Buy.
+J looks at an Estate, 2 Coppers, a Familiar and a Potion.
+J discards 2 Coppers and an Estate.
+J topdecks a Familiar and a Potion.
+J draws 2 Coppers, an Estate, a Familiar and a Potion.
+
+Turn 7 - Silvan
+S plays a Familiar.
+S shuffles their deck.
+S draws a card.
+S gets +1 Action.
+J gains a Curse.
+S plays a Minion.
+S gets +1 Action.
+S gets +$2.
+S plays a Smugglers.
+S gains a Minion.
+S plays a Potion.
+S plays a Haunted Mirror. (+$1)
+S buys and gains a Familiar.
+S draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+S gains a Curse.
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains a Familiar.
+J shuffles their deck.
+J draws 2 Coppers, a Minion, a Familiar and a Potion.
+
+Turn 8 - Silvan
+S plays a Workshop.
+S gains a Mining Village.
+S plays a Copper and a Silver. (+$3)
+S buys and gains a Silver.
+S draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+S gains a Curse.
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains a Familiar.
+J draws a Curse, 2 Estates, a Smugglers and a Haunted Mirror.
+
+Turn 9 - Silvan
+S plays a Minion.
+S gets +1 Action.
+S discards 3 other cards and a Copper.
+S shuffles their deck.
+S draws 4 cards.
+J discards a Curse, 2 Estates, a Smugglers and a Haunted Mirror.
+J draws 2 Coppers, a Minion and a Smugglers.
+S plays a Familiar.
+S draws a card.
+S gets +1 Action.
+J gains a Curse.
+S plays 3 Coppers. (+$3)
+S buys and gains a Silver.
+S draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays a Smugglers.
+J gains a Silver.
+J plays 2 Coppers. (+$2)
+J buys and gains a Mining Village.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Familiar.
+
+Turn 10 - Silvan
+S plays a Familiar.
+S draws a card.
+S gets +1 Action.
+J gains a Curse.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Minion.
+S gets +1 Action.
+S discards 3 other cards and an Estate.
+S draws 4 cards.
+J discards 2 Coppers, 2 Estates and a Familiar.
+J draws a Copper, a Smugglers, a Familiar and a Haunted Mirror.
+S plays 2 Coppers and a Silver. (+$4)
+S plays a Potion.
+S buys and gains a Mining Village.
+S draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+S gains a Curse.
+J plays a Smugglers.
+J gains a Mining Village.
+J plays a Haunted Mirror and 2 Coppers. (+$3)
+J buys and gains a Silver.
+J draws a Curse, an Estate, a Mining Village, a Familiar and a Potion.
+
+Turn 11 - Silvan
+S plays a Minion.
+S gets +1 Action.
+S discards 3 other cards and a Smugglers.
+S shuffles their deck.
+S draws 4 cards.
+J discards a Curse, an Estate, a Mining Village, a Familiar and a Potion.
+J draws a Curse, a Copper, a Minion and a Smugglers.
+S plays a Smugglers.
+S gains a Mining Village.
+S plays a Copper and a Silver. (+$3)
+S buys and gains a Silver.
+S draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Minion.
+J gets +1 Action.
+J discards a Curse, a Copper and a Smugglers.
+J shuffles their deck.
+J draws a Copper, a Silver, a Mining Village and a Minion.
+S discards 4 other cards and a Potion.
+S draws 4 cards.
+J plays a Mining Village.
+J draws a Haunted Mirror.
+J gets +2 Actions.
+J plays a Minion.
+J gets +1 Action.
+J discards a Copper, a Silver and a Haunted Mirror.
+J draws a Curse, a Copper, a Silver and a Familiar.
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+S gains a Curse.
+J plays a Familiar.
+J draws a Mining Village.
+J gets +1 Action.
+S gains a Curse.
+J plays a Mining Village.
+J draws a Smugglers.
+J gets +2 Actions.
+J plays a Smugglers.
+J gains a Mining Village.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J draws a Curse, 3 Estates and a Familiar.
+
+Turn 12 - Silvan
+S plays a Familiar.
+S draws a card.
+S gets +1 Action.
+J gains a Curse.
+S plays 2 Coppers and a Silver. (+$4)
+S buys and gains a Mining Village.
+S draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Familiar.
+J draws a Copper.
+J gets +1 Action.
+S gains a Curse.
+J draws a Curse, 3 Coppers and a Potion.
+
+Turn 13 - Silvan
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Minion.
+S gets +1 Action.
+S gets +$2.
+S plays a Minion.
+S gets +1 Action.
+S discards 2 other cards and a Smugglers.
+S draws 4 cards.
+J discards a Curse, 3 Coppers and a Potion.
+J shuffles their deck.
+J draws a Curse, 2 Silvers and a Smugglers.
+S plays a Familiar.
+S draws a card.
+S gets +1 Action.
+S plays a Copper and a Silver. (+$3)
+S buys and gains a Minion.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Smugglers.
+J gains a Minion.
+J plays 2 Silvers. (+$4)
+J buys and gains a Mining Village.
+J draws a Curse, 3 Coppers and a Smugglers.
+
+Turn 14 - Silvan
+S plays a Workshop.
+S gains a Mining Village.
+S plays a Haunted Mirror, a Copper and a Silver. (+$4)
+S buys and gains a Cemetery.
+S trashes a Curse.
+S draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Smugglers.
+J gains a Cemetery.
+J trashes a Curse and 3 Coppers.
+J draws a Curse, 2 Estates, a Minion and a Familiar.
+
+Turn 15 - Silvan
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Familiar.
+S draws a card.
+S gets +1 Action.
+S plays a Minion.
+S gets +1 Action.
+S gets +$2.
+S plays a Minion.
+S gets +1 Action.
+S discards 2 other cards and a Silver.
+S draws 4 cards.
+J discards a Curse, 2 Estates, a Minion and a Familiar.
+J draws a Copper, an Estate, a Familiar and a Potion.
+S plays a Minion.
+S gets +1 Action.
+S discards 2 other cards and a Curse.
+S draws 4 cards.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Smugglers.
+S gains a Cemetery.
+S trashes a Curse and a Copper.
+S plays a Minion.
+S gets +1 Action.
+S draws 4 cards.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S trashes a Mining Village.
+S gets +$2.
+S buys and gains a Cemetery.
+S trashes 2 Curses, a Copper and an Estate.
+S draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Familiar.
+J draws a Mining Village.
+J gets +1 Action.
+J plays a Mining Village.
+J draws a Haunted Mirror.
+J gets +2 Actions.
+J plays a Copper. (+$1)
+J plays a Potion.
+J plays a Haunted Mirror. (+$1)
+J buys a Scouting Party.
+J gets +1 Buy.
+J looks at a Curse, a Copper, a Familiar, a Silver and a Minion.
+J discards a Curse, a Copper and a Familiar.
+J topdecks a Silver and a Minion.
+J draws a Copper, a Silver, 2 Mining Villages and a Minion.
+
+Turn 16 - Silvan
+S plays a Familiar.
+S draws a card.
+S gets +1 Action.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Smugglers.
+S plays a Copper and a Silver. (+$3)
+S plays a Potion.
+S buys a Scouting Party.
+S gets +1 Buy.
+S shuffles their deck.
+S looks at 5 cards.
+S discards 2 other cards and a Mining Village.
+S topdecks 2 cards.
+S draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Mining Village.
+J shuffles their deck.
+J draws a Cemetery.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Minion.
+J gets +1 Action.
+J gets +$2.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Gold.
+J draws 2 Minions, 2 Familiars and a Haunted Mirror.
+
+Turn 17 - Silvan
+S plays a Minion.
+S gets +1 Action.
+S gets +$2.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Workshop.
+S gains a Cemetery.
+S trashes an Estate.
+S plays a Minion.
+S gets +1 Action.
+S discards a Cemetery.
+S draws 4 cards.
+J discards 2 Minions, 2 Familiars and a Haunted Mirror.
+J draws 2 Silvers and 2 Estates.
+S plays a Familiar.
+S draws a card.
+S gets +1 Action.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S trashes a Mining Village.
+S gets +$2.
+S buys and gains a Cemetery.
+S trashes a Copper and a Haunted Mirror.
+S discards a Smugglers.
+S gains a Ghost.
+S draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays 2 Silvers. (+$4)
+J buys and gains a Cemetery.
+J trashes 2 Estates.
+J draws 2 Curses, an Estate, a Mining Village and a Smugglers.
+
+Turn 18 - Silvan
+S plays a Minion.
+S gets +1 Action.
+S discards 3 other cards and a Curse.
+S shuffles their deck.
+S draws 4 cards.
+J discards 2 Curses, an Estate, a Mining Village and a Smugglers.
+J draws a Curse, a Mining Village, a Smugglers and a Familiar.
+S plays a Minion.
+S gets +1 Action.
+S discards 2 other cards and a Silver.
+S draws 4 cards.
+S plays a Minion.
+S gets +1 Action.
+S discards 2 other cards and a Silver.
+S draws 4 cards.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Mining Village.
+S draws a card.
+S gets +2 Actions.
+S plays a Minion.
+S gets +1 Action.
+S gets +$2.
+S plays a Silver. (+$2)
+S buys and gains a Cemetery.
+S trashes a Copper.
+S draws 5 cards.
+

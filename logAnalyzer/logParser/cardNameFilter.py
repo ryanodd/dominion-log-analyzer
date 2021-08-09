@@ -888,8 +888,8 @@ nameFilter['Chariot Races'] = 'Chariot Race'
 nameFilter['Enchantress'] = 'Enchantress'
 nameFilter['Enchantresses'] = 'Enchantress'
 
-nameFilter['Farmer\'s Market'] = 'Farmer\'s Market'
-nameFilter['Farmer\'s Markets'] = 'Farmer\'s Market'
+nameFilter['Farmers\' Market'] = 'Farmers\' Market'
+nameFilter['Farmers\' Markets'] = 'Farmers\' Market'
 
 nameFilter['Gladiator'] = 'Gladiator'
 nameFilter['Gladiators'] = 'Gladiator'

@@ -1,0 +1,896 @@
+Game #82494030, rated.
+Jazzercise: 46.19
+jurb: 51.13
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+j starts with 7 Coppers.
+j starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - jurb
+j plays 3 Coppers. (+$3)
+j buys and gains a Fishing Village.
+j draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 2 - jurb
+j plays 4 Coppers. (+$4)
+j buys and gains a Dismantle.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - jurb
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays 3 Coppers. (+$3)
+j buys and gains a Fishing Village.
+j draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Vampire.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays 4 Coppers. (+$4)
+j buys and gains a Vampire.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Silvers and a Vampire.
+
+Turn 5 - jurb
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Dismantle.
+j trashes an Estate.
+j gains a Copper.
+j gains a Gold.
+j plays a Vampire.
+j takes Famine.
+J receives Famine.
+J reveals a Copper and 2 Estates.
+J shuffles their deck.
+J shuffles a Copper and 2 Estates into their deck.
+j discards Famine.
+j gains a Storyteller.
+j returns a Vampire.
+j receives a Bat.
+j draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Vampire.
+J plays a Vampire.
+J takes Greed.
+j receives Greed.
+j gains a Copper.
+J discards Greed.
+J gains a Storyteller.
+J returns a Vampire.
+J receives a Bat.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Vampire.
+
+Turn 6 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays 4 Coppers. (+$4)
+j buys and gains a Vampire.
+j draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Fishing Village.
+J plays a Vampire.
+J takes Locusts.
+j receives Locusts.
+j shuffles their deck.
+j trashes an Estate.
+j gains a Curse.
+J discards Locusts.
+J gains a Storyteller.
+J returns a Vampire.
+J receives a Bat.
+J draws 4 Coppers and a Bat.
+
+Turn 7 - jurb
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays 4 Coppers. (+$4)
+j buys and gains a Capital.
+j draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Bat.
+J trashes 2 Coppers.
+J returns a Bat.
+J receives a Vampire.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 8 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays a Dismantle.
+j trashes a Gold.
+j gains a Vampire.
+j gains a Gold.
+j plays a Bat.
+j trashes a Copper.
+j returns a Bat.
+j receives a Vampire.
+j plays a Vampire.
+j takes Delusion.
+J receives Delusion.
+J takes Deluded.
+j discards Delusion.
+j gains a Capital.
+j returns a Vampire.
+j receives a Bat.
+j draws 5 cards.
+
+Turn 9 - Jazzercise
+J returns Deluded.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Storyteller.
+
+Turn 9 - jurb
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays 3 Coppers. (+$3)
+j buys and gains a Fishing Village.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Silver. (+$3)
+J loses 4 Coins.
+J draws a Copper, 2 Silvers and a Fishing Village.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Gold.
+J draws a Copper, a Silver, a Gold, a Storyteller and a Vampire.
+
+Turn 10 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays a Storyteller.
+j gets +1 Action.
+j gets +$1.
+j plays a Gold. (+$3)
+j loses 5 Coins.
+j draws 5 cards.
+j plays 4 Coppers. (+$4)
+j plays a Capital. (+$6)
+j gets +1 Buy.
+j buys and gains a Fishing Village.
+j buys and gains a Wayfarer.
+j plays a Vampire.
+j takes Envy.
+J receives Envy.
+J takes Envious.
+j discards Envy.
+j gains a Wayfarer.
+j returns a Vampire.
+j receives a Bat.
+j plays a Vampire.
+j takes Plague.
+J receives Plague.
+J gains a Curse.
+j discards Plague.
+j gains a Storyteller.
+j returns a Vampire.
+j receives a Bat.
+j takes 6 debt.
+j repays 4 debt (2 remaining).
+j draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold and a Silver. (+$5)
+J loses 7 Coins.
+J shuffles their deck.
+J draws 3 Coppers, a Silver, a Gold, an Estate and a Bat.
+J returns Envious.
+J plays 4 Coppers, a Gold and a Silver. (+$6)
+J buys and gains a Capital.
+J plays a Bat.
+J trashes a Curse and an Estate.
+J returns a Bat.
+J receives a Vampire.
+J plays a Vampire.
+J takes Poverty.
+j receives Poverty.
+j discards a card and an Estate.
+J discards Poverty.
+J gains a Storyteller.
+J returns a Vampire.
+J receives a Bat.
+J draws a Copper, a Silver, 2 Estates and a Storyteller.
+
+Turn 11 - jurb
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j repays 1 debt (1 remaining).
+j plays a Bat.
+j trashes a Copper.
+j returns a Bat.
+j receives a Vampire.
+j draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Silver. (+$3)
+J loses 4 Coins.
+J shuffles their deck.
+J draws a Copper, 2 Silvers and a Capital.
+J plays a Copper and 2 Silvers. (+$5)
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J buys and gains a Fishing Village.
+J buys and gains a Wayfarer.
+J takes 6 debt.
+J repays 5 debt (1 remaining).
+J draws a Copper, a Gold, a Fishing Village, a Storyteller and a Vampire.
+
+Turn 12 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Dismantle.
+j trashes a Copper.
+j plays a Copper. (+$1)
+j plays a Capital. (+$6)
+j gets +1 Buy.
+j repays 1 debt.
+j buys and gains a Fishing Village.
+j buys and gains a Wayfarer.
+j takes 6 debt.
+j repays 2 debt (4 remaining).
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Gold. (+$4)
+J loses 6 Coins.
+J draws 2 Coppers, a Silver, a Gold, a Storyteller and a Bat.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Silver. (+$3)
+J loses 4 Coins.
+J shuffles their deck.
+J draws a Copper, 2 Silvers and a Storyteller.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Silvers. (+$4)
+J loses 5 Coins.
+J draws a Copper, 2 Estates, a Capital and a Wayfarer.
+J plays a Wayfarer.
+J draws a Silver and a Fishing Village.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays 3 Coppers, a Gold and a Silver. (+$8)
+J repays 1 debt.
+J buys and gains a Capital.
+J buys and gains a Gold.
+J plays a Bat.
+J trashes 2 Estates.
+J returns a Bat.
+J receives a Vampire.
+J plays a Vampire.
+J takes Misery.
+j receives Misery.
+j takes Miserable.
+J discards Misery.
+J gains a Storyteller.
+J returns a Vampire.
+J receives a Bat.
+J takes 6 debt.
+J repays 3 debt (3 remaining).
+J shuffles their deck.
+J draws 4 Coppers and a Storyteller.
+
+Turn 13 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays a Dismantle.
+j trashes a Copper.
+j repays 1 debt (3 remaining).
+j plays a Bat.
+j trashes 2 Coppers.
+j returns a Bat.
+j receives a Vampire.
+j draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J gets +1 Action.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J loses 6 Coins.
+J draws 2 Silvers, a Gold, a Storyteller, a Capital and a Wayfarer.
+J plays a Wayfarer.
+J draws a Gold, a Storyteller and a Vampire.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Gold. (+$4)
+J loses 5 Coins.
+J draws a Copper, 2 Silvers, a Gold and a Capital.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Silver. (+$2)
+J loses 3 Coins.
+J draws a Storyteller and a Bat.
+J plays 2 Golds. (+$6)
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays 2 Silvers. (+$4)
+J repays 3 debt.
+J buys and gains a Gold.
+J buys and gains a Storyteller.
+J buys and gains a Province.
+J plays a Bat.
+J trashes a Copper and a Silver.
+J returns a Bat.
+J receives a Vampire.
+J plays a Vampire.
+J takes Fear.
+j receives Fear.
+j discards a Copper.
+J discards Fear.
+J gains a Distant Lands.
+J returns a Vampire.
+J receives a Bat.
+J takes 6 debt.
+J takes 6 debt.
+J shuffles their deck.
+J draws a Copper, a Gold, a Storyteller, a Capital and a Vampire.
+
+Turn 14 - jurb
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Wayfarer.
+j draws 3 cards.
+j gains a Silver.
+j plays a Storyteller.
+j gets +1 Action.
+j gets +$1.
+j plays a Gold. (+$3)
+j loses 5 Coins.
+j draws 5 cards.
+j plays a Wayfarer.
+j draws 3 cards.
+j gains a Silver.
+j plays 2 Coppers. (+$2)
+j plays a Capital. (+$6)
+j gets +1 Buy.
+j repays 3 debt.
+j buys and gains a Fishing Village.
+j plays a Vampire.
+j takes Haunting.
+J receives Haunting.
+J topdecks a Vampire.
+j discards Haunting.
+j gains a Distant Lands.
+j returns a Vampire.
+j receives a Bat.
+j takes 6 debt.
+j repays 2 debt (4 remaining).
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Gold. (+$4)
+J loses 5 Coins.
+J draws a Copper, a Silver, a Storyteller, a Vampire and a Bat.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays a Silver. (+$2)
+J loses 9 Coins.
+J draws 2 Coppers, 2 Silvers, a Gold, a Fishing Village, a Distant Lands, a Storyteller and a Wayfarer.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper. (+$1)
+J loses 3 Coins.
+J draws a Province, a Storyteller and a Capital.
+J plays a Wayfarer.
+J draws a Gold, a Fishing Village and a Storyteller.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J loses 2 Coins.
+J draws a Gold.
+J plays a Distant Lands.
+J puts a Distant Lands on their Tavern mat.
+J plays 3 Golds and 2 Silvers. (+$13)
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J repays 12 debt.
+J buys and gains a Royal Carriage.
+J plays a Bat.
+J trashes 2 Coppers.
+J returns a Bat.
+J receives a Vampire.
+J plays a Vampire.
+J takes Bad Omens.
+j receives Bad Omens.
+j moves their deck to the discard.
+j looks at 20 cards.
+j topdecks 2 Coppers.
+j looks at 20 cards.
+J discards Bad Omens.
+J gains a Distant Lands.
+J returns a Vampire.
+J receives a Bat.
+J takes 6 debt.
+J repays 2 debt (4 remaining).
+J takes 6 debt.
+J shuffles their deck.
+J draws 2 Golds, a Storyteller, a Capital and a Vampire.
+
+Turn 15 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Storyteller.
+j gets +1 Action.
+j gets +$1.
+j loses 4 Coins.
+j shuffles their deck.
+j draws 4 cards.
+j plays a Storyteller.
+j gets +1 Action.
+j gets +$1.
+j plays 2 Coppers. (+$2)
+j loses 3 Coins.
+j draws 3 cards.
+j plays a Wayfarer.
+j draws 3 cards.
+j gains a Silver.
+j plays a Wayfarer.
+j draws 3 cards.
+j gains a Silver.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Wayfarer.
+j draws 3 cards.
+j gains a Silver.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Distant Lands.
+j puts a Distant Lands on their Tavern mat.
+j plays 2 Silvers. (+$4)
+j plays a Capital. (+$6)
+j gets +1 Buy.
+j repays 4 debt.
+j buys and gains a Wayfarer.
+j buys and gains a Distant Lands.
+j plays a Bat.
+j trashes an Estate.
+j returns a Bat.
+j receives a Vampire.
+j plays a Bat.
+j trashes a Curse.
+j returns a Bat.
+j receives a Vampire.
+j plays a Vampire.
+j takes War.
+J receives War.
+J reveals a Copper, a Capital and 2 Storytellers and finally Silver.
+J trashes a Silver.
+J discards a Copper, 2 Storytellers and a Capital.
+j discards War.
+j gains a Distant Lands.
+j returns a Vampire.
+j receives a Bat.
+j takes 6 debt.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J gets +1 Action.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Golds. (+$6)
+J loses 9 Coins.
+J draws a Copper, 2 Silvers, 2 Golds, a Province, a Royal Carriage, a Storyteller and a Bat.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Silvers. (+$4)
+J loses 5 Coins.
+J shuffles their deck.
+J draws a Copper, a Distant Lands, a Storyteller, a Capital and a Wayfarer.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Wayfarer.
+J draws 2 Storytellers.
+J gains a Silver.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J loses 1 Coin.
+J shuffles their deck.
+J draws a Silver.
+J plays a Distant Lands.
+J puts a Distant Lands on their Tavern mat.
+J plays 2 Golds and a Silver. (+$8)
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J repays 10 debt.
+J buys and gains 2 Distant Lands.
+J plays a Bat.
+J trashes 2 Coppers.
+J returns a Bat.
+J receives a Vampire.
+J plays a Vampire.
+J takes Famine.
+j receives Famine.
+j reveals a Capital, a Wayfarer and a Fishing Village.
+j discards a Fishing Village and a Wayfarer.
+j shuffles their deck.
+j shuffles a Capital into their deck.
+J discards Famine.
+J gains a Distant Lands.
+J returns a Vampire.
+J receives a Bat.
+J takes 6 debt.
+J takes 6 debt.
+J shuffles their deck.
+J draws a Province, 2 Distant Lands and 2 Storytellers.
+
+Turn 16 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Dismantle.
+j trashes a Gold.
+j gains a Capital.
+j gains a Gold.
+j plays a Copper and a Silver. (+$3)
+j repays 6 debt.
+j draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J loses 1 Coin.
+J draws a Distant Lands.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J loses 1 Coin.
+J draws a Gold.
+J calls a Royal Carriage.
+J plays a Storyteller again.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold. (+$3)
+J loses 4 Coins.
+J draws 2 Silvers, a Gold and a Bat.
+J plays a Distant Lands.
+J puts a Distant Lands on their Tavern mat.
+J plays a Distant Lands.
+J puts a Distant Lands on their Tavern mat.
+J plays a Gold and 2 Silvers. (+$7)
+J repays 7 debt (5 remaining).
+J draws a Gold, 2 Fishing Villages, a Storyteller and a Wayfarer.
+
+Turn 17 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j plays a Wayfarer.
+j draws 3 cards.
+j gains a Silver.
+j plays a Storyteller.
+j gets +1 Action.
+j gets +$1.
+j plays 2 Silvers. (+$4)
+j plays a Capital. (+$6)
+j gets +1 Buy.
+j loses 12 Coins.
+j shuffles their deck.
+j draws 12 cards.
+j plays a Storyteller.
+j gets +1 Action.
+j gets +$1.
+j plays 2 Coppers and a Silver. (+$4)
+j loses 5 Coins.
+j draws 5 cards.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Wayfarer.
+j draws 3 cards.
+j gains a Silver.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Wayfarer.
+j shuffles their deck.
+j draws 3 cards.
+j gains a Silver.
+j plays a Fishing Village.
+j gets +2 Actions.
+j gets +$1.
+j plays a Distant Lands.
+j puts a Distant Lands on their Tavern mat.
+j plays a Distant Lands.
+j puts a Distant Lands on their Tavern mat.
+j plays a Wayfarer.
+j shuffles their deck.
+j draws a card.
+j gains a Silver.
+j plays a Gold and 5 Silvers. (+$13)
+j plays a Capital. (+$6)
+j gets +1 Buy.
+j buys and gains 3 Provinces.
+j plays a Bat.
+j trashes a Copper.
+j returns a Bat.
+j receives a Vampire.
+j plays a Vampire.
+j takes Plague.
+J receives Plague.
+J gains a Curse.
+j discards Plague.
+j gains a Capital.
+j returns a Vampire.
+j receives a Bat.
+j plays a Vampire.
+j takes Locusts.
+J receives Locusts.
+J trashes a Storyteller.
+J gains a Fishing Village.
+j discards Locusts.
+j gains a Duchy.
+j returns a Vampire.
+j receives a Bat.
+j takes 6 debt.
+j takes 6 debt.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Wayfarer.
+J draws a Silver and 2 Capitals.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold and a Silver. (+$5)
+J loses 8 Coins.
+J shuffles their deck.
+J draws a Silver, 2 Golds, a Distant Lands, 2 Storytellers, a Vampire and a Bat.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold. (+$3)
+J loses 4 Coins.
+J draws a Silver, a Gold, a Province and a Fishing Village.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J loses 2 Coins.
+J draws a Royal Carriage and a Storyteller.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Distant Lands.
+J puts a Distant Lands on their Tavern mat.
+J plays a Gold and a Silver. (+$5)
+J repays 5 debt.
+J plays a Gold and a Silver. (+$5)
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J buys and gains a Province.
+J buys and gains a Harem.
+J plays a Vampire.
+J takes Delusion.
+j receives Delusion.
+j takes Deluded.
+J discards Delusion.
+J gains a Capital.
+J returns a Vampire.
+J receives a Bat.
+J takes 6 debt.
+J repays 3 debt (3 remaining).
+J takes 6 debt.
+J shuffles their deck.
+J draws a Silver, 2 Golds, a Storyteller and a Capital.
+
+Turn 18 - jurb
+j starts their turn.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j gets +1 Action.
+j gets +$1.
+j plays a Dismantle.
+j trashes a Gold.
+j gains a Duchy.
+j gains a Gold.
+j returns Deluded.
+j plays 3 Silvers. (+$6)
+j repays 11 debt (1 remaining).
+j draws 5 cards.
+
+Turn 19 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J gets +1 Action.
+J gets +$1.
+J gets +1 Action.
+J gets +$1.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Gold and a Silver. (+$5)
+J loses 9 Coins.
+J draws a Curse, a Silver, 2 Provinces, a Harem, a Storyteller, 2 Capitals and a Wayfarer.
+J plays a Wayfarer.
+J draws a Silver and 2 Bats.
+J gains a Silver.
+J calls a Royal Carriage.
+J plays a Wayfarer again.
+J draws 2 Golds and a Storyteller.
+J gains a Silver.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Silver. (+$2)
+J loses 3 Coins.
+J shuffles their deck.
+J draws 2 Silvers and a Storyteller.
+J plays a Gold and 3 Silvers. (+$9)
+J repays 9 debt.
+J plays a Harem and 2 Golds. (+$8)
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J plays a Capital. (+$6)
+J gets +1 Buy.
+J buys and gains 3 Provinces.
+J takes 6 debt.
+J takes 6 debt.
+J takes 6 debt.
+J shuffles their deck.
+J draws a Gold, a Province, a Royal Carriage and 2 Storytellers.
+

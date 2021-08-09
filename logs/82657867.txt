@@ -1,0 +1,633 @@
+Game #82657867, rated.
+ko-ken: 48.72
+Jazzercise: 46.16
+
+
+k starts with a Cursed Gold.
+k starts with 6 Coppers.
+k starts with 3 Estates.
+J starts with a Cursed Gold.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+k shuffles their deck.
+k draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - ko-ken
+k plays 2 Coppers. (+$2)
+k buys and gains a Chapel.
+k draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Borrow.
+J gets +1 Buy.
+J moves -Card token to Draw Pile.
+J gets +$1.
+J buys and gains a Haggler.
+J skips a draw (because of Borrow).
+J moves -Card token to Token Limbo.
+J draws a Copper, 2 Estates and a Cursed Gold.
+
+Turn 2 - ko-ken
+k plays 4 Coppers. (+$4)
+k plays a Cursed Gold. (+$3)
+k gains a Curse.
+k buys and gains a Villa.
+k puts a Villa into their hand.
+k gets +1 Action.
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k buys and gains a Camel Train.
+k exiles a Gold.
+k shuffles their deck.
+k draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Copper. (+$1)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys and gains a Chapel.
+J shuffles their deck.
+J draws 3 Coppers, a Haggler and a Cursed Gold.
+
+Turn 3 - ko-ken
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Camel Train.
+k exiles a Gold.
+k plays a Chapel.
+k trashes a Copper and an Estate.
+k draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Haggler.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys a Patrol.
+J gains a Villa.
+J puts a Villa into their hand.
+J gets +1 Action.
+J gains a Patrol.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J buys a Villa.
+J gains an Urchin.
+J gains a Villa.
+J puts a Villa into their hand.
+J gets +1 Action.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J draws a Curse, a Copper, 2 Estates and a Chapel.
+
+Turn 4 - ko-ken
+k plays 2 Coppers. (+$2)
+k plays a Cursed Gold. (+$3)
+k gains a Curse.
+k buys and gains a Patrol.
+k shuffles their deck.
+k draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Chapel.
+J trashes a Curse, a Copper and 2 Estates.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Patrol and an Urchin.
+
+Turn 5 - ko-ken
+k plays 4 Coppers. (+$4)
+k buys and gains a Villa.
+k puts a Villa into their hand.
+k gets +1 Action.
+k draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+k discards a Curse.
+J plays 3 Coppers. (+$3)
+J buys a Borrow.
+J gets +1 Buy.
+J moves -Card token to Draw Pile.
+J gets +$1.
+J buys and gains a Villa.
+J puts a Villa into their hand.
+J gets +1 Action.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J skips a draw (because of Borrow).
+J moves -Card token to Token Limbo.
+J draws a Curse and a Cursed Gold.
+J reveals a Villa, a Chapel and 2 Coppers.
+J topdecks 2 Coppers, a Chapel and a Villa.
+J draws 2 Coppers, a Chapel and 2 Villas.
+
+Turn 6 - ko-ken
+k plays a Camel Train.
+k exiles a Gold.
+k plays a Cursed Gold. (+$3)
+k gains a Curse.
+k buys a Borrow.
+k gets +1 Buy.
+k moves -Card token to Draw Pile.
+k gets +$1.
+k buys and gains a Villa.
+k puts a Villa into their hand.
+k gets +1 Action.
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Patrol.
+k skips a draw (because of Borrow).
+k moves -Card token to Token Limbo.
+k draws 2 cards.
+k shuffles their deck.
+k reveals an Estate, a Chapel and 2 Coppers.
+k puts an Estate into their hand.
+k topdecks 2 Coppers and a Chapel.
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Copper. (+$1)
+k buys and gains a Church.
+k draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Chapel.
+J trashes 2 Coppers.
+J shuffles their deck.
+J draws a Curse, a Copper, a Chapel, a Haggler and a Cursed Gold.
+
+Turn 7 - ko-ken
+k plays a Chapel.
+k trashes 2 Curses and 2 Coppers.
+k shuffles their deck.
+k draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Haggler.
+J gets +$2.
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J plays a Copper. (+$1)
+J buys a Patrol.
+J gains a Villa.
+J puts a Villa into their hand.
+J gets +1 Action.
+J gains a Patrol.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Chapel.
+J trashes a Curse.
+J draws 2 Coppers, an Estate and 2 Villas.
+
+Turn 8 - ko-ken
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays 2 Coppers. (+$2)
+k buys a Borrow.
+k gets +1 Buy.
+k moves -Card token to Draw Pile.
+k gets +$1.
+k buys and gains a Patrol.
+k skips a draw (because of Borrow).
+k moves -Card token to Token Limbo.
+k draws 4 cards.
+
+Turn 8 - Jazzercise
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J buys a Borrow.
+J gets +1 Buy.
+J moves -Card token to Draw Pile.
+J gets +$1.
+J buys and gains a Sacred Grove.
+J skips a draw (because of Borrow).
+J moves -Card token to Token Limbo.
+J shuffles their deck.
+J draws 2 Patrols, an Urchin and a Villa.
+
+Turn 9 - ko-ken
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Patrol.
+k draws 3 cards.
+k shuffles their deck.
+k reveals a Cursed Gold, a Copper, a Church and a Patrol.
+k topdecks a Copper, a Patrol, a Cursed Gold and a Church.
+k plays a Camel Train.
+k exiles a Gold.
+k plays a Copper. (+$1)
+k draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws a Curse, an Estate and a Villa.
+J reveals 2 Villas, a Haggler and a Copper.
+J topdecks a Copper, a Haggler and 2 Villas.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws a Haggler and 2 Villas.
+J reveals a Chapel, a Cursed Gold and 2 Coppers.
+J topdecks 2 Coppers, a Chapel and a Cursed Gold.
+J plays an Urchin.
+J draws a Chapel.
+J gets +1 Action.
+k discards a Copper.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Haggler.
+J gets +$2.
+J plays a Chapel.
+J trashes a Curse and an Estate.
+J buys a Patrol.
+J gains a Villa.
+J puts a Villa into their hand.
+J gets +1 Action.
+J gains a Patrol.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J draws 3 Coppers, a Sacred Grove and a Cursed Gold.
+
+Turn 10 - ko-ken
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Patrol.
+k draws 3 cards.
+k shuffles their deck.
+k reveals a Villa, a Curse, a Camel Train and a Copper.
+k puts a Curse into their hand.
+k topdecks a Copper, a Villa and a Camel Train.
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Church.
+k gets +1 Action.
+k sets 3 cards aside with Church.
+k draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Moon's Gift.
+J receives The Moon's Gift.
+J looks at 5 Villas, a Chapel, a Haggler, an Urchin and 3 Patrols.
+J looks at 5 Villas, a Chapel, a Haggler, an Urchin and 3 Patrols.
+J topdecks a Patrol.
+J discards The Moon's Gift.
+k looks at 4 cards.
+k looks at 4 cards.
+k topdecks a card.
+J plays 3 Coppers. (+$3)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys and gains a Patrol.
+J buys and gains a Villa.
+J puts a Villa into their hand.
+J gets +1 Action.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J shuffles their deck.
+J draws a Copper, 2 Patrols, a Haggler and an Urchin.
+
+Turn 11 - ko-ken
+k starts their turn.
+k puts 3 cards in hand (Church).
+k trashes a Curse.
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Camel Train.
+k exiles a Sacred Grove.
+k plays a Chapel.
+k trashes a Copper.
+k plays 2 Coppers. (+$2)
+k plays a Cursed Gold. (+$3)
+k gains a Curse.
+k buys and gains a Gold.
+k discards 4 Golds from Exile.
+k shuffles their deck.
+k draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Urchin.
+J draws a Villa.
+J gets +1 Action.
+k discards an Estate.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws a Patrol, a Villa and a Sacred Grove.
+J reveals a Villa, a Curse, a Cursed Gold and a Copper.
+J puts a Curse into their hand.
+J topdecks a Copper, a Villa and a Cursed Gold.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws a Copper, a Villa and a Cursed Gold.
+J reveals 3 Villas and a Copper.
+J topdecks a Copper and 3 Villas.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws 3 Villas.
+J reveals a Chapel, a Copper and a Patrol.
+J topdecks a Copper, a Chapel and a Patrol.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Haggler.
+J gets +$2.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Wind's Gift.
+J receives The Wind's Gift.
+J draws a Copper and a Patrol.
+J discards a Curse and a Copper.
+J discards The Wind's Gift.
+k draws 2 cards.
+k discards a card and a Church.
+J plays a Patrol.
+J shuffles their deck.
+J draws a Curse, a Copper and a Chapel.
+J plays a Chapel.
+J trashes a Curse and 3 Coppers.
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys a Sacred Grove.
+J gains a Villa.
+J puts a Villa into their hand.
+J gets +1 Action.
+J gains a Sacred Grove.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J buys a Patrol.
+J gains an Urchin.
+J gains a Patrol.
+J buys a Patrol.
+J gains a Navigator.
+J gains a Patrol.
+J shuffles their deck.
+J draws a Patrol, 2 Villas, a Sacred Grove and a Cursed Gold.
+
+Turn 12 - ko-ken
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays a Patrol.
+k draws 3 cards.
+k reveals 2 Villas, a Camel Train and a Copper.
+k topdecks a Copper, 2 Villas and a Camel Train.
+k plays a Patrol.
+k draws 3 cards.
+k reveals a Villa and 3 Golds.
+k topdecks 3 Golds and a Villa.
+k plays 2 Coppers and a Gold. (+$5)
+k plays a Cursed Gold. (+$3)
+k gains a Curse.
+k buys and gains a Province.
+k draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws a Curse, a Haggler and a Villa.
+J reveals a Sacred Grove, 2 Urchins and a Patrol.
+J topdecks a Patrol, 2 Urchins and a Sacred Grove.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Haggler.
+J gets +$2.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Earth's Gift.
+J receives The Earth's Gift.
+J discards a Cursed Gold.
+J gains an Urchin.
+J discards The Earth's Gift.
+J buys a Province.
+J gains a Patrol.
+J gains a Province.
+J draws a Chapel, a Patrol, 2 Urchins and a Sacred Grove.
+
+Turn 13 - ko-ken
+k plays a Villa.
+k gets +2 Actions.
+k gets +1 Buy.
+k gets +$1.
+k plays 4 Golds. (+$12)
+k buys and gains a Province.
+k buys and gains a Sacred Grove.
+k discards a Sacred Grove from Exile.
+k shuffles their deck.
+k draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Urchin.
+J draws a Villa.
+J gets +1 Action.
+k discards a Curse.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws 2 Patrols and a Villa.
+J reveals a Villa, 2 Patrols and a Navigator.
+J topdecks 2 Patrols, a Navigator and a Villa.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays an Urchin.
+J draws a Villa.
+J gets +1 Action.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws 2 Patrols and a Navigator.
+J shuffles their deck.
+J reveals a Villa, a Curse, a Sacred Grove and a Patrol.
+J puts a Curse into their hand.
+J topdecks a Patrol, a Villa and a Sacred Grove.
+J plays a Patrol.
+J draws a Patrol, a Villa and a Sacred Grove.
+J reveals a Villa, a Cursed Gold, a Haggler and a Patrol.
+J topdecks a Patrol, a Haggler, a Villa and a Cursed Gold.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws a Patrol, a Haggler and a Villa.
+J reveals 2 Villas, a Cursed Gold and an Urchin.
+J topdecks an Urchin, 2 Villas and a Cursed Gold.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws an Urchin and 2 Villas.
+J reveals a Province and a Cursed Gold.
+J puts a Province into their hand.
+J topdecks a Cursed Gold.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Chapel.
+J trashes a Curse, a Patrol and a Navigator.
+J plays a Haggler.
+J gets +$2.
+J plays a Sacred Grove.
+J gets +1 Buy.
+J gets +$3.
+J takes The Swamp's Gift.
+J receives The Swamp's Gift.
+J gains a Will-o'-Wisp.
+J discards The Swamp's Gift.
+k gains a Will-o'-Wisp.
+J buys a Province.
+J gains an Urchin.
+J gains a Province.
+J buys a Silver.
+J gains a Copper.
+J gains a Silver.
+J shuffles their deck.
+J draws a Province, 2 Patrols, a Villa and a Cursed Gold.
+
+Turn 14 - ko-ken
+k plays a Patrol.
+k draws 3 cards.
+k reveals a Province, a Cursed Gold, a Sacred Grove and a Church.
+k puts a Province into their hand.
+k topdecks a Sacred Grove, a Cursed Gold and a Church.
+k plays a Gold. (+$3)
+k buys and gains an Estate.
+k draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays a Patrol.
+J draws a Patrol, an Urchin and a Villa.
+J reveals a Copper, a Silver and 2 Patrols.
+J topdecks a Copper, a Silver and 2 Patrols.
+J plays a Villa.
+J gets +2 Actions.
+J gets +1 Buy.
+J gets +$1.
+J plays an Urchin.
+J draws a Patrol.
+J gets +1 Action.
+k discards a Church.
+J plays a Patrol.
+J draws a Copper, a Silver and a Patrol.
+J reveals a Chapel, a Haggler, a Sacred Grove and an Urchin.
+J topdecks a Chapel, a Haggler, an Urchin and a Sacred Grove.
+J plays a Patrol.
+J draws a Chapel, a Haggler and a Sacred Grove.
+J reveals 2 Villas, a Sacred Grove and an Urchin.
+J topdecks an Urchin, 2 Villas and a Sacred Grove.
+

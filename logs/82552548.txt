@@ -1,0 +1,568 @@
+Game #82552548, rated.
+bw9: 49.55
+Jazzercise: 46.35
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+b starts with 7 Coppers.
+b starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+b shuffles their deck.
+b draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - bw9
+b plays 5 Coppers. (+$5)
+b buys and gains a Sanctuary.
+b draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Gear.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - bw9
+b plays 2 Coppers. (+$2)
+b buys a Delve.
+b gets +1 Buy.
+b gains a Silver.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Potion.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - bw9
+b plays a Copper and a Silver. (+$3)
+b buys a Delve.
+b gets +1 Buy.
+b gains a Silver.
+b draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Delve.
+J gets +1 Buy.
+J gains a Silver.
+J buys a Delve.
+J gets +1 Buy.
+J gains a Silver.
+J draws 3 Coppers, an Estate and a Gear.
+
+Turn 4 - bw9
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Copper.
+b plays 4 Coppers. (+$4)
+b buys and gains a Potion.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Gear.
+J draws an Estate and a Potion.
+J sets an Estate and a Copper aside with Gear.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains a University.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Potion.
+
+Turn 5 - bw9
+b plays 3 Coppers and a Silver. (+$5)
+b buys and gains a Sanctuary.
+b draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J puts a Copper and an Estate in hand (Gear).
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Potion.
+J buys and gains a University.
+J draws 4 Coppers and a Silver.
+
+Turn 6 - bw9
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles an Estate.
+b plays 2 Coppers and a Silver. (+$4)
+b plays a Potion.
+b buys and gains a University.
+b buys and gains a Pawn.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Sanctuary.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate and 2 Universities.
+
+Turn 7 - bw9
+b plays 2 Coppers and a Silver. (+$4)
+b buys a Delve.
+b gets +1 Buy.
+b gains a Silver.
+b buys a Delve.
+b gets +1 Buy.
+b gains a Silver.
+b draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Sanctuary.
+J plays a University.
+J gets +2 Actions.
+J gains a Sanctuary.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and a Gear.
+
+Turn 8 - bw9
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Copper.
+b plays a University.
+b gets +2 Actions.
+b gains a Catacombs.
+b plays 2 Coppers. (+$2)
+b plays a Potion.
+b buys and gains a University.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Gear.
+J draws a Copper and a Potion.
+J sets 2 Coppers aside with Gear.
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains a University.
+J draws a Copper, a Silver, 2 Estates and a Sanctuary.
+
+Turn 9 - bw9
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Copper.
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b plays a Pawn.
+b draws a card.
+b gets +1 Action.
+b plays a Catacombs.
+b looks at 3 cards.
+b puts 3 cards into their hand.
+b plays a Copper and 3 Silvers. (+$7)
+b plays a Potion.
+b buys and gains a University.
+b buys and gains a Sanctuary.
+b draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J puts 2 Coppers in hand (Gear).
+J plays a Sanctuary.
+J shuffles their deck.
+J draws a University.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles an Estate.
+J plays a University.
+J gets +2 Actions.
+J gains a Catacombs.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Sanctuary.
+J draws a Copper, a Silver, a Potion, a University and a Sanctuary.
+
+Turn 10 - bw9
+b plays a University.
+b gets +2 Actions.
+b gains a Catacombs.
+b plays a University.
+b gets +2 Actions.
+b gains a Treasury.
+b plays 2 Coppers and a Silver. (+$4)
+b buys a Delve.
+b gets +1 Buy.
+b gains a Silver.
+b buys a Delve.
+b gets +1 Buy.
+b gains a Silver.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Catacombs.
+J plays a Sanctuary.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Potion.
+J plays a Copper and 2 Silvers. (+$5)
+J buys Stampede.
+J gains 5 Horses.
+J draws 5 Horses.
+
+Turn 11 - bw9
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles an Estate.
+b plays a University.
+b gets +2 Actions.
+b gains a Catacombs.
+b plays a Copper and 2 Silvers. (+$5)
+b buys and gains a Relic.
+b draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Sanctuary.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws an Estate and a University.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J shuffles their deck.
+J draws a Gear and a Sanctuary.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and an Estate.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Sanctuary.
+J draws a Sanctuary.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles an Estate.
+J plays a Sanctuary.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles an Estate.
+J plays a Sanctuary.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Copper.
+J plays a University.
+J gets +2 Actions.
+J gains a Treasury.
+J plays a Gear.
+J draws a University and a Catacombs.
+J sets 2 Coppers aside with Gear.
+J plays a University.
+J gets +2 Actions.
+J gains a Treasury.
+J plays a Catacombs.
+J looks at a Catacombs, a Copper and a Silver.
+J discards a Copper, a Silver and a Catacombs.
+J draws a Copper, a University and a Sanctuary.
+J plays a University.
+J gets +2 Actions.
+J gains a Treasury.
+J plays a Sanctuary.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Copper.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Catacombs.
+J shuffles their deck.
+J draws 2 Treasuries, a University, a Catacombs and a Sanctuary.
+
+Turn 12 - bw9
+b plays a University.
+b gets +2 Actions.
+b gains a Treasury.
+b plays a Catacombs.
+b looks at 3 cards.
+b puts 3 cards into their hand.
+b plays a Treasury.
+b draws a card.
+b gets +1 Action.
+b gets +$1.
+b plays a University.
+b gets +2 Actions.
+b gains a Treasury.
+b plays a Catacombs.
+b looks at 3 cards.
+b puts 3 cards into their hand.
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles an Estate.
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Potion.
+b plays 2 Coppers and 3 Silvers. (+$8)
+b buys and gains a Treasury.
+b buys and gains a Gear.
+b topdecks a Treasury.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J puts 2 Coppers in hand (Gear).
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a University.
+J gets +2 Actions.
+J gains a Treasury.
+J plays a Sanctuary.
+J draws a Catacombs.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Copper.
+J plays a Catacombs.
+J looks at 2 Universities and a Silver.
+J puts a Silver and 2 Universities into their hand.
+J plays a University.
+J gets +2 Actions.
+J gains a Treasury.
+J plays a University.
+J gets +2 Actions.
+J gains a Treasury.
+J plays a Catacombs.
+J looks at a Silver, a Sanctuary and a Treasury.
+J puts a Silver, a Treasury and a Sanctuary into their hand.
+J plays a Treasury.
+J draws a Sanctuary.
+J gets +1 Action.
+J gets +$1.
+J plays a Sanctuary.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Copper.
+J plays a Sanctuary.
+J draws a Sanctuary.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Copper.
+J plays a Sanctuary.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Copper.
+J plays a Copper and 3 Silvers. (+$7)
+J buys and gains a Relic.
+J buys and gains a Band of Misfits.
+J topdecks 3 Treasuries.
+J shuffles their deck.
+J draws 4 Treasuries and a Catacombs.
+
+Turn 13 - bw9
+b plays a Treasury.
+b draws a card.
+b gets +1 Action.
+b gets +$1.
+b plays a Pawn.
+b draws a card.
+b gets +1 Action.
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Copper.
+b plays a Catacombs.
+b looks at 3 cards.
+b puts 3 cards into their hand.
+b plays a Copper and 4 Silvers. (+$9)
+b plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+b buys and gains a Province.
+b buys and gains a Pawn.
+b draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Treasury.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Band of Misfits.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Gear.
+J gets +1 Action.
+J gets +$1.
+J plays a Band of Misfits.
+J plays an Improve.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys and gains a Province.
+J trashes a Band of Misfits.
+J gains a Gold.
+J draws a Copper, 2 Universities, a Catacombs and a Sanctuary.
+
+Turn 14 - bw9
+b plays a Treasury.
+b draws a card.
+b gets +1 Action.
+b gets +$1.
+b plays a Treasury.
+b draws a card.
+b gets +1 Action.
+b gets +$1.
+b plays a University.
+b gets +2 Actions.
+b gains a Sanctuary.
+b plays a Catacombs.
+b looks at 3 cards.
+b puts 3 cards into their hand.
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Copper.
+b plays a Treasury.
+b draws a card.
+b gets +1 Action.
+b gets +$1.
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Copper.
+b plays a University.
+b gets +2 Actions.
+b gains a Sanctuary.
+b plays a Catacombs.
+b shuffles their deck.
+b looks at 3 cards.
+b puts 3 cards into their hand.
+b plays a University.
+b gets +2 Actions.
+b gains a Sanctuary.
+b plays a Gear.
+b draws 2 cards.
+b plays a Sanctuary.
+b draws a card.
+b gets +1 Action.
+b gets +1 Buy.
+b exiles a Copper.
+b plays a Pawn.
+b draws a card.
+b gets +1 Action.
+b plays 3 Silvers. (+$6)
+b buys and gains a Province.
+b draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a University.
+J gets +2 Actions.
+J gains a Catacombs.
+J plays a University.
+J gets +2 Actions.
+J gains a Catacombs.
+J plays a Catacombs.
+J looks at a Relic, a Sanctuary and a Treasury.
+J discards a Treasury, a Relic and a Sanctuary.
+J draws a Silver, a University and a Sanctuary.
+J plays a University.
+J gets +2 Actions.
+J gains a Catacombs.
+J plays a Sanctuary.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Sanctuary.
+J draws a Treasury.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Treasury.
+J draws a Sanctuary.
+J gets +1 Action.
+J gets +$1.
+J plays a Sanctuary.
+J draws a Catacombs.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Catacombs.
+J shuffles their deck.
+J looks at a Catacombs, a Gold and a Treasury.
+J puts a Gold, a Treasury and a Catacombs into their hand.
+J plays a Treasury.
+J draws a Relic.
+J gets +1 Action.
+J gets +$1.
+J plays a Catacombs.
+J looks at a Gear and 2 Treasuries.
+J puts 2 Treasuries and a Gear into their hand.
+J plays a Treasury.
+J draws a Sanctuary.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Treasury.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Catacombs.
+J gets +1 Action.
+J gets +$1.
+J plays a Sanctuary.
+J draws a Treasury.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Treasury.
+J draws a Province.
+J gets +1 Action.
+J gets +$1.
+J plays a Catacombs.
+J looks at 2 Catacombs and a Silver.
+J puts a Silver and 2 Catacombs into their hand.
+J plays a Copper, 3 Silvers and a Gold. (+$10)
+J plays a Relic. (+$2)
+b moves -Card token to Draw Pile.
+J buys and gains a Province.
+J buys and gains an Estate.
+J buys and gains a Catacombs.
+J shuffles their deck.
+J draws a Silver, an Estate, a Province and 2 Catacombs.
+

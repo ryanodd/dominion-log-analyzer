@@ -1,0 +1,361 @@
+Game #81709606, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Potion.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Potion.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Cargo Ship.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Potion.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Gladiator.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains an Alchemist.
+J draws 2 Coppers, 2 Estates and a Cargo Ship.
+
+Turn 3 - Lord Rattington
+L plays a Gladiator.
+L gets +$2.
+L reveals a Copper.
+J blocks with a Copper.
+L plays 4 Coppers. (+$4)
+L buys and gains a Legionary.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Cargo Ship.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains a Bounty Hunter.
+J sets a Bounty Hunter aside with Cargo Ship.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - Lord Rattington
+L plays a Potion.
+L plays 2 Coppers. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J puts a Bounty Hunter in hand (Cargo Ship).
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles an Estate.
+J gets +$3.
+J plays 4 Coppers. (+$4)
+J buys and gains a Gold.
+J draws 3 Coppers, an Estate and a Potion.
+
+Turn 5 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains an Alchemist.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and an Alchemist.
+
+Turn 6 - Lord Rattington
+L plays a Potion.
+L plays 3 Coppers. (+$3)
+L buys and gains an Alchemist.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Alchemist.
+J draws a Copper and a Gold.
+J gets +1 Action.
+J plays a Gold and 3 Coppers. (+$6)
+J buys and gains an Archive.
+J draws 2 Coppers, a Potion, a Cargo Ship and a Bounty Hunter.
+
+Turn 7 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays 2 Coppers. (+$2)
+L buys and gains a Legionary.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Copper.
+J gets +$3.
+J plays a Cargo Ship.
+J gets +$2.
+J plays a Copper. (+$1)
+J plays a Potion.
+J buys and gains a Gold.
+J sets a Gold aside with Cargo Ship.
+J shuffles their deck.
+J draws 3 Coppers, an Alchemist and a Bounty Hunter.
+
+Turn 8 - Lord Rattington
+L plays an Alchemist.
+L draws 2 cards.
+L gets +1 Action.
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J puts a Gold in hand (Cargo Ship).
+J plays an Alchemist.
+J draws a Copper and a Gold.
+J gets +1 Action.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Copper.
+J plays 2 Golds and 3 Coppers. (+$9)
+J buys and gains a Province.
+J draws 2 Coppers, an Estate, a Potion and an Archive.
+
+Turn 9 - Lord Rattington
+L plays an Alchemist.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Copper. (+$1)
+L plays a Potion.
+L plays 2 Silvers. (+$4)
+L buys and gains a Legionary.
+L topdecks an Alchemist.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Archive.
+J gets +1 Action.
+J shuffles their deck.
+J looks at an Alchemist, a Cargo Ship and an Estate.
+J puts a Cargo Ship into their hand.
+J sets an Estate and an Alchemist aside.
+J plays a Cargo Ship.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J plays a Potion.
+J buys and gains an Alchemist.
+J sets an Alchemist aside with Cargo Ship.
+J draws 3 Coppers, a Province and a Bounty Hunter.
+
+Turn 10 - Lord Rattington
+L plays an Alchemist.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Legionary.
+L gets +$3.
+L plays 3 Coppers. (+$3)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J puts an Alchemist in hand (Cargo Ship).
+J puts an Alchemist in hand (Archive).
+J plays an Alchemist.
+J draws a Gold and an Alchemist.
+J gets +1 Action.
+J plays an Alchemist.
+J shuffles their deck.
+J draws a Gold and an Estate.
+J gets +1 Action.
+J plays an Alchemist.
+J draws a Copper and a Potion.
+J gets +1 Action.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles an Estate.
+J plays 2 Golds and 4 Coppers. (+$10)
+J plays a Potion.
+J buys and gains a Province.
+J topdecks 3 Alchemists.
+J shuffles their deck.
+J draws a Copper, 3 Alchemists and a Bounty Hunter.
+
+Turn 11 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays 3 Coppers. (+$3)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J puts an Estate in hand (Archive).
+J plays an Alchemist.
+J draws a Copper and a Cargo Ship.
+J gets +1 Action.
+J plays an Alchemist.
+J draws a Province and a Potion.
+J gets +1 Action.
+J plays an Alchemist.
+J draws a Copper and a Province.
+J gets +1 Action.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Province.
+J gets +$3.
+J plays a Cargo Ship.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains a Province.
+J topdecks 3 Alchemists.
+J draws 2 Golds and 3 Alchemists.
+
+Turn 12 - Lord Rattington
+L plays an Alchemist.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Legionary.
+L gets +$3.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Alchemist.
+J draws 2 Coppers.
+J gets +1 Action.
+J plays an Alchemist.
+J shuffles their deck.
+J draws a Province and a Bounty Hunter.
+J gets +1 Action.
+J plays an Alchemist.
+J draws an Estate and a Cargo Ship.
+J gets +1 Action.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Province.
+J plays a Cargo Ship.
+J gets +$2.
+J plays 2 Golds and 2 Coppers. (+$8)
+J buys and gains a Province.
+J draws 3 Coppers, a Potion and an Archive.
+
+Turn 13 - Lord Rattington
+L plays a Potion.
+L plays 2 Coppers. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Archive.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Gold, a Bounty Hunter and a Province.
+J puts a Province into their hand.
+J sets a Gold and a Bounty Hunter aside.
+J plays 3 Coppers. (+$3)
+J plays a Potion.
+J buys and gains an Alchemist.
+J draws a Copper, a Gold, an Estate, a Province and an Alchemist.
+
+Turn 14 - Lord Rattington
+L plays an Alchemist.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Legionary.
+L gets +$3.
+L plays a Gold, 2 Coppers and a Silver. (+$7)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J puts a Bounty Hunter in hand (Archive).
+J plays an Alchemist.
+J draws 2 Alchemists.
+J gets +1 Action.
+J plays an Alchemist.
+J draws a Copper and a Cargo Ship.
+J gets +1 Action.
+J plays an Alchemist.
+J shuffles their deck.
+J draws an Alchemist and a Potion.
+J gets +1 Action.
+J plays an Alchemist.
+J draws 2 Coppers.
+J gets +1 Action.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Province.
+J plays a Cargo Ship.
+J gets +$2.
+J plays a Gold and 4 Coppers. (+$7)
+J plays a Potion.
+J buys and gains a Province.
+J topdecks 4 Alchemists.
+J draws a Copper and 4 Alchemists.
+
+Turn 15 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays a Copper. (+$1)
+L plays a Potion.
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J puts a Gold in hand (Archive).
+J plays an Alchemist.
+J shuffles their deck.
+J draws a Copper and a Province.
+J gets +1 Action.
+J plays an Alchemist.
+J draws a Gold and an Estate.
+J gets +1 Action.
+J plays an Alchemist.
+J draws a Copper and a Cargo Ship.
+J gets +1 Action.
+J plays an Alchemist.
+J draws a Copper and a Province.
+J gets +1 Action.
+J plays a Cargo Ship.
+J gets +$2.
+J plays 2 Golds and 4 Coppers. (+$10)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Gold, an Alchemist, a Potion and a Bounty Hunter.
+
+Turn 16 - Lord Rattington
+L plays a Legionary.
+L gets +$3.
+L plays a Gold, a Copper and a Silver. (+$6)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+

@@ -1,0 +1,409 @@
+Game #81648534, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Page.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and a Silk Merchant.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Council Room.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Silk Merchant.
+J draws an Estate and a Page.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Page.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays 5 Coppers. (+$5)
+J buys and gains a Vampire.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Vampire and a Silk Merchant.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Council Room.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Silk Merchant.
+J draws a Treasure Hunter and a Silk Merchant.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Treasure Hunter.
+J gets +1 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Silk Merchant.
+J draws a Copper and an Estate.
+J gets +1 Buy.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Vampire.
+J plays a Vampire.
+J takes Greed.
+L receives Greed.
+L gains a Copper.
+J discards Greed.
+J gains a Highway.
+J returns a Vampire.
+J receives a Bat.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J draws 5 Coppers.
+
+Turn 7 - Lord Rattington
+L plays a Council Room.
+L draws 4 cards.
+L gets +1 Buy.
+J draws an Estate.
+L plays 5 Coppers and 3 Silvers. (+$11)
+L buys and gains a Raider.
+L buys and gains a Council Room.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Vampire.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Highway and a Vampire.
+
+Turn 8 - Lord Rattington
+L plays a Council Room.
+L shuffles their deck.
+L draws 4 cards.
+L gets +1 Buy.
+J draws a Vampire.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Council Room.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Highway.
+J draws a Copper.
+J gets +1 Action.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Haunted Woods.
+J plays a Vampire.
+J takes Plague.
+L receives Plague.
+L gains a Curse.
+J discards Plague.
+J gains a Highway.
+J returns a Vampire.
+J receives a Bat.
+J plays a Vampire.
+J takes War.
+L receives War.
+L reveals 3 Coppers and finally Council Room.
+L trashes a Council Room.
+L discards 3 Coppers.
+J discards War.
+J gains a Highway.
+J returns a Vampire.
+J receives a Bat.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 9 - Lord Rattington
+L plays 2 Coppers and 3 Silvers. (+$8)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J draws a Copper, an Estate, a Warrior and 2 Silk Merchants.
+
+Turn 10 - Lord Rattington
+L plays a Council Room.
+L draws 4 cards.
+L gets +1 Buy.
+J draws a Bat.
+L plays a Gold, 3 Coppers and a Silver. (+$8)
+L buys and gains a Province.
+L plays a Raider.
+J discards a Copper.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Warrior.
+J shuffles their deck.
+J draws a Copper and an Estate.
+L discards an Estate.
+J plays a Bat.
+J trashes 2 Estates.
+J returns a Bat.
+J receives a Vampire.
+J returns a Warrior.
+J receives a Hero.
+J draws 2 Coppers, a Highway, a Haunted Woods and a Bat.
+
+Turn 11 - Lord Rattington
+L starts their turn.
+L gets +$3.
+L plays a Council Room.
+L draws 4 cards.
+L gets +1 Buy.
+J draws a Copper.
+L plays 4 Coppers and 3 Silvers. (+$10)
+L buys and gains a Province.
+L buys and gains a Council Room.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Highway.
+J draws a Highway.
+J gets +1 Action.
+J plays a Highway.
+J draws a Silver.
+J gets +1 Action.
+J plays a Haunted Woods.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Highway.
+J plays a Bat.
+J trashes 2 Coppers.
+J returns a Bat.
+J receives a Vampire.
+J draws a Copper, a Silver, an Estate, a Highway and a Bat.
+
+Turn 12 - Lord Rattington
+L plays a Council Room.
+L draws 4 cards.
+L gets +1 Buy.
+J draws a Silk Merchant.
+L plays 4 Coppers and a Silver. (+$6)
+L buys a Gold.
+L topdecks 3 cards.
+L gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws 3 Coppers (Haunted Woods).
+J plays a Highway.
+J draws a Silk Merchant.
+J gets +1 Action.
+J plays a Silk Merchant.
+J draws a Copper and a Hero.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Hero.
+J gets +$2.
+J gains a Gold.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains 2 Highways.
+J plays a Bat.
+J trashes a Copper and an Estate.
+J returns a Bat.
+J receives a Vampire.
+J returns a Hero.
+J receives a Champion.
+J draws a Silver, a Highway, 2 Vampires and a Silk Merchant.
+
+Turn 13 - Lord Rattington
+L plays a Gold. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Highway.
+J draws a Highway.
+J gets +1 Action.
+J plays a Highway.
+J draws a Highway.
+J gets +1 Action.
+J plays a Highway.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J plays a Silk Merchant.
+J draws a Copper and a Silk Merchant.
+J gets +1 Buy.
+J plays a Gold, a Copper and a Silver. (+$6)
+J buys and gains 2 Highways.
+J plays a Vampire.
+J takes Misery.
+L receives Misery.
+L takes Miserable.
+J discards Misery.
+J gains a Highway.
+J returns a Vampire.
+J receives a Bat.
+J plays a Vampire.
+J takes Fear.
+L receives Fear.
+L discards a Copper.
+J discards Fear.
+J gains a Highway.
+J returns a Vampire.
+J receives a Bat.
+J draws 2 Coppers, a Silver, a Highway and a Vampire.
+
+Turn 14 - Lord Rattington
+L plays 2 Silvers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Highway.
+J draws a Haunted Woods.
+J gets +1 Action.
+J plays a Haunted Woods.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J plays a Vampire.
+J takes Poverty.
+L receives Poverty.
+L discards a card and a Copper.
+J discards Poverty.
+J gains a Silk Merchant.
+J gets +1 Villager.
+J gets +1 Coffers.
+J returns a Vampire.
+J receives a Bat.
+J draws a Copper, 2 Highways, a Champion and a Silk Merchant.
+
+Turn 15 - Lord Rattington
+L plays a Council Room.
+L shuffles their deck.
+L draws 4 cards.
+L gets +1 Buy.
+J shuffles their deck.
+J draws a Highway.
+L plays 3 Coppers and a Silver. (+$5)
+L buys a Council Room.
+L topdecks 2 cards.
+L gains a Council Room.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Gold, a Highway and a Silk Merchant (Haunted Woods).
+J plays a Champion.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Bat.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Highway.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Silk Merchant.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Silver.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Silk Merchant.
+J gets +1 Action.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Highway and a Silk Merchant.
+J gets +1 Buy.
+J plays a Highway.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Copper and a Highway.
+J gets +1 Buy.
+J plays a Highway.
+J gets +1 Action.
+J draws a Highway.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Silver.
+J gets +1 Action.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws 2 Bats.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Copper and a Highway.
+J gets +1 Buy.
+J plays a Silk Merchant.
+J gets +1 Action.
+J draws a Highway.
+J gets +1 Buy.
+J plays a Highway.
+J gets +2 Action.
+J plays a Highway.
+J gets +2 Action.
+J plays a Gold, 4 Coppers and 2 Silvers. (+$11)
+J buys and gains 6 Provinces.
+J shuffles their deck.
+J draws a Province, a Highway, 2 Bats and a Silk Merchant.
+

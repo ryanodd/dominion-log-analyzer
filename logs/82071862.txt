@@ -1,0 +1,734 @@
+Game #82071862, rated.
+GamerGirl-2-: 39.17
+Jazzercise: 45.34
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+G starts with 7 Coppers.
+G starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+G shuffles their deck.
+G draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - GamerGirl-2-
+G plays 5 Coppers. (+$5)
+G buys and gains a Mountebank.
+G draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - GamerGirl-2-
+G plays 2 Coppers. (+$2)
+G buys and gains a Lackeys.
+G gets +2 Villagers.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 3 - GamerGirl-2-
+G plays a Lackeys.
+G draws 2 cards.
+G plays 3 Coppers. (+$3)
+G buys and gains a Silver.
+G draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Ratcatcher.
+J draws 4 Coppers and a Silver.
+
+Turn 4 - GamerGirl-2-
+G plays a Mountebank.
+G gets +$2.
+J gains a Curse.
+J gains a Copper.
+G plays 4 Coppers. (+$4)
+G buys and gains a Gold.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Mountebank.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 5 - GamerGirl-2-
+G plays a Mountebank.
+G gets +$2.
+J gains a Curse.
+J gains a Copper.
+G plays 2 Coppers and a Gold. (+$5)
+G buys and gains a Mountebank.
+G draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Ratcatcher.
+J draws a Curse, 2 Coppers, a Silver and a Ratcatcher.
+
+Turn 6 - GamerGirl-2-
+G plays 4 Coppers. (+$4)
+G buys and gains a Village Green.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Ratcatcher.
+J draws a Mountebank.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Mountebank.
+J gets +$2.
+G gains a Curse.
+G gains a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Mountebank.
+J draws 4 Coppers and an Estate.
+
+Turn 7 - GamerGirl-2-
+G plays a Lackeys.
+G draws 2 cards.
+G uses 1 Villager.
+G plays a Mountebank.
+G gets +$2.
+J gains a Curse.
+J gains a Copper.
+G plays 2 Coppers and a Silver. (+$4)
+G buys and gains a Gold.
+G draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Ratcatcher.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Mountebank and a Ratcatcher.
+
+Turn 8 - GamerGirl-2-
+G plays a Mountebank.
+G gets +$2.
+J gains a Curse.
+J gains a Copper.
+G plays 3 Coppers. (+$3)
+G buys and gains a Village Green.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Ratcatcher.
+J draws an Estate.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Mountebank.
+J gets +$2.
+G gains a Curse.
+G gains a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Replace.
+J draws 2 Coppers, a Silver, an Estate and a Mountebank.
+
+Turn 9 - GamerGirl-2-
+G plays a Village Green.
+G plays 3 Coppers and a Gold. (+$6)
+G buys and gains a Replace.
+G draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes an Estate.
+J plays a Mountebank.
+J gets +$2.
+G gains a Curse.
+G gains a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Storyteller.
+J draws a Curse, 3 Coppers and a Ratcatcher.
+
+Turn 10 - GamerGirl-2-
+G starts their turn.
+G draws a card.
+G gets +2 Actions.
+G plays a Lackeys.
+G draws 2 cards.
+G plays a Mountebank.
+G gets +$2.
+J discards a Curse.
+G plays a Mountebank.
+G gets +$2.
+J gains a Curse.
+J gains a Copper.
+G plays 3 Coppers and a Silver. (+$5)
+G buys and gains a Province.
+G draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays 4 Coppers. (+$4)
+J buys and gains a Village Green.
+J draws 2 Curses, 2 Coppers and a Ratcatcher.
+
+Turn 11 - GamerGirl-2-
+G plays a Village Green.
+G plays a Copper and a Gold. (+$4)
+G buys and gains a Ratcatcher.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Curse.
+J plays a Ratcatcher.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays 3 Coppers. (+$3)
+J buys and gains a Lackeys.
+J gets +2 Villagers.
+J draws a Curse, 3 Coppers and a Storyteller.
+
+Turn 12 - GamerGirl-2-
+G starts their turn.
+G draws a card.
+G gets +2 Actions.
+G plays a Ratcatcher.
+G draws a card.
+G gets +1 Action.
+G puts a Ratcatcher on their Tavern mat.
+G plays a Village Green.
+G draws a card.
+G gets +2 Actions.
+G plays a Lackeys.
+G draws 2 cards.
+G plays a Mountebank.
+G gets +$2.
+J discards a Curse.
+G plays a Mountebank.
+G gets +$2.
+J gains a Curse.
+J gains a Copper.
+G plays 3 Coppers. (+$3)
+G buys and gains a Gold.
+G draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J loses 3 Coins.
+J draws a Copper, a Mountebank and a Ratcatcher.
+J plays a Ratcatcher.
+J draws a Curse.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Mountebank.
+J gets +$2.
+G discards a Curse.
+J plays a Copper. (+$1)
+J buys and gains a Lackeys.
+J gets +2 Villagers.
+J draws 2 Coppers, 2 Silvers and a Replace.
+
+Turn 13 - GamerGirl-2-
+G starts their turn.
+G calls a Ratcatcher.
+G trashes an Estate.
+G plays a Replace.
+G trashes an Estate.
+G gains a Village Green.
+G topdecks a Village Green.
+G draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J plays a Replace.
+J trashes a Copper.
+J gains a Lackeys.
+J gets +2 Villagers.
+J topdecks a Lackeys.
+J plays 2 Silvers. (+$4)
+J buys and gains a Village Green.
+J draws a Curse, a Copper, an Estate, a Lackeys and a Village Green.
+
+Turn 14 - GamerGirl-2-
+G plays a Village Green.
+G draws a card.
+G gets +2 Actions.
+G plays 3 Coppers. (+$3)
+G buys and gains a Ratcatcher.
+G draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Lackeys.
+J draws a Copper and a Mountebank.
+J plays a Mountebank.
+J gets +$2.
+G gains a Curse.
+G gains a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Replace.
+J shuffles their deck.
+J draws a Curse, a Copper, a Replace, a Storyteller and a Village Green.
+
+Turn 15 - GamerGirl-2-
+G plays 2 Coppers, 2 Golds and a Silver. (+$10)
+G buys and gains a Province.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Village Green.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Replace.
+J trashes an Estate.
+J gains a Pawn.
+J topdecks a Pawn.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper. (+$1)
+J loses 2 Coins.
+J draws a Pawn and a Lackeys.
+J plays a Pawn.
+J draws a Replace.
+J gets +1 Action.
+J plays a Lackeys.
+J draws a Curse and a Copper.
+J uses 1 Villager.
+J plays a Replace.
+J trashes a Curse.
+J gains a Pawn.
+J topdecks a Pawn.
+J draws a Curse, 2 Coppers, a Silver and a Pawn.
+
+Turn 16 - GamerGirl-2-
+G plays a Village Green.
+G draws a card.
+G gets +2 Actions.
+G plays a Village Green.
+G draws a card.
+G gets +2 Actions.
+G plays a Lackeys.
+G draws 2 cards.
+G plays a Replace.
+G trashes a Copper.
+G gains a Ratcatcher.
+G topdecks a Ratcatcher.
+G plays 3 Coppers and a Silver. (+$5)
+G buys and gains a Replace.
+G draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Pawn.
+J draws a Copper.
+J gets +1 Buy.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Ratcatcher.
+J buys and gains a Lackeys.
+J gets +2 Villagers.
+J draws 2 Coppers, a Ratcatcher, a Lackeys and a Village Green.
+
+Turn 17 - GamerGirl-2-
+G plays a Ratcatcher.
+G draws a card.
+G gets +1 Action.
+G puts a Ratcatcher on their Tavern mat.
+G plays a Mountebank.
+G gets +$2.
+J gains a Copper.
+G plays 2 Coppers and a Gold. (+$5)
+G buys and gains a Gold.
+G draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Village Green.
+J draws a Ratcatcher.
+J gets +2 Actions.
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Lackeys.
+J draws 2 Mountebanks.
+J plays a Mountebank.
+J gets +$2.
+G discards a Curse.
+J uses 1 Villager.
+J plays a Mountebank.
+J gets +$2.
+G gains a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains a Paddock.
+J draws 2 Curses, a Copper, a Ratcatcher and a Lackeys.
+
+Turn 18 - GamerGirl-2-
+G starts their turn.
+G calls a Ratcatcher.
+G trashes a Copper.
+G plays a Ratcatcher.
+G draws a card.
+G gets +1 Action.
+G puts a Ratcatcher on their Tavern mat.
+G plays 2 Coppers. (+$2)
+G buys and gains a Lackeys.
+G gets +2 Villagers.
+G draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Curse.
+J calls a Ratcatcher.
+J trashes a Curse.
+J plays a Ratcatcher.
+J draws a Silver.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Lackeys.
+J shuffles their deck.
+J draws a Copper and a Lackeys.
+J uses 1 Villager.
+J plays a Lackeys.
+J draws a Silver and a Village Green.
+J uses 1 Villager.
+J plays a Village Green.
+J draws a Mountebank.
+J gets +2 Actions.
+J plays a Mountebank.
+J gets +$2.
+G gains a Copper.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Paddock.
+J draws 3 Coppers, a Pawn and a Lackeys.
+
+Turn 19 - GamerGirl-2-
+G starts their turn.
+G calls a Ratcatcher.
+G trashes a Copper.
+G plays a Ratcatcher.
+G draws a card.
+G gets +1 Action.
+G puts a Ratcatcher on their Tavern mat.
+G plays a Village Green.
+G plays a Gold. (+$3)
+G buys and gains a Silver.
+G draws 5 cards.
+
+Turn 19 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J plays a Pawn.
+J draws a Curse.
+J gets +1 Buy.
+J uses 1 Villager.
+J plays a Lackeys.
+J draws a Curse and a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Pawn.
+J draws a Copper, 2 Replaces, a Lackeys and a Paddock.
+
+Turn 20 - GamerGirl-2-
+G starts their turn.
+G calls a Ratcatcher.
+G trashes a Curse.
+G shuffles their deck.
+G draws a card.
+G gets +2 Actions.
+G plays a Mountebank.
+G gets +$2.
+J gains a Copper.
+G plays 2 Coppers and a Gold. (+$5)
+G buys and gains a Gold.
+G draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J gets +1 Action.
+J plays a Lackeys.
+J draws a Pawn and a Village Green.
+J uses 1 Villager.
+J plays a Village Green.
+J draws a Ratcatcher.
+J gets +2 Actions.
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Replace.
+J trashes a Copper.
+J gains a Lackeys.
+J gets +2 Villagers.
+J topdecks a Lackeys.
+J plays a Replace.
+J trashes a Copper.
+J gains a Lackeys.
+J gets +2 Villagers.
+J topdecks a Lackeys.
+J uses 1 Villager.
+J plays a Pawn.
+J draws a Lackeys.
+J gets +1 Action.
+J plays a Lackeys.
+J draws a Copper and a Lackeys.
+J uses 1 Villager.
+J plays a Lackeys.
+J draws 2 Coppers.
+J plays 3 Coppers. (+$3)
+J buys and gains a Paddock.
+J shuffles their deck.
+J draws a Replace, 2 Mountebanks, a Storyteller and a Horse.
+
+Turn 21 - GamerGirl-2-
+G plays a Lackeys.
+G draws 2 cards.
+G uses 1 Villager.
+G plays a Ratcatcher.
+G draws a card.
+G gets +1 Action.
+G puts a Ratcatcher on their Tavern mat.
+G plays 4 Coppers, a Gold and a Silver. (+$9)
+G buys and gains a Province.
+G draws 5 cards.
+
+Turn 21 - Jazzercise
+J starts their turn.
+J plays a Horse.
+J draws a Copper and a Paddock.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Replace.
+J trashes a Copper.
+J gains a Lackeys.
+J gets +2 Villagers.
+J topdecks a Lackeys.
+J uses 1 Villager.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J gets +1 Action.
+J plays a Storyteller.
+J gets +1 Action.
+J gets +$1.
+J loses 3 Coins.
+J draws a Copper, a Silver and a Lackeys.
+J plays a Lackeys.
+J draws a Ratcatcher and a Village Green.
+J uses 1 Villager.
+J plays a Ratcatcher.
+J draws a Lackeys.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Village Green.
+J draws a Pawn.
+J gets +2 Actions.
+J plays a Pawn.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Lackeys.
+J draws a Copper and a Replace.
+J plays a Mountebank.
+J gets +$2.
+G gains a Copper.
+J uses 1 Villager.
+J plays a Mountebank.
+J gets +$2.
+G gains a Copper.
+J uses 1 Villager.
+J plays a Replace.
+J trashes a Copper.
+J gains a Lackeys.
+J gets +2 Villagers.
+J topdecks a Lackeys.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Pawn.
+J buys and gains a Paddock.
+J draws 2 Ratcatchers, a Lackeys, a Paddock and a Horse.
+
+Turn 22 - GamerGirl-2-
+G starts their turn.
+G plays a Village Green.
+G draws a card.
+G gets +2 Actions.
+G plays a Replace.
+G trashes a Gold.
+G gains a Province.
+G plays a Mountebank.
+G gets +$2.
+J gains a Copper.
+G plays a Silver. (+$2)
+G buys and gains a Village Green.
+G draws 5 cards.
+
+Turn 22 - Jazzercise
+J starts their turn.
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Ratcatcher.
+J draws a Curse.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Horse.
+J draws a Silver and a Lackeys.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J gets +2 Actions.
+J plays a Lackeys.
+J draws a Copper and a Village Green.
+J plays a Lackeys.
+J draws a Copper and a Lackeys.
+J uses 1 Villager.
+J plays a Village Green.
+J draws a Lackeys.
+J gets +2 Actions.
+J plays a Lackeys.
+J draws a Curse and a Copper.
+J plays a Lackeys.
+J draws a Copper and a Paddock.
+J uses 1 Villager.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J gets +2 Actions.
+J plays 5 Coppers and a Silver. (+$7)
+J buys and gains a Province.
+J draws a Copper, 2 Pawns and 2 Lackeys.
+
+Turn 23 - GamerGirl-2-
+G starts their turn.
+G calls a Ratcatcher.
+G trashes a Curse.
+G plays a Replace.
+G trashes a Curse.
+G gains an Estate.
+G draws 5 cards.
+
+Turn 23 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J calls a Ratcatcher.
+J trashes a Lackeys.
+J plays a Pawn.
+J shuffles their deck.
+J draws a Paddock.
+J gets +1 Action.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J gets +2 Actions.
+J plays a Lackeys.
+J draws a Replace and a Village Green.
+J plays a Village Green.
+J draws a Mountebank.
+J gets +2 Actions.
+J plays a Pawn.
+J draws a Copper.
+J gets +$1.
+J plays a Replace.
+J trashes a Copper.
+J gains a Pawn.
+J topdecks a Pawn.
+J uses 1 Villager.
+J plays a Mountebank.
+J gets +$2.
+G gains a Copper.
+J buys and gains a Paddock.
+J draws a Copper, 2 Pawns, a Replace and a Mountebank.
+
+Turn 24 - GamerGirl-2-
+G plays a Ratcatcher.
+G draws a card.
+G gets +1 Action.
+G puts a Ratcatcher on their Tavern mat.
+G plays a Village Green.
+G plays 3 Coppers and a Gold. (+$6)
+G buys and gains a Village Green.
+G shuffles their deck.
+G draws 5 cards.
+
+Turn 24 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J plays a Pawn.
+J draws a Paddock.
+J gets +1 Action.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J gets +2 Actions.
+J plays a Pawn.
+J draws a Horse.
+J gets +$1.
+J plays a Horse.
+J draws a Silver and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Province and a Pawn.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Pawn.
+J draws a Lackeys.
+J gets +1 Action.
+J plays a Lackeys.
+J draws a Curse and a Silver.
+J uses 1 Villager.
+J plays a Replace.
+J trashes a Curse.
+J gains a Pawn.
+J topdecks a Pawn.
+J plays 2 Silvers. (+$4)
+J buys and gains a Gold.
+J draws a Copper, a Pawn, a Storyteller, a Lackeys and a Horse.
+
+Turn 25 - GamerGirl-2-
+G starts their turn.
+G draws a card.
+G gets +2 Actions.
+G calls a Ratcatcher.
+G trashes a Copper.
+

@@ -1,0 +1,579 @@
+Game #82610702, rated.
+Jazzercise: 46.24
+mickyh: 53.11
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+m starts with 7 Coppers.
+m starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Vassal.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - mickyh
+m plays 4 Coppers. (+$4)
+m buys and gains a Talisman.
+m draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Plaza.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - mickyh
+m plays 3 Coppers. (+$3)
+m buys and gains a Trade Route.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Trade Route.
+J draws 3 Coppers, a Vassal and a Plaza.
+
+Turn 3 - mickyh
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes an Estate.
+m plays 3 Coppers. (+$3)
+m buys and gains a Vassal.
+m draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Plaza.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Governor.
+J shuffles their deck.
+J draws 2 Coppers, a Trade Route, a Plaza and a Governor.
+
+Turn 4 - mickyh
+m plays a Talisman and 2 Coppers. (+$3)
+m buys a Hamlet.
+m gains a Hamlet.
+m gains a Hamlet.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Plaza.
+J draws a Copper.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays a Governor.
+J gets +1 Action.
+J draws 2 Coppers and an Estate.
+m draws a card.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Plaza.
+J draws 2 Coppers, 2 Estates and a Vassal.
+
+Turn 5 - mickyh
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m discards an Estate.
+m gets +1 Buy.
+m plays 4 Coppers. (+$4)
+m buys and gains a Trade Route.
+m draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Vassal.
+J gets +$2.
+J shuffles their deck.
+J discards a Copper.
+J plays 2 Coppers. (+$2)
+J uses 1 Coffers. (+$1)
+J buys and gains a Livery.
+J draws 3 Coppers, a Plaza and a Governor.
+
+Turn 6 - mickyh
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Copper.
+m plays a Talisman and 2 Coppers. (+$3)
+m buys a Vassal.
+m gains a Vassal.
+m gains a Vassal.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Plaza.
+J draws a Trade Route.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays a Governor.
+J gets +1 Action.
+J trashes a Copper.
+J gains a Hamlet.
+m trashes an Estate.
+m gains a Vassal.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Copper.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Plaza and a Livery.
+
+Turn 7 - mickyh
+m plays a Vassal.
+m gets +$2.
+m discards a Copper.
+m plays 3 Coppers. (+$3)
+m buys and gains a Governor.
+m draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Plaza.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Livery.
+J gets +$3.
+J uses 1 Coffers. (+$1)
+J plays 3 Coppers. (+$3)
+J buys and gains a Forge.
+J gains a Horse.
+J draws 2 Coppers, a Vassal, a Trade Route and a Governor.
+
+Turn 8 - mickyh
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m discards an Estate.
+m gets +1 Action.
+m plays a Vassal.
+m gets +$2.
+m discards a Copper.
+m plays a Vassal.
+m gets +$2.
+m discards a Hamlet.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Copper.
+m plays a Talisman. (+$1)
+m buys and gains a Governor.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Governor.
+J gets +1 Action.
+J draws an Estate, a Hamlet and a Plaza.
+m draws a card.
+J plays a Plaza.
+J shuffles their deck.
+J draws a Livery.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays a Vassal.
+J gets +$2.
+J discards a Plaza.
+J plays a Plaza.
+J draws an Estate.
+J gets +2 Actions.
+J discards a Copper.
+J gets +1 Coffers.
+J plays a Hamlet.
+J draws a Horse.
+J gets +1 Action.
+J discards an Estate.
+J gets +1 Action.
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes an Estate.
+J plays a Livery.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains 2 Vassals.
+J shuffles their deck.
+J draws a Copper, an Estate, a Vassal, a Forge and a Livery.
+
+Turn 9 - mickyh
+m plays a Governor.
+m gets +1 Action.
+m draws 3 cards.
+J draws a Plaza.
+m plays a Vassal.
+m gets +$2.
+m discards a Copper.
+m plays a Talisman and 3 Coppers. (+$4)
+m buys a Plaza.
+m gains a Plaza.
+m gains a Plaza.
+m draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Plaza.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Copper.
+J plays a Forge.
+J trashes 2 Coppers and an Estate.
+J gains a Hamlet.
+J uses 1 Coffers. (+$1)
+J buys and gains a Vassal.
+J draws a Copper, a Vassal, a Hamlet, a Plaza and a Governor.
+
+Turn 10 - mickyh
+m plays a Governor.
+m gets +1 Action.
+m shuffles their deck.
+m draws 3 cards.
+J draws a Trade Route.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m discards a Copper.
+m gets +1 Action.
+m plays a Vassal.
+m gets +$2.
+m discards a Copper.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m discards a Copper.
+m gets +1 Action.
+m plays a Vassal.
+m gets +$2.
+m discards a Trade Route.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Vassal.
+m plays a Vassal.
+m gets +$2.
+m discards a Plaza.
+m plays a Plaza.
+m draws a card.
+m gets +2 Actions.
+m plays a Talisman and a Copper. (+$2)
+m buys Citadel.
+m draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Plaza.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Vassal.
+J plays a Vassal.
+J gets +$2.
+J shuffles their deck.
+J discards a Vassal.
+J plays a Vassal.
+J gets +$2.
+J discards a Forge.
+J plays a Governor.
+J gets +1 Action.
+J draws a Copper, a Plaza and a Livery.
+m shuffles their deck.
+m draws a card.
+J plays a Hamlet.
+J draws a Vassal.
+J gets +1 Action.
+J plays a Plaza.
+J draws a Hamlet.
+J gets +2 Actions.
+J plays a Hamlet.
+J shuffles their deck.
+J draws a Forge.
+J gets +1 Action.
+J plays a Vassal.
+J gets +$2.
+J plays a Forge.
+J trashes 3 Coppers and a Trade Route.
+J gains a Vassal.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Province, a Vassal, a Plaza, a Governor and a Livery.
+
+Turn 11 - mickyh
+m plays a Governor.
+m gets +1 Action.
+m draws 3 cards.
+J draws a Vassal.
+m plays a Governor again. (Citadel)
+m gets +1 Action.
+m gains a Gold.
+J gains a Silver.
+m plays a Plaza.
+m draws a card.
+m gets +2 Actions.
+m discards a Copper.
+m gets +1 Coffers.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m plays a Vassal.
+m gets +$2.
+m discards a Talisman.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m plays a Vassal.
+m gets +$2.
+m discards a Trade Route.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes an Estate.
+m gets +$1.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Copper.
+m gets +$1.
+m plays 2 Coppers. (+$2)
+m buys and gains a Governor.
+m buys and gains a Vassal.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Plaza.
+J draws a Hamlet.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Forge.
+J plays a Governor.
+J gets +1 Action.
+J draws a Vassal, a Hamlet and a Plaza.
+m draws a card.
+J plays a Plaza.
+J draws a Vassal.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Vassal.
+J plays a Vassal.
+J gets +$2.
+J shuffles their deck.
+J discards a Silver.
+J plays a Hamlet.
+J draws a Forge.
+J gets +1 Action.
+J discards a Province.
+J gets +1 Action.
+J plays a Vassal.
+J gets +$2.
+J shuffles their deck.
+J discards a Silver.
+J plays a Hamlet.
+J draws a Province.
+J gets +1 Action.
+J discards a Province.
+J gets +1 Action.
+J plays a Livery.
+J gets +$3.
+J plays a Forge.
+J trashes a Vassal.
+J gains a Trade Route.
+J buys and gains a Province.
+J gains a Horse.
+J shuffles their deck.
+J draws 3 Vassals, a Hamlet and a Governor.
+
+Turn 12 - mickyh
+m plays a Governor.
+m gets +1 Action.
+m draws 3 cards.
+J draws a Horse.
+m plays a Governor again. (Citadel)
+m gets +1 Action.
+m gains a Gold.
+J gains a Silver.
+m plays a Plaza.
+m draws a card.
+m gets +2 Actions.
+m discards a Copper.
+m gets +1 Coffers.
+m plays a Vassal.
+m gets +$2.
+m discards a Hamlet.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m discards a Copper.
+m gets +1 Action.
+m plays a Governor.
+m gets +1 Action.
+m draws 3 cards.
+J draws a Province.
+m plays a Plaza.
+m draws a card.
+m gets +2 Actions.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m plays a Vassal.
+m gets +$2.
+m discards a Governor.
+m plays a Governor.
+m gets +1 Action.
+m gains a Gold.
+J gains a Silver.
+m plays a Vassal.
+m gets +$2.
+m discards a Copper.
+m plays a Vassal.
+m gets +$2.
+m shuffles their deck.
+m discards a Gold.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Copper.
+m gets +$1.
+m plays a Gold and a Talisman. (+$4)
+m buys and gains a Province.
+m buys and gains a Livery.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Horse.
+J draws a Province and a Forge.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J discards a Province.
+J gets +1 Action.
+J plays a Vassal.
+J gets +$2.
+J discards a Plaza.
+J plays a Plaza.
+J draws a Hamlet.
+J gets +2 Actions.
+J plays a Vassal.
+J gets +$2.
+J discards a Vassal.
+J plays a Vassal.
+J gets +$2.
+J discards a Livery.
+J plays a Livery.
+J gets +$3.
+J plays a Vassal.
+J gets +$2.
+J discards a Trade Route.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Silver.
+J gets +$1.
+J plays a Hamlet.
+J draws a Plaza.
+J gets +1 Action.
+J plays a Governor.
+J gets +1 Action.
+J gains a Gold.
+J gains a Horse.
+m gains a Silver.
+J plays a Plaza.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Forge.
+J trashes a Province.
+J gains a Province.
+J gains a Horse.
+J plays a Silver. (+$2)
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J gains a Horse.
+J buys and gains a Duchy.
+J gains a Horse.
+J shuffles their deck.
+J draws a Silver, a Gold, a Province, a Vassal and a Horse.
+
+Turn 13 - mickyh
+m plays a Governor.
+m gets +1 Action.
+m draws 3 cards.
+J draws a Livery.
+m plays a Governor again. (Citadel)
+m gets +1 Action.
+m draws 3 cards.
+J draws a Hamlet.
+m plays a Plaza.
+m draws a card.
+m gets +2 Actions.
+m discards a Copper.
+m gets +1 Coffers.
+m plays a Vassal.
+m gets +$2.
+m discards a Gold.
+m plays a Vassal.
+m gets +$2.
+m discards a Plaza.
+m plays a Plaza.
+m draws a card.
+m gets +2 Actions.
+m discards a Copper.
+m gets +1 Coffers.
+m plays a Vassal.
+m gets +$2.
+m discards a Trade Route.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Copper.
+m gets +$2.
+m plays a Hamlet.
+m draws a card.
+m gets +1 Action.
+m discards a Province.
+m gets +1 Buy.
+m plays a Governor.
+m gets +1 Action.
+m draws 3 cards.
+J draws a Forge.
+m plays a Vassal.
+m gets +$2.
+m discards a Gold.
+m plays a Governor.
+m gets +1 Action.
+m trashes a Gold.
+m gains a Province.
+J trashes a Hamlet.
+J gains a Guide.
+m plays a Livery.
+m gets +$3.
+m plays a Talisman. (+$1)
+m uses 4 Coffers. (+$4)
+m buys and gains a Province.
+m gains a Horse.
+m buys and gains a Province.
+m gains a Horse.
+m buys and gains an Estate.
+m shuffles their deck.
+m draws 5 cards.
+

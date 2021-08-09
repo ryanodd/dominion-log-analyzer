@@ -1,0 +1,341 @@
+Game #82089411, rated.
+Jazzercise: 44.71
+jamesters: 46.56
+
+Kingdom generated with these relative percentages:
+0%: Possession
+50%: Rats and Transmute
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+j starts with 7 Coppers.
+j starts with 3 Estates.
+J shuffles their deck.
+J draws 5 Coppers.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains an Upgrade.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - jamesters
+j plays 3 Coppers. (+$3)
+j buys and gains a Silver.
+j draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - jamesters
+j plays 4 Coppers. (+$4)
+j buys and gains a Sauna.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Spice Merchant.
+J draws 3 Coppers, an Estate and an Upgrade.
+
+Turn 3 - jamesters
+j plays a Sauna.
+j draws a card.
+j gets +1 Action.
+j plays a Silver. (+$2)
+j trashes a Copper.
+j plays 2 Coppers. (+$2)
+j buys and gains a Bard.
+j draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Upgrade.
+J draws an Estate.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Silver.
+J plays 3 Coppers. (+$3)
+J buys and gains a Warehouse.
+J shuffles their deck.
+J draws a Silver, 2 Estates, an Upgrade and a Spice Merchant.
+
+Turn 4 - jamesters
+j plays 3 Coppers. (+$3)
+j buys and gains a Warehouse.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Silver.
+J plays a Spice Merchant.
+J trashes a Copper.
+J draws 2 Coppers.
+J gets +1 Action.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Sauna.
+J draws 4 Coppers and a Warehouse.
+
+Turn 5 - jamesters
+j plays a Warehouse.
+j draws 3 cards.
+j gets +1 Action.
+j discards 2 other cards and a Copper.
+j plays a Bard.
+j gets +$2.
+j takes The Wind's Gift.
+j receives The Wind's Gift.
+j draws 2 cards.
+j discards a card and a Copper.
+j discards The Wind's Gift.
+j plays 2 Coppers and a Silver. (+$4)
+j buys and gains a Gold.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Warehouse.
+J shuffles their deck.
+J draws a Copper, a Silver and an Upgrade.
+J gets +1 Action.
+J discards 3 Coppers.
+J plays an Upgrade.
+J draws a Sauna.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Sauna.
+J draws a Spice Merchant.
+J gets +1 Action.
+J plays a Spice Merchant.
+J trashes a Copper.
+J draws a Silver and an Estate.
+J gets +1 Action.
+J plays a Silver. (+$2)
+J trashes an Estate.
+J plays a Silver. (+$2)
+J buys and gains an Advisor.
+J shuffles their deck.
+J draws 2 Coppers, an Upgrade, a Warehouse and a Sauna.
+
+Turn 6 - jamesters
+j plays a Sauna.
+j draws a card.
+j gets +1 Action.
+j plays a Warehouse.
+j draws 3 cards.
+j gets +1 Action.
+j discards 2 other cards and a Copper.
+j plays 4 Coppers. (+$4)
+j buys and gains a Sauna.
+j draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sauna.
+J draws a Copper.
+J gets +1 Action.
+J plays an Upgrade.
+J draws a Silver.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Warehouse.
+J draws a Silver, a Spice Merchant and an Advisor.
+J gets +1 Action.
+J discards a Copper and 2 Silvers.
+J plays an Advisor.
+J gets +1 Action.
+J shuffles their deck.
+J reveals 2 Coppers and a Silver.
+J discards a Silver.
+J puts 2 Coppers into their hand.
+J plays a Spice Merchant.
+J trashes a Copper.
+J shuffles their deck.
+J draws 2 Silvers.
+J gets +1 Action.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Warehouse and a Sauna.
+
+Turn 7 - jamesters
+j plays a Bard.
+j gets +$2.
+j takes The Flame's Gift.
+j receives The Flame's Gift.
+j trashes a Copper.
+j discards The Flame's Gift.
+j plays a Gold and a Silver. (+$5)
+j buys and gains a Gold.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Sauna.
+J draws a Spice Merchant.
+J gets +1 Action.
+J plays a Spice Merchant.
+J trashes a Copper.
+J draws a Gold and an Advisor.
+J gets +1 Action.
+J plays an Advisor.
+J gets +1 Action.
+J reveals an Upgrade and a Silver.
+J discards an Upgrade.
+J puts a Silver into their hand.
+J discards a Warehouse.
+J takes 2 VP from Arena.
+J plays a Copper, a Gold and 2 Silvers. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Silvers, an Upgrade, a Warehouse and an Advisor.
+
+Turn 8 - jamesters
+j plays a Sauna.
+j draws a card.
+j gets +1 Action.
+j plays a Copper and 2 Golds. (+$7)
+j buys and gains a Gold.
+j draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Copper, a Province and a Spice Merchant.
+J discards a Spice Merchant.
+J puts a Copper and a Province into their hand.
+J plays a Warehouse.
+J shuffles their deck.
+J draws a Gold, a Spice Merchant and a Sauna.
+J gets +1 Action.
+J discards a Copper, a Province and a Sauna.
+J plays an Upgrade.
+J shuffles their deck.
+J draws a Sauna.
+J gets +1 Action.
+J trashes a Sauna.
+J gains a Treasury.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Province, an Upgrade and an Advisor.
+
+Turn 9 - jamesters
+j plays a Warehouse.
+j draws 3 cards.
+j gets +1 Action.
+j discards 2 other cards and a Copper.
+j plays a Sauna.
+j draws a card.
+j gets +1 Action.
+j plays a Bard.
+j gets +$2.
+j takes The Forest's Gift.
+j receives The Forest's Gift.
+j gets +1 Buy.
+j gets +$1.
+j plays a Silver. (+$2)
+j trashes a Copper.
+j plays a Copper. (+$1)
+j buys and gains a Spice Merchant.
+j buys and gains an Estate.
+j discards The Forest's Gift.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Advisor.
+J gets +1 Action.
+J reveals a Treasury, a Gold and a Spice Merchant.
+J discards a Gold.
+J puts a Treasury and a Spice Merchant into their hand.
+J plays a Treasury.
+J draws a Gold.
+J gets +1 Action.
+J gets +$1.
+J plays a Spice Merchant.
+J trashes a Copper.
+J draws a Silver and a Warehouse.
+J gets +1 Action.
+J discards an Upgrade.
+J takes 2 VP from Arena.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Silvers, a Province, a Warehouse and an Advisor.
+
+Turn 10 - jamesters
+j plays a Spice Merchant.
+j trashes a Copper.
+j draws 2 cards.
+j gets +1 Action.
+j discards a Sauna.
+j takes 2 VP from Arena.
+j plays a Copper and a Gold. (+$4)
+j buys and gains a Spice Merchant.
+j draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Warehouse.
+J draws 2 Golds and a Province.
+J gets +1 Action.
+J discards a Silver, 2 Provinces and an Advisor.
+J takes 2 VP from Arena.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Provinces, an Upgrade, a Treasury and a Spice Merchant.
+
+Turn 11 - jamesters
+j plays a Copper, a Gold and a Silver. (+$6)
+j buys and gains a Gold.
+j draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Treasury.
+J draws a Gold.
+J gets +1 Action.
+J gets +$1.
+J plays an Upgrade.
+J draws a Warehouse.
+J gets +1 Action.
+J trashes a Spice Merchant.
+J gains a Treasury.
+J plays a Warehouse.
+J draws a Silver, a Province and an Advisor.
+J gets +1 Action.
+J discards 3 Provinces and an Advisor.
+J takes 2 VP from Arena.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Treasury.
+J topdecks a Treasury.
+J shuffles their deck.
+J draws a Silver, 2 Golds, a Province and a Treasury.
+
+Turn 12 - jamesters
+j plays a Sauna.
+j shuffles their deck.
+j draws a card.
+j gets +1 Action.
+j plays a Warehouse.
+j draws 3 cards.
+j gets +1 Action.
+j discards 2 other cards and a Gold.
+j plays a Spice Merchant.
+j trashes a Copper.
+j draws 2 cards.
+j gets +1 Action.
+j plays a Bard.
+j gets +$2.
+j takes The Field's Gift.
+j receives The Field's Gift.
+j gets +1 Action.
+j gets +$1.
+j plays a Copper and a Gold. (+$4)
+

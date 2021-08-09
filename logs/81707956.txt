@@ -1,0 +1,393 @@
+Game #81707956, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Vagrant.
+J draws 5 Coppers.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Replace.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Bandit.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Vagrant.
+J draws 3 Coppers, a Replace and a Vagrant.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Rabble.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Vagrant.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J plays a Replace.
+J trashes a Copper.
+J gains a Vagrant.
+J topdecks a Vagrant.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Vagrant.
+
+Turn 5 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals a Copper and an Estate.
+J discards a Copper and an Estate.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Vagrant.
+J draws a Copper.
+J gets +1 Action.
+J reveals an Estate.
+J puts an Estate into their hand.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J draws a Copper, an Estate, a Replace and 2 Vagrants.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Rabble.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Vagrant.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays a Vagrant.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J plays a Vagrant.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J plays a Replace.
+J trashes an Estate.
+J gains a Bounty Hunter.
+J topdecks a Bounty Hunter.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Charm.
+J draws 3 Coppers, an Estate and a Bounty Hunter.
+
+Turn 7 - Lord Rattington
+L plays a Rabble.
+L draws 3 cards.
+J reveals a Copper, a Silver and an Estate.
+J discards a Copper and a Silver.
+J topdecks an Estate.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles an Estate.
+J gets +$3.
+J plays 3 Coppers. (+$3)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Golds, an Estate, a Vagrant and a Bounty Hunter.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Vagrant.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Silver.
+J topdecks a Silver.
+J plays a Vagrant.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles an Estate.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws 2 Coppers, a Replace, a Vagrant and a Charm.
+
+Between Turns
+J takes 13 debt.
+J gets 8 VP from Mountain Pass.
+
+Turn 9 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals 2 Coppers.
+J discards 2 Coppers.
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Vagrant.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J plays a Replace.
+J trashes a Copper.
+J gains a Vagrant.
+J topdecks a Vagrant.
+J plays 2 Coppers. (+$2)
+J plays a Charm.
+J gets +1 Buy.
+J repays 4 debt (9 remaining).
+J shuffles their deck.
+J draws 2 Coppers, a Vagrant, a Charm and a Bounty Hunter.
+
+Turn 10 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Vagrant.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Replace.
+J topdecks a Replace.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Copper.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J repays 5 debt (4 remaining).
+J plays a Charm.
+J gets +1 Buy.
+J repays 2 debt (2 remaining).
+J draws a Copper, 2 Golds, a Replace and a Vagrant.
+
+Turn 11 - Lord Rattington
+L plays a Rabble.
+L draws 3 cards.
+J reveals a Province, a Silver and a Vagrant.
+J discards a Silver and a Vagrant.
+J topdecks a Province.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Vagrant.
+J draws a Province.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J plays a Replace.
+J trashes a Copper.
+J gains a Vagrant.
+J topdecks a Vagrant.
+J plays a Gold. (+$3)
+J repays 2 debt.
+J plays a Gold. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, a Replace and 2 Vagrants.
+
+Turn 12 - Lord Rattington
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Vagrant.
+J draws a Bounty Hunter.
+J gets +1 Action.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays a Vagrant.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays a Vagrant.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+J plays a Vagrant.
+J draws a Gold.
+J gets +1 Action.
+J reveals a Charm.
+J topdecks a Charm.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Province.
+J gets +$3.
+J plays a Replace.
+J trashes a Copper.
+J gains a Vagrant.
+J topdecks a Vagrant.
+J plays a Silver and a Gold. (+$5)
+J buys and gains a Province.
+J draws 2 Coppers, a Gold, a Vagrant and a Charm.
+
+Turn 13 - Lord Rattington
+L plays 2 Coppers and 3 Golds. (+$11)
+L buys a Province.
+L takes 2 VP from Basilica.
+L gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Vagrant.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Silver.
+J topdecks a Silver.
+J plays a Vagrant.
+J draws a Silver.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays 2 Coppers, a Silver and a Gold. (+$7)
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Province.
+J draws a Replace, 3 Vagrants and a Bounty Hunter.
+
+Turn 14 - Lord Rattington
+L plays a Rabble.
+L draws 3 cards.
+J reveals a Province, a Gold and a Vagrant.
+J discards a Gold and a Vagrant.
+J topdecks a Province.
+L plays 2 Coppers and a Silver. (+$4)
+L buys an Estate.
+L takes 2 VP from Basilica.
+L gains an Estate.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Vagrant.
+J draws a Province.
+J gets +1 Action.
+J reveals a Silver.
+J topdecks a Silver.
+J plays a Vagrant.
+J draws a Silver.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays a Vagrant.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays a Vagrant.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Province.
+J puts a Province into their hand.
+J plays a Vagrant.
+J draws a Gold.
+J gets +1 Action.
+J reveals a Gold.
+J topdecks a Gold.
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Province.
+J plays a Silver and a Gold. (+$5)
+J buys and gains a Duchy.
+J draws 2 Coppers, a Gold, a Vagrant and a Charm.
+
+Turn 15 - Lord Rattington
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Vagrant.
+J draws a Silver.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Silver.
+J topdecks a Silver.
+J plays 2 Coppers, a Silver and a Gold. (+$7)
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Province.
+J draws a Silver, a Gold, a Duchy, a Province and a Vagrant.
+
+Turn 16 - Lord Rattington
+L plays a Bandit.
+L gains a Gold.
+J reveals 2 Vagrants.
+J discards 2 Vagrants.
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys a Duchy.
+L takes 2 VP from Basilica.
+L gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Vagrant.
+J draws a Replace.
+J gets +1 Action.
+J reveals a Vagrant.
+J topdecks a Vagrant.
+J plays a Replace.
+J trashes a Province.
+J gains a Province.
+L gains a Curse.
+J plays a Silver and a Gold. (+$5)
+J buys and gains a Duchy.
+J shuffles their deck.
+J draws a Duchy, 3 Vagrants and a Bounty Hunter.
+

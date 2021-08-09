@@ -1,0 +1,486 @@
+Game #82558096, rated.
+Jazzercise: 46.02
+spranklz: 47.43
+
+Kingdom generated with these relative percentages:
+0%: Sauna and Possession
+50%: Minion, Governor, Way of the Camel and Way of the Butterfly
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+s starts with 7 Coppers.
+s starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Transmogrify.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - spranklz
+s plays 4 Coppers. (+$4)
+s buys and gains a Transmogrify.
+s draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Transmogrify.
+
+Turn 2 - spranklz
+s plays 3 Coppers. (+$3)
+s buys and gains a Leprechaun.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Transmogrify.
+J gets +1 Action.
+J puts a Transmogrify on their Tavern mat.
+J plays 3 Coppers. (+$3)
+J buys and gains a Warehouse.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - spranklz
+s plays a Transmogrify.
+s gets +1 Action.
+s puts a Transmogrify on their Tavern mat.
+s plays 2 Coppers. (+$2)
+s buys and gains a Supplies.
+s draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J calls a Transmogrify.
+J trashes an Estate.
+J gains a Silver.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 4 - spranklz
+s starts their turn.
+s calls a Transmogrify.
+s trashes an Estate.
+s gains a Shanty Town.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: 4 Coppers.
+s draws 2 cards.
+s plays a Leprechaun.
+s gains a Gold.
+s takes Fear.
+s receives Fear.
+s discards a Copper.
+s discards Fear.
+s plays 4 Coppers. (+$4)
+s buys and gains a Transmogrify.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Butcher.
+J draws a Copper, a Silver, an Estate, a Warehouse and a Transmogrify.
+
+Turn 5 - spranklz
+s plays a Leprechaun.
+s gains a Gold.
+s takes War.
+s receives War.
+s reveals a Transmogrify.
+s trashes a Transmogrify.
+s discards War.
+s plays 2 Coppers and a Gold. (+$5)
+s buys and gains a Vampire.
+s draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Warehouse.
+J draws 2 Coppers and a Gold.
+J gets +1 Action.
+J discards 2 Coppers and an Estate.
+J plays a Transmogrify.
+J gets +1 Action.
+J puts a Transmogrify on their Tavern mat.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 4 Coppers and a Gold.
+
+Turn 6 - spranklz
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: 2 Coppers, a Supplies and an Estate.
+s draws 2 cards.
+s plays a Transmogrify.
+s gets +1 Action.
+s puts a Transmogrify on their Tavern mat.
+s plays 3 Coppers. (+$3)
+s plays a Supplies.
+s gains a Horse.
+s buys and gains a Transmogrify.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J plays 4 Coppers and a Gold. (+$7)
+J buys and gains a Vampire.
+J draws 2 Coppers, a Silver, an Estate and a Butcher.
+
+Turn 7 - spranklz
+s starts their turn.
+s plays a Horse.
+s draws 2 cards.
+s gets +1 Action.
+s returns a Horse to the Horse pile.
+s plays a Leprechaun.
+s gains a Gold.
+s takes Famine.
+s receives Famine.
+s reveals a Copper and 2 Estates.
+s shuffles their deck.
+s shuffles a Copper and 2 Estates into their deck.
+s discards Famine.
+s plays 4 Coppers. (+$4)
+s plays a Supplies.
+s gains a Horse.
+s buys and gains a Vampire.
+s draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J calls a Transmogrify.
+J trashes an Estate.
+J gains a Warehouse.
+J plays a Warehouse.
+J draws a Silver, a Gold and a Warehouse.
+J gets +1 Action.
+J discards 2 Coppers and a Warehouse.
+J plays a Butcher.
+J gets +2 Coffers.
+J plays a Gold and 2 Silvers. (+$7)
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Province.
+
+Turn 8 - spranklz
+s starts their turn.
+s calls a Transmogrify.
+s trashes an Estate.
+s gains a Shanty Town.
+s plays a Transmogrify.
+s gets +1 Action.
+s puts a Transmogrify on their Tavern mat.
+s plays a Horse.
+s draws 2 cards.
+s gets +1 Action.
+s returns a Horse to the Horse pile.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: 2 Coppers, a Gold and a Vampire.
+s draws 2 cards.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: 3 Coppers, a Gold and a Vampire.
+s draws 2 cards.
+s plays 3 Coppers and 2 Golds. (+$9)
+s buys and gains a Province.
+s plays a Vampire.
+s takes Poverty.
+J receives Poverty.
+J discards an Estate and a Province.
+s discards Poverty.
+s gains a Charm.
+s returns a Vampire.
+s receives a Bat.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Silvers, a Warehouse, a Butcher and a Vampire.
+
+Turn 9 - spranklz
+s starts their turn.
+s calls a Transmogrify.
+s trashes a Leprechaun.
+s gains a Transmogrify.
+s plays a Transmogrify.
+s gets +1 Action.
+s puts a Transmogrify on their Tavern mat.
+s plays a Supplies.
+s gains a Horse.
+s plays a Copper and a Gold. (+$4)
+s buys and gains a Vampire.
+s draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Warehouse.
+J draws 2 Coppers and a Warehouse.
+J gets +1 Action.
+J discards 2 Coppers and a Warehouse.
+J plays a Butcher.
+J gets +2 Coffers.
+J uses 1 Coffers. (+$1)
+J plays 2 Silvers. (+$4)
+J buys and gains a Charm.
+J plays a Vampire.
+J takes Locusts.
+s receives Locusts.
+s trashes a Vampire.
+s gains a Leprechaun.
+J discards Locusts.
+J gains a Charm.
+J returns a Vampire.
+J receives a Bat.
+J draws 2 Coppers, 2 Golds and a Transmogrify.
+
+Turn 10 - spranklz
+s starts their turn.
+s calls a Transmogrify.
+s trashes an Estate.
+s gains a Shanty Town.
+s plays a Horse.
+s draws 2 cards.
+s gets +1 Action.
+s returns a Horse to the Horse pile.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: 3 Coppers, a Gold and a Shanty Town.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: 3 Coppers and a Gold.
+s draws 2 cards.
+s plays a Transmogrify.
+s gets +1 Action.
+s puts a Transmogrify on their Tavern mat.
+s plays a Copper and a Gold. (+$4)
+s buys Fair.
+s plays a Bat.
+s trashes 2 Coppers.
+s returns a Bat.
+s receives a Vampire.
+s draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Transmogrify.
+J gets +1 Action.
+J puts a Transmogrify on their Tavern mat.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Gold, 2 Provinces and a Bat.
+
+Turn 11 - spranklz
+s starts their turn.
+s gets +1 Buy.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: a Copper, a Charm, a Gold and a Province.
+s shuffles their deck.
+s draws 2 cards.
+s plays 2 Coppers and 2 Golds. (+$8)
+s plays a Charm.
+s buys a Vampire.
+s gains a Charm.
+s gains a Vampire.
+s buys and gains a Shanty Town.
+s draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J plays a Gold. (+$3)
+J buys and gains a Warehouse.
+J plays a Bat.
+J trashes a Copper.
+J returns a Bat.
+J receives a Vampire.
+J draws 2 Coppers, 2 Silvers and a Charm.
+
+Turn 12 - spranklz
+s starts their turn.
+s gets +1 Buy.
+s calls a Transmogrify.
+s trashes a Transmogrify.
+s gains a Vampire.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: a Copper, a Gold and 2 Vampires.
+s draws 2 cards.
+s plays 2 Coppers and a Gold. (+$5)
+s buys and gains an Inn.
+s looks at 11 cards.
+s reveals an Inn and 2 Shanty Towns.
+s looks at 11 cards.
+s shuffles their deck.
+s shuffles an Inn and 2 Shanty Towns into their deck.
+s plays a Vampire.
+s takes Haunting.
+J receives Haunting.
+J topdecks a Charm.
+s discards Haunting.
+s gains a Charm.
+s returns a Vampire.
+s receives a Bat.
+s plays a Vampire.
+s takes Plague.
+J receives Plague.
+J gains a Curse.
+s discards Plague.
+s gains a Charm.
+s returns a Vampire.
+s receives a Bat.
+s plays a Vampire.
+s takes Delusion.
+J receives Delusion.
+J takes Deluded.
+s discards Delusion.
+s gains an Inn.
+s looks at 13 cards.
+s reveals an Inn.
+s shuffles their deck.
+s shuffles an Inn into their deck.
+s returns a Vampire.
+s receives a Bat.
+s draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J returns Deluded.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J uses 2 Coffers. (+$2)
+J buys and gains a Province.
+J draws 2 Coppers, a Gold, a Butcher and a Charm.
+
+Turn 13 - spranklz
+s starts their turn.
+s gets +1 Buy.
+s plays a Transmogrify.
+s gets +1 Action.
+s puts a Transmogrify on their Tavern mat.
+s plays an Inn.
+s draws 2 cards.
+s gets +2 Actions.
+s discards a card and an Inn.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: a Copper and a Supplies.
+s draws 2 cards.
+s plays a Leprechaun.
+s gains a Gold.
+s takes Envy.
+s receives Envy.
+s takes Envious.
+s discards Envy.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: a Copper and a Supplies.
+s shuffles their deck.
+s draws 2 cards.
+s returns Envious.
+s plays 2 Coppers and a Gold. (+$3)
+s plays a Supplies.
+s gains a Horse.
+s buys and gains 2 Supplies.
+s draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J plays a Butcher.
+J gets +2 Coffers.
+J plays 2 Coppers and a Gold. (+$5)
+J plays a Charm.
+J gets +1 Buy.
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J draws 2 Coppers, a Silver and 2 Warehouses.
+
+Turn 14 - spranklz
+s starts their turn.
+s gets +1 Buy.
+s calls a Transmogrify.
+s trashes a Transmogrify.
+s gains a Vampire.
+s plays a Horse.
+s draws 2 cards.
+s gets +1 Action.
+s returns a Horse to the Horse pile.
+s plays an Inn.
+s draws 2 cards.
+s gets +2 Actions.
+s discards a card and a Copper.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: 3 Charms and a Vampire.
+s draws 2 cards.
+s plays a Copper and a Gold. (+$4)
+s plays a Charm.
+s gets +1 Buy.
+s plays a Charm.
+s gets +1 Buy.
+s plays a Charm.
+s gets +1 Buy.
+s buys and gains 2 Duchies.
+s plays a Vampire.
+s takes Greed.
+J receives Greed.
+J gains a Copper.
+s discards Greed.
+s gains a Duchy.
+s returns a Vampire.
+s receives a Bat.
+s draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J plays a Warehouse.
+J draws a Copper, an Estate and a Charm.
+J gets +1 Action.
+J discards 2 Coppers and an Estate.
+J plays a Warehouse.
+J shuffles their deck.
+J draws a Curse and 2 Golds.
+J gets +1 Action.
+J discards a Curse, a Copper and a Silver.
+J plays 2 Golds. (+$6)
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Province.
+J draws 4 Coppers and a Province.
+
+Turn 15 - spranklz
+s starts their turn.
+s gets +1 Buy.
+s plays a Shanty Town.
+s gets +2 Actions.
+s reveals their hand: a Gold, 2 Bats and a Province.
+s draws 2 cards.
+s plays 2 Golds. (+$6)
+s plays a Charm.
+s buys a Vampire.
+s gains a Duchy.
+s gains a Vampire.
+s plays a Bat.
+s trashes a Bat.
+s returns a Bat.
+s receives a Vampire.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J calls a Transmogrify.
+J trashes a Province.
+J gains a Province.
+J plays 4 Coppers. (+$4)
+

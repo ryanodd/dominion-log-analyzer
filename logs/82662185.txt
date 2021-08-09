@@ -1,0 +1,453 @@
+Game #82662185, rated.
+tlnorthrup: 41.78
+Jazzercise: 46.09
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t shuffles their deck.
+t draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - tlnorthrup
+t plays 4 Coppers. (+$4)
+t buys and gains a Pirate Ship.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - tlnorthrup
+t plays 3 Coppers. (+$3)
+t buys and gains a Tunnel.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Remodel.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Remodel.
+
+Turn 3 - tlnorthrup
+t plays a Pirate Ship.
+J reveals a Copper and an Estate.
+J trashes a Copper.
+J discards an Estate.
+t plays 3 Coppers. (+$3)
+t buys and gains a Tunnel.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Remodel.
+J trashes an Estate.
+J gains a Village Green.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Remodel.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - tlnorthrup
+t plays 2 Coppers. (+$2)
+t buys and gains a Cellar.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Village Green.
+J shuffles their deck.
+J draws 4 Coppers and a Remodel.
+
+Turn 5 - tlnorthrup
+t plays a Cellar using Way of the Frog.
+t gets +1 Action.
+t plays 4 Coppers. (+$4)
+t buys and gains a Pirate Ship.
+t topdecks a Cellar.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Remodel.
+J trashes a Copper.
+J gains a Cellar.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Estates and a Village Green.
+
+Turn 6 - tlnorthrup
+t plays a Cellar.
+t gets +1 Action.
+t discards a card and an Estate.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t draws 2 cards.
+t plays a Pirate Ship.
+J reveals a Remodel and a Village Green.
+J discards a Remodel and a Village Green.
+J plays a Village Green.
+t plays 2 Coppers. (+$2)
+t buys and gains a Cellar.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Soothsayer.
+J draws a Copper, a Silver, a Cellar and 2 Remodels.
+
+Turn 7 - tlnorthrup
+t plays 2 Coppers. (+$2)
+t buys and gains a Cellar.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Cellar.
+J gets +1 Action.
+J discards a Copper and a Remodel.
+J shuffles their deck.
+J draws 2 Coppers.
+J plays a Remodel.
+J trashes a Copper.
+J gains a Cellar.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Silver.
+J draws a Copper, a Silver, 2 Estates and a Remodel.
+
+Turn 8 - tlnorthrup
+t plays a Pirate Ship.
+J reveals 2 Coppers.
+J trashes a Copper.
+J discards a Copper.
+t plays 3 Coppers. (+$3)
+t buys and gains a Tunnel.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Remodel.
+J trashes an Estate.
+J gains a Village Green.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Remodels, a Soothsayer and 2 Village Greens.
+
+Turn 9 - tlnorthrup
+t plays a Cellar.
+t gets +1 Action.
+t discards 2 other cards and a Copper.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t shuffles their deck.
+t draws 3 cards.
+t plays a Cellar using Way of the Frog.
+t gets +1 Action.
+t plays a Pirate Ship using Way of the Frog.
+t gets +1 Action.
+t plays a Pirate Ship.
+J reveals a Silver and a Village Green.
+J trashes a Silver.
+J discards a Village Green.
+J plays a Village Green.
+t plays a Gold. (+$3)
+t buys and gains a Tunnel.
+t topdecks a Cellar and a Pirate Ship.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Village Green.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Remodel.
+J trashes a Copper.
+J gains a Cellar.
+J plays a Remodel using Way of the Frog.
+J gets +1 Action.
+J plays a Soothsayer.
+J gains a Gold.
+t gains a Curse.
+t draws a card.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Silver.
+J topdecks a Remodel.
+J draws a Copper, 2 Silvers, a Cellar and a Remodel.
+
+Turn 10 - tlnorthrup
+t plays a Cellar.
+t gets +1 Action.
+t discards a card and a Tunnel.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t draws 2 cards.
+t plays a Pirate Ship.
+J reveals a Cellar and an Estate.
+J discards an Estate and a Cellar.
+t plays 4 Coppers. (+$4)
+t buys and gains a Village Green.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Remodel.
+J trashes a Cellar.
+J gains a Village Green.
+J plays 2 Silvers and a Copper. (+$5)
+J buys and gains a Soothsayer.
+J shuffles their deck.
+J draws a Cellar, a Remodel, a Soothsayer and 2 Village Greens.
+
+Turn 11 - tlnorthrup
+t plays a Gold and 2 Coppers. (+$5)
+t buys and gains a Soothsayer.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Remodel.
+J trashes a Cellar.
+J gains a Village Green.
+J plays a Soothsayer.
+J gains a Gold.
+t gains a Curse.
+t draws a card.
+J draws 2 Silvers, a Soothsayer and 2 Village Greens.
+
+Turn 12 - tlnorthrup
+t plays a Cellar.
+t gets +1 Action.
+t discards 3 other cards and a Copper.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t draws 4 cards.
+t plays a Cellar using Way of the Frog.
+t gets +1 Action.
+t plays a Pirate Ship.
+J reveals a Silver and a Remodel.
+J trashes a Silver.
+J discards a Remodel.
+t plays 2 Golds. (+$6)
+t buys and gains a Tunnel.
+t topdecks a Cellar.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Village Green.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Soothsayer.
+J gains a Gold.
+t gains a Curse.
+t draws a card.
+J plays a Gold and 3 Silvers. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Cellar and a Village Green.
+
+Turn 13 - tlnorthrup
+t plays a Cellar.
+t gets +1 Action.
+t discards 4 other cards and a Copper.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t draws 5 cards.
+t plays a Cellar.
+t gets +1 Action.
+t discards a card and a Copper.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t draws 2 cards.
+t plays a Soothsayer using Way of the Frog.
+t gets +1 Action.
+t plays a Pirate Ship.
+J reveals a Copper and a Village Green.
+J trashes a Copper.
+J discards a Village Green.
+J plays a Village Green.
+J draws a Silver.
+J gets +2 Actions.
+t plays a Gold. (+$3)
+t buys and gains a Tunnel.
+t topdecks a Soothsayer.
+J discards a Village Green.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Cellar.
+J gets +1 Action.
+J discards a Copper and an Estate.
+J draws 2 Village Greens.
+J plays a Village Green.
+J draws a Soothsayer.
+J gets +2 Actions.
+J plays a Village Green.
+J plays a Soothsayer.
+J gains a Gold.
+t gains a Curse.
+t shuffles their deck.
+t draws a card.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Gold.
+J draws 2 Golds, a Province, a Remodel and a Soothsayer.
+
+Turn 14 - tlnorthrup
+t plays a Village Green.
+t draws a card.
+t gets +2 Actions.
+t plays a Soothsayer.
+t gains a Gold.
+J gains a Curse.
+J draws a Silver.
+t plays 2 Golds and a Copper. (+$7)
+t buys and gains a Tunnel.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws a Village Green.
+J gets +2 Actions.
+J plays a Village Green.
+J plays a Remodel.
+J trashes a Province.
+J gains a Province.
+J plays a Soothsayer.
+J gains a Gold.
+t gains a Curse.
+t draws a card.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Curse, 2 Golds, a Cellar and a Remodel.
+
+Turn 15 - tlnorthrup
+t plays a Cellar.
+t gets +1 Action.
+t discards 4 other cards and a Copper.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t reacts with a Tunnel.
+t reveals a Tunnel.
+t gains a Gold.
+t draws 5 cards.
+t plays a Cellar.
+t gets +1 Action.
+t discards a card and a Copper.
+t draws 2 cards.
+t plays a Pirate Ship.
+t gets +$5.
+t plays 2 Golds. (+$6)
+t buys and gains a Province.
+t draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Remodel.
+J trashes a Cellar.
+J gains a Village Green.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J draws a Copper, 2 Silvers, a Soothsayer and a Village Green.
+
+Turn 16 - tlnorthrup
+t plays a Gold and 2 Coppers. (+$5)
+t buys and gains a Duchy.
+t draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Village Green.
+J draws a Province.
+J gets +2 Actions.
+J plays a Soothsayer.
+J gains a Gold.
+t gains a Curse.
+t draws a card.
+J plays 2 Silvers and a Copper. (+$5)
+J buys and gains a Duchy.
+J draws a Silver, 2 Golds and 2 Village Greens.
+
+Turn 17 - tlnorthrup
+t plays a Cellar.
+t gets +1 Action.
+t discards a Curse.
+t draws a card.
+t plays a Pirate Ship.
+t gets +$5.
+t plays 2 Golds and a Copper. (+$7)
+t buys and gains a Province.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Village Green.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J draws a Gold, an Estate, a Province, a Soothsayer and a Village Green.
+
+Turn 18 - tlnorthrup
+t plays a Gold and a Copper. (+$4)
+t buys and gains a Tunnel.
+t draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J draws a Remodel.
+J gets +2 Actions.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Remodel.
+J trashes a Gold.
+J gains a Province.
+J plays a Soothsayer.
+J gains a Gold.
+t gains a Curse.
+t draws a card.
+J plays a Gold. (+$3)
+J draws a Copper, a Silver, 2 Provinces and a Village Green.
+

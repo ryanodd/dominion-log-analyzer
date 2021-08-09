@@ -1,0 +1,491 @@
+Game #82676260, rated.
+Jazzercise: 46.52
+jpants: 43.03
+
+Kingdom generated with these relative percentages:
+0%: Possession, Swindler and Sea Hag
+50%: Torturer and Rabble
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+j starts with 7 Coppers.
+j starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - jpants
+j plays 4 Coppers. (+$4)
+j buys and gains a Pirate Ship.
+j draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 2 - jpants
+j plays 3 Coppers. (+$3)
+j buys and gains a Caravan Guard.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - jpants
+j plays 4 Coppers. (+$4)
+j buys and gains a Silver.
+j draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 4 - jpants
+j plays a Caravan Guard.
+j draws a card.
+j gets +1 Action.
+j plays a Pirate Ship.
+J reveals a Copper and a Silver.
+J trashes a Silver.
+J discards a Copper.
+j plays 2 Coppers. (+$2)
+j buys and gains a Pawn.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Witch.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 5 - jpants
+j starts their turn.
+j gets +$1.
+j plays 3 Coppers and a Silver. (+$5)
+j buys and gains a Witch.
+j draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 6 - jpants
+j plays a Pirate Ship.
+J reveals a Copper and a Silver.
+J trashes a Silver.
+J discards a Copper.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Witch.
+J draws 2 Coppers, a Silver, an Estate and a Witch.
+
+Turn 7 - jpants
+j plays a Pawn.
+j gets +1 Action.
+j gets +$1.
+j plays a Witch.
+j draws 2 cards.
+J gains a Curse.
+j plays 3 Coppers. (+$3)
+j buys and gains a Caravan Guard.
+j draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Witch.
+j reacts with a Caravan Guard.
+j plays a Caravan Guard using Way of the Frog.
+j gets +1 Action.
+J draws a Copper and an Estate.
+j gains a Curse.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Witch.
+j discards a Caravan Guard.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Witch.
+
+Turn 8 - jpants
+j plays 4 Coppers. (+$4)
+j buys and gains a Silver.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Witch.
+J draws 2 Coppers.
+j gains a Curse.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Relic.
+J draws a Copper, a Silver, 2 Estates and a Witch.
+
+Turn 9 - jpants
+j plays a Copper and 2 Silvers. (+$5)
+j buys and gains a Trading Post.
+j draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Witch.
+J draws a Copper and a Witch.
+j gains a Curse.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Curse, 2 Coppers and 2 Silvers.
+
+Turn 10 - jpants
+j plays 4 Coppers. (+$4)
+j buys and gains a Pirate Ship.
+j draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Trading Post.
+J draws 2 Coppers, a Silver, an Estate and a Witch.
+
+Turn 11 - jpants
+j plays a Caravan Guard.
+j draws a card.
+j gets +1 Action.
+j plays a Pawn.
+j gets +1 Action.
+j gets +$1.
+j plays a Pirate Ship using Way of the Frog.
+j gets +1 Action.
+j plays a Witch.
+j draws 2 cards.
+J gains a Curse.
+j plays 2 Coppers. (+$2)
+j buys and gains a Caravan Guard.
+j topdecks a Pirate Ship.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Witch.
+J draws a Copper and a Witch.
+j gains a Curse.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Trading Post.
+J draws a Silver, 2 Estates, a Witch and a Relic.
+
+Turn 12 - jpants
+j starts their turn.
+j gets +$1.
+j plays a Pirate Ship.
+J reveals 2 Coppers.
+J trashes a Copper.
+J discards a Copper.
+j plays a Copper. (+$1)
+j draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Witch.
+J shuffles their deck.
+J draws a Curse and a Silver.
+j gains a Curse.
+J plays 2 Silvers. (+$4)
+J plays a Relic. (+$2)
+j moves -Card token to Draw Pile.
+J buys and gains a Gold.
+J draws a Copper, a Silver, an Estate, a Witch and a Trading Post.
+
+Turn 13 - jpants
+j plays a Pawn.
+j skips a draw (because of Relic).
+j moves -Card token to Token Limbo.
+j gets +$1.
+j plays 2 Coppers and a Silver. (+$4)
+j buys and gains a Trading Post.
+j draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Witch.
+j reacts with a Caravan Guard.
+j plays a Caravan Guard.
+j draws a card.
+j gets +1 Action.
+J draws 2 Coppers.
+j gains a Curse.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Relic.
+J draws a Curse, a Copper, a Silver, a Witch and a Trading Post.
+
+Turn 14 - jpants
+j starts their turn.
+j gets +$1.
+j plays a Pirate Ship.
+J reveals 2 Coppers.
+J trashes a Copper.
+J discards a Copper.
+j plays a Copper and a Silver. (+$3)
+j buys a Messenger.
+j gains a Silver.
+J gains a Silver.
+j gains a Messenger.
+j draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Witch.
+j reacts with a Caravan Guard.
+j plays a Caravan Guard.
+j draws a card.
+j gets +1 Action.
+J shuffles their deck.
+J draws a Silver and a Witch.
+j gains a Curse.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Trading Post.
+J draws a Curse, a Copper, 2 Silvers and an Estate.
+
+Turn 15 - jpants
+j starts their turn.
+j gets +$1.
+j plays 3 Coppers. (+$3)
+j buys and gains a Silver.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Relic.
+J draws a Copper, a Gold, an Estate, a Witch and a Relic.
+
+Turn 16 - jpants
+j plays a Caravan Guard.
+j draws a card.
+j gets +1 Action.
+j plays a Pawn.
+j draws a card.
+j gets +$1.
+j plays 2 Coppers and a Silver. (+$4)
+j buys and gains a Trading Post.
+j draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Witch.
+J draws a Trading Post and a Relic.
+j gains a Curse.
+J plays a Copper and a Gold. (+$4)
+J plays a Relic. (+$2)
+j moves -Card token to Draw Pile.
+J plays a Relic. (+$2)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 17 - jpants
+j starts their turn.
+j gets +$1.
+j plays a Pirate Ship using Way of the Frog.
+j gets +1 Action.
+j plays a Trading Post.
+j trashes a Curse and an Estate.
+j gains a Silver.
+j plays a Silver. (+$2)
+j buys and gains a Caravan Guard.
+j topdecks a Pirate Ship.
+j skips a draw (because of Relic).
+j moves -Card token to Token Limbo.
+j draws 4 cards.
+
+Turn 18 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Gold.
+J draws a Silver, an Estate, a Witch, a Trading Post and a Relic.
+
+Turn 18 - jpants
+j plays a Pirate Ship.
+J reveals a Copper and a Relic.
+J trashes a Relic.
+J discards a Copper.
+j plays 2 Coppers. (+$2)
+j buys and gains a Fool's Gold.
+j draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Trading Post.
+J trashes an Estate and a Witch.
+J gains a Silver.
+J plays 2 Silvers. (+$4)
+J plays a Relic. (+$2)
+j moves -Card token to Draw Pile.
+J buys and gains a Gold.
+J draws 2 Silvers, a Gold, an Estate and a Relic.
+
+Turn 19 - jpants
+j plays a Pirate Ship.
+j gets +$5.
+j plays a Copper and a Silver. (+$3)
+j buys and gains a Province.
+j skips a draw (because of Relic).
+j moves -Card token to Token Limbo.
+j draws 4 cards.
+
+Turn 20 - Jazzercise
+J plays 2 Silvers and a Gold. (+$7)
+J plays a Relic. (+$2)
+j reacts with a Caravan Guard.
+j plays a Caravan Guard.
+j draws a card.
+j gets +1 Action.
+j moves -Card token to Draw Pile.
+J buys and gains a Province.
+J draws a Curse, 2 Coppers, a Witch and a Trading Post.
+
+Turn 20 - jpants
+j starts their turn.
+j gets +$1.
+j plays a Witch.
+j skips a draw (because of Relic).
+j moves -Card token to Token Limbo.
+j draws a card.
+j plays a Copper and a Silver. (+$3)
+j buys a Messenger.
+j gains a Silver.
+J gains a Silver.
+j gains a Messenger.
+j draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays a Trading Post.
+J trashes a Curse and a Copper.
+J gains a Silver.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Curse, a Silver, a Province, a Witch and a Trading Post.
+
+Turn 21 - jpants
+j plays a Caravan Guard.
+j shuffles their deck.
+j draws a card.
+j gets +1 Action.
+j plays a Trading Post.
+j trashes a Curse and a Copper.
+j gains a Silver.
+j plays 2 Silvers. (+$4)
+j buys and gains a Fool's Gold.
+j draws 5 cards.
+
+Turn 22 - Jazzercise
+J plays a Trading Post.
+J trashes a Curse and a Witch.
+J gains a Silver.
+J plays 2 Silvers. (+$4)
+J buys and gains a Silver.
+J draws a Silver, a Gold, an Estate, a Trading Post and a Relic.
+
+Turn 22 - jpants
+j starts their turn.
+j gets +$1.
+j plays a Caravan Guard.
+j draws a card.
+j gets +1 Action.
+j plays 2 Coppers and 2 Silvers. (+$6)
+j buys and gains a Gold.
+j draws 5 cards.
+
+Turn 23 - Jazzercise
+J plays a Trading Post.
+J trashes a Silver and an Estate.
+J gains a Silver.
+J plays a Silver and a Gold. (+$5)
+J plays a Relic. (+$2)
+j moves -Card token to Draw Pile.
+J buys and gains a Gold.
+J draws 2 Silvers, a Gold, an Estate and a Province.
+
+Turn 23 - jpants
+j starts their turn.
+j gets +$1.
+j plays a Witch using Way of the Frog.
+j gets +1 Action.
+j plays a Pirate Ship.
+j gets +$5.
+j plays a Silver. (+$2)
+j buys and gains a Province.
+j topdecks a Witch.
+j skips a draw (because of Relic).
+j moves -Card token to Token Limbo.
+j draws 4 cards.
+
+Turn 24 - Jazzercise
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains a Gold.
+J draws 3 Coppers, a Gold and a Relic.
+
+Turn 24 - jpants
+j plays a Pawn.
+j draws a card.
+j gets +1 Action.
+j plays a Messenger using Way of the Frog.
+j gets +1 Action.
+j plays a Trading Post.
+j trashes a Curse and a Witch.
+j gains a Silver.
+j plays a Silver. (+$2)
+j buys and gains a Fool's Gold.
+j topdecks a Messenger.
+j draws 5 cards.
+
+Turn 25 - Jazzercise
+J plays 3 Coppers and a Gold. (+$6)
+J plays a Relic. (+$2)
+j moves -Card token to Draw Pile.
+J buys and gains a Province.
+J draws 4 Silvers and a Trading Post.
+
+Turn 25 - jpants
+j plays a Messenger.
+j gets +1 Buy.
+j gets +$2.
+j moves their deck to the discard.
+j plays a Copper and a Silver. (+$3)
+j buys and gains a Trading Post.
+j skips a draw (because of Relic).
+j moves -Card token to Token Limbo.
+j shuffles their deck.
+j draws 4 cards.
+
+Turn 26 - Jazzercise
+J plays 4 Silvers. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Witch and a Relic.
+
+Turn 26 - jpants
+j plays a Fool's Gold. (+$1)
+j gets +$1.
+j plays a Fool's Gold. (+$4)
+j gets +$4.
+j plays a Copper and a Silver. (+$3)
+j buys and gains a Province.
+j draws 5 cards.
+
+Turn 27 - Jazzercise
+J plays a Witch.
+J draws a Copper and a Province.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J plays a Relic. (+$2)
+j moves -Card token to Draw Pile.
+J buys and gains a Province.
+J draws a Copper, 3 Silvers and a Relic.
+

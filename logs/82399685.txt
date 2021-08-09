@@ -1,0 +1,634 @@
+Game #82399685, rated.
+crktwins: 53.34
+Jazzercise: 46.14
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+c starts with 7 Coppers.
+c starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+c shuffles their deck.
+c draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - crktwins
+c plays 4 Coppers. (+$4)
+c buys and gains an Ironworks.
+c draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Ironworks.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - crktwins
+c plays 3 Coppers. (+$3)
+c buys and gains a Hermit.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Hermit.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Hermit.
+
+Turn 3 - crktwins
+c plays a Hermit.
+c trashes an Estate.
+c gains an Enchantress.
+c plays 2 Coppers. (+$2)
+c trashes a Hermit.
+c gains a Madman.
+c takes 2 VP from Labyrinth.
+c draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Hermit.
+J trashes an Estate.
+J gains a Hermit.
+J trashes a Hermit.
+J gains a Madman.
+J takes 2 VP from Labyrinth.
+J draws 3 Coppers, an Estate and an Ironworks.
+
+Turn 4 - crktwins
+c plays an Ironworks.
+c gains a Sacrifice.
+c gets +1 Action.
+c plays 3 Coppers. (+$3)
+c buys and gains a Hermit.
+c takes 2 VP from Labyrinth.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Ironworks.
+J gains a Sacrifice.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains an Enchantress.
+J takes 2 VP from Labyrinth.
+J shuffles their deck.
+J draws a Copper, 2 Estates, an Ironworks and an Enchantress.
+
+Turn 5 - crktwins
+c plays an Ironworks.
+c gains a Silver.
+c gets +$1.
+c plays 2 Coppers. (+$2)
+c buys and gains a Merchant.
+c takes 2 VP from Labyrinth.
+c draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Ironworks.
+J gains a Throne Room.
+J gets +1 Action.
+J plays an Enchantress.
+J draws 4 Coppers and a Madman.
+
+Turn 6 - crktwins
+c plays a Sacrifice.
+Sacrifice is enchanted by Enchantress
+c draws a card.
+c gets +1 Action.
+c plays a Madman.
+c gets +2 Actions.
+c returns a Madman to the Madman pile.
+c shuffles their deck.
+c draws 4 cards.
+c plays a Hermit.
+c gains a Hermit.
+c plays an Enchantress.
+c plays 6 Coppers. (+$6)
+c buys and gains a Gold.
+c takes 2 VP from Labyrinth.
+c draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws 2 Coppers (Enchantress).
+J plays a Madman.
+Madman is enchanted by Enchantress
+J draws a Hermit.
+J gets +1 Action.
+J plays a Hermit.
+J looks at a Copper, 2 Estates, an Ironworks and a Throne Room.
+J looks at a Copper, 2 Estates, an Ironworks and a Throne Room.
+J trashes an Estate.
+J gains a Merchant.
+J plays 6 Coppers. (+$6)
+J buys and gains a Throne Room.
+J shuffles their deck.
+J draws a Copper, a Throne Room, a Madman, an Enchantress and a Sacrifice.
+
+Turn 7 - crktwins
+c starts their turn.
+c shuffles their deck.
+c draws 2 cards (Enchantress).
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays an Ironworks.
+c gains a Throne Room.
+c gets +1 Action.
+c plays a Hermit.
+c looks at a card.
+c trashes an Estate.
+c gains a Hermit.
+c plays 2 Coppers and a Silver. (+$4)
+c gets +$1.
+c buys and gains a Throne Room.
+c draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Throne Room.
+J plays a Madman.
+J gets +2 Actions.
+J returns a Madman to the Madman pile.
+J draws 2 Coppers and a Merchant.
+J plays a Madman again.
+J gets +2 Actions.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays an Enchantress.
+J plays 3 Coppers. (+$3)
+J buys and gains an Ironworks.
+J draws 3 Coppers, an Ironworks and a Hermit.
+
+Turn 8 - crktwins
+c plays a Sacrifice.
+Sacrifice is enchanted by Enchantress
+c draws a card.
+c gets +1 Action.
+c plays 4 Coppers and a Gold. (+$7)
+c buys and gains a Gold.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J draws an Estate and a Throne Room (Enchantress).
+J plays a Throne Room.
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays an Ironworks again.
+J gains a Throne Room.
+J gets +1 Action.
+J plays a Hermit.
+J looks at a Sacrifice, 3 Coppers, 2 Ironworks, a Merchant and 2 Throne Rooms.
+J trashes an Estate.
+J gains a Merchant.
+J trashes a Hermit.
+J gains a Madman.
+J shuffles their deck.
+J draws 3 Coppers, a Merchant and a Madman.
+
+Turn 9 - crktwins
+c plays a Throne Room.
+c plays a Hermit.
+c gains a Merchant.
+c plays a Hermit again.
+c looks at a card.
+c gains an Enchantress.
+c trashes a Hermit.
+c gains a Madman.
+c draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays a Madman.
+J gets +2 Actions.
+J returns a Madman to the Madman pile.
+J draws a Copper and 3 Ironworks.
+J plays an Ironworks.
+J gains a Merchant.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Throne Room.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Sacrifice.
+J gets +1 Action.
+J plays 5 Coppers. (+$5)
+J buys and gains a Merchant.
+J draws a Merchant, 2 Throne Rooms, an Enchantress and a Sacrifice.
+
+Turn 10 - crktwins
+c plays a Copper, a Gold and a Silver. (+$6)
+c buys and gains a Gold.
+c draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays an Enchantress.
+J plays an Enchantress again.
+J plays a Throne Room.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Sacrifice again.
+J shuffles their deck.
+J draws 3 Merchants, a Throne Room and an Ironworks.
+
+Turn 11 - crktwins
+c plays a Sacrifice.
+Sacrifice is enchanted by Enchantress
+c draws a card.
+c gets +1 Action.
+c plays an Ironworks.
+c gains a Merchant.
+c gets +1 Action.
+c plays an Enchantress.
+c plays 3 Coppers. (+$3)
+c buys and gains a Silver.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J draws 3 Coppers and a Sacrifice (Enchantress).
+J plays a Merchant.
+Merchant is enchanted by Enchantress
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws an Ironworks.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Merchant.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Throne Room.
+J gets +1 Action.
+J plays a Merchant.
+J draws an Ironworks.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Sacrifice again.
+J trashes a Copper.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, 3 Throne Rooms and a Sacrifice.
+
+Turn 12 - crktwins
+c starts their turn.
+c draws 2 cards (Enchantress).
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays an Ironworks.
+c gains a Merchant.
+c gets +1 Action.
+c plays a Hermit.
+c looks at a card.
+c gains a Merchant.
+c plays 2 Coppers and a Silver. (+$4)
+c gets +$1.
+c plays 2 Golds. (+$6)
+c buys and gains a Province.
+c draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J draws a Copper, a Silver, a Merchant, an Ironworks and a Sacrifice.
+
+Turn 13 - crktwins
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays a Throne Room.
+c plays 3 Coppers and a Silver. (+$5)
+c gets +$1.
+c buys and gains a Gold.
+c draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays an Ironworks.
+J gains an Enchantress.
+J gets +1 Action.
+J plays a Sacrifice.
+J trashes a Copper.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J gets +$1.
+J buys and gains a Gold.
+J draws 2 Merchants, a Throne Room and 2 Ironworks.
+
+Turn 14 - crktwins
+c plays a Madman.
+c gets +2 Actions.
+c returns a Madman to the Madman pile.
+c draws 4 cards.
+c plays a Throne Room.
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays a Merchant again.
+c shuffles their deck.
+c draws a card.
+c gets +1 Action.
+c plays a Hermit.
+c gains an Enchantress.
+c plays an Enchantress.
+c plays a Sacrifice.
+c trashes an Estate.
+c gets 2 VP.
+c plays 2 Coppers and a Silver. (+$4)
+c gets +$2.
+c plays a Gold. (+$3)
+c buys and gains a Province.
+c draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Ironworks.
+Ironworks is enchanted by Enchantress
+J draws a Merchant.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws an Enchantress.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays an Enchantress.
+J plays an Enchantress again.
+J plays a Merchant.
+J shuffles their deck.
+J draws a Sacrifice.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Sacrifice.
+J gets +1 Action.
+J plays a Sacrifice.
+J trashes a Sacrifice.
+J draws a Merchant and a Throne Room.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Silver.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays an Ironworks.
+J gains an Enchantress.
+J gets +1 Action.
+J plays an Ironworks again.
+J gains a Sacrifice.
+J gets +1 Action.
+J plays a Silver. (+$2)
+J gets +$8.
+J buys and gains a Province.
+J draws a Copper, a Gold, a Throne Room, an Ironworks and an Enchantress.
+
+Turn 15 - crktwins
+c starts their turn.
+c draws 2 cards (Enchantress).
+c plays an Ironworks.
+Ironworks is enchanted by Enchantress
+c draws a card.
+c gets +1 Action.
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays a Hermit.
+c looks at 10 cards.
+c gains a Silver.
+c plays 4 Coppers and a Gold. (+$7)
+c buys and gains a Gold.
+c draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws 2 Throne Rooms and 2 Sacrifices (Enchantress).
+J plays a Sacrifice.
+J trashes an Ironworks.
+J draws a Merchant and a Throne Room.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Province.
+J gets +1 Action.
+J plays a Merchant again.
+J draws an Ironworks.
+J gets +1 Action.
+J plays a Sacrifice.
+J trashes an Ironworks.
+J draws a Merchant and a Throne Room.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Silver.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant again.
+J draws an Enchantress.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws an Ironworks.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Merchant.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Hermit.
+J gets +1 Action.
+J plays a Merchant.
+J shuffles their deck.
+J draws a Hermit.
+J gets +1 Action.
+J plays a Throne Room.
+J plays an Enchantress.
+J plays an Enchantress again.
+J plays an Enchantress.
+J plays a Hermit.
+J gains an Enchantress.
+J plays a Copper and a Silver. (+$3)
+J gets +$9.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Merchant, a Throne Room, an Ironworks and an Enchantress.
+
+Turn 16 - crktwins
+c plays a Merchant.
+Merchant is enchanted by Enchantress
+c draws a card.
+c gets +1 Action.
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays an Enchantress.
+c plays a Copper and a Silver. (+$3)
+c gets +$1.
+c plays 2 Golds. (+$6)
+c buys and gains a Province.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J draws a Gold, a Province, 2 Merchants, an Enchantress and a Sacrifice (Enchantress).
+J plays an Ironworks.
+Ironworks is enchanted by Enchantress
+J draws a Sacrifice.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Province.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Copper.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Hermit.
+J gets +1 Action.
+J plays a Sacrifice.
+J trashes a Hermit.
+J draws 2 Throne Rooms.
+J gets +2 Actions.
+J plays a Throne Room.
+J plays an Enchantress.
+J plays an Enchantress again.
+J plays a Throne Room.
+J plays an Enchantress.
+J plays an Enchantress again.
+J plays a Copper and a Silver. (+$3)
+J gets +$7.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Provinces, a Merchant and a Throne Room.
+
+Turn 17 - crktwins
+c starts their turn.
+c draws 2 cards (Enchantress).
+c plays a Hermit.
+Hermit is enchanted by Enchantress
+c draws a card.
+c gets +1 Action.
+c plays a Throne Room.
+c plays a Merchant.
+c draws a card.
+c gets +1 Action.
+c plays a Merchant again.
+c draws a card.
+c gets +1 Action.
+c plays 3 Coppers and a Silver. (+$5)
+c gets +$2.
+c plays a Gold. (+$3)
+c buys and gains a Province.
+c draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J draws a Province, 2 Merchants, 2 Throne Rooms, an Ironworks, an Enchantress and a Sacrifice (Enchantress).
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws an Enchantress.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Gold.
+J gets +1 Action.
+J plays a Merchant again.
+J draws a Sacrifice.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Merchant.
+J draws a Silver.
+J gets +1 Action.
+J plays a Merchant again.
+J gets +1 Action.
+J plays a Copper and a Silver. (+$3)
+J gets +$8.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Province, a Merchant and 3 Throne Rooms.
+

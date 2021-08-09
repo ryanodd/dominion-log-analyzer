@@ -1,0 +1,356 @@
+Game #82659985, rated.
+Jazzercise: 46.21
+jmm146: 46.82
+
+
+J starts with a Pouch.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+j starts with a Pouch.
+j starts with 6 Coppers.
+j starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Scrap.
+J draws 3 Coppers, an Estate and a Pouch.
+
+Turn 1 - jmm146
+j plays 2 Coppers. (+$2)
+j plays a Pouch. (+$1)
+j gets +1 Buy.
+j buys and gains a Scrap.
+j draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 2 - jmm146
+j plays 4 Coppers. (+$4)
+j buys and gains a Secret Passage.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, an Estate, a Pouch and a Scrap.
+
+Turn 3 - jmm146
+j plays a Scrap.
+j trashes an Estate.
+j gains a Silver.
+j gains a Horse.
+j plays 2 Coppers. (+$2)
+j plays a Pouch. (+$1)
+j gets +1 Buy.
+j buys and gains a Silver.
+j draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Scrap.
+J trashes an Estate.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys a Mint.
+J trashes 3 Coppers and a Pouch.
+J gains a Mint.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Mint.
+
+Turn 4 - jmm146
+j plays a Secret Passage.
+j draws 2 cards.
+j gets +1 Action.
+j topdecks a card.
+j plays 3 Coppers. (+$3)
+j buys and gains a Gladiator.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Mint using Way of the Mule.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Treasure Map.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and a Scrap.
+
+Turn 5 - jmm146
+j plays 3 Coppers and 2 Silvers. (+$7)
+j buys and gains a Border Village.
+j gains a Cache.
+j gains 2 Coppers.
+j draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Scrap.
+J trashes a Copper.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Treasure Map.
+J draws a Copper, 2 Estates, a Treasure Map and a Mint.
+
+Turn 6 - jmm146
+j plays a Secret Passage.
+j draws 2 cards.
+j gets +1 Action.
+j puts a card on the bottom of their deck.
+j plays a Gladiator.
+j gets +$2.
+j reveals a Pouch.
+j gets +$1.
+j trashes a Gladiator.
+j plays 3 Coppers. (+$3)
+j plays a Pouch. (+$1)
+j gets +1 Buy.
+j buys and gains a Gold.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Treasure Map using Way of the Mule.
+J gets +1 Action.
+J gets +$1.
+J plays a Mint using Way of the Mule.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Mint and a Scrap.
+
+Turn 7 - jmm146
+j plays a Horse.
+j draws 2 cards.
+j gets +1 Action.
+j returns a Horse to the Horse pile.
+j plays a Scrap.
+j trashes an Estate.
+j gets +1 Action.
+j gains a Horse.
+j plays a Gladiator.
+j gets +$2.
+j reveals a Gold.
+j gets +$1.
+j trashes a Gladiator.
+j plays a Copper and a Gold. (+$4)
+j buys and gains a Gold.
+j draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Scrap.
+J trashes an Estate.
+J gets +1 Action.
+J gains a Horse.
+J plays a Mint.
+J reveals a Silver.
+J gains a Silver.
+J plays a Copper and a Silver. (+$3)
+J draws 2 Silvers, an Estate and 2 Treasure Maps.
+
+Turn 8 - jmm146
+j plays 5 Coppers. (+$5)
+j buys a Mint.
+j trashes 5 Coppers.
+j gains a Mint.
+j draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Treasure Map.
+J trashes a Treasure Map.
+J trashes a Treasure Map.
+J gains 4 Golds onto their drawpile.
+J plays 2 Silvers. (+$4)
+J buys and gains a Secret Passage.
+J draws a Copper and 4 Golds.
+
+Turn 9 - jmm146
+j plays 2 Coppers and 2 Silvers. (+$6)
+j plays a Pouch. (+$1)
+j gets +1 Buy.
+j buys and gains a Border Village.
+j gains a Mint.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Copper and 4 Golds. (+$13)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Province and a Mint.
+
+Turn 10 - jmm146
+j plays a Border Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Horse.
+j draws 2 cards.
+j gets +1 Action.
+j returns a Horse to the Horse pile.
+j plays a Secret Passage.
+j draws 2 cards.
+j gets +1 Action.
+j topdecks a card.
+j plays a Gladiator.
+j gets +$2.
+j reveals a Mint.
+J blocks with a Mint.
+j plays a Mint.
+j reveals a Gold.
+j gains a Gold.
+j plays a Copper, a Silver, a Gold and a Cache. (+$9)
+j buys and gains a Province.
+j draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Mint using Way of the Mule.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Gold.
+J draws a Copper, 3 Golds and an Estate.
+
+Turn 11 - jmm146
+j plays a Scrap.
+j trashes an Estate.
+j draws a card.
+j gets +1 Action.
+j plays a Mint using Way of the Mule.
+j gets +1 Action.
+j gets +$1.
+j plays a Copper, a Silver and a Gold. (+$6)
+j buys and gains a Duchy.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Copper and 3 Golds. (+$10)
+J buys and gains a Province.
+J draws 2 Silvers, a Secret Passage, a Scrap and a Horse.
+
+Turn 12 - jmm146
+j plays a Border Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Copper, a Silver and a Cache. (+$6)
+j plays a Pouch. (+$1)
+j gets +1 Buy.
+j buys and gains a Duchy.
+j buys and gains a Haven.
+j draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Horse.
+J shuffles their deck.
+J draws 2 Golds.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Secret Passage.
+J draws a Silver and a Gold.
+J gets +1 Action.
+J topdecks a Gold.
+J plays a Scrap.
+J trashes a Silver.
+J gets +1 Buy.
+J gets +$1.
+J gains a Horse.
+J plays 2 Silvers and 2 Golds. (+$10)
+J buys and gains a Province.
+J buys and gains an Oasis.
+J draws a Copper, a Silver, 2 Golds and a Province.
+
+Turn 13 - jmm146
+j plays a Border Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Mint using Way of the Mule.
+j gets +1 Action.
+j gets +$1.
+j plays a Mint using Way of the Mule.
+j gets +1 Action.
+j gets +$1.
+j plays a Copper, a Silver and a Gold. (+$6)
+j buys and gains a Province.
+j draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Copper, a Silver and 2 Golds. (+$9)
+J buys and gains a Province.
+J draws a Copper, a Gold, an Estate, a Province and a Mint.
+
+Turn 14 - jmm146
+j plays a Scrap using Way of the Mule.
+j gets +1 Action.
+j gets +$1.
+j plays a Gladiator.
+j gets +$2.
+j reveals a Province.
+J blocks with a Province.
+j plays a Copper and a Gold. (+$4)
+j buys and gains a Duchy.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Mint.
+J reveals a Gold.
+J gains a Gold.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Secret Passage.
+J shuffles their deck.
+J draws 2 Golds, an Estate, a Province and a Horse.
+
+Turn 15 - jmm146
+j plays a Secret Passage.
+j draws 2 cards.
+j gets +1 Action.
+j puts a card on the bottom of their deck.
+j plays a Scrap.
+j trashes a Mint.
+j draws a card.
+j gets +1 Action.
+j gets +$1.
+j gains a Silver.
+j gains a Horse.
+j plays a Copper and 2 Golds. (+$7)
+j plays a Pouch. (+$1)
+j gets +1 Buy.
+j buys and gains a Duchy.
+j buys and gains an Estate.
+j draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Horse.
+J draws a Silver and a Scrap.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws a Silver, 2 Golds, a Province and a Secret Passage.
+
+Turn 16 - jmm146
+j plays a Border Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Gladiator.
+j gets +$2.
+j reveals a Duchy.
+j gets +$1.
+j trashes a Gladiator.
+j plays a Copper, a Silver and a Cache. (+$6)
+j buys and gains a Province.
+j draws 5 cards.
+

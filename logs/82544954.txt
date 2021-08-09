@@ -1,0 +1,473 @@
+Game #82544954, rated.
+saintidoru: 47.23
+Jazzercise: 46.6
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+s starts with a Cursed Gold.
+s starts with 6 Coppers.
+s starts with 3 Estates.
+J starts with a Cursed Gold.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+s shuffles their deck.
+s draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and a Cursed Gold.
+
+Turn 1 - saintidoru
+s plays 4 Coppers. (+$4)
+s buys and gains a Priest.
+s draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys a Cobbler.
+J takes 2 VP from Basilica.
+J gains a Cobbler.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - saintidoru
+s plays 2 Coppers. (+$2)
+s plays a Cursed Gold. (+$3)
+s gains a Curse.
+s buys and gains a City.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Page.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Cobbler.
+
+Turn 3 - saintidoru
+s plays a Priest.
+s gets +$2.
+s trashes an Estate.
+s plays 3 Coppers. (+$3)
+s buys a Masquerade.
+s takes 2 VP from Basilica.
+s gains a Masquerade.
+s draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Masquerade.
+J plays a Cobbler.
+J draws 3 Coppers, an Estate and a Page.
+
+Turn 4 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays 2 Coppers. (+$2)
+s buys and gains a Page.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J gains a Masquerade.
+J plays a Page.
+J draws a Curse.
+J gets +1 Action.
+J plays a Masquerade.
+J draws an Estate and a Cursed Gold.
+J passes a Curse to s.
+s passes an Estate to J.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys and gains a City.
+J returns a Page.
+J receives a Treasure Hunter.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Masquerades.
+
+Turn 5 - saintidoru
+s plays a Masquerade.
+s draws 2 cards.
+s passes a Curse to J.
+J passes an Estate to s.
+s trashes an Estate.
+s plays 2 Coppers. (+$2)
+s plays a Cursed Gold. (+$3)
+s gains a Curse.
+s buys and gains a City.
+s draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Masquerade.
+J draws a Copper and an Estate.
+J passes a Curse to s.
+s passes a Curse to J.
+J trashes a Curse.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws a Curse, 2 Coppers, an Estate and a Treasure Hunter.
+
+Turn 6 - saintidoru
+s plays a Priest.
+s gets +$2.
+s trashes a Curse.
+s plays 3 Coppers. (+$3)
+s buys and gains a City.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Treasure Hunter.
+J gets +1 Action.
+J gets +$1.
+J gains a Silver.
+J plays 2 Coppers. (+$2)
+J buys and gains a Page.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J shuffles their deck.
+J draws 2 Coppers, a City, a Cobbler and a Cursed Gold.
+
+Turn 7 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Page.
+s draws a card.
+s gets +1 Action.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Masquerade.
+s draws 2 cards.
+s passes a Curse to J.
+J passes a Copper to s.
+s trashes an Estate.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Priest.
+s gets +$2.
+s trashes a Copper.
+s plays 3 Coppers. (+$3)
+s buys and gains a City.
+s returns a Page.
+s receives a Treasure Hunter.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a City.
+J draws a Warrior.
+J gets +2 Actions.
+J plays a Warrior.
+J draws a Copper and a Masquerade.
+s discards a City.
+J plays a Masquerade.
+J draws a Copper and a Masquerade.
+J passes a Curse to s.
+s passes a Copper to J.
+J trashes a Copper.
+J plays 3 Coppers. (+$3)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys and gains a Cobbler.
+J plays a Cobbler.
+J returns a Warrior.
+J receives a Hero.
+J draws 2 Coppers, a Silver, an Estate and a Page.
+
+Turn 8 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays 3 Coppers. (+$3)
+s plays a Cursed Gold. (+$3)
+s gains a Curse.
+s buys a Priest.
+s takes 2 VP from Basilica.
+s gains a Priest.
+s draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J gains a Priest.
+J plays a Page.
+J draws an Estate.
+J gets +1 Action.
+J plays a Priest.
+J gets +$2.
+J trashes an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Pooka.
+J returns a Page.
+J receives a Treasure Hunter.
+J shuffles their deck.
+J draws a Curse, a Copper, a Silver, a Cobbler and a Cursed Gold.
+
+Turn 9 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Treasure Hunter.
+s gets +1 Action.
+s gets +$1.
+s gains 2 Silvers.
+s plays a Masquerade.
+s shuffles their deck.
+s draws 2 cards.
+s passes a Curse to J.
+J passes a Curse to s.
+s trashes a Curse.
+s plays a Priest.
+s gets +$2.
+s trashes a Copper.
+s plays a Priest.
+s gets +$2.
+s trashes a Copper.
+s gets +$2.
+s buys and gains a Gold.
+s returns a Treasure Hunter.
+s receives a Warrior.
+s draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Copper and a Silver. (+$3)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys and gains a Charm.
+J plays a Cobbler.
+J draws a Copper, an Estate, 2 Masquerades and a Pooka.
+
+Turn 10 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays 2 Coppers and 2 Silvers. (+$6)
+s plays a Cursed Gold. (+$3)
+s gains a Curse.
+s buys a City.
+s takes 2 VP from Basilica.
+s gains a City.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gains a Procession.
+J plays a Procession.
+J plays a Masquerade.
+J draws a City and a Hero.
+J passes an Estate to s.
+s passes a Curse to J.
+J trashes a Curse.
+J plays a Masquerade again.
+J draws a Copper and a Treasure Hunter.
+J passes a Copper to s.
+s passes an Estate to J.
+J trashes an Estate.
+J trashes a Masquerade.
+J gains a Priest.
+J draws a Curse, 2 Coppers, a Silver and a Priest.
+
+Turn 11 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Priest.
+s gets +$2.
+s trashes a Copper.
+s plays 2 Coppers and a Silver. (+$4)
+s buys and gains a City.
+s draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Priest.
+J gets +$2.
+J trashes a Curse.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Charm.
+J shuffles their deck.
+J draws a Copper, a Silver, a Hero, a Cobbler and a Priest.
+
+Turn 12 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Warrior.
+s draws 2 cards.
+J discards a Copper.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Priest.
+s gets +$2.
+s trashes a Copper.
+s plays a Masquerade.
+s shuffles their deck.
+s draws 2 cards.
+s passes a Curse to J.
+J passes a Copper to s.
+s trashes a Copper.
+s gets +$2.
+s plays a Priest.
+s gets +$2.
+s trashes a Silver.
+s gets +$2.
+s plays a Gold. (+$3)
+s buys a Province.
+s takes 2 VP from Basilica.
+s gains a Province.
+s returns a Warrior.
+s receives a Hero.
+s draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Hero.
+J gets +$2.
+J gains a Gold.
+J plays a Silver. (+$2)
+J buys a Page.
+J takes 2 VP from Basilica.
+J gains a Page.
+J plays a Cobbler.
+J returns a Hero.
+J receives a Champion.
+J draws a Silver, a City, a Charm, a Pooka and a Cursed Gold.
+
+Turn 13 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s shuffles their deck.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Priest.
+s gets +$2.
+s trashes a Copper.
+s plays a Copper and a Silver. (+$3)
+s buys and gains a City.
+s draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gains a Page.
+J plays a Page.
+J draws a Curse.
+J gets +1 Action.
+J plays a City.
+J draws a Masquerade.
+J gets +2 Actions.
+J plays a Pooka.
+J trashes a Silver.
+J draws a Curse, a Copper, a Cobbler and a Priest.
+J plays a Masquerade.
+J draws a Copper and a Treasure Hunter.
+J passes a Curse to s.
+s passes a Priest to J.
+J trashes a Curse.
+J plays 2 Coppers. (+$2)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Masquerade.
+J buys and gains a Faithful Hound.
+J plays a Cobbler.
+J returns a Page.
+J receives a Treasure Hunter.
+J shuffles their deck.
+J draws a Procession, 2 Charms, a Pooka and a Priest.
+
+Turn 14 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Masquerade.
+s shuffles their deck.
+s draws 2 cards.
+s passes a Curse to J.
+J passes a Procession to s.
+s trashes a Procession.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s plays a Hero.
+s gets +$2.
+s gains a Charm.
+s plays a Copper and a Gold. (+$4)
+s plays a Cursed Gold. (+$3)
+s gains a Curse.
+s buys and gains a Province.
+s returns a Hero.
+s receives a Champion.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gains a Page.
+J plays a Page.
+J draws a Masquerade.
+J gets +1 Action.
+J plays a Priest.
+J gets +$2.
+J trashes a Curse.
+J plays a Charm.
+J gets +1 Buy.
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Pooka.
+J draws a Curse, a Treasure Hunter, a Faithful Hound, a Cursed Gold and a Priest.
+
+Turn 15 - saintidoru
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s draws a card.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s draws a card.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s draws a card.
+s plays a City.
+s draws a card.
+s gets +2 Actions.
+s draws a card.
+

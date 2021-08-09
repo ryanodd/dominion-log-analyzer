@@ -1,0 +1,527 @@
+Game #82098618, rated.
+Jazzercise: 44.84
+msaad: 46.25
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+m starts with 7 Coppers.
+m starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Ambassador.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - msaad
+m plays 3 Coppers. (+$3)
+m buys and gains an Ambassador.
+m draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Ambassador.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - msaad
+m plays 4 Coppers. (+$4)
+m buys and gains a Magpie.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Hermit.
+J draws 2 Coppers, an Estate and 2 Ambassadors.
+
+Turn 3 - msaad
+m plays 3 Coppers. (+$3)
+m buys and gains a Silver.
+m draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Ambassador.
+J reveals an Estate.
+J returns an Estate to the Estate pile.
+m gains an Estate.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 4 - msaad
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals an Estate.
+m puts an Estate back onto their deck.
+m gains a Magpie.
+m plays an Ambassador.
+m reveals a Copper.
+J gains a Copper.
+m plays 4 Coppers. (+$4)
+m buys and gains a Tournament.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Magpie.
+J draws a Copper, 2 Estates, an Ambassador and a Hermit.
+
+Turn 5 - msaad
+m plays an Ambassador.
+m reveals an Estate.
+m returns 2 Estates to the Estate pile.
+J gains an Estate.
+m draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Ambassador.
+J reveals an Estate.
+J returns 2 Estates to the Estate pile.
+m gains an Estate.
+J shuffles their deck.
+J draws 2 Coppers, 2 Ambassadors and a Hermit.
+
+Turn 6 - msaad
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper.
+m puts a Copper into their hand.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Tournament.
+m puts a Tournament back onto their deck.
+m gains a Magpie.
+m plays 5 Coppers. (+$5)
+m buys and gains a Market.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+m gains a Copper.
+J draws 4 Coppers and an Estate.
+
+Turn 7 - msaad
+m plays a Tournament.
+m gets +1 Action.
+m draws a card.
+m gets +$1.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Market.
+m puts a Market back onto their deck.
+m gains a Magpie.
+m plays 3 Coppers and a Silver. (+$5)
+m buys and gains a Gold.
+m draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Magpie.
+
+Turn 8 - msaad
+m plays a Market.
+m draws a card.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$1.
+m plays 3 Coppers. (+$3)
+m buys and gains a Tournament.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Magpie.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Hermit.
+J puts a Hermit back onto their deck.
+J gains a Magpie.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Market.
+J draws 2 Coppers, 2 Ambassadors and a Hermit.
+
+Turn 9 - msaad
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper.
+m puts a Copper into their hand.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper.
+m puts a Copper into their hand.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals an Estate.
+m puts an Estate back onto their deck.
+m gains a Magpie.
+m plays a Tournament.
+m gets +1 Action.
+m draws a card.
+m gets +$1.
+m plays an Ambassador.
+m reveals an Estate.
+m returns an Estate to the Estate pile.
+J gains an Estate.
+m plays 4 Coppers and a Silver. (+$6)
+m buys and gains a Gold.
+m draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Hermit.
+J looks at 2 Magpies, 2 Estates, 3 Coppers, a Silver and a Market.
+J looks at 2 Magpies, 2 Estates, 3 Coppers, a Silver and a Market.
+J trashes an Estate.
+J gains a Hermit.
+J trashes a Hermit.
+J gains a Madman.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Ambassador and a Magpie.
+
+Turn 10 - msaad
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Market.
+m puts a Market back onto their deck.
+m gains a Magpie.
+m plays 3 Coppers and a Gold. (+$6)
+m buys and gains a Tournament.
+m shuffles their deck.
+m draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Magpie.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Market.
+J puts a Market back onto their deck.
+J gains a Magpie.
+J plays an Ambassador.
+J reveals a Copper.
+J returns a Copper to the Copper pile.
+m gains a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Tournament.
+J draws 2 Coppers, an Estate, a Market and a Magpie.
+
+Turn 11 - msaad
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper.
+m puts a Copper into their hand.
+m plays a Market.
+m draws a card.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$1.
+m plays a Tournament.
+m gets +1 Action.
+m draws a card.
+m gets +$1.
+m plays 5 Coppers. (+$5)
+m buys and gains a Tournament.
+m buys and gains a Silver.
+m draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Magpie.
+J draws a Hermit.
+J gets +1 Action.
+J reveals a Madman.
+J puts a Madman back onto their deck.
+J gains a Magpie.
+J plays a Market.
+J draws a Madman.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$1.
+J plays a Madman.
+J gets +2 Actions.
+J returns a Madman to the Madman pile.
+J shuffles their deck.
+J draws a Copper, an Ambassador and 2 Magpies.
+J plays a Magpie.
+J draws a Magpie.
+J gets +1 Action.
+J reveals a Silver.
+J puts a Silver into their hand.
+J plays a Magpie.
+J draws an Ambassador.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Magpie.
+J draws a Tournament.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Tournament.
+J gets +1 Action.
+J gets +$1.
+J plays an Ambassador.
+J reveals a Copper.
+J returns a Copper to the Copper pile.
+m gains a Copper.
+J plays a Hermit.
+J trashes an Estate.
+J gains a Silver.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Silver, an Ambassador and 2 Magpies.
+
+Turn 12 - msaad
+m plays a Tournament.
+m gets +1 Action.
+m draws a card.
+m gets +$1.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper.
+m puts a Copper into their hand.
+m plays a Tournament.
+m gets +1 Action.
+m draws a card.
+m gets +$1.
+m plays 2 Coppers, a Silver and 2 Golds. (+$10)
+m buys and gains a Province.
+m draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Magpie.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Magpie.
+J puts a Magpie back onto their deck.
+J plays a Magpie.
+J draws a Magpie.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Magpie.
+J draws a Hermit.
+J gets +1 Action.
+J reveals a Tournament.
+J puts a Tournament back onto their deck.
+J plays an Ambassador.
+J reveals a Copper.
+J returns a Copper to the Copper pile.
+m gains a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Tournament.
+J draws a Copper, a Silver, a Province, an Ambassador and a Tournament.
+
+Turn 13 - msaad
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m shuffles their deck.
+m reveals a Gold.
+m puts a Gold into their hand.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper.
+m puts a Copper into their hand.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Copper.
+m puts a Copper into their hand.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Tournament.
+m puts a Tournament back onto their deck.
+m plays a Tournament.
+m gets +1 Action.
+J reveals a Province.
+m plays an Ambassador.
+m reveals an Estate.
+m returns an Estate to the Estate pile.
+J gains an Estate.
+m plays 4 Coppers and a Gold. (+$7)
+m buys and gains a Tournament.
+m draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Trusty Steed.
+J draws a Trusty Steed.
+J gets +$1.
+J plays a Trusty Steed.
+J draws a Market and a Magpie.
+J gets +2 Actions.
+J plays a Magpie.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Market.
+J draws a Magpie.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$1.
+J plays a Magpie.
+J draws an Estate.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays an Ambassador.
+J reveals an Estate.
+J returns an Estate to the Estate pile.
+m gains an Estate.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Market.
+J buys and gains a Tournament.
+J draws a Province, an Ambassador, a Tournament, a Hermit and a Magpie.
+
+Turn 14 - msaad
+m plays a Tournament.
+m gets +1 Action.
+J reveals a Province.
+m plays 4 Coppers. (+$4)
+m buys and gains a Tournament.
+m draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Magpie.
+J draws a Magpie.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Magpie.
+J puts a Magpie back onto their deck.
+J plays a Magpie.
+J draws a Magpie.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Magpie.
+J draws a Trusty Steed.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Trusty Steed.
+J draws a Copper and a Tournament.
+J gets +2 Actions.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+m reveals a Province.
+J gains a Princess.
+J plays a Tournament.
+J gets +1 Action.
+m reveals a Province.
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+m gains a Copper.
+J plays a Hermit.
+J looks at a Province.
+J gains a Hermit.
+J trashes a Hermit.
+J gains a Madman.
+J draws a Silver, a Market, an Ambassador, a Princess and a Tournament.
+
+Turn 15 - msaad
+m plays a Market.
+m draws a card.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$1.
+m plays a Magpie.
+m draws a card.
+m gets +1 Action.
+m reveals a Tournament.
+m puts a Tournament back onto their deck.
+m plays a Copper, a Silver and a Gold. (+$6)
+m buys and gains a Tournament.
+m buys and gains a Hermit.
+m draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Magpie.
+J gets +$1.
+J plays a Magpie.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Market.
+J puts a Market back onto their deck.
+J plays a Market.
+J draws a Market.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$1.
+J plays a Market.
+J shuffles their deck.
+J draws a Magpie.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$1.
+J plays a Magpie.
+J draws a Madman.
+J gets +1 Action.
+J reveals a Hermit.
+J puts a Hermit back onto their deck.
+J plays a Madman.
+J gets +2 Actions.
+J returns a Madman to the Madman pile.
+J draws a Tournament, a Hermit and 2 Magpies.
+J plays a Magpie.
+J draws a Province.
+J gets +1 Action.
+J reveals a Tournament.
+J puts a Tournament back onto their deck.
+J plays a Magpie.
+J draws a Tournament.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Bag of Gold.
+J draws a Bag of Gold.
+J gets +$1.
+J plays a Bag of Gold.
+J gets +1 Action.
+J gains a Gold.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Gold.
+J gets +$1.
+J plays a Princess.
+J gets +1 Buy.
+J plays an Ambassador.
+J reveals a Copper.
+J returns a Copper to the Copper pile.
+m gains a Copper.
+J plays 2 Silvers and a Gold. (+$7)
+

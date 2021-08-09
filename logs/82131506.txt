@@ -1,0 +1,322 @@
+Game #82131506, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Courtier.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Lurker.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Courtier.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Courtier.
+J reveals an Estate.
+J gains a Gold.
+J plays 2 Coppers. (+$2)
+J buys and gains a Courtyard.
+J draws 3 Coppers, an Estate and a Lurker.
+
+Turn 4 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Lurker.
+J gets +1 Action.
+J trashes a Diplomat.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Lurker.
+
+Turn 5 - Lord Rattington
+L plays a Silver and 4 Coppers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Lurker.
+J gets +1 Action.
+J gains a Diplomat.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Duke.
+J draws 2 Coppers and 3 Estates.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Courtyard.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 2 Coppers. (+$2)
+J draws 2 Coppers, a Gold, a Courtyard and a Courtier.
+
+Turn 7 - Lord Rattington
+L plays 3 Silvers and a Copper. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Courtier.
+J reveals a Courtyard.
+J gets +$3.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Harem.
+J shuffles their deck.
+J draws a Copper, an Estate, a Courtyard, a Diplomat and a Harem.
+
+Turn 8 - Lord Rattington
+L plays a Courtyard.
+L draws 3 cards.
+L topdecks a card.
+L plays a Silver and 4 Coppers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Diplomat.
+J draws a Copper and an Estate.
+J plays a Harem and 2 Coppers. (+$4)
+J buys and gains an Ironworks.
+J draws 2 Coppers, an Estate, a Duke and a Lurker.
+
+Turn 9 - Lord Rattington
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Lurker.
+J gets +1 Action.
+J trashes an Ironworks.
+J draws 3 Coppers, a Silver and a Courtier.
+
+Turn 10 - Lord Rattington
+L plays a Silver, a Copper and 2 Golds. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Courtier.
+J reveals a Copper.
+J gains a Gold.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains an Ironworks.
+J shuffles their deck.
+J draws 2 Coppers, a Gold, an Estate and a Harem.
+
+Turn 11 - Lord Rattington
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Harem, 2 Coppers and a Gold. (+$7)
+J buys and gains a Harem.
+J draws 2 Estates, a Duke and 2 Ironworks.
+
+Turn 12 - Lord Rattington
+L plays a Courtyard.
+L draws 3 cards.
+L topdecks a card.
+L plays 2 Silvers, 2 Coppers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Silver.
+J gets +$1.
+J draws 3 Coppers, a Silver and a Diplomat.
+
+Turn 13 - Lord Rattington
+L plays a Silver, a Copper and 2 Golds. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Diplomat.
+J draws a Gold and a Courtyard.
+J plays a Silver, 3 Coppers and a Gold. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 3 Coppers, a Courtier and a Lurker.
+
+Turn 14 - Lord Rattington
+L plays 2 Coppers and 2 Golds. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Courtier.
+J reveals a Lurker.
+J gets +$3.
+J plays 3 Coppers. (+$3)
+J buys and gains a Baron.
+J draws 2 Coppers, a Province, a Duke and a Harem.
+
+Turn 15 - Lord Rattington
+L plays 2 Silvers and 2 Coppers. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Harem and 2 Coppers. (+$4)
+J buys and gains a Conspirator.
+J draws a Gold, an Estate, a Courtyard, a Diplomat and a Harem.
+
+Turn 16 - Lord Rattington
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Diplomat.
+J draws a Silver and an Estate.
+J plays a Harem, a Silver and a Gold. (+$7)
+J buys and gains a Bridge.
+J draws a Copper, a Silver, an Estate and 2 Ironworks.
+
+Turn 17 - Lord Rattington
+L plays 2 Silvers, a Copper and 2 Golds. (+$11)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Bridge.
+J gets +1 Action.
+J plays a Silver and a Copper. (+$3)
+J shuffles their deck.
+J draws 2 Coppers, a Gold, an Estate and an Ironworks.
+
+Turn 18 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L buys and gains an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays an Ironworks.
+J gains a Baron.
+J gets +1 Action.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Conspirator.
+J draws 2 Coppers, a Conspirator, a Courtier and a Diplomat.
+
+Turn 19 - Lord Rattington
+L plays a Courtyard.
+L draws 3 cards.
+L topdecks a card.
+L plays 2 Silvers and 2 Golds. (+$10)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Courtier.
+J reveals a Diplomat.
+J gets +$3.
+J gains a Gold.
+J plays 2 Coppers. (+$2)
+J buys and gains a Baron.
+J draws a Copper, a Silver, 2 Bridges and a Lurker.
+
+Turn 20 - Lord Rattington
+L plays a Silver, a Copper and a Gold. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Baron.
+J draws a Silver, a Province, a Courtyard, a Duke and an Ironworks.
+
+Turn 21 - Lord Rattington
+L plays a Copper and 2 Golds. (+$7)
+L buys and gains a Duke.
+L draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays an Ironworks.
+J gains a Bridge.
+J gets +1 Action.
+J plays a Courtyard.
+J draws a Copper, an Estate and an Ironworks.
+J topdecks an Ironworks.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Silver.
+J draws a Gold, an Estate, a Baron and 2 Ironworks.
+
+Turn 22 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L buys and gains a Duke.
+L draws 5 cards.
+
+Turn 22 - Jazzercise
+J plays a Baron.
+J gets +1 Buy.
+J discards an Estate.
+J gets +$4.
+J plays a Gold. (+$3)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Bridge and 2 Harems.
+
+Turn 23 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L buys and gains an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 23 - Jazzercise
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Harems, a Silver and a Copper. (+$7)
+J buys and gains a Province.
+J draws 2 Silvers, 2 Golds and a Baron.
+

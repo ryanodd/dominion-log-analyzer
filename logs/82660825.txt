@@ -1,0 +1,696 @@
+Game #82660825, rated.
+ddddddd: 45.43
+Jazzercise: 46.23
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+d starts with 7 Coppers.
+d starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+d shuffles their deck.
+d draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - ddddddd
+d plays 3 Coppers. (+$3)
+d buys and gains a Workshop.
+d draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Workshop.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - ddddddd
+d plays 4 Coppers. (+$4)
+d buys and gains a Young Witch.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - ddddddd
+d plays 4 Coppers. (+$4)
+d buys and gains a Herald.
+d draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Workshop.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - ddddddd
+d plays a Young Witch.
+d draws 2 cards.
+d discards a card and an Estate.
+J gains a Curse.
+d plays 3 Coppers. (+$3)
+d buys and gains a Silver.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Workshop.
+
+Turn 5 - ddddddd
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Copper.
+d plays a Young Witch.
+d draws 2 cards.
+d discards a card and a Copper.
+J gains a Curse.
+d plays a Silver and 3 Coppers. (+$5)
+d buys and gains a Junk Dealer.
+d draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Workshop.
+J gains a Herald.
+J draws 3 Coppers and 2 Silvers.
+
+Turn 6 - ddddddd
+d plays 2 Coppers. (+$2)
+d buys and gains a Ducat.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 2 Silvers and 3 Coppers. (+$7)
+J buys and gains a Junk Dealer.
+J draws a Curse, 2 Coppers, an Estate and a Workshop.
+
+Turn 7 - ddddddd
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Young Witch.
+d plays a Young Witch.
+d draws 2 cards.
+d discards a card and an Estate.
+J gains a Curse.
+d plays a Workshop.
+d gains a Herald.
+d plays 4 Coppers. (+$4)
+d buys and gains a Herald.
+d draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Workshop.
+J gains a Village.
+J plays 2 Coppers. (+$2)
+J buys and gains a Ducat.
+J shuffles their deck.
+J draws a Curse, a Copper, an Estate, a Village and a Workshop.
+
+Turn 8 - ddddddd
+d plays a Silver and 2 Coppers. (+$4)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d buys and gains a Ducat.
+d buys and gains a Wayfarer.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Workshop.
+J gains a Herald.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Village.
+J draws 2 Curses, a Copper, a Silver and a Herald.
+
+Turn 9 - ddddddd
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes an Estate.
+d plays 3 Coppers. (+$3)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d uses 2 Coffers. (+$2)
+d buys and gains a Gold.
+d draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Herald.
+J draws a Junk Dealer.
+J gets +1 Action.
+J reveals a Copper.
+J plays a Junk Dealer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J trashes a Curse.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Junk Dealer.
+J draws 2 Coppers, an Estate, a Workshop and a Ducat.
+
+Turn 10 - ddddddd
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Workshop.
+d plays a Workshop.
+d gains a Herald.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Copper.
+d plays a Wayfarer.
+d draws 3 cards.
+d gains a Silver.
+d plays a Silver and 2 Coppers. (+$4)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d buys and gains a Herald.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Workshop.
+J gains a Herald.
+J plays 2 Coppers. (+$2)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J uses 1 Coffers. (+$1)
+J buys and gains a Workshop.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Workshop.
+
+Turn 11 - ddddddd
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Junk Dealer.
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes an Estate.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Workshop.
+d plays a Workshop.
+d gains a Herald.
+d plays 5 Coppers. (+$5)
+d uses 1 Coffers. (+$1)
+d buys a Wedding.
+d gains a Gold.
+d returns a Gold.
+d receives a Changeling.
+d gets 1 VP.
+d repays 3 debt.
+d draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Workshop.
+J gains a Herald.
+J draws a Curse, a Copper, an Estate, a Workshop and a Ducat.
+
+Turn 12 - ddddddd
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Silver.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Gold.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals an Estate.
+d plays a Gold, 2 Silvers and 2 Coppers. (+$9)
+d buys and gains a Prince.
+d draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Workshop.
+J gains a Village.
+J plays a Copper. (+$1)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J draws a Curse, a Copper, a Village and 2 Heralds.
+
+Turn 13 - ddddddd
+d plays a Young Witch.
+d shuffles their deck.
+d draws 2 cards.
+d discards a card and a Herald.
+J gains a Curse.
+d plays a Silver. (+$2)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d uses 1 Coffers. (+$1)
+d buys and gains a Changeling.
+d draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Village.
+J draws a Junk Dealer.
+J gets +2 Actions.
+J plays a Herald.
+J draws a Herald.
+J gets +1 Action.
+J reveals a Copper.
+J plays a Herald.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Workshop.
+J plays a Workshop.
+J gains a Village.
+J plays a Herald.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Silver.
+J plays a Junk Dealer.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J trashes a Curse.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Lost City.
+d draws a card.
+J shuffles their deck.
+J draws a Copper, a Silver, a Village, a Workshop and a Junk Dealer.
+
+Turn 14 - ddddddd
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Prince.
+d plays a Prince.
+d sets a Workshop aside with Prince.
+d plays 5 Coppers. (+$5)
+d buys a Wedding.
+d gains a Gold.
+d gets 1 VP.
+d repays 1 debt (2 remaining).
+d draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Junk Dealer.
+J draws a Ducat.
+J gets +1 Action.
+J gets +$1.
+J trashes an Estate.
+J plays a Workshop.
+J gains a Village.
+J plays a Silver and a Copper. (+$3)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J uses 1 Coffers. (+$1)
+J buys and gains a Junk Dealer.
+J draws a Curse, a Copper, an Estate, a Village and a Herald.
+
+Turn 15 - ddddddd
+d starts their turn.
+d plays a Workshop.
+d gains a Village.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Silver.
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes a Copper.
+d plays a Gold, a Silver and a Copper. (+$6)
+d repays 2 debt.
+d buys and gains a Lost City.
+J draws an Estate.
+d plays a Changeling.
+d trashes a Changeling.
+d gains a Gold.
+d sets a Workshop aside.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Village.
+J draws a Lost City.
+J gets +2 Actions.
+J plays a Herald.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Copper.
+J plays a Lost City.
+J draws 2 Coppers.
+J gets +2 Actions.
+J plays a Silver and 3 Coppers. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains a Wayfarer.
+J draws a Curse, 2 Coppers, a Junk Dealer and a Herald.
+
+Turn 16 - ddddddd
+d starts their turn.
+d plays a Workshop.
+d gains a Young Witch.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Silver.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Village.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Gold.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Junk Dealer.
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes an Estate.
+d plays a Gold, a Silver and 2 Coppers. (+$7)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d buys and gains a Prince.
+d sets a Workshop aside.
+d draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Herald.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Workshop.
+J plays a Workshop.
+J gains a Merchant.
+J plays a Junk Dealer.
+J draws a Village.
+J gets +1 Action.
+J gets +$1.
+J trashes a Curse.
+J plays a Village.
+J draws a Herald.
+J gets +2 Actions.
+J plays a Herald.
+J draws a Herald.
+J gets +1 Action.
+J reveals a Workshop.
+J plays a Workshop.
+J gains a Merchant.
+J plays a Herald.
+J draws a Village.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Wayfarer.
+J plays a Wayfarer.
+J draws a Curse, a Copper and an Estate.
+J plays a Village.
+J draws a Workshop.
+J gets +2 Actions.
+J plays a Workshop.
+J gains a Merchant.
+J plays 4 Coppers. (+$4)
+J buys and gains a Lost City.
+d draws a card.
+J draws a Copper, 2 Silvers, a Merchant and a Herald.
+
+Turn 17 - ddddddd
+d starts their turn.
+d plays a Workshop.
+d gains a Village.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Gold.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Lost City.
+d plays a Lost City.
+d draws 2 cards.
+d gets +2 Actions.
+d plays a Young Witch.
+d draws 2 cards.
+d discards a card and a Copper.
+J gains a Curse.
+d plays a Wayfarer.
+d shuffles their deck.
+d draws 3 cards.
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes a Copper.
+d plays 3 Golds, a Silver and 2 Coppers. (+$13)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d uses 2 Coffers. (+$2)
+d buys and gains 2 Provinces.
+d plays a Changeling.
+d trashes a Changeling.
+d gains a Gold.
+d sets a Workshop aside.
+d draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Herald.
+J draws a Lost City.
+J gets +1 Action.
+J reveals a Ducat.
+J plays a Lost City.
+J draws a Village and a Ducat.
+J gets +2 Actions.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Merchant.
+J gets +2 Actions.
+J plays a Merchant.
+J draws an Estate.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Junk Dealer.
+J gets +1 Action.
+J plays a Junk Dealer.
+J draws a Village.
+J gets +1 Action.
+J gets +$1.
+J trashes an Estate.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Silver and 2 Coppers. (+$4)
+J gets +$2.
+J plays a Silver. (+$2)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Merchant, a Junk Dealer and a Lost City.
+
+Turn 18 - ddddddd
+d starts their turn.
+d plays a Workshop.
+d gains a Village.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Prince.
+d plays a Prince.
+d sets a Herald aside with Prince.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Young Witch.
+d plays a Young Witch.
+d draws 2 cards.
+d discards a card and a Copper.
+J gains a Curse.
+d plays a Herald.
+d shuffles their deck.
+d draws a card.
+d gets +1 Action.
+d reveals a Herald.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Province.
+d plays a Gold, a Silver and 2 Coppers. (+$7)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d uses 1 Coffers. (+$1)
+d buys and gains a Province.
+d sets a Workshop aside.
+d draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Lost City.
+J draws a Merchant and a Wayfarer.
+J gets +2 Actions.
+J plays a Merchant.
+J draws a Village.
+J gets +1 Action.
+J plays a Wayfarer.
+J draws a Silver, a Province and a Lost City.
+J plays a Lost City.
+J draws a Village and a Ducat.
+J gets +2 Actions.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Village.
+J draws a Workshop.
+J gets +2 Actions.
+J plays a Merchant.
+J draws a Workshop.
+J gets +1 Action.
+J plays a Junk Dealer.
+J draws a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Junk Dealer.
+J draws a Herald.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Herald.
+J draws a Workshop.
+J gets +1 Action.
+J reveals a Copper.
+J plays a Workshop.
+J gains a Merchant.
+J plays a Workshop.
+J gains a Merchant.
+J plays a Workshop.
+J gains a Merchant.
+J plays a Silver and a Copper. (+$3)
+J gets +$2.
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J draws 3 Coppers, an Estate and a Herald.
+
+Turn 19 - ddddddd
+d starts their turn.
+d plays a Workshop.
+d gains a Village.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Gold.
+d plays a Wayfarer.
+d draws 3 cards.
+d plays a Lost City.
+d draws 2 cards.
+d gets +2 Actions.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Herald.
+d draws a card.
+d gets +1 Action.
+d reveals a Copper.
+d plays a Junk Dealer.
+d draws a card.
+d gets +1 Action.
+d gets +$1.
+d trashes a Copper.
+d plays a Young Witch.
+d draws 2 cards.
+d discards a card and a Province.
+J gains a Curse.
+d plays 3 Golds, a Silver and 2 Coppers. (+$13)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d uses 2 Coffers. (+$2)
+d buys and gains 2 Provinces.
+d sets a Workshop and a Herald aside.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Herald.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Junk Dealer.
+J plays a Junk Dealer.
+J draws a Herald.
+J gets +1 Action.
+J gets +$1.
+J trashes an Estate.
+J plays a Herald.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Herald.
+J plays a Herald.
+J draws a Curse.
+J gets +1 Action.
+J reveals a Village.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Curse.
+J gets +2 Actions.
+J plays a Silver and 4 Coppers. (+$6)
+J uses 1 Coffers. (+$1)
+J buys and gains a Duchy.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Merchants and a Herald.
+
+Turn 20 - ddddddd
+d starts their turn.
+

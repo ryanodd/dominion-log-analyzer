@@ -1,0 +1,476 @@
+Game #81764281, rated.
+prashantnagpal: 38.1
+Jazzercise: 42.83
+
+Kingdom generated with these relative percentages:
+0%: Wall and Bandit Fort
+
+
+p starts with 7 Coppers.
+p starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+p shuffles their deck.
+p draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - prashantnagpal
+p plays 4 Coppers. (+$4)
+p buys a Port.
+p gains a Port.
+p gains a Port.
+p draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - prashantnagpal
+p plays 3 Coppers. (+$3)
+p buys and gains a Silver.
+p shuffles their deck.
+p draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays 3 Coppers. (+$3)
+p buys and gains a Silver.
+p draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Silvers.
+
+Turn 4 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays 3 Coppers and a Silver. (+$5)
+p buys and gains a Recruiter.
+p shuffles their deck.
+p draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Recruiter.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - prashantnagpal
+p plays 4 Coppers and a Silver. (+$6)
+p buys and gains a Swashbuckler.
+p draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Recruiter.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 6 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Recruiter.
+p draws 2 cards.
+p trashes an Estate.
+p gets +2 Villagers.
+p plays 2 Coppers and a Silver. (+$4)
+p buys and gains a Walled Village.
+p shuffles their deck.
+p draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Recruiter.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Recruiter.
+
+Turn 7 - prashantnagpal
+p plays a Swashbuckler.
+p draws 3 cards.
+p plays 4 Coppers and a Silver. (+$6)
+p buys and gains a Royal Carriage.
+p draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Recruiter.
+J draws a Copper and a Silver.
+J trashes an Estate.
+J gets +2 Villagers.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Journeyman.
+J draws 2 Coppers, a Silver and 2 Recruiters.
+
+Turn 8 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Walled Village.
+p draws a card.
+p gets +2 Actions.
+p plays 3 Coppers. (+$3)
+p buys and gains a Border Guard.
+p topdecks a Walled Village.
+p shuffles their deck.
+p draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Recruiter.
+J draws 2 Coppers.
+J trashes a Copper.
+J uses 1 Villager.
+J plays a Recruiter.
+J draws 2 Estates.
+J trashes an Estate.
+J gets +2 Villagers.
+J plays 3 Coppers and a Silver. (+$5)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Port and a Recruiter.
+
+Turn 9 - prashantnagpal
+p plays a Walled Village.
+p draws a card.
+p gets +2 Actions.
+p plays 3 Coppers and a Silver. (+$5)
+p buys and gains a Swashbuckler.
+p draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Recruiter.
+J draws an Estate and a Recruiter.
+J trashes an Estate.
+J gets +2 Villagers.
+J plays a Recruiter.
+J draws a Port and a Recruiter.
+J trashes a Copper.
+J uses 1 Villager.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Recruiter.
+J draws 2 Coppers.
+J trashes a Copper.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Journeyman.
+J shuffles their deck.
+J draws a Copper, a Silver, a Journeyman, a Port and a Recruiter.
+
+Turn 10 - prashantnagpal
+p plays a Royal Carriage.
+p gets +1 Action.
+p puts a Royal Carriage on their Tavern mat.
+p plays 2 Coppers and a Silver. (+$4)
+p buys a Port.
+p gains a Port.
+p gains a Port.
+p draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Port.
+J draws a Recruiter.
+J gets +2 Actions.
+J plays a Recruiter.
+J draws 2 Coppers.
+J trashes a Copper.
+J plays a Journeyman.
+J names Wishing Well.
+J reveals a Journeyman and 2 Silvers.
+J puts 2 Silvers and a Journeyman into their hand.
+J uses 1 Villager.
+J plays a Journeyman.
+J names Wishing Well.
+J reveals a Copper, a Recruiter and a Port.
+J puts a Copper, a Port and a Recruiter into their hand.
+J uses 1 Villager.
+J plays a Recruiter.
+J trashes a Recruiter.
+J gets +5 Villagers.
+J uses 1 Villager.
+J plays a Port.
+J gets +2 Actions.
+J plays 3 Coppers and 3 Silvers. (+$9)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Silvers, a Journeyman and 2 Ports.
+
+Turn 11 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Swashbuckler.
+p shuffles their deck.
+p draws 3 cards.
+p plays a Walled Village.
+p draws a card.
+p gets +2 Actions.
+p plays a Recruiter.
+p draws 2 cards.
+p trashes an Estate.
+p gets +2 Villagers.
+p plays a Swashbuckler.
+p draws 3 cards.
+p calls a Royal Carriage.
+p plays a Swashbuckler again.
+p draws 3 cards.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Port.
+p gets +2 Actions.
+p plays a Border Guard.
+p gets +1 Action.
+p plays 7 Coppers and 2 Silvers. (+$11)
+p buys and gains a Province.
+p shuffles their deck.
+p draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Port.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Journeyman.
+J names Copper.
+J reveals a Copper, a Recruiter, a Journeyman and a Silver.
+J puts a Silver, a Journeyman and a Recruiter into their hand.
+J discards a Copper.
+J plays a Journeyman.
+J names Curse.
+J reveals a Copper and a Recruiter.
+J shuffles their deck.
+J reveals a Copper.
+J puts 2 Coppers and a Recruiter into their hand.
+J plays a Recruiter.
+J trashes a Copper.
+J uses 1 Villager.
+J plays a Recruiter.
+J trashes a Copper.
+J plays a Copper, a Gold and 3 Silvers. (+$10)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Journeymen, a Port and 2 Recruiters.
+
+Turn 12 - prashantnagpal
+p plays a Royal Carriage.
+p gets +1 Action.
+p puts a Royal Carriage on their Tavern mat.
+p plays a Walled Village.
+p draws a card.
+p gets +2 Actions.
+p plays a Swashbuckler.
+p draws 3 cards.
+p calls a Royal Carriage.
+p plays a Swashbuckler again.
+p draws 3 cards.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Swashbuckler.
+p draws 3 cards.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Border Guard.
+p gets +1 Action.
+p reveals a Copper and a Recruiter.
+p puts a Recruiter into their hand.
+p discards a Copper.
+p plays a Recruiter.
+p shuffles their deck.
+p draws a card.
+p trashes an Estate.
+p gets +2 Villagers.
+p plays 7 Coppers and 2 Silvers. (+$11)
+p buys and gains a Province.
+p shuffles their deck.
+p draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Recruiter.
+J draws a Silver and a Gold.
+J trashes a Recruiter.
+J gets +5 Villagers.
+J plays a Journeyman.
+J names Copper.
+J reveals a Copper, a Province, a Silver and a Port.
+J puts a Silver, a Province and a Port into their hand.
+J discards a Copper.
+J plays a Gold and 3 Silvers. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Gold, 2 Provinces and a Port.
+
+Turn 13 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Recruiter.
+p draws 2 cards.
+p trashes a Copper.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Border Guard.
+p gets +1 Action.
+p reveals a Swashbuckler and a Port.
+p puts a Swashbuckler into their hand.
+p discards a Port.
+p takes the Horn.
+p plays a Swashbuckler.
+p draws 3 cards.
+p gets +1 Coffers.
+p plays a Royal Carriage.
+p gets +1 Action.
+p puts a Royal Carriage on their Tavern mat.
+p plays a Walled Village.
+p draws a card.
+p gets +2 Actions.
+p plays a Swashbuckler.
+p draws 3 cards.
+p gets +1 Coffers.
+p calls a Royal Carriage.
+p plays a Swashbuckler again.
+p draws 3 cards.
+p gets +1 Coffers.
+p plays a Port.
+p shuffles their deck.
+p draws a card.
+p gets +2 Actions.
+p plays a Port.
+p gets +2 Actions.
+p plays 6 Coppers and 2 Silvers. (+$10)
+p buys and gains a Province.
+p topdecks a Border Guard.
+p shuffles their deck.
+p draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Duchy.
+J draws a Silver, 2 Journeymen, a Port and a Recruiter.
+
+Turn 14 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Border Guard.
+p gets +1 Action.
+p reveals a Copper and a Province.
+p puts a Copper into their hand.
+p discards a Province.
+p plays 4 Coppers. (+$4)
+p buys a Port.
+p gains a Port.
+p gains a Port.
+p draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Journeyman.
+J names Province.
+J shuffles their deck.
+J reveals a Copper, a Duchy, 2 Provinces and a Port.
+J puts a Copper, a Duchy and a Port into their hand.
+J discards 2 Provinces.
+J plays a Recruiter.
+J draws a Silver and a Gold.
+J trashes a Copper.
+J plays a Gold and 3 Silvers. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, a Province, a Journeyman and 2 Ports.
+
+Turn 15 - prashantnagpal
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Swashbuckler.
+p draws 3 cards.
+p gets +1 Coffers.
+p takes the Treasure Chest.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Port.
+p draws a card.
+p gets +2 Actions.
+p plays a Royal Carriage.
+p gets +1 Action.
+p puts a Royal Carriage on their Tavern mat.
+p plays a Walled Village.
+p draws a card.
+p gets +2 Actions.
+p calls a Royal Carriage.
+p plays a Walled Village again.
+p draws a card.
+p gets +2 Actions.
+p plays a Recruiter.
+p shuffles their deck.
+p draws 2 cards.
+p trashes a Copper.
+p plays a Swashbuckler.
+p draws 3 cards.
+p gains a Gold.
+p plays 4 Coppers and 2 Silvers. (+$8)
+p buys and gains a Province.
+p draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Port.
+J draws a Duchy.
+J gets +2 Actions.
+J plays a Port.
+J draws a Province.
+J gets +2 Actions.
+J plays a Journeyman.
+J names Province.
+J reveals a Recruiter and 2 Silvers.
+J puts 2 Silvers and a Recruiter into their hand.
+J plays a Recruiter.
+J draws a Silver and a Journeyman.
+J trashes a Journeyman.
+J gets +5 Villagers.
+J plays a Gold and 3 Silvers. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, 2 Provinces, a Journeyman and a Recruiter.
+

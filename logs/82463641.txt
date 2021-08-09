@@ -1,0 +1,670 @@
+Game #82463641, rated.
+Jazzercise: 46.68
+tripwire: 56.41
+
+Kingdom generated with these relative percentages:
+0%: Harvest, Pirate Ship, Annex and Margrave
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Goatherd.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - tripwire
+t plays 3 Coppers. (+$3)
+t buys and gains a Peasant.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Goatherd.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Goatherd.
+
+Turn 2 - tripwire
+t plays 4 Coppers. (+$4)
+t buys and gains a Goatherd.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Peasant.
+J draws 3 Coppers, an Estate and a Goatherd.
+
+Turn 3 - tripwire
+t plays a Peasant using Way of the Goat.
+t trashes a Copper.
+t plays 3 Coppers. (+$3)
+t buys and gains a Wishing Well.
+t returns a Peasant.
+t receives a Soldier.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes an Estate.
+J draws a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains a Peasant.
+J shuffles their deck.
+J draws a Copper, an Estate, a Peasant and 2 Goatherds.
+
+Turn 4 - tripwire
+t plays 2 Coppers. (+$2)
+t buys and gains a Peasant.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes an Estate.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J returns a Peasant.
+J receives a Soldier.
+J draws 4 Coppers and a Peasant.
+
+Turn 5 - tripwire
+t plays a Goatherd.
+t gets +1 Action.
+t trashes an Estate.
+t draws 2 cards.
+t plays a Soldier.
+t gets +$2.
+J discards a Copper.
+t plays 3 Coppers. (+$3)
+t buys and gains a Wishing Well.
+t returns a Soldier.
+t receives a Fugitive.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Peasant using Way of the Goat.
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Peasant.
+J returns a Peasant.
+J receives a Soldier.
+J shuffles their deck.
+J draws 3 Coppers, a Peasant and a Soldier.
+
+Turn 6 - tripwire
+t plays a Wishing Well.
+t draws a card.
+t gets +1 Action.
+t shuffles their deck.
+t wishes for Copper and finds it.
+t plays 4 Coppers. (+$4)
+t buys and gains a Farming Village.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Soldier.
+J gets +$2.
+t discards a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Farming Village.
+J returns a Soldier.
+J receives a Fugitive.
+J draws 2 Coppers, a Soldier and 2 Goatherds.
+
+Turn 7 - tripwire
+t plays a Wishing Well.
+t draws a card.
+t gets +1 Action.
+t shuffles their deck.
+t wishes for Copper but reveals Estate.
+t plays a Fugitive.
+t draws 2 cards.
+t gets +1 Action.
+t discards a Copper.
+t plays a Goatherd.
+t gets +1 Action.
+t trashes an Estate.
+t plays a Peasant using Way of the Goat.
+t trashes a Copper.
+t returns a Fugitive.
+t receives a Disciple.
+t returns a Peasant.
+t receives a Soldier.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J shuffles their deck.
+J draws a Copper and a Peasant.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J draws a Farming Village and a Fugitive.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Fugitive.
+J draws a Copper.
+J gets +1 Action.
+J discards a Copper.
+J plays a Peasant using Way of the Goat.
+J trashes a Copper.
+J plays a Soldier.
+J gets +$2.
+t discards a Copper.
+J plays a Copper. (+$1)
+J buys and gains a Wishing Well.
+J returns a Fugitive.
+J receives a Disciple.
+J returns a Soldier.
+J receives a Fugitive.
+J returns a Peasant.
+J receives a Soldier.
+J shuffles their deck.
+J draws a Copper, a Farming Village, a Disciple, a Fugitive and a Goatherd.
+
+Turn 8 - tripwire
+t plays a Wishing Well.
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Estate.
+t plays a Farming Village.
+t gets +2 Actions.
+t reveals an Estate.
+t shuffles their deck.
+t reveals a Disciple.
+t puts a Disciple into their hand.
+t discards an Estate.
+t plays a Disciple using Way of the Goat.
+t trashes a Copper.
+t plays 2 Coppers. (+$2)
+t buys and gains a Peasant.
+t returns a Disciple.
+t receives a Teacher.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Fugitive.
+J draws a Copper and a Soldier.
+J gets +1 Action.
+J discards a Copper.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Goatherd.
+J puts a Goatherd into their hand.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J draws a Wishing Well.
+J plays a Wishing Well.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Disciple.
+J plays a Soldier.
+J gets +$2.
+t discards a Copper.
+J plays a Soldier again.
+J gets +$2.
+t discards a Copper.
+J buys and gains a Farming Village.
+J returns a Disciple.
+J receives a Teacher.
+J returns a Fugitive.
+J receives a Disciple.
+J returns a Soldier.
+J receives a Fugitive.
+J shuffles their deck.
+J draws a Wishing Well, 2 Farming Villages, a Teacher and a Goatherd.
+
+Turn 9 - tripwire
+t plays a Goatherd.
+t gets +1 Action.
+t shuffles their deck.
+t draws 2 cards.
+t plays a Wishing Well.
+t draws a card.
+t gets +1 Action.
+t wishes for Copper and finds it.
+t plays a Soldier using Way of the Goat.
+t trashes an Estate.
+t plays 3 Coppers. (+$3)
+t buys and gains a Wishing Well.
+t returns a Soldier.
+t receives a Fugitive.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Disciple.
+J puts a Disciple into their hand.
+J plays a Farming Village.
+J gets +2 Actions.
+J reveals a Goatherd.
+J puts a Goatherd into their hand.
+J plays a Wishing Well.
+J draws a Fugitive.
+J gets +1 Action.
+J plays a Disciple.
+J plays a Fugitive.
+J gets +1 Action.
+J discards a Goatherd.
+J plays a Fugitive again.
+J shuffles their deck.
+J draws a Goatherd.
+J gets +1 Action.
+J discards a Goatherd.
+J plays a Teacher.
+J puts a Teacher on their Tavern mat.
+J buys and gains a Copper.
+J returns a Fugitive.
+J receives a Disciple.
+J shuffles their deck.
+J draws a Copper, a Wishing Well, a Farming Village, a Disciple and a Goatherd.
+
+Turn 10 - tripwire
+t plays a Wishing Well.
+t shuffles their deck.
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Fugitive.
+t plays a Wishing Well.
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Wishing Well.
+t plays a Fugitive.
+t draws 2 cards.
+t gets +1 Action.
+t discards a Copper.
+t plays a Farming Village.
+t gets +2 Actions.
+t reveals a Goatherd.
+t puts a Goatherd into their hand.
+t plays a Wishing Well.
+t draws a card.
+t gets +1 Action.
+t wishes for Estate but reveals Copper.
+t plays a Goatherd.
+t gets +1 Action.
+t plays a Teacher.
+t puts a Teacher on their Tavern mat.
+t plays a Peasant.
+t gets +1 Buy.
+t gets +$1.
+t plays 2 Coppers. (+$2)
+t buys and gains a Wishing Well.
+t returns a Fugitive.
+t receives a Disciple.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J calls a Teacher.
+J moves +Coin token to the Farming Village pile.
+J plays a Disciple.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Disciple.
+J puts a Disciple into their hand.
+J plays a Farming Village again.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Goatherd.
+J puts a Goatherd into their hand.
+J gains a Farming Village.
+J plays a Disciple.
+J plays a Wishing Well.
+J draws a Farming Village.
+J gets +1 Action.
+J shuffles their deck.
+J wishes for Farming Village and finds it.
+J plays a Wishing Well again.
+J gets +1 Action.
+J gains a Wishing Well.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Wishing Well.
+J puts a Wishing Well into their hand.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J plays a Copper. (+$1)
+J buys and gains a Kiln.
+J shuffles their deck.
+J draws a Copper, a Wishing Well, a Farming Village and 2 Disciples.
+
+Turn 11 - tripwire
+t starts their turn.
+t calls a Teacher.
+t moves +Coin token to the Wishing Well pile.
+t plays a Disciple.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Wishing Well but reveals Copper.
+t plays a Wishing Well again.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Wishing Well and finds it.
+t gains a Wishing Well.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Farming Village and finds it.
+t plays a Farming Village.
+t gets +2 Actions.
+t reveals a Copper.
+t puts a Copper into their hand.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t shuffles their deck.
+t wishes for Wishing Well and finds it.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t gets +1 Action.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t gets +1 Action.
+t plays a Goatherd.
+t gets +1 Action.
+t trashes a Copper.
+t plays a Peasant.
+t gets +1 Buy.
+t gets +$1.
+t plays 3 Coppers. (+$3)
+t buys and gains a Kiln.
+t buys and gains a Farming Village.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Wishing Well.
+J draws a Kiln.
+J gets +1 Action.
+J wishes for Farming Village but reveals Wishing Well.
+J plays a Disciple.
+J plays a Disciple.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Wishing Well.
+J puts a Wishing Well into their hand.
+J plays a Farming Village again.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Goatherd.
+J puts a Goatherd into their hand.
+J gains a Farming Village.
+J plays a Disciple again.
+J plays a Kiln.
+J gets +$2.
+J plays a Kiln again.
+J gains a Kiln.
+J gets +$2.
+J gains a Kiln.
+J plays a Wishing Well.
+J gains a Wishing Well.
+J draws a Farming Village.
+J gets +1 Action.
+J wishes for Farming Village and finds it.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Goatherd.
+J puts a Goatherd into their hand.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Teacher.
+J puts a Teacher into their hand.
+J plays a Teacher.
+J puts a Teacher on their Tavern mat.
+J plays a Goatherd using Way of the Goat.
+J trashes a Copper.
+J buys and gains a Peasant.
+J shuffles their deck.
+J draws 2 Wishing Wells, a Farming Village, a Disciple and a Kiln.
+
+Turn 12 - tripwire
+t plays a Goatherd.
+t gets +1 Action.
+t draws a card.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Wishing Well and finds it.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Wishing Well but reveals Copper.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Wishing Well but reveals Farming Village.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Farming Village.
+t plays a Disciple.
+t plays a Farming Village.
+t gets +2 Actions.
+t reveals a Farming Village.
+t puts a Farming Village into their hand.
+t plays a Farming Village again.
+t gets +2 Actions.
+t reveals a Copper.
+t puts a Copper into their hand.
+t gains a Farming Village.
+t plays a Kiln.
+t gets +$2.
+t plays a Farming Village.
+t gains a Farming Village.
+t gets +2 Actions.
+t reveals a Wishing Well.
+t puts a Wishing Well into their hand.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t shuffles their deck.
+t wishes for Farming Village and finds it.
+t plays a Teacher.
+t puts a Teacher on their Tavern mat.
+t plays a Peasant.
+t gets +1 Buy.
+t gets +$1.
+t plays a Farming Village using Way of the Goat.
+t trashes a Copper.
+t plays 2 Coppers. (+$2)
+t buys and gains a Kiln.
+t buys and gains a Peasant.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J calls a Teacher.
+J moves +Buy token to the Wishing Well pile.
+J plays a Disciple.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Wishing Well.
+J puts a Wishing Well into their hand.
+J plays a Farming Village again.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Peasant.
+J puts a Peasant into their hand.
+J gains a Farming Village.
+J plays a Kiln.
+J gets +$2.
+J plays a Wishing Well.
+J gets +1 Buy (from Teacher).
+J gains a Wishing Well.
+J draws a Farming Village.
+J gets +1 Action.
+J wishes for Wishing Well but reveals Disciple.
+J plays a Wishing Well.
+J gets +1 Buy (from Teacher).
+J draws a Disciple.
+J gets +1 Action.
+J wishes for Wishing Well but reveals Farming Village.
+J plays a Disciple.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Farming Village.
+J puts a Farming Village into their hand.
+J plays a Farming Village again.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Goatherd.
+J puts a Goatherd into their hand.
+J gains a Farming Village.
+J plays a Farming Village.
+J gets +1 Coin (from Teacher).
+J gets +2 Actions.
+J reveals a Goatherd.
+J puts a Goatherd into their hand.
+J plays a Wishing Well.
+J gets +1 Buy (from Teacher).
+J draws a Kiln.
+J gets +1 Action.
+J wishes for Wishing Well but reveals Kiln.
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Goatherd.
+J draws a Kiln.
+J plays a Kiln.
+J gets +$2.
+J plays a Kiln.
+J gains a Kiln.
+J gets +$2.
+J buys and gains 4 Caravan Guards.
+J returns a Peasant.
+J receives a Soldier.
+J shuffles their deck.
+J draws a Wishing Well, a Farming Village, a Caravan Guard, a Teacher and a Kiln.
+
+Turn 13 - tripwire
+t starts their turn.
+t calls a Teacher.
+t moves +Card token to the Farming Village pile.
+t plays a Farming Village.
+t draws a card (from Teacher).
+t gets +2 Actions.
+t reveals a Peasant.
+t puts a Peasant into their hand.
+t plays a Farming Village.
+t draws a card (from Teacher).
+t gets +2 Actions.
+t reveals a Kiln.
+t puts a Kiln into their hand.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Wishing Well and finds it.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Wishing Well.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Kiln.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Disciple.
+t plays a Wishing Well.
+t gets +1 Coin (from Teacher).
+t draws a card.
+t gets +1 Action.
+t wishes for Copper but reveals Farming Village.
+t plays a Disciple.
+t plays a Kiln.
+t gets +$2.
+t plays a Kiln again.
+t gains a Kiln.
+t gets +$2.
+t gains a Kiln.
+t plays a Kiln.
+t gains a Kiln.
+t gets +$2.
+t plays a Goatherd.
+t gains a Goatherd.
+t gets +1 Action.
+t draws a card.
+t plays a Farming Village.
+t draws a card (from Teacher).
+t gets +2 Actions.
+t shuffles their deck.
+t reveals a Kiln.
+t puts a Kiln into their hand.
+t plays a Farming Village.
+t draws a card (from Teacher).
+t gets +2 Actions.
+t reveals a Kiln.
+t puts a Kiln into their hand.
+t plays a Kiln.
+t gets +$2.
+t plays a Kiln.
+t gains a Kiln.
+t gets +$2.
+t plays a Peasant.
+t gains a Peasant.
+t gets +1 Buy.
+t gets +$1.
+t plays 2 Coppers. (+$2)
+t buys and gains a Wishing Well.
+t buys and gains a Province.
+t returns a Disciple.
+t receives a Teacher.
+t shuffles their deck.
+t draws 5 cards.
+

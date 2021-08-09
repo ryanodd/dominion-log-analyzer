@@ -1,0 +1,514 @@
+Game #81716269, unrated.
+
+
+Obelisk chooses the Tournament pile.
+L starts with a Haunted Mirror.
+L starts with 6 Coppers.
+L starts with 3 Estates.
+J starts with a Haunted Mirror.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Fortune Teller.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Tournament.
+J draws 2 Coppers, 2 Estates and a Haunted Mirror.
+
+Turn 2 - Lord Rattington
+L plays a Haunted Mirror and 3 Coppers. (+$4)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Haunted Mirror and 2 Coppers. (+$3)
+J buys and gains a Catapult.
+J shuffles their deck.
+J draws 3 Coppers, a Tournament and a Catapult.
+
+Turn 3 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 3 Coppers. (+$3)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws an Estate.
+J gets +$1.
+J plays a Catapult.
+J gets +$1.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Tournament.
+J draws 3 Coppers, an Estate and a Haunted Mirror.
+
+Turn 4 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals an Estate.
+J topdecks an Estate.
+L plays a Haunted Mirror and 2 Coppers. (+$3)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Haunted Mirror and 3 Coppers. (+$4)
+J buys and gains a Tournament.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Tournaments.
+
+Turn 5 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Tournament.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws an Estate.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains a Gold.
+J draws 3 Coppers, a Catapult and a Haunted Mirror.
+
+Turn 6 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Fortune Teller.
+L gets +$2.
+J shuffles their deck.
+J reveals 2 Tournaments and finally Estate.
+J topdecks an Estate.
+J discards 2 Tournaments.
+L plays 2 Coppers. (+$2)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Catapult.
+J gets +$1.
+J trashes a Copper.
+L discards a card and a Copper.
+J plays a Haunted Mirror and 2 Coppers. (+$3)
+J buys and gains a Tournament.
+J draws 2 Coppers, a Gold, an Estate and a Tournament.
+
+Turn 7 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Haunted Mirror and a Copper. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Tournaments.
+
+Turn 8 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Gold.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Province.
+J draws 2 Coppers, an Estate, a Tournament and a Catapult.
+
+Turn 9 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Fortune Teller.
+L gets +$2.
+J reveals a Haunted Mirror, a Gold and a Tournament.
+J shuffles their deck.
+J reveals 3 Coppers, a Gold and a Tournament and finally Province.
+J topdecks a Province.
+J discards 3 Coppers, 2 Golds, 2 Tournaments and a Haunted Mirror.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Province.
+J gets +$1.
+J plays a Catapult.
+J gets +$1.
+J trashes an Estate.
+J plays 2 Coppers. (+$2)
+J buys and gains a Tournament.
+J shuffles their deck.
+J draws a Copper, a Gold, an Estate, a Tournament and a Haunted Mirror.
+
+Turn 10 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Gold.
+J gets +$1.
+J plays a Haunted Mirror, a Copper and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws 3 Coppers, a Tournament and a Catapult.
+
+Turn 11 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Haunted Mirror, a Copper and a Silver. (+$4)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+L reveals a Province.
+J plays a Catapult.
+J gets +$1.
+J trashes a Copper.
+L discards a card and a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Chariot Race.
+J draws a Copper, a Province and 3 Tournaments.
+
+Turn 12 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Trusty Steed.
+J draws a Trusty Steed.
+J gets +$1.
+J plays a Trusty Steed.
+J shuffles their deck.
+J draws a Tournament and a Chariot Race.
+J gets +2 Actions.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+L reveals a Tournament.
+J gets +$1.
+J gets 1 VP.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Haunted Mirror.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Catapult.
+J gets +$1.
+J plays a Catapult.
+J gets +$1.
+J trashes a Copper.
+L discards a card and a Copper.
+J plays a Haunted Mirror, a Copper and a Gold. (+$5)
+J buys and gains a Province.
+J draws a Copper, an Estate, 2 Provinces and a Tournament.
+
+Turn 13 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Gold. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+L reveals a Province.
+J gains a Princess.
+J plays a Copper. (+$1)
+J shuffles their deck.
+J draws a Copper, a Gold, a Princess, a Tournament and a Catapult.
+
+Turn 14 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Fortune Teller.
+L gets +$2.
+J reveals an Estate.
+J topdecks an Estate.
+L plays 2 Coppers. (+$2)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+L reveals a Province.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Gold.
+J buys and gains a Crossroads.
+J draws a Copper, an Estate, a Tournament, a Trusty Steed and a Chariot Race.
+
+Turn 15 - Lord Rattington
+L plays a Haunted Mirror and a Silver. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Trusty Steed.
+J draws 2 Provinces.
+J gets +2 Actions.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+L reveals a Tournament.
+J gets +$1.
+J gets 1 VP.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Tournament.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Tournament.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Tournament.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Gold, 2 Provinces and a Haunted Mirror.
+
+Turn 16 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays 3 Coppers. (+$3)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Haunted Mirror, a Copper and a Gold. (+$5)
+J buys and gains a Chariot Race.
+J draws a Gold, an Estate, a Princess and 2 Tournaments.
+
+Turn 17 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Copper, a Gold and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Catapult.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Province.
+J gets +$1.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Gold. (+$3)
+J buys and gains a Gold.
+J draws a Copper, a Gold, a Province, a Crossroads and a Chariot Race.
+
+Turn 18 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Copper. (+$1)
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Crossroads.
+J reveals their hand: a Province, a Chariot Race, a Copper and a Gold.
+J draws a Tournament.
+J gets +3 Actions.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Tournament.
+J puts a Tournament into their hand.
+L reveals a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+L reveals a Province.
+J plays a Tournament.
+J gets +1 Action.
+L reveals a Province.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Chariot Race.
+J shuffles their deck.
+J draws a Copper, a Princess, a Tournament, a Trusty Steed and a Crossroads.
+
+Turn 19 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Crossroads.
+J reveals their hand: a Copper, a Tournament, a Princess and a Trusty Steed.
+J gets +3 Actions.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Trusty Steed.
+J draws a Copper and a Haunted Mirror.
+J gets +2 Actions.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Haunted Mirror and 3 Coppers. (+$4)
+J buys and gains a Gold.
+J draws 2 Golds, a Province, a Tournament and a Chariot Race.
+
+Turn 20 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays 2 Coppers. (+$2)
+L buys and gains an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Catapult.
+J puts a Catapult into their hand.
+L reveals a Copper.
+J gets +$1.
+J gets 1 VP.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Duchy.
+J draws a Duchy.
+J gets +$1.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J draws a Gold, a Province, 2 Tournaments and a Chariot Race.
+

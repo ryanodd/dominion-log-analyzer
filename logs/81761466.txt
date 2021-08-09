@@ -1,0 +1,328 @@
+Game #81761466, rated.
+tomatensalat: 45.01
+Jazzercise: 42.12
+
+
+t gets +1 Coffers.
+J gets +1 Coffers.
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t shuffles their deck.
+t draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - tomatensalat
+t plays 4 Coppers. (+$4)
+t uses 1 Coffers. (+$1)
+t buys and gains a Mountebank.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J uses 1 Coffers. (+$1)
+J plays 4 Coppers. (+$4)
+J buys and gains a Mountebank.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - tomatensalat
+t plays 2 Coppers. (+$2)
+t buys and gains a Chapel.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Chapel.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Chapel.
+
+Turn 3 - tomatensalat
+t plays a Chapel.
+t trashes 2 Coppers and 2 Estates.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Chapel.
+J trashes 2 Estates.
+J plays 2 Coppers. (+$2)
+J buys and gains a Peasant.
+J draws 3 Coppers, an Estate and a Mountebank.
+
+Turn 4 - tomatensalat
+t plays a Mountebank.
+t gets +$2.
+J gains a Curse.
+J gains a Copper.
+t plays 3 Coppers. (+$3)
+t buys and gains a Bandit Camp.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Mountebank.
+J gets +$2.
+t gains a Curse.
+t gains a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Bandit Camp.
+J shuffles their deck.
+J draws a Curse, 3 Coppers and a Peasant.
+
+Turn 5 - tomatensalat
+t plays a Bandit Camp.
+t draws a card.
+t gets +2 Actions.
+t gains a Spoils.
+t plays 4 Coppers. (+$4)
+t buys and gains a Navigator.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains a Peasant.
+J buys and gains a Patrician.
+J returns a Peasant.
+J receives a Soldier.
+J draws 3 Coppers, a Chapel and a Mountebank.
+
+Turn 6 - tomatensalat
+t plays a Mountebank.
+t gets +$2.
+J gains a Curse.
+J gains a Copper.
+t plays 2 Coppers. (+$2)
+t buys and gains a Lighthouse.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Mountebank.
+J gets +$2.
+t gains a Curse.
+t gains a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Bandit Camp.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Bandit Camp.
+
+Turn 7 - tomatensalat
+t plays a Navigator.
+t gets +$2.
+t shuffles their deck.
+t looks at 5 cards.
+t topdecks 5 cards.
+t plays 2 Coppers. (+$2)
+t plays a Spoils. (+$3)
+t returns a Spoils to the Spoils pile.
+t buys and gains a Destrier.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws a Curse, 3 Coppers and a Bandit Camp.
+
+Turn 8 - tomatensalat
+t plays a Bandit Camp.
+t draws a card.
+t gets +2 Actions.
+t gains a Spoils.
+t plays a Mountebank.
+t gets +$2.
+J discards a Curse.
+t plays 3 Coppers. (+$3)
+t buys and gains a Destrier.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays 4 Coppers. (+$4)
+J buys and gains a Vagrant.
+J draws a Curse, a Copper, a Chapel, a Mountebank and a Soldier.
+
+Turn 9 - tomatensalat
+t plays a Lighthouse.
+t gets +1 Action.
+t gets +$1.
+t plays a Chapel.
+t trashes a Curse and 2 Coppers.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Chapel.
+J trashes a Curse and a Copper.
+J shuffles their deck.
+J draws a Copper, 2 Spoils, a Peasant and a Patrician.
+
+Turn 10 - tomatensalat
+t starts their turn.
+t gets +$1.
+t plays a Bandit Camp.
+t draws a card.
+t gets +2 Actions.
+t gains a Spoils.
+t plays a Navigator.
+t gets +$2.
+t looks at 5 cards.
+t discards 4 other cards and an Estate.
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Destrier.
+t shuffles their deck.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Mountebank.
+t gets +$2.
+J gains a Curse.
+J gains a Copper.
+t plays 3 Coppers. (+$3)
+t plays a Spoils. (+$3)
+t returns a Spoils to the Spoils pile.
+t buys and gains a Platinum.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Patrician.
+J draws a Vagrant.
+J gets +1 Action.
+J reveals a Copper.
+J plays a Vagrant.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Destrier.
+J buys and gains a Chapel.
+J returns a Peasant.
+J receives a Soldier.
+J draws 2 Coppers, a Silver, a Chapel and a Bandit Camp.
+
+Turn 11 - tomatensalat
+t plays a Chapel.
+t trashes 2 Coppers and an Estate.
+t plays a Spoils. (+$3)
+t returns a Spoils to the Spoils pile.
+t buys and gains a Peasant.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Chapel.
+J trashes 3 Coppers.
+J plays a Silver. (+$2)
+J buys and gains a Patrician.
+J draws a Curse, 2 Coppers, a Mountebank and a Soldier.
+
+Turn 12 - tomatensalat
+t plays a Lighthouse.
+t gets +1 Action.
+t gets +$1.
+t plays a Bandit Camp.
+t draws a card.
+t gets +2 Actions.
+t gains a Spoils.
+t plays a Chapel.
+t trashes a Curse and a Copper.
+t plays a Copper. (+$1)
+t buys and gains a Vagrant.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Mountebank.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Bandit Camp and a Spoils.
+
+Turn 13 - tomatensalat
+t starts their turn.
+t gets +$1.
+t plays a Destrier.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Destrier.
+t shuffles their deck.
+t draws 2 cards.
+t gets +1 Action.
+t plays a Bandit Camp.
+t draws a card.
+t gets +2 Actions.
+t gains a Spoils.
+t plays a Vagrant.
+t draws a card.
+t gets +1 Action.
+t reveals a Copper.
+t topdecks a Copper.
+t plays a Mountebank.
+t gets +$2.
+J gains a Curse.
+J gains a Copper.
+t plays a Peasant.
+t gets +1 Buy.
+t gets +$1.
+t plays a Copper and a Platinum. (+$6)
+t plays a Spoils. (+$3)
+t returns a Spoils to the Spoils pile.
+t buys and gains a Platinum.
+t buys and gains a Destrier.
+t returns a Peasant.
+t receives a Soldier.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Bandit Camp.
+J draws a Mountebank.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Mountebank.
+J gets +$2.
+t gains a Curse.
+t gains a Copper.
+J plays 2 Coppers. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Destrier.
+J draws a Curse, a Copper, a Chapel, a Vagrant and a Patrician.
+
+Turn 14 - tomatensalat
+t plays a Bandit Camp.
+t draws a card.
+t gets +2 Actions.
+t gains a Spoils.
+t plays a Soldier.
+t gets +$2.
+J discards a Curse.
+t plays a Mountebank.
+t gets +$2.
+J gains a Curse.
+J gains a Copper.
+t plays a Copper. (+$1)
+

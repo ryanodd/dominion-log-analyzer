@@ -1,0 +1,292 @@
+Game #82026410, rated.
+Jazzercise: 45.17
+ildi.zaja: 40.87
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+i starts with 7 Coppers.
+i starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Research.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - ildi.zaja
+i plays 3 Coppers. (+$3)
+i buys and gains a Silver.
+i draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Dungeon.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Research.
+
+Turn 2 - ildi.zaja
+i plays 4 Coppers. (+$4)
+i buys and gains a Silver.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Research.
+J gets +1 Action.
+J trashes an Estate.
+J sets 2 Coppers aside.
+J plays 2 Coppers. (+$2)
+J draws 3 Coppers, an Estate and a Dungeon.
+
+Turn 3 - ildi.zaja
+i plays 3 Coppers. (+$3)
+i buys and gains a Silver.
+i draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J puts 2 Coppers into their hand.
+J plays a Dungeon.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Copper and an Estate.
+J discards 2 Estates.
+J plays 6 Coppers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Coppers, a Gold and an Estate.
+
+Turn 4 - ildi.zaja
+i plays 2 Silvers and 2 Coppers. (+$6)
+i buys and gains a Gold.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J draws 2 Coppers.
+J discards a Copper and an Estate.
+J plays a Gold and 4 Coppers. (+$7)
+J buys and gains a Butcher.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Research.
+
+Turn 5 - ildi.zaja
+i plays a Silver and 3 Coppers. (+$5)
+i buys and gains a Butcher.
+i draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Research.
+J gets +1 Action.
+J trashes an Estate.
+J sets a Copper and an Estate aside.
+J plays 3 Coppers. (+$3)
+J buys and gains a Watchtower.
+J draws 2 Coppers, a Gold, a Butcher and a Dungeon.
+
+Turn 6 - ildi.zaja
+i plays a Gold and 3 Coppers. (+$6)
+i buys and gains a Gold.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J puts a Copper and an Estate into their hand.
+J plays a Dungeon.
+J gets +1 Action.
+J shuffles their deck.
+J draws 2 Coppers.
+J discards 2 Coppers.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes an Estate.
+J uses 2 Coffers. (+$2)
+J gains a Scavenger.
+J plays a Gold and 3 Coppers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Coppers, a Gold and a Watchtower.
+
+Turn 7 - ildi.zaja
+i plays 3 Silvers and a Copper. (+$7)
+i buys and gains a Gold.
+i draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J draws a Copper and a Scavenger.
+J discards a Copper and a Watchtower.
+J plays a Scavenger.
+J gets +$2.
+J looks at a Copper and a Watchtower.
+J looks at a Copper and a Watchtower.
+J topdecks a Watchtower.
+J plays a Gold and 3 Coppers. (+$6)
+J buys and gains a Province.
+J draws a Copper, a Gold, a Watchtower, a Butcher and a Research.
+
+Turn 8 - ildi.zaja
+i plays a Butcher.
+i gets +2 Coffers.
+i trashes a Copper.
+i uses 2 Coffers. (+$2)
+i gains a Candlestick Maker.
+i plays 2 Coppers. (+$2)
+i buys and gains a Candlestick Maker.
+i draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Research.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Watchtower.
+J uses 2 Coffers. (+$2)
+J gains a Butcher.
+J plays a Gold. (+$3)
+J buys and gains a Dungeon.
+J shuffles their deck.
+J draws 3 Coppers, a Scavenger and a Research.
+
+Turn 9 - ildi.zaja
+i plays 2 Golds and 2 Coppers. (+$8)
+i buys and gains a Province.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Research.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Scavenger.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J draws 2 Coppers, a Gold and 2 Butchers.
+
+Turn 10 - ildi.zaja
+i plays a Silver and 2 Coppers. (+$4)
+i buys and gains a Research.
+i draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Butcher.
+J gets +2 Coffers.
+J plays a Gold and 2 Coppers. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains a Gold.
+J draws a Copper, a Gold, a Province and 2 Dungeons.
+
+Turn 11 - ildi.zaja
+i plays a Candlestick Maker.
+i gets +1 Action.
+i gets +1 Buy.
+i gets +1 Coffers.
+i plays a Silver and 2 Coppers. (+$4)
+i buys and gains a Dungeon.
+i draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Copper and a Gold.
+J discards a Copper and a Province.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Scavenger and a Butcher.
+J discards a Copper and a Butcher.
+J plays a Scavenger.
+J gets +$2.
+J looks at a Province, 2 Coppers and a Butcher.
+J topdecks a Butcher.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J draws 2 Coppers, a Gold and 2 Butchers.
+
+Turn 12 - ildi.zaja
+i plays a Candlestick Maker.
+i gets +1 Action.
+i gets +1 Buy.
+i gets +1 Coffers.
+i plays 3 Golds and a Copper. (+$10)
+i buys and gains a Province.
+i buys and gains an Estate.
+i shuffles their deck.
+i draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Copper and a Silver.
+J discards a Copper and a Butcher.
+J shuffles their deck.
+J draws a Scavenger and a Research.
+J discards 2 Coppers.
+J plays a Research.
+J gets +1 Action.
+J trashes a Scavenger.
+J sets 3 Coppers and a Gold aside.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Gold.
+J uses 2 Coffers. (+$2)
+J gains a Province.
+J shuffles their deck.
+J draws a Copper, a Gold, 2 Provinces and a Butcher.
+
+Turn 13 - ildi.zaja
+i plays a Butcher.
+i gets +2 Coffers.
+i trashes an Estate.
+i uses 1 Coffers. (+$1)
+i gains a Dungeon.
+i plays a Silver and a Copper. (+$3)
+i buys and gains a Dungeon.
+i draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J puts 3 Coppers and a Gold into their hand.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Gold.
+J uses 2 Coffers. (+$2)
+J gains a Province.
+J plays a Gold and 4 Coppers. (+$7)
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J draws a Copper, a Province, a Butcher and 2 Dungeons.
+
+Turn 14 - ildi.zaja
+i plays a Research.
+i gets +1 Action.
+i trashes an Estate.
+i sets 2 cards aside.
+i plays 2 Coppers. (+$2)
+i uses 3 Coffers. (+$3)
+i buys and gains a Duchy.
+i draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Silver and a Province.
+J discards a Copper and a Province.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Gold and a Province.
+J discards a Silver and a Province.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Province.
+J gains a Province.
+J draws 3 Coppers, a Province and a Research.
+

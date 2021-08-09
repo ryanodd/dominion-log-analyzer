@@ -1,0 +1,609 @@
+Game #81743096, rated.
+Jazzercise: 41.73
+AnonymousQuack: 40.85
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+A starts with 7 Coppers.
+A starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - AnonymousQuack
+A plays 3 Coppers. (+$3)
+A buys and gains a Silver.
+A draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 2 - AnonymousQuack
+A plays 4 Coppers. (+$4)
+A buys and gains a Potion.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Sentry.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - AnonymousQuack
+A plays 4 Coppers and a Silver. (+$6)
+A buys and gains a Gold.
+A draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - AnonymousQuack
+A plays 3 Coppers. (+$3)
+A plays a Potion.
+A buys and gains a Familiar.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Potion.
+J draws a Copper, 2 Silvers, an Estate and a Sentry.
+
+Turn 5 - AnonymousQuack
+A plays a Copper and a Gold. (+$4)
+A buys and gains a Poacher.
+A draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Sentry.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Copper and a Silver.
+J trashes a Copper.
+J topdecks a Silver.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Sentry.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 6 - AnonymousQuack
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+J gains a Curse.
+A plays 3 Coppers and a Silver. (+$5)
+A plays a Potion.
+A buys and gains a Sentry.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Hunting Party.
+J draws 2 Coppers, a Silver and 2 Sentries.
+
+Turn 7 - AnonymousQuack
+A plays 4 Coppers. (+$4)
+A plays a Potion.
+A buys and gains a Familiar.
+A draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Sentry.
+J draws a Copper.
+J gets +1 Action.
+J looks at an Estate and a Potion.
+J trashes an Estate.
+J topdecks a Potion.
+J plays a Sentry.
+J draws a Potion.
+J gets +1 Action.
+J looks at a Copper and an Estate.
+J trashes a Copper and an Estate.
+J plays 3 Coppers and a Silver. (+$5)
+J plays a Potion.
+J buys and gains a Familiar.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Hunting Party.
+
+Turn 8 - AnonymousQuack
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+J gains a Curse.
+A plays 2 Coppers and a Gold. (+$5)
+A buys and gains a Sentry.
+A draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Hunting Party.
+J draws a Sentry.
+J gets +1 Action.
+J reveals their hand: 2 Coppers, an Estate, a Sentry and a Silver.
+J reveals a Silver and finally Familiar.
+J puts a Familiar into their hand.
+J discards a Silver.
+J plays a Familiar.
+J draws a Sentry.
+J gets +1 Action.
+A gains a Curse.
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J looks at 2 Coppers.
+J trashes 2 Coppers.
+J plays a Sentry.
+J draws a Potion.
+J gets +1 Action.
+J looks at a Copper and a Curse.
+J trashes a Curse and a Copper.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J plays a Potion.
+J buys and gains a Familiar.
+J shuffles their deck.
+J draws 3 Silvers, an Estate and a Familiar.
+
+Turn 9 - AnonymousQuack
+A plays a Poacher.
+A shuffles their deck.
+A draws a card.
+A gets +1 Action.
+A gets +$1.
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A trashes 2 Coppers.
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+J gains a Curse.
+A plays a Copper, a Gold and a Silver. (+$6)
+A buys and gains a Gold.
+A draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+A gains a Curse.
+J plays a Familiar.
+J draws a Sentry.
+J gets +1 Action.
+A gains a Curse.
+J plays a Sentry.
+J draws a Potion.
+J gets +1 Action.
+J looks at a Curse and a Hunting Party.
+J trashes a Curse.
+J topdecks a Hunting Party.
+J plays 3 Silvers. (+$6)
+J plays a Potion.
+J buys and gains a Wine Merchant.
+J shuffles their deck.
+J draws 2 Coppers, a Sentry, a Potion and a Hunting Party.
+
+Turn 10 - AnonymousQuack
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+J gains a Curse.
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A trashes a Copper and an Estate.
+A plays 3 Coppers. (+$3)
+A plays a Potion.
+A buys and gains a Familiar.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Hunting Party.
+J draws a Curse.
+J gets +1 Action.
+J reveals their hand: 2 Coppers, a Curse, a Sentry and a Potion.
+J reveals a Wine Merchant.
+J puts a Wine Merchant into their hand.
+J plays a Sentry.
+J draws a Familiar.
+J gets +1 Action.
+J looks at a Sentry and a Familiar.
+J topdecks a Sentry and a Familiar.
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+A gains a Curse.
+J plays a Familiar.
+J draws a Sentry.
+J gets +1 Action.
+A gains a Curse.
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J looks at an Estate and a Silver.
+J trashes an Estate.
+J topdecks a Silver.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Potion.
+J buys and gains a Gold.
+J ends their buy phase.
+J discards a Wine Merchant.
+J shuffles their deck.
+J draws a Copper, 3 Silvers and a Wine Merchant.
+
+Turn 11 - AnonymousQuack
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A trashes a Curse and a Copper.
+A plays a Poacher.
+A draws a card.
+A gets +1 Action.
+A gets +$1.
+A plays a Copper and a Silver. (+$3)
+A plays a Potion.
+A buys and gains a Silver.
+A draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays a Copper and 3 Silvers. (+$7)
+J buys and gains a Hunting Party.
+J buys and gains a Silver.
+J ends their buy phase.
+J discards a Wine Merchant.
+J draws a Copper, a Sentry, a Familiar, a Potion and a Hunting Party.
+
+Turn 12 - AnonymousQuack
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+J gains a Curse.
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A discards a Familiar.
+A topdecks a card.
+A plays 2 Coppers and a Gold. (+$5)
+A buys and gains a Sentry.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Sentry.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Gold and a Familiar.
+J topdecks a Gold and a Familiar.
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Gold.
+J gets +1 Action.
+J plays a Sentry.
+J draws a Curse.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Copper and a Curse.
+J trashes a Curse and a Copper.
+J plays a Hunting Party.
+J draws a Silver.
+J gets +1 Action.
+J reveals their hand: a Copper, a Curse, a Gold, a Silver and a Potion.
+J reveals a Curse and 3 Silvers and finally Hunting Party.
+J puts a Hunting Party into their hand.
+J discards a Curse and 3 Silvers.
+J plays a Hunting Party.
+J draws a Wine Merchant.
+J gets +1 Action.
+J reveals their hand: a Copper, a Curse, a Gold, a Silver, a Potion and a Wine Merchant.
+J shuffles their deck.
+J reveals a Curse and 3 Silvers.
+J discards a Curse and 3 Silvers.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays a Copper, a Gold and a Silver. (+$6)
+J plays a Potion.
+J buys and gains a Province.
+J ends their buy phase.
+J discards a Wine Merchant.
+J shuffles their deck.
+J draws a Curse, a Silver, a Sentry, a Potion and a Hunting Party.
+
+Turn 13 - AnonymousQuack
+A plays 3 Coppers and a Gold. (+$6)
+A buys and gains a Gold.
+A draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Sentry.
+J draws a Familiar.
+J gets +1 Action.
+J looks at a Hunting Party and a Familiar.
+J topdecks a Familiar and a Hunting Party.
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Hunting Party.
+J gets +1 Action.
+J plays a Hunting Party.
+J draws a Silver.
+J gets +1 Action.
+J reveals their hand: a Curse, a Hunting Party, 2 Silvers and a Potion.
+J reveals a Wine Merchant.
+J puts a Wine Merchant into their hand.
+J plays a Hunting Party.
+J draws a Sentry.
+J gets +1 Action.
+J reveals their hand: a Curse, a Sentry, 2 Silvers, a Potion and a Wine Merchant.
+J reveals a Curse and 2 Silvers and finally Gold.
+J puts a Gold into their hand.
+J discards a Curse and 2 Silvers.
+J plays a Sentry.
+J draws a Province.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Copper and a Silver.
+J trashes a Copper.
+J topdecks a Silver.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays a Gold and 2 Silvers. (+$7)
+J plays a Potion.
+J buys and gains a Province.
+J ends their buy phase.
+J discards a Wine Merchant.
+J shuffles their deck.
+J draws a Curse, 2 Silvers and 2 Provinces.
+
+Turn 14 - AnonymousQuack
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A trashes a Curse.
+A topdecks a card.
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays a Poacher.
+A draws a card.
+A gets +1 Action.
+A gets +$1.
+A discards a Curse.
+A plays a Gold and a Silver. (+$5)
+A plays a Potion.
+A buys and gains a Hunting Party.
+A draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays 2 Silvers. (+$4)
+J buys Seize The Day.
+J draws a Silver, a Gold, a Sentry, a Familiar and a Potion.
+
+Turn 15 - Jazzercise [Seize The Day]
+J plays a Sentry.
+J draws a Hunting Party.
+J gets +1 Action.
+J looks at a Curse and a Familiar.
+J trashes a Curse.
+J topdecks a Familiar.
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Sentry.
+J gets +1 Action.
+J plays a Sentry.
+J draws a Silver.
+J gets +1 Action.
+J looks at a Hunting Party and a Wine Merchant.
+J topdecks a Hunting Party and a Wine Merchant.
+J plays a Hunting Party.
+J draws a Wine Merchant.
+J gets +1 Action.
+J reveals their hand: a Gold, 2 Silvers, a Potion and a Wine Merchant.
+J reveals a Hunting Party.
+J puts a Hunting Party into their hand.
+J plays a Hunting Party.
+J shuffles their deck.
+J draws a Curse.
+J gets +1 Action.
+J reveals their hand: a Curse, a Gold, 2 Silvers, a Potion and a Wine Merchant.
+J reveals a Province.
+J puts a Province into their hand.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays a Gold and 2 Silvers. (+$7)
+J plays a Potion.
+J buys and gains a Province.
+J ends their buy phase.
+J discards a Wine Merchant.
+J shuffles their deck.
+J draws 4 Silvers and a Province.
+
+Turn 15 - AnonymousQuack
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A shuffles their deck.
+A looks at 2 cards.
+A trashes a Curse.
+A topdecks a card.
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A topdecks 2 cards.
+A plays a Hunting Party.
+A draws a card.
+A gets +1 Action.
+A reveals their hand: 2 Estates, a Curse, a Sentry and a Silver.
+A reveals a Familiar.
+A puts a Familiar into their hand.
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A trashes a Curse.
+A topdecks a card.
+A plays a Copper, a Gold and a Silver. (+$6)
+A buys Seize The Day.
+A draws 5 cards.
+
+Turn 15 - AnonymousQuack [Seize The Day]
+A plays a Poacher.
+A draws a card.
+A gets +1 Action.
+A gets +$1.
+A discards a Potion.
+A plays 2 Coppers, a Gold and a Silver. (+$7)
+A buys and gains a Province.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays 4 Silvers. (+$8)
+J buys and gains a Province.
+J draws a Province, 2 Sentries, a Familiar and a Potion.
+
+Turn 16 - AnonymousQuack
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays 2 Golds and a Silver. (+$8)
+A buys and gains a Province.
+A draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Sentry.
+J draws a Province.
+J gets +1 Action.
+J looks at a Wine Merchant and a Familiar.
+J topdecks a Familiar and a Wine Merchant.
+J plays a Familiar.
+J draws a Familiar.
+J gets +1 Action.
+J plays a Familiar.
+J draws a Wine Merchant.
+J gets +1 Action.
+J plays a Sentry.
+J draws a Hunting Party.
+J gets +1 Action.
+J looks at a Curse and a Gold.
+J trashes a Curse.
+J topdecks a Gold.
+J plays a Hunting Party.
+J draws a Gold.
+J gets +1 Action.
+J reveals their hand: 2 Provinces, a Gold, a Potion and a Wine Merchant.
+J reveals a Hunting Party.
+J puts a Hunting Party into their hand.
+J plays a Hunting Party.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J reveals their hand: 2 Provinces, a Gold, a Silver, a Potion and a Wine Merchant.
+J reveals 2 Provinces and 3 Silvers.
+J discards 3 Silvers and 2 Provinces.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays a Gold and a Silver. (+$5)
+J plays a Potion.
+J buys and gains a Province.
+J shuffles their deck.
+J draws 3 Silvers, a Province and a Hunting Party.
+
+Turn 17 - AnonymousQuack
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A topdecks 2 cards.
+A plays a Hunting Party.
+A draws a card.
+A gets +1 Action.
+A reveals their hand: a Copper, 2 Estates, a Sentry and a Potion.
+A reveals a Familiar.
+A puts a Familiar into their hand.
+A plays a Sentry.
+A draws a card.
+A gets +1 Action.
+A looks at 2 cards.
+A trashes a Copper.
+A topdecks a card.
+A plays a Familiar.
+A draws a card.
+A gets +1 Action.
+A plays a Copper, a Gold and a Silver. (+$6)
+A plays a Potion.
+A buys and gains a Duchy.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Hunting Party.
+J draws a Sentry.
+J gets +1 Action.
+J reveals their hand: a Province, a Sentry and 3 Silvers.
+J reveals a Potion.
+J puts a Potion into their hand.
+J plays a Sentry.
+J draws a Gold.
+J gets +1 Action.
+J looks at 2 Provinces.
+J discards 2 Provinces.
+J plays a Gold and 3 Silvers. (+$9)
+J plays a Potion.
+J buys and gains a Province.
+J draws a Silver, 2 Provinces, a Sentry and a Familiar.
+

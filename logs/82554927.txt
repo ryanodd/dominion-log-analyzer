@@ -1,0 +1,382 @@
+Game #82554927, rated.
+Jazzercise: 46.15
+nmhk: 41.12
+
+Kingdom generated with these relative percentages:
+50%: Way of the Mole and Council Room
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+n starts with 7 Coppers.
+n starts with 3 Estates.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains an Embargo.
+J draws 5 Coppers.
+
+Turn 1 - nmhk
+n plays 4 Coppers. (+$4)
+n buys and gains a Camel Train.
+n exiles a Gold.
+n draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Cartographer.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - nmhk
+n plays 3 Coppers. (+$3)
+n buys and gains a Steward.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Steward.
+J draws 3 Coppers, an Estate and an Embargo.
+
+Turn 3 - nmhk
+n plays a Camel Train.
+n exiles a Wine Merchant.
+n plays 3 Coppers. (+$3)
+n buys and gains an Experiment.
+n gains an Experiment.
+n draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Embargo.
+J gets +$2.
+J trashes an Embargo.
+J plays 3 Coppers. (+$3)
+J buys and gains a Steward.
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Steward and a Cartographer.
+
+Turn 4 - nmhk
+n plays 3 Coppers. (+$3)
+n buys and gains an Embargo.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Cartographer.
+J draws an Estate.
+J gets +1 Action.
+J looks at 4 Coppers.
+J discards 4 Coppers.
+J plays a Steward.
+J trashes 2 Estates.
+J shuffles their deck.
+J draws 4 Coppers and a Steward.
+
+Turn 5 - nmhk
+n plays a Steward.
+n gets +$2.
+n plays 3 Coppers. (+$3)
+n buys a Wine Merchant.
+n gains a Curse.
+n gains a Wine Merchant.
+n discards a Wine Merchant from Exile.
+n draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Steward.
+J trashes 2 Coppers.
+J plays 2 Coppers. (+$2)
+J draws 2 Coppers, an Estate, a Steward and a Cartographer.
+
+Turn 6 - nmhk
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays an Embargo.
+n gets +$2.
+n trashes an Embargo.
+n plays a Copper. (+$1)
+n buys and gains an Experiment.
+n gains an Experiment.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Cartographer.
+J draws a Copper.
+J gets +1 Action.
+J shuffles their deck.
+J looks at 2 Coppers and a Steward.
+J discards 2 Coppers.
+J topdecks a Steward.
+J plays a Steward.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys and gains a Paddock.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Steward and a Cartographer.
+
+Turn 7 - nmhk
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays a Camel Train.
+n exiles a Peddler.
+n plays 5 Coppers. (+$5)
+n buys a Ferry.
+n moves -Cost token to the Peddler pile.
+n draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Cartographer.
+J draws a Copper.
+J gets +1 Action.
+J looks at 2 Coppers, a Steward and a Paddock.
+J discards 2 Coppers and a Steward.
+J topdecks a Paddock.
+J plays a Steward.
+J trashes a Copper and an Estate.
+J shuffles their deck.
+J draws 2 Coppers, a Steward, a Cartographer and a Paddock.
+
+Turn 8 - nmhk
+n plays a Wine Merchant.
+n gets +1 Buy.
+n gets +$4.
+n puts a Wine Merchant on their Tavern mat.
+n plays a Copper. (+$1)
+n buys and gains an Experiment.
+n gains an Experiment.
+n ends their buy phase.
+n discards a Wine Merchant.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Steward, a Paddock and a Horse.
+
+Turn 9 - nmhk
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays a Wine Merchant.
+n gets +1 Buy.
+n gets +$4.
+n puts a Wine Merchant on their Tavern mat.
+n plays 2 Coppers. (+$2)
+n buys and gains a Peddler.
+n discards a Peddler from Exile.
+n draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Steward.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Steward.
+J trashes a Copper and a Steward.
+J shuffles their deck.
+J draws a Copper, a Silver, a Cartographer, a Paddock and a Horse.
+
+Turn 10 - nmhk
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays a Wine Merchant.
+n gets +1 Buy.
+n gets +$4.
+n puts a Wine Merchant on their Tavern mat.
+n plays 4 Coppers. (+$4)
+n buys and gains a Peddler.
+n ends their buy phase.
+n discards 2 Wine Merchants.
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Cartographer.
+J draws a Steward.
+J gets +1 Action.
+J looks at 2 Coppers.
+J topdecks 2 Coppers.
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Steward, a Paddock and a Horse.
+
+Turn 11 - nmhk
+n plays a Peddler.
+n draws a card.
+n gets +1 Action.
+n gets +$1.
+n plays 2 Coppers. (+$2)
+n buys and gains an Experiment.
+n gains an Experiment.
+n draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Horse.
+J draws a Cartographer and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Cartographer.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Copper and a Gold.
+J discards a Copper.
+J topdecks a Gold.
+J plays a Horse.
+J shuffles their deck.
+J draws a Copper and a Gold.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Steward.
+J trashes 2 Coppers.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Silver, 2 Golds, a Cartographer and a Paddock.
+
+Turn 12 - nmhk
+n plays a Peddler.
+n draws a card.
+n gets +1 Action.
+n gets +$1.
+n plays a Wine Merchant.
+n gets +1 Buy.
+n gets +$4.
+n puts a Wine Merchant on their Tavern mat.
+n plays a Copper. (+$1)
+n buys and gains a Peddler.
+n ends their buy phase.
+n discards a Wine Merchant.
+n draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Cartographer.
+J draws a Steward.
+J gets +1 Action.
+J looks at a Copper.
+J discards a Copper.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Silver, a Cartographer, a Paddock and a Horse.
+
+Turn 13 - nmhk
+n plays a Peddler.
+n draws a card.
+n gets +1 Action.
+n gets +$1.
+n plays a Steward.
+n trashes 2 Coppers.
+n plays 2 Coppers. (+$2)
+n shuffles their deck.
+n draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Cartographer.
+J draws a Gold.
+J gets +1 Action.
+J looks at a Horse, a Gold, a Province and a Steward.
+J discards a Province and a Steward.
+J topdecks a Gold and a Horse.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, a Cartographer, a Paddock and 2 Horses.
+
+Turn 14 - nmhk
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays a Peddler.
+n draws a card.
+n gets +1 Action.
+n gets +$1.
+n plays a Peddler.
+n draws a card.
+n gets +1 Action.
+n gets +$1.
+n plays a Wine Merchant.
+n gets +1 Buy.
+n gets +$4.
+n puts a Wine Merchant on their Tavern mat.
+n plays 2 Coppers. (+$2)
+n buys and gains 2 Peddlers.
+n ends their buy phase.
+n discards a Wine Merchant.
+n draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Cartographer.
+J draws a Province.
+J gets +1 Action.
+J looks at a Copper, a Horse, a Province and a Silver.
+J discards a Copper, a Province and a Horse.
+J topdecks a Silver.
+J plays a Horse.
+J draws a Silver and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Gold and a Steward.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Paddock.
+J gets +$2.
+J gains 2 Horses.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Provinces, a Paddock and 2 Horses.
+
+Turn 15 - nmhk
+n plays an Experiment.
+n draws 2 cards.
+n gets +1 Action.
+n returns an Experiment to the Experiment pile.
+n plays a Peddler.
+n draws a card.
+n gets +1 Action.
+n gets +$1.
+n plays a Steward.
+n trashes a Copper and an Estate.
+

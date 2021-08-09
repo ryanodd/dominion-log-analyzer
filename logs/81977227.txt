@@ -1,0 +1,623 @@
+Game #81977227, rated.
+Jazzercise: 44.89
+Bg193: 42.05
+
+
+J gets +1 Coffers.
+B gets +1 Coffers.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+B starts with 7 Coppers.
+B starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Temple.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Bg193
+B plays 3 Coppers. (+$3)
+B buys and gains a Market Square.
+B draws 5 cards.
+
+Turn 2 - Jazzercise
+J uses 1 Coffers. (+$1)
+J plays 3 Coppers. (+$3)
+J buys and gains a Temple.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Temple.
+
+Turn 2 - Bg193
+B uses 1 Coffers. (+$1)
+B plays 4 Coppers. (+$4)
+B buys and gains a Baker.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Temple.
+J gets 1 VP.
+J trashes a Copper and an Estate.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Bg193
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays 4 Coppers. (+$4)
+B buys and gains a Temple.
+B takes 1 VP from the Temple pile.
+B draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J moves 1 VP from the Silver pile to Aqueduct.
+J shuffles their deck.
+J draws 3 Coppers and 2 Temples.
+
+Turn 4 - Bg193
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays 3 Coppers. (+$3)
+B buys and gains a Market Square.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Temple.
+J gets 1 VP.
+J trashes a Copper.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - Bg193
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays 4 Coppers. (+$4)
+B buys and gains a Temple.
+B takes 1 VP from the Temple pile.
+B draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Baker.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Temples.
+
+Turn 6 - Bg193
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Temple.
+B gets 1 VP.
+B trashes an Estate.
+B plays 3 Coppers. (+$3)
+B buys and gains a Market Square.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Temple.
+J gets 1 VP.
+J trashes a Copper, an Estate and a Temple.
+J draws 3 Coppers, a Silver and a Baker.
+
+Turn 7 - Bg193
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays 4 Coppers. (+$4)
+B buys and gains a Temple.
+B takes 2 VP from the Temple pile.
+B draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Baker.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Cavalry.
+J shuffles their deck.
+J draws a Copper and a Temple.
+J gets +1 Buy.
+J plays a Temple.
+J gets 1 VP.
+J trashes a Copper and an Estate.
+J shuffles their deck.
+J draws a Copper, a Silver, a Baker, a Temple and a Cavalry.
+
+Turn 8 - Bg193
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Temple.
+B gets 1 VP.
+B trashes an Estate.
+B plays 2 Coppers. (+$2)
+B uses 1 Coffers. (+$1)
+B buys and gains a Black Market.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Baker.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Destrier.
+J shuffles their deck.
+J draws 2 Coppers, a Temple, a Destrier and a Horse.
+
+Turn 9 - Bg193
+B plays a Temple.
+B gets 1 VP.
+B trashes a Copper.
+B reacts with a Market Square.
+B discards a Market Square.
+B gains a Gold.
+B moves 1 VP from the Gold pile to Aqueduct.
+B plays a Copper. (+$1)
+B uses 2 Coffers. (+$2)
+B buys and gains a Silver.
+B moves 1 VP from the Silver pile to Aqueduct.
+B draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Destrier.
+J draws a Copper and a Silver.
+J gets +1 Action.
+J plays a Temple.
+J gets 1 VP.
+J trashes a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Temple.
+J takes 4 VP from the Temple pile.
+J shuffles their deck.
+J draws a Copper, a Baker, a Temple, a Cavalry and a Horse.
+
+Turn 10 - Bg193
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Temple.
+B gets 1 VP.
+B trashes a Copper and an Estate.
+B reacts with a Market Square.
+B discards a Market Square.
+B gains a Gold.
+B moves 1 VP from the Gold pile to Aqueduct.
+B draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Baker.
+J draws a Destrier.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Destrier.
+J draws a Silver and a Horse.
+J gets +1 Action.
+J plays a Horse.
+J draws a Copper and a Temple.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Temple.
+J gets 1 VP.
+J trashes a Copper and a Temple.
+J plays a Silver and a Copper. (+$3)
+J uses 3 Coffers. (+$3)
+J buys and gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+J shuffles their deck.
+J draws a Silver, a Baker, a Temple, a Cavalry and a Destrier.
+
+Turn 11 - Bg193
+B plays a Market Square.
+B shuffles their deck.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Black Market.
+B gets +$2.
+B reveals a Smugglers, an Embargo and a Port.
+B plays 2 Coppers. (+$2)
+B gains a Port.
+B puts an Embargo and a Smugglers on the bottom of the Black Market Deck.
+B plays a Gold and a Copper. (+$4)
+B uses 1 Coffers. (+$1)
+B buys and gains a Destrier.
+B draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Destrier.
+J draws a Gold and a Horse.
+J gets +1 Action.
+J plays a Baker.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Gold, a Silver and a Copper. (+$6)
+J buys and gains a Gold.
+J moves 1 VP from the Gold pile to Aqueduct.
+J shuffles their deck.
+J draws a Temple, a Cavalry and 3 Horses.
+
+Turn 12 - Bg193
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Temple.
+B gets 1 VP.
+B trashes a Copper.
+B reacts with a Market Square.
+B discards a Market Square.
+B gains a Gold.
+B moves 1 VP from the Gold pile to Aqueduct.
+B reacts with a Market Square.
+B discards a Market Square.
+B gains a Gold.
+B moves 1 VP from the Gold pile to Aqueduct.
+B plays a Gold. (+$3)
+B buys and gains an Estate.
+B takes 8 VP from Aqueduct.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Horse.
+J draws a Silver and a Gold.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Gold and a Destrier.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Destrier.
+J draws a Copper and a Baker.
+J gets +1 Action.
+J plays a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 2 Golds, a Silver and a Copper. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Province, a Baker, a Cavalry and a Horse.
+
+Turn 13 - Bg193
+B plays a Temple.
+B gets 1 VP.
+B trashes a Copper.
+B plays a Gold and a Silver. (+$5)
+B buys a Seaway.
+B gains a Temple.
+B takes 4 VP from the Temple pile.
+B moves +Buy token to the Temple pile.
+B draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Baker.
+J draws a Temple.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Horse.
+J draws 2 Horses.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Gold and a Destrier.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Destrier.
+J draws a Copper and a Gold.
+J gets +1 Action.
+J plays a Temple.
+J gets 1 VP.
+J trashes a Copper.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, a Province, a Baker, a Temple and a Destrier.
+
+Turn 14 - Bg193
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Temple.
+B gets +1 Buy (from Seaway).
+B gets 1 VP.
+B trashes a Copper and an Estate.
+B plays a Gold and a Copper. (+$4)
+B buys and gains a Temple.
+B takes 2 VP from the Temple pile.
+B draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Baker.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Destrier.
+J draws a Province and a Cavalry.
+J gets +1 Action.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Destrier.
+J shuffles their deck.
+J draws a Gold, a Baker, a Temple, a Destrier and a Horse.
+
+Turn 15 - Bg193
+B plays a Destrier.
+B draws 2 cards.
+B gets +1 Action.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Port.
+B shuffles their deck.
+B draws a card.
+B gets +2 Actions.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Black Market.
+B gets +$2.
+B reveals a Hunting Grounds, a Ducat and a Villa.
+B plays a Gold. (+$3)
+B gains a Villa.
+B puts a Villa into their hand.
+B gets +1 Action.
+B puts a Hunting Grounds and a Ducat on the bottom of the Black Market Deck.
+B plays a Villa.
+B gets +2 Actions.
+B gets +1 Buy.
+B gets +$1.
+B plays a Temple.
+B gets +1 Buy (from Seaway).
+B gets 1 VP.
+B trashes a Copper.
+B plays a Gold and a Copper. (+$4)
+B uses 2 Coffers. (+$2)
+B buys and gains a Province.
+B draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Destrier.
+J draws 2 Provinces.
+J gets +1 Action.
+J plays a Baker.
+J draws a Horse.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Horse.
+J draws a Silver and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Gold and a Cavalry.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Province, a Baker, a Destrier and a Horse.
+
+Turn 16 - Bg193
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Temple.
+B gets +1 Buy (from Seaway).
+B gets 1 VP.
+B trashes a Temple.
+B plays a Gold and a Silver. (+$5)
+B buys and gains a Baker.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Destrier.
+J draws a Destrier and a Horse.
+J gets +1 Action.
+J plays a Destrier.
+J draws a Gold and a Temple.
+J gets +1 Action.
+J plays a Baker.
+J draws a Province.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Horse.
+J draws a Province and a Cavalry.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Gold and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Gold, a Province, a Cavalry and a Horse.
+
+Turn 17 - Bg193
+B plays a Port.
+B draws a card.
+B gets +2 Actions.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Temple.
+B gets +1 Buy (from Seaway).
+B gets 1 VP.
+B trashes a Temple.
+B plays 2 Golds and a Silver. (+$8)
+B uses 1 Coffers. (+$1)
+B buys and gains a Temple.
+B takes 3 VP from the Temple pile.
+B buys and gains a Destrier.
+B draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Horse.
+J draws a Baker and a Destrier.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Destrier.
+J draws 2 Provinces.
+J gets +1 Action.
+J plays a Baker.
+J draws a Gold.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J draws a Province, a Temple, a Destrier and 2 Horses.
+
+Turn 18 - Bg193
+B plays a Villa.
+B gets +2 Actions.
+B gets +1 Buy.
+B gets +$1.
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Temple.
+B gets +1 Buy (from Seaway).
+B gets 1 VP.
+B trashes a Copper.
+B plays a Gold. (+$3)
+B uses 1 Coffers. (+$1)
+B buys and gains a Duchy.
+B draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Destrier.
+J shuffles their deck.
+J draws 2 Provinces.
+J gets +1 Action.
+J plays a Horse.
+J draws a Cavalry and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Gold and a Destrier.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Destrier.
+J draws a Silver and a Baker.
+J gets +1 Action.
+J plays a Baker.
+J draws a Province.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Temple.
+J gets 1 VP.
+J trashes a Cavalry.
+J plays a Gold and a Silver. (+$5)
+J buys a Seaway.
+J gains a Temple.
+J takes 2 VP from the Temple pile.
+J moves +Buy token to the Temple pile.
+J shuffles their deck.
+J draws a Gold, 2 Provinces, a Destrier and a Horse.
+
+Turn 19 - Bg193
+B plays a Destrier.
+B shuffles their deck.
+B draws 2 cards.
+B gets +1 Action.
+B plays a Port.
+B draws a card.
+B gets +2 Actions.
+B plays a Baker.
+B draws a card.
+B gets +1 Action.
+B gets +1 Coffers.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Market Square.
+B draws a card.
+B gets +1 Action.
+B gets +1 Buy.
+B plays a Black Market.
+B gets +$2.
+B reveals a Capital, a Displace and a Church.
+B puts a Capital, a Church and a Displace on the bottom of the Black Market Deck.
+B plays a Temple.
+B gets +1 Buy (from Seaway).
+B gets 1 VP.
+B trashes a Temple.
+B plays a Gold and a Silver. (+$5)
+B uses 1 Coffers. (+$1)
+B buys and gains a Province.
+B draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Destrier.
+J draws a Province and a Temple.
+J gets +1 Action.
+J plays a Horse.
+J draws a Gold and a Province.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Temple.
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J trashes a Gold.
+J plays a Gold. (+$3)
+J uses 8 Coffers. (+$8)
+J buys and gains a Province.
+J buys and gains an Estate.
+J draws a Silver, a Province, a Temple, a Destrier and a Horse.
+

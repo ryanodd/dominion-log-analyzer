@@ -1,0 +1,599 @@
+Game #81915965, rated.
+Rayce_Ravenser: 48.12
+Jazzercise: 44.66
+
+
+R starts with 7 Coppers.
+R starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+R shuffles their deck.
+R draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Rayce_Ravenser
+R plays 4 Coppers. (+$4)
+R buys and gains a Fisherman.
+R moves 1 VP from the Fisherman pile to Defiled Shrine.
+R draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Rayce_Ravenser
+R plays 3 Coppers. (+$3)
+R buys and gains a Lighthouse.
+R moves 1 VP from the Lighthouse pile to Defiled Shrine.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - Rayce_Ravenser
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays 3 Coppers. (+$3)
+R buys and gains a Potion.
+R draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Kiln.
+J moves 1 VP from the Kiln pile to Defiled Shrine.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 4 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 4 Coppers. (+$4)
+R buys a Fisherman.
+R takes 2 VP from Colonnade.
+R gains a Fisherman.
+R moves 1 VP from the Fisherman pile to Defiled Shrine.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Kiln.
+J moves 1 VP from the Kiln pile to Defiled Shrine.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 5 - Rayce_Ravenser
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays a Copper. (+$1)
+R plays a Potion.
+R buys a Lighthouse.
+R takes 2 VP from Colonnade.
+R gains a Lighthouse.
+R moves 1 VP from the Lighthouse pile to Defiled Shrine.
+R draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Estate and a Kiln.
+
+Turn 6 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 4 Coppers. (+$4)
+R buys a Fisherman.
+R takes 2 VP from Colonnade.
+R gains a Fisherman.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Kiln.
+J gets +$2.
+J plays a Silver. (+$2)
+J gains a Silver.
+J plays 2 Coppers. (+$2)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Gold and a Kiln.
+
+Turn 7 - Rayce_Ravenser
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays 3 Coppers. (+$3)
+R buys a Fisherman.
+R takes 2 VP from Colonnade.
+R gains a Fisherman.
+R draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Kiln.
+J gets +$2.
+J plays a Gold. (+$3)
+J gains a Gold.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Province.
+J draws 4 Coppers and an Estate.
+
+Turn 8 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 3 Coppers. (+$3)
+R plays a Potion.
+R buys and gains an Alchemist.
+R moves 1 VP from the Alchemist pile to Defiled Shrine.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Curse.
+J takes 7 VP from Defiled Shrine.
+J gains a Curse.
+J draws a Copper, 2 Silvers and 2 Estates.
+
+Turn 9 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 2 Coppers. (+$2)
+R buys a Fisherman.
+R takes 2 VP from Colonnade.
+R gains a Fisherman.
+R draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Bridge Troll.
+J moves 1 VP from the Bridge Troll pile to Defiled Shrine.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Kiln.
+
+Turn 10 - Rayce_Ravenser
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 3 Coppers. (+$3)
+R plays a Potion.
+R buys and gains an Alchemist.
+R moves 1 VP from the Alchemist pile to Defiled Shrine.
+R draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Kiln.
+J gets +$2.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Gold.
+J draws a Copper, a Silver, 2 Estates and a Kiln.
+
+Turn 11 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays a Fisherman.
+R shuffles their deck.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 3 Coppers. (+$3)
+R plays a Potion.
+R buys an Alchemist.
+R takes 2 VP from Colonnade.
+R gains an Alchemist.
+R topdecks an Alchemist.
+R draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Kiln.
+J gets +$2.
+J plays a Silver. (+$2)
+J gains a Silver.
+J plays a Copper. (+$1)
+J buys and gains a Bridge Troll.
+J moves 1 VP from the Bridge Troll pile to Defiled Shrine.
+J draws a Curse, a Copper, a Silver, a Gold and a Bridge Troll.
+
+Turn 12 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Fisherman.
+R shuffles their deck.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 4 Coppers. (+$4)
+R buys and gains an Expand.
+R moves 1 VP from the Expand pile to Defiled Shrine.
+R draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains an Expand.
+J moves 1 VP from the Expand pile to Defiled Shrine.
+J draws a Copper, a Silver, a Gold, an Estate and a Province.
+
+Turn 13 - Rayce_Ravenser
+R plays a Lighthouse.
+R gets +1 Action.
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays an Alchemist.
+R shuffles their deck.
+R draws 2 cards.
+R gets +1 Action.
+R plays 3 Coppers. (+$3)
+R plays a Potion.
+R buys a Curse.
+R takes 5 VP from Defiled Shrine.
+R gains a Curse.
+R topdecks an Alchemist.
+R draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Gold.
+J buys and gains a Pawn.
+J moves 1 VP from the Pawn pile to Defiled Shrine.
+J shuffles their deck.
+J draws a Curse, 3 Coppers and a Silver.
+
+Turn 14 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays an Expand.
+R trashes an Estate.
+R gains a Duchy.
+R plays 4 Coppers. (+$4)
+R buys and gains a Kiln.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Fisherman.
+J draws a Copper, a Silver, an Estate and 2 Bridge Trolls.
+
+Turn 15 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 3 Coppers. (+$3)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Pawn.
+J moves 1 VP from the Pawn pile to Defiled Shrine.
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 16 - Rayce_Ravenser
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays 3 Coppers. (+$3)
+R plays a Potion.
+R buys and gains an Alchemist.
+R topdecks an Alchemist.
+R draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Gold.
+J buys and gains a Pawn.
+J draws 2 Golds, a Pawn, an Expand and a Kiln.
+
+Turn 17 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays an Alchemist.
+R shuffles their deck.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays an Expand.
+R trashes a Curse.
+R gains a Fisherman.
+R plays 2 Coppers. (+$2)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Pawn.
+J draws a Silver.
+J gets +1 Action.
+J plays an Expand.
+J trashes a Kiln.
+J gains a Province.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J draws 2 Golds, an Estate, a Province and a Kiln.
+
+Turn 18 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 4 Coppers and a Gold. (+$7)
+R plays a Potion.
+R buys and gains a Province.
+R topdecks an Alchemist.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Kiln.
+J gets +$2.
+J plays a Gold. (+$3)
+J gains a Gold.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, 2 Provinces and a Pawn.
+
+Turn 19 - Rayce_Ravenser
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Kiln.
+R gets +$2.
+R plays a Potion.
+R gains a Potion.
+R plays a Copper. (+$1)
+R buys and gains an Alchemist.
+R topdecks an Alchemist.
+R draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Pawn.
+J draws a Silver.
+J gets +1 Action.
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Curse.
+J takes 2 VP from Defiled Shrine.
+J gains a Curse.
+J draws 2 Coppers, a Gold, an Estate and a Pawn.
+
+Turn 20 - Rayce_Ravenser
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays an Expand.
+R trashes a Copper.
+R gains a Pawn.
+R plays a Copper and 2 Golds. (+$7)
+R buys and gains a Province.
+R draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Pawn.
+J draws a Copper.
+J gets +1 Action.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Duchy.
+J draws a Copper, 2 Silvers, an Estate and a Fisherman.
+
+Turn 21 - Rayce_Ravenser
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays an Alchemist.
+R shuffles their deck.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Lighthouse.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays 4 Coppers and a Gold. (+$7)
+R buys and gains a Province.
+R draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays a Fisherman.
+J draws an Expand.
+J gets +1 Action.
+J gets +$1.
+J plays an Expand.
+J trashes an Estate.
+J gains a Duchy.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Duchy.
+J draws a Silver, a Gold, an Estate, a Province and a Pawn.
+
+Turn 22 - Rayce_Ravenser
+R starts their turn.
+R gets +$1.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Pawn.
+R draws a card.
+R gets +1 Action.
+R plays an Alchemist.
+R draws 2 cards.
+R gets +1 Action.
+R plays a Fisherman.
+R draws a card.
+R gets +1 Action.
+R gets +$1.
+R plays an Expand.
+R trashes a Fisherman.
+R gains a Province.
+R plays 2 Coppers. (+$2)
+R plays 2 Potions.
+R buys and gains an Alchemist.
+R topdecks 2 Alchemists.
+R draws 5 cards.
+

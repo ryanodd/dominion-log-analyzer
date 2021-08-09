@@ -1,0 +1,373 @@
+Game #81709987, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Fisherman.
+J draws 5 Coppers.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Sanctuary.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Fisherman.
+J draws 2 Coppers, 2 Estates and a Fisherman.
+
+Turn 4 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Butcher.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys Silos.
+J shuffles their deck.
+J draws 3 Estates, a Fisherman and a Sanctuary.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Butcher.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J plays a Sanctuary.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles an Estate.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J buys and gains a Fisherman.
+J draws 4 Coppers and a Fisherman.
+
+Turn 6 - Lord Rattington
+L plays a Butcher.
+L gets +2 Coffers.
+L trashes an Estate.
+L uses 1 Coffers. (+$1)
+L gains a Silver.
+L plays 2 Coppers and a Silver. (+$4)
+L uses 1 Coffers. (+$1)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J discards and reveals 4 Coppers.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and a Sanctuary (Silos).
+J plays a Fisherman.
+J draws a Fisherman.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Sanctuary.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Fisherman.
+J buys and gains a Peddler.
+J draws 3 Coppers, an Estate and a Fisherman.
+
+Turn 7 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J discards and reveals 3 Coppers.
+J shuffles their deck.
+J draws 2 Coppers and a Fisherman (Silos).
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Fisherman.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Gold.
+J draws 2 Coppers, a Peddler, a Fisherman and a Sanctuary.
+
+Turn 8 - Lord Rattington
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J discards and reveals 2 Coppers.
+J shuffles their deck.
+J draws a Copper and a Fisherman (Silos).
+J plays a Fisherman.
+J draws a Fisherman.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Gold.
+J gets +1 Action.
+J gets +$1.
+J plays a Sanctuary.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles an Estate.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Butcher.
+J buys and gains a Hunting Lodge.
+J draws 4 Coppers and a Fisherman.
+
+Turn 9 - Lord Rattington
+L plays a Butcher.
+L gets +2 Coffers.
+L trashes an Estate.
+L uses 1 Coffers. (+$1)
+L gains a Silver.
+L plays 2 Coppers. (+$2)
+L uses 1 Coffers. (+$1)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J discards and reveals 4 Coppers.
+J shuffles their deck.
+J draws a Copper, a Butcher, a Fisherman and a Hunting Lodge (Silos).
+J plays a Hunting Lodge.
+J draws a Fisherman.
+J gets +2 Actions.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Gold.
+J draws 3 Coppers, a Gold and a Fisherman.
+
+Turn 10 - Lord Rattington
+L plays a Butcher.
+L gets +2 Coffers.
+L plays 3 Silvers and a Gold. (+$9)
+L uses 2 Coffers. (+$2)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J discards and reveals 3 Coppers.
+J shuffles their deck.
+J draws a Peddler, a Butcher and a Sanctuary (Silos).
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Sanctuary.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Copper.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Peddler.
+J gains a Province.
+J plays a Copper and a Gold. (+$4)
+J buys and gains 2 Peddlers.
+J draws 2 Coppers, a Gold, a Fisherman and a Hunting Lodge.
+
+Turn 11 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J discards and reveals 2 Coppers.
+J draws a Copper and a Fisherman (Silos).
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Fisherman.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Hunting Lodge.
+J shuffles their deck.
+J draws a Gold.
+J gets +2 Actions.
+J discards 3 Coppers and 2 Golds.
+J draws 3 Coppers, a Butcher and a Fisherman.
+J plays a Fisherman.
+J draws a Peddler.
+J gets +1 Action.
+J gets +$1.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Peddler.
+J gains a Province.
+J plays 3 Coppers. (+$3)
+J uses 1 Coffers. (+$1)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Province, a Peddler and a Sanctuary.
+
+Turn 12 - Lord Rattington
+L plays a Butcher.
+L gets +2 Coffers.
+L trashes a Copper.
+L uses 2 Coffers. (+$2)
+L gains an Estate.
+L plays 2 Silvers and a Gold. (+$7)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J discards and reveals 2 Coppers.
+J draws a Province and a Butcher (Silos).
+J plays a Sanctuary.
+J draws a Gold.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Province.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Peddler.
+J gains a Province.
+J plays a Gold. (+$3)
+J uses 1 Coffers. (+$1)
+J buys and gains a Peddler.
+J draws a Copper, a Gold, a Province and 2 Fishermen.
+
+Turn 13 - Lord Rattington
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J discards and reveals a Copper.
+J draws a Copper (Silos).
+J plays a Fisherman.
+J draws a Fisherman.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Fisherman.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J gets +$1.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J discards 3 Coppers, a Gold and a Province.
+J shuffles their deck.
+J draws 2 Coppers, 2 Golds and a Province.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws 2 Coppers, a Province, a Butcher and a Sanctuary.
+
+Turn 14 - Lord Rattington
+L plays a Copper, 3 Silvers and a Gold. (+$10)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J discards and reveals 2 Coppers.
+J draws a Copper and a Province (Silos).
+J plays a Sanctuary.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J exiles a Province.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Province.
+J gains a Province.
+J plays 2 Coppers. (+$2)
+J uses 6 Coffers. (+$6)
+J buys and gains a Duchy.
+J buys and gains an Estate.
+J shuffles their deck.
+J draws a Province, a Peddler, a Butcher, a Fisherman and a Sanctuary.
+

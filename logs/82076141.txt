@@ -1,0 +1,421 @@
+Game #82076141, rated.
+Osmosis Jr: 53.49
+Jazzercise: 44.85
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+O starts with 7 Coppers.
+O starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+O shuffles their deck.
+O draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Osmosis Jr
+O plays 3 Coppers. (+$3)
+O buys and gains a Goatherd.
+O draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Cavalry.
+J draws a Copper and an Estate.
+J gets +1 Buy.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Osmosis Jr
+O plays 4 Coppers. (+$4)
+O buys and gains a Cavalry.
+O shuffles their deck.
+O draws 2 cards.
+O gets +1 Buy.
+O draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Goatherd.
+J draws 2 Coppers, 2 Estates and a Cavalry.
+
+Turn 3 - Osmosis Jr
+O plays a Goatherd.
+O gets +1 Action.
+O trashes an Estate.
+O plays a Cavalry.
+O gains 2 Horses.
+O shuffles their deck.
+O draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 2 Coppers. (+$2)
+J buys and gains a Stonemason.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Stonemason and a Cavalry.
+
+Turn 4 - Osmosis Jr
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Goatherd.
+O gets +1 Action.
+O trashes an Estate.
+O plays a Cavalry.
+O gains 2 Horses.
+O plays 4 Coppers. (+$4)
+O buys and gains a Silver.
+O shuffles their deck.
+O draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Stonemason.
+J trashes a Copper.
+J draws 3 Coppers, an Estate and a Horse.
+
+Turn 5 - Osmosis Jr
+O plays 4 Coppers. (+$4)
+O buys and gains a Cavalry.
+O draws 2 cards.
+O gets +1 Buy.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Cavalry.
+O gains 2 Horses.
+O shuffles their deck.
+O draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Horse.
+J draws an Estate and a Goatherd.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Goatherd.
+J shuffles their deck.
+J draws 3 Coppers, a Goatherd and a Horse.
+
+Turn 6 - Osmosis Jr
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Goatherd.
+O gets +1 Action.
+O trashes a Copper.
+O draws a card.
+O plays a Cavalry.
+O gains 2 Horses.
+O plays 3 Coppers and a Silver. (+$5)
+O buys and gains a Butcher.
+O shuffles their deck.
+O draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Horse.
+J draws a Copper and an Estate.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes an Estate.
+J draws a Copper.
+J plays 5 Coppers. (+$5)
+J buys and gains a Royal Carriage.
+J draws a Copper, an Estate, a Stonemason, a Goatherd and a Cavalry.
+
+Turn 7 - Osmosis Jr
+O plays a Goatherd.
+O gets +1 Action.
+O trashes a Copper.
+O draws a card.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Cavalry.
+O gains 2 Horses.
+O plays 4 Coppers. (+$4)
+O buys and gains a Silver.
+O draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes an Estate.
+J shuffles their deck.
+J draws a Copper.
+J plays a Stonemason.
+J trashes a Copper.
+J draws 4 Coppers and a Goatherd.
+
+Turn 8 - Osmosis Jr
+O plays a Horse.
+O shuffles their deck.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Butcher.
+O gets +2 Coffers.
+O trashes a Cavalry.
+O uses 1 Coffers. (+$1)
+O gains a Royal Carriage.
+O plays 4 Coppers and a Silver. (+$6)
+O buys and gains a Royal Carriage.
+O shuffles their deck.
+O draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J draws a Royal Carriage.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Stonemason and a Goatherd.
+
+Turn 9 - Osmosis Jr
+O plays a Goatherd.
+O gets +1 Action.
+O trashes a Copper.
+O draws a card.
+O plays a Cavalry.
+O gains 2 Horses.
+O plays a Copper and 2 Silvers. (+$5)
+O buys Piazza.
+O draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J draws a Copper.
+J plays a Stonemason.
+J trashes a Copper.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Goatherds and a Cavalry.
+
+Turn 10 - Osmosis Jr
+O starts their turn.
+O reveals a Butcher.
+O plays a Butcher.
+O gets +2 Coffers.
+O trashes an Estate.
+O uses 2 Coffers. (+$2)
+O gains a Cavalry.
+O shuffles their deck.
+O draws 2 cards.
+O gets +1 Buy.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays 4 Coppers. (+$4)
+O buys and gains a Cavalry.
+O draws 2 cards.
+O gets +1 Buy.
+O plays a Cavalry.
+O gains 2 Horses.
+O calls a Royal Carriage.
+O plays a Cavalry again.
+O gains 2 Horses.
+O calls a Royal Carriage.
+O plays a Cavalry again.
+O gains 2 Horses.
+O plays a Silver. (+$2)
+O uses 1 Coffers. (+$1)
+O buys and gains a Goatherd.
+O draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Copper.
+J draws a Copper.
+J calls a Royal Carriage.
+J plays a Goatherd again.
+J gets +1 Action.
+J trashes a Goatherd.
+J draws a Stonemason.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Silvers, a Goatherd and a Horse.
+
+Turn 11 - Osmosis Jr
+O starts their turn.
+O shuffles their deck.
+O reveals a Goatherd.
+O plays a Goatherd.
+O gets +1 Action.
+O draws 2 cards.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays a Horse.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Goatherd.
+O gets +1 Action.
+O trashes a Copper.
+O draws 2 cards.
+O plays a Butcher.
+O gets +2 Coffers.
+O trashes a Cavalry.
+O uses 1 Coffers. (+$1)
+O gains a Royal Carriage.
+O calls a Royal Carriage.
+O plays a Butcher again.
+O gets +2 Coffers.
+O trashes a Cavalry.
+O uses 1 Coffers. (+$1)
+O gains a Royal Carriage.
+O calls a Royal Carriage.
+O plays a Butcher again.
+O gets +2 Coffers.
+O trashes a Cavalry.
+O uses 1 Coffers. (+$1)
+O gains an Artificer.
+O plays a Horse.
+O shuffles their deck.
+O draws 2 cards.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays a Horse.
+O draws a card.
+O gets +1 Action.
+O returns a Horse to the Horse pile.
+O plays an Artificer.
+O gets +1 Action.
+O gets +$1.
+O calls a Royal Carriage.
+O plays an Artificer again.
+O gets +1 Action.
+O gets +$1.
+O discards 3 other cards and a Silver.
+O gains a Cavalry.
+O shuffles their deck.
+O draws 2 cards.
+O gets +1 Buy.
+O plays a Cavalry.
+O gains 2 Horses.
+O calls a Royal Carriage.
+O plays a Cavalry again.
+O gains 2 Horses.
+O plays a Copper and a Silver. (+$3)
+O buys and gains an Artificer.
+O shuffles their deck.
+O draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Horse.
+J draws a Royal Carriage and a Cavalry.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Goatherd.
+J gets +1 Action.
+J trashes a Cavalry.
+J draws a Copper, a Stonemason and a Horse.
+J plays a Stonemason.
+J trashes a Copper.
+J plays 3 Silvers. (+$6)
+J buys and gains an Artificer.
+J shuffles their deck.
+J draws 2 Silvers, a Stonemason, an Artificer and a Goatherd.
+
+Turn 12 - Osmosis Jr
+O starts their turn.
+O reveals a Royal Carriage.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays a Goatherd.
+O gets +1 Action.
+O trashes a Copper.
+O draws 2 cards.
+O calls a Royal Carriage.
+O plays a Goatherd again.
+O gets +1 Action.
+O trashes a Copper.
+O draws 2 cards.
+O plays a Royal Carriage.
+O gets +1 Action.
+O puts a Royal Carriage on their Tavern mat.
+O plays an Artificer.
+O draws a card.
+O gets +1 Action.
+O gets +$1.
+

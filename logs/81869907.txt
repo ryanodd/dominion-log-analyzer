@@ -1,0 +1,472 @@
+Game #81869907, rated.
+Fazoole: 46
+Jazzercise: 44.82
+
+Kingdom generated with these relative percentages:
+0%: Wall, Ghost Ship, Possession, Swindler, Ambassador, Masquerade, Donate and Wolf Den
+50%: Sea Hag, Torturer, Transmute, Bandit Fort, Mountebank and Fortune Teller
+
+
+F starts with a Cursed Gold.
+F starts with 6 Coppers.
+F starts with a Hovel, a Necropolis and an Overgrown Estate.
+J starts with a Cursed Gold.
+J starts with 6 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+F shuffles their deck.
+F draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers, a Hovel, an Overgrown Estate and a Cursed Gold.
+
+Turn 1 - Fazoole
+F plays a Necropolis using Way of the Goat.
+F trashes an Overgrown Estate.
+F draws a card.
+F plays 3 Coppers. (+$3)
+F buys and gains a Silver.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys and gains a Pooka.
+J draws 4 Coppers and a Necropolis.
+
+Turn 2 - Fazoole
+F plays 4 Coppers. (+$4)
+F plays a Cursed Gold. (+$3)
+F gains a Curse.
+F buys and gains a Gold.
+F draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Necropolis using Way of the Goat.
+J trashes a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Curse, 2 Coppers, a Hovel and an Overgrown Estate.
+
+Turn 3 - Fazoole
+F plays a Necropolis using Way of the Goat.
+F trashes a Hovel.
+F plays a Silver and 2 Coppers. (+$4)
+F buys and gains a Wandering Minstrel.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 3 - Jazzercise
+J draws 3 Coppers, a Silver and a Pooka.
+
+Turn 4 - Fazoole
+F plays a Wandering Minstrel.
+F draws a card.
+F gets +2 Actions.
+F reveals 3 Coppers.
+F discards 3 Coppers.
+F plays a Necropolis using Way of the Goat.
+F trashes a Curse.
+F plays a Silver and a Copper. (+$3)
+F plays a Cursed Gold. (+$3)
+F gains a Curse.
+F buys and gains a Gold.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Pooka using Way of the Goat.
+J trashes a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Wandering Minstrel.
+J shuffles their deck.
+J draws 2 Coppers, a Necropolis, an Overgrown Estate and a Cursed Gold.
+
+Turn 5 - Fazoole
+F plays a Wandering Minstrel using Way of the Goat.
+F trashes a Curse.
+F plays a Gold and 2 Coppers. (+$5)
+F buys and gains a Spices.
+F gets +2 Coffers.
+F draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Necropolis using Way of the Goat.
+J trashes an Overgrown Estate.
+J draws a Curse.
+J plays 2 Coppers. (+$2)
+J plays a Cursed Gold. (+$3)
+J gains a Curse.
+J buys and gains a Spices.
+J gets +2 Coffers.
+J draws 2 Coppers, a Silver, a Hovel and a Wandering Minstrel.
+
+Turn 6 - Fazoole
+F plays a Gold, a Silver and 2 Coppers. (+$7)
+F buys and gains an Animal Fair.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Wandering Minstrel using Way of the Goat.
+J trashes a Hovel.
+J plays a Silver and 2 Coppers. (+$4)
+J uses 1 Coffers. (+$1)
+J buys and gains a Pillage.
+J shuffles their deck.
+J draws 2 Curses, a Copper, a Silver and a Pooka.
+
+Turn 7 - Fazoole
+F plays a Necropolis.
+F gets +2 Actions.
+F plays a Gold and 3 Coppers. (+$6)
+F buys and gains a Gold.
+F draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Pooka using Way of the Goat.
+J trashes a Curse.
+J plays a Silver and a Copper. (+$3)
+J uses 1 Coffers. (+$1)
+J buys and gains a Wandering Minstrel.
+J draws a Copper, a Pillage, a Wandering Minstrel, a Cursed Gold and a Spices.
+
+Turn 8 - Fazoole
+F plays a Wandering Minstrel.
+F draws a card.
+F gets +2 Actions.
+F reveals a Gold, a Spices and a Cursed Gold.
+F discards a Gold, a Cursed Gold and a Spices.
+F plays an Animal Fair.
+F gets +$4.
+F plays a Silver and 3 Coppers. (+$5)
+F buys and gains a Province.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Necropolis, a Pooka and a Copper.
+J topdecks a Necropolis and a Pooka.
+J discards a Copper.
+J plays a Pillage.
+J trashes a Pillage.
+F reveals their hand: a Gold, an Animal Fair, a Silver and 2 Coppers.
+F discards an Animal Fair.
+J gains 2 Spoils.
+J plays 2 Coppers. (+$2)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J buys and gains a Village Green.
+J draws a Curse, a Copper, a Necropolis, a Wandering Minstrel and a Pooka.
+
+Turn 9 - Fazoole
+F plays a Gold, a Silver and 2 Coppers. (+$7)
+F buys and gains an Animal Fair.
+F draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Silver.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Spoils, a Wandering Minstrel and a Village Green.
+J topdecks a Wandering Minstrel and a Village Green.
+J discards a Spoils.
+J plays a Necropolis using Way of the Goat.
+J trashes a Curse.
+J plays a Pooka.
+J trashes a Copper.
+J draws 2 Coppers, a Wandering Minstrel and a Village Green.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Wandering Minstrel.
+J shuffles their deck.
+J draws a Copper, 2 Spoils, a Cursed Gold and a Spices.
+
+Turn 10 - Fazoole
+F plays a Necropolis.
+F gets +2 Actions.
+F plays a Gold and a Copper. (+$4)
+F plays a Spices. (+$2)
+F gets +1 Buy.
+F plays a Cursed Gold. (+$3)
+F gains a Curse.
+F buys and gains a Province.
+F draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Copper. (+$1)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Relic.
+J buys and gains a Wandering Minstrel.
+J draws 2 Coppers, a Necropolis, a Wandering Minstrel and a Pooka.
+
+Turn 11 - Fazoole
+F plays a Gold and 3 Coppers. (+$6)
+F buys Crop Rotation.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals a Wandering Minstrel, a Silver and a Village Green.
+J topdecks a Wandering Minstrel and a Village Green.
+J discards a Silver.
+J plays a Wandering Minstrel.
+J draws a Village Green.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals 2 Wandering Minstrels and a Cursed Gold.
+J topdecks 2 Wandering Minstrels.
+J discards a Cursed Gold.
+J plays a Village Green.
+J plays a Pooka.
+J trashes a Copper.
+J draws 2 Wandering Minstrels, a Relic and a Spices.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Silver and a Cursed Gold.
+J discards a Silver and a Cursed Gold.
+J plays a Wandering Minstrel.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J reveals a Cursed Gold.
+J discards a Cursed Gold.
+J plays a Necropolis using Way of the Goat.
+J trashes a Copper.
+J plays a Silver and a Copper. (+$3)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Relic. (+$2)
+F moves -Card token to Draw Pile.
+J buys and gains a Pillage.
+J shuffles their deck.
+J draws a Silver, a Pillage, 2 Wandering Minstrels and a Pooka.
+
+Turn 12 - Fazoole
+F starts their turn.
+F plays a Wandering Minstrel.
+F skips a draw (because of Relic).
+F moves -Card token to Token Limbo.
+F gets +2 Actions.
+F reveals a Gold, a Silver and a Province.
+F discards a Silver, a Gold and a Province.
+F plays a Necropolis.
+F gets +2 Actions.
+F plays 3 Coppers. (+$3)
+F buys and gains a Silver.
+F draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Spices.
+J gets +2 Actions.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals 2 Wandering Minstrels and a Cursed Gold.
+J topdecks 2 Wandering Minstrels.
+J discards a Cursed Gold.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals a Wandering Minstrel, a Necropolis and a Relic.
+J topdecks a Necropolis and a Wandering Minstrel.
+J discards a Relic.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Necropolis, a Cursed Gold and a Relic.
+J topdecks a Necropolis.
+J discards a Relic and a Cursed Gold.
+J plays a Wandering Minstrel.
+J draws a Necropolis.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Cursed Gold and a Relic.
+J discards a Relic and a Cursed Gold.
+J plays a Pooka.
+J trashes a Copper.
+J shuffles their deck.
+J draws a Relic and a Cursed Gold.
+J plays a Necropolis using Way of the Goat.
+J trashes a Cursed Gold.
+J plays a Pillage.
+J trashes a Pillage.
+F reveals their hand: a Gold, a Spices and 3 Coppers.
+F discards a Gold.
+J gains 2 Spoils.
+J plays a Silver. (+$2)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Relic. (+$2)
+F moves -Card token to Draw Pile.
+J buys and gains a Pillage.
+J shuffles their deck.
+J draws 2 Spoils, 2 Wandering Minstrels and a Spices.
+
+Turn 13 - Fazoole
+F starts their turn.
+F plays 3 Coppers. (+$3)
+F plays a Spices. (+$2)
+F gets +1 Buy.
+F buys and gains a Feodum.
+F skips a draw (because of Relic).
+F moves -Card token to Token Limbo.
+F draws 4 cards.
+
+Turn 13 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Pillage.
+J gets +2 Actions.
+J reveals a Wandering Minstrel, a Necropolis and a Silver.
+J topdecks a Necropolis and a Wandering Minstrel.
+J discards a Silver.
+J plays a Wandering Minstrel.
+J draws a Necropolis.
+J gets +2 Actions.
+J reveals 2 Wandering Minstrels and a Village Green.
+J topdecks 2 Wandering Minstrels and a Village Green.
+J plays a Pillage.
+J trashes a Pillage.
+J gains 2 Spoils.
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J draws 2 Wandering Minstrels, a Relic, a Pooka and a Village Green.
+
+Turn 14 - Fazoole
+F starts their turn.
+F discards a Province.
+F draws 2 cards.
+F plays an Animal Fair.
+F gets +$4.
+F plays a Gold. (+$3)
+F plays a Cursed Gold. (+$3)
+F gains a Curse.
+F buys and gains a Province.
+F shuffles their deck.
+F draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Wandering Minstrel.
+J shuffles their deck.
+J draws a Spoils.
+J gets +2 Actions.
+J reveals a Spoils, a Silver and a Province.
+J discards a Silver, a Province and a Spoils.
+J plays a Village Green.
+J draws a Spices.
+J gets +2 Actions.
+J plays a Wandering Minstrel.
+J draws a Necropolis.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Spoils and 2 Wandering Minstrels.
+J topdecks 2 Wandering Minstrels.
+J discards a Spoils.
+J plays a Pooka.
+J trashes a Spoils.
+J draws a Silver, a Province and 2 Wandering Minstrels.
+J plays a Wandering Minstrel.
+J shuffles their deck.
+J draws a Spoils.
+J gets +2 Actions.
+J plays a Silver. (+$2)
+J plays a Spices. (+$2)
+J gets +1 Buy.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Relic. (+$2)
+F moves -Card token to Draw Pile.
+J buys and gains a Pillage.
+J buys an Animal Fair.
+J trashes a Necropolis.
+J gains an Animal Fair.
+J shuffles their deck.
+J draws a Province, 3 Wandering Minstrels and a Pooka.
+
+Turn 15 - Fazoole
+F starts their turn.
+F discards a Province.
+F skips a draw (because of Relic).
+F moves -Card token to Token Limbo.
+F draws a card.
+F plays a Wandering Minstrel.
+F draws a card.
+F gets +2 Actions.
+F reveals a Necropolis and 2 Coppers.
+F topdecks a Necropolis.
+F discards 2 Coppers.
+F plays an Animal Fair.
+F gets +$4.
+F plays 2 Golds. (+$6)
+F plays a Spices. (+$2)
+F gets +1 Buy.
+F buys and gains a Feodum.
+F buys and gains a Spices.
+F gets +2 Coffers.
+F draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Spices.
+J gets +2 Actions.
+J reveals a Wandering Minstrel, a Silver and a Village Green.
+J topdecks a Wandering Minstrel and a Village Green.
+J discards a Silver.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals a Pillage, an Animal Fair and a Village Green.
+J topdecks a Pillage, a Village Green and an Animal Fair.
+J plays a Wandering Minstrel.
+J draws a Village Green.
+J gets +2 Actions.
+J reveals a Pillage, an Animal Fair and a Relic.
+J topdecks a Pillage and an Animal Fair.
+J discards a Relic.
+J plays a Wandering Minstrel.
+J draws a Pillage.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals an Animal Fair, a Silver and a Relic.
+J topdecks an Animal Fair.
+J discards a Silver and a Relic.
+J plays a Village Green.
+J draws an Animal Fair.
+J gets +2 Actions.
+J plays a Pooka.
+J trashes a Spices.
+J shuffles their deck.
+J draws a Silver and a Relic.
+J plays a Pillage.
+J trashes a Pillage.
+F reveals their hand: a Necropolis, a Silver and 3 Coppers.
+F discards a Silver.
+J gains 2 Spoils.
+J plays an Animal Fair.
+J gets +$4.
+J plays a Silver. (+$2)
+J plays a Relic. (+$2)
+F moves -Card token to Draw Pile.
+

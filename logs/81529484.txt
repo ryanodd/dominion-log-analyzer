@@ -1,0 +1,538 @@
+Game #81529484, unrated.
+
+
+J starts with a Pasture and a Pouch.
+J starts with 5 Coppers.
+J starts with 3 Estates.
+L starts with a Pasture and a Pouch.
+L starts with 5 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws a Copper, 3 Estates and a Pasture.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays a Pasture and a Copper. (+$2)
+J buys and gains a Tracker.
+J draws 4 Coppers and a Pouch.
+
+Turn 1 - Lord Rattington
+L plays a Pasture and 2 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Shepherd.
+J shuffles their deck.
+J draws 3 Coppers, a Pasture and a Pouch.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Pasture and 3 Coppers. (+$4)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Crypt.
+J draws 2 Coppers, 2 Estates and a Shepherd.
+
+Turn 3 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Pasture and a Copper. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Shepherd.
+J gets +1 Action.
+J discards 2 Estates.
+J shuffles their deck.
+J draws a Copper, 2 Estates and a Tracker.
+J plays a Tracker.
+J gets +$1.
+J takes The Swamp's Gift.
+J receives The Swamp's Gift.
+J gains a Will-o'-Wisp.
+J topdecks a Will-o'-Wisp with Tracker.
+J discards The Swamp's Gift.
+J plays 3 Coppers. (+$3)
+J buys and gains a Shepherd.
+J topdecks a Shepherd with Tracker.
+J draws a Copper, a Crypt, a Shepherd, a Pasture and a Will-o'-Wisp.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws an Estate.
+J gets +1 Action.
+J reveals a Copper.
+J puts a Copper into their hand.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture and an Estate.
+J shuffles their deck.
+J draws an Estate, a Shepherd, a Tracker and a Pouch.
+J plays a Shepherd.
+J gets +1 Action.
+J discards an Estate.
+J draws a Copper and a Pasture.
+J plays a Tracker.
+J gets +$1.
+J takes The Sea's Gift.
+J receives The Sea's Gift.
+J draws an Estate.
+J discards The Sea's Gift.
+J plays a Pasture and 3 Coppers. (+$4)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Border Village.
+J gains a Werewolf.
+J topdecks a Werewolf with Tracker.
+J topdecks a Border Village with Tracker.
+J plays a Crypt.
+J sets 3 Coppers and a Pouch aside.
+J draws 2 Coppers, an Estate, a Border Village and a Werewolf.
+
+Turn 5 - Lord Rattington
+L plays a Pasture, a Copper and a Gold. (+$5)
+L buys and gains a Werewolf.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Border Village.
+J shuffles their deck.
+J draws a Tracker.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws an Estate, a Shepherd and a Pasture.
+J plays a Shepherd.
+J gets +1 Action.
+J discards 2 Estates.
+J shuffles their deck.
+J draws 2 Estates, a Shepherd and a Will-o'-Wisp.
+J plays a Tracker.
+J gets +$1.
+J takes The Mountain's Gift.
+J receives The Mountain's Gift.
+J gains a Silver.
+J topdecks a Silver with Tracker.
+J discards The Mountain's Gift.
+J plays a Pasture and 3 Coppers. (+$4)
+J buys and gains a Conspirator.
+J topdecks a Conspirator with Tracker.
+J shuffles their deck.
+J draws a Silver, an Estate, a Conspirator, a Border Village and a Shepherd.
+
+Turn 6 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J puts a Pouch in hand (Crypt).
+J plays a Border Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Shepherd.
+J gets +1 Action.
+J discards 2 Estates.
+J draws 2 Coppers, a Shepherd and a Pasture.
+J plays a Conspirator.
+J gets +$2.
+J draws a Tracker.
+J gets +1 Action.
+J plays a Tracker.
+J gets +$1.
+J takes The Forest's Gift.
+J receives The Forest's Gift.
+J gets +1 Buy.
+J gets +$1.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture.
+J draws an Estate and a Werewolf.
+J plays a Werewolf.
+J shuffles their deck.
+J draws a Copper, a Pasture and a Will-o'-Wisp.
+J plays a Pasture, 3 Coppers and a Silver. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Border Village.
+J gains a Werewolf.
+J topdecks a Werewolf with Tracker.
+J topdecks a Border Village with Tracker.
+J buys and gains a Conspirator.
+J topdecks a Conspirator with Tracker.
+J discards The Forest's Gift.
+J draws 2 Estates, a Conspirator, a Border Village and a Werewolf.
+
+Turn 7 - Lord Rattington
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Border Village.
+J shuffles their deck.
+J draws a Shepherd.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws a Copper, a Border Village and a Tracker.
+J plays a Conspirator.
+J gets +$2.
+J draws a Will-o'-Wisp.
+J gets +1 Action.
+J plays a Border Village.
+J draws a Pasture.
+J gets +2 Actions.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture and 2 Estates.
+J draws a Copper, a Silver, an Estate, a Conspirator, a Werewolf and a Pouch.
+J plays a Conspirator.
+J gets +$2.
+J draws a Shepherd.
+J gets +1 Action.
+J plays a Will-o'-Wisp.
+J draws a Copper.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Pasture.
+J puts a Pasture into their hand.
+J plays a Shepherd.
+J gets +1 Action.
+J discards an Estate.
+J draws 2 Estates.
+J plays a Tracker.
+J gets +$1.
+J takes The Earth's Gift.
+J receives The Earth's Gift.
+J discards a Copper.
+J gains a Conspirator.
+J topdecks a Conspirator with Tracker.
+J discards The Earth's Gift.
+J plays a Pasture, 3 Coppers and a Silver. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Conspirator.
+J topdecks a Conspirator with Tracker.
+J buys and gains a Border Village.
+J gains a Werewolf.
+J topdecks a Werewolf with Tracker.
+J topdecks a Border Village with Tracker.
+J plays a Werewolf.
+J takes Fear.
+L receives Fear.
+L discards a Copper.
+J discards Fear.
+J shuffles their deck.
+J draws a Silver, 2 Conspirators, a Border Village and a Werewolf.
+
+Turn 8 - Lord Rattington
+L plays a Pasture and 2 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Border Village.
+J draws a Werewolf.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws a Conspirator, a Shepherd and a Pasture.
+J plays a Conspirator.
+J gets +$2.
+J draws a Border Village.
+J gets +1 Action.
+J plays a Border Village.
+J draws a Pouch.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Tracker.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Border Village.
+J gets +1 Action.
+J plays a Border Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws an Estate, a Conspirator and a Werewolf.
+J plays a Conspirator.
+J gets +$2.
+J draws a Copper.
+J gets +1 Action.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture and an Estate.
+J draws 2 Coppers, an Estate and a Shepherd.
+J plays a Shepherd.
+J gets +1 Action.
+J discards an Estate.
+J draws an Estate and a Will-o'-Wisp.
+J plays a Tracker.
+J gets +$1.
+J takes The Flame's Gift.
+J receives The Flame's Gift.
+J trashes a Copper.
+J discards The Flame's Gift.
+J plays 4 Coppers and a Silver. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains 2 Provinces.
+J plays a Werewolf.
+J takes Plague.
+L receives Plague.
+L gains a Curse.
+J discards Plague.
+J shuffles their deck.
+J draws a Copper, an Estate, a Conspirator, a Werewolf and a Will-o'-Wisp.
+
+Turn 9 - Lord Rattington
+L plays a Werewolf.
+L shuffles their deck.
+L draws 3 cards.
+L plays a Copper and a Silver. (+$3)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Pasture and a Gold. (+$4)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Werewolf.
+J gets +1 Action.
+J reveals a Province.
+J topdecks a Province.
+J plays a Conspirator.
+J gets +$2.
+J plays a Copper. (+$1)
+J buys and gains a Night Watchman.
+J plays a Werewolf.
+J takes Greed.
+L receives Greed.
+L gains a Copper.
+J discards Greed.
+J plays a Werewolf.
+J takes Bad Omens.
+L receives Bad Omens.
+L moves their deck to the discard.
+L looks at 16 cards.
+L topdecks 2 Coppers.
+L looks at 16 cards.
+J discards Bad Omens.
+J plays a Night Watchman.
+J looks at a Conspirator, a Province, a Silver, a Shepherd and a Pouch.
+J discards a Silver, a Province, a Conspirator, a Shepherd and a Pouch.
+J draws a Copper, an Estate, 2 Conspirators and a Werewolf.
+
+Turn 10 - Lord Rattington
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Conspirator.
+J gets +$2.
+J plays a Copper. (+$1)
+J plays a Werewolf.
+J takes Locusts.
+L receives Locusts.
+L trashes a Province.
+L gains a Duchy.
+J discards Locusts.
+J draws a Copper, a Province, a Border Village, a Crypt and a Tracker.
+
+Turn 11 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Border Village.
+J draws a Border Village.
+J gets +2 Actions.
+J plays a Border Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Tracker.
+J gets +$1.
+J takes The Moon's Gift.
+J receives The Moon's Gift.
+J looks at 2 Coppers, a Province, 4 Conspirators, a Shepherd, a Silver, a Pouch, 2 Estates, a Night Watchman, 3 Werewolves and a Will-o'-Wisp.
+J looks at 2 Coppers, a Province, 4 Conspirators, a Shepherd, a Silver, a Pouch, 2 Estates, a Night Watchman, 3 Werewolves and a Will-o'-Wisp.
+J topdecks a Werewolf.
+J discards The Moon's Gift.
+J plays 2 Coppers. (+$2)
+J plays a Crypt.
+J sets 2 Coppers aside.
+J draws an Estate, a Border Village, a Shepherd, a Werewolf and a Pasture.
+
+Turn 12 - Lord Rattington
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Border Village.
+J shuffles their deck.
+J draws a Conspirator.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws a Silver, a Province and a Shepherd.
+J plays a Conspirator.
+J gets +$2.
+J draws a Werewolf.
+J gets +1 Action.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture, a Province and an Estate.
+J draws a Copper, an Estate, a Province, a Conspirator, a Border Village and a Will-o'-Wisp.
+J plays a Border Village.
+J draws a Night Watchman.
+J gets +2 Actions.
+J plays a Will-o'-Wisp.
+J draws a Pouch.
+J gets +1 Action.
+J reveals a Conspirator.
+J topdecks a Conspirator.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws an Estate.
+J gets +1 Action.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Province and 2 Estates.
+J shuffles their deck.
+J draws a Copper, an Estate, a Province, a Border Village, a Tracker and a Werewolf.
+J plays a Border Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Werewolf.
+J draws an Estate, a Province and a Pasture.
+J plays a Tracker.
+J gets +$1.
+J takes The Wind's Gift.
+J receives The Wind's Gift.
+J discards 2 Estates.
+J discards The Wind's Gift.
+J plays a Pasture, 3 Coppers and a Silver. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Province.
+J buys and gains a Duchy.
+J plays a Werewolf.
+J takes Poverty.
+L receives Poverty.
+L discards a card and a Copper.
+J discards Poverty.
+J plays a Night Watchman.
+J shuffles their deck.
+J looks at a Province, 2 Estates and a Duchy.
+J discards 2 Estates, a Duchy and a Province.
+J shuffles their deck.
+J draws 2 Provinces, 2 Conspirators and a Will-o'-Wisp.
+
+Turn 13 - Lord Rattington
+L plays a Werewolf.
+L draws 3 cards.
+L plays a Pasture, a Copper and 2 Golds. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Will-o'-Wisp.
+J draws a Border Village.
+J gets +1 Action.
+J reveals a Shepherd.
+J topdecks a Shepherd.
+J plays a Border Village.
+J draws a Shepherd.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Night Watchman.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Shepherd.
+J gets +1 Action.
+J plays a Shepherd.
+J gets +1 Action.
+J discards 2 Provinces.
+J draws an Estate, a Border Village, a Tracker and a Werewolf.
+J plays a Border Village.
+J draws a Conspirator.
+J gets +2 Actions.
+J plays a Conspirator.
+J gets +$2.
+J draws a Copper.
+J gets +1 Action.
+J plays a Werewolf.
+J draws a Copper, a Werewolf and a Pasture.
+J plays a Werewolf.
+J draws an Estate, a Conspirator and a Werewolf.
+J plays a Conspirator.
+J gets +$2.
+J draws a Border Village.
+J gets +1 Action.
+J plays a Border Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture and 3 Estates.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Duchy, 3 Provinces and a Pouch.
+J plays a Tracker.
+J gets +$1.
+J takes The River's Gift.
+J receives The River's Gift.
+J plays 4 Coppers and a Silver. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Province.
+

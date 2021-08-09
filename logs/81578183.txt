@@ -1,0 +1,305 @@
+Game #81578183, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys Bargain.
+J gains a Sentry.
+L gains a Horse.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys Bargain.
+J gains a Haggler.
+L gains a Horse.
+J draws 2 Coppers, a Silver, an Estate and a Sentry.
+
+Turn 4 - Lord Rattington
+L plays a Horse.
+L draws 2 cards.
+L gets +1 Action.
+L returns a Horse to the Horse pile.
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Sentry.
+J draws an Estate.
+J gets +1 Action.
+J shuffles their deck.
+J looks at 2 Coppers.
+J trashes 2 Coppers.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Patron.
+J draws 3 Coppers, an Estate and a Haggler.
+
+Turn 5 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Haggler.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys a Sentry.
+J gains a Caravan.
+J gains a Sentry.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Sentry and a Caravan.
+
+Turn 6 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Sentry.
+J draws a Copper.
+J gets +1 Action.
+J looks at 2 Estates.
+J trashes 2 Estates.
+J plays a Caravan.
+J draws an Estate.
+J gets +1 Action.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Haggler.
+J draws 2 Coppers, a Sentry, a Haggler and a Patron.
+
+Turn 7 - Lord Rattington
+L plays a Horse.
+L shuffles their deck.
+L draws 2 cards.
+L gets +1 Action.
+L returns a Horse to the Horse pile.
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Silver (Caravan).
+J plays a Sentry.
+J draws a Haggler.
+J gets +1 Action.
+J looks at a Copper and a Sentry.
+J trashes a Copper.
+J topdecks a Sentry.
+J plays a Patron.
+J gets +1 Villager.
+J gets +$2.
+J uses 1 Villager.
+J plays a Haggler.
+J gets +$2.
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Province.
+J gains a Village Green.
+J gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Province and a Sentry.
+
+Turn 8 - Lord Rattington
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Sentry.
+J draws a Haggler.
+J gets +1 Action.
+J looks at a Copper and a Haggler.
+J trashes a Copper.
+J topdecks a Haggler.
+J plays a Haggler.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys a Necromancer.
+J gains a Silver.
+J gains a Necromancer.
+J draws a Sentry, a Caravan, a Haggler, a Patron and a Village Green.
+
+Turn 9 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Village Green.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Caravan.
+J draws a Copper.
+J gets +1 Action.
+J plays a Sentry.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Copper and a Sentry.
+J trashes a Copper.
+J topdecks a Sentry.
+J plays a Patron.
+J gets +1 Villager.
+J gets +$2.
+J plays a Haggler.
+J gets +$2.
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Province.
+J gains a Gold.
+J gains a Province.
+J draws a Silver, an Estate, a Province, a Sentry and a Necromancer.
+
+Turn 10 - Lord Rattington
+L plays 2 Silvers and 3 Golds. (+$13)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Haggler (Caravan).
+J plays a Sentry.
+J shuffles their deck.
+J draws a Sentry.
+J gets +1 Action.
+J looks at a Village Green and a Copper.
+J trashes a Copper.
+J topdecks a Village Green.
+J plays a Sentry.
+J draws a Village Green.
+J gets +1 Action.
+J looks at a Silver and a Gold.
+J discards a Silver.
+J topdecks a Gold.
+J plays a Village Green.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Necromancer.
+J plays a Zombie Mason.
+J trashes a Haggler.
+J gains a Gold.
+J plays a Haggler.
+J gets +$2.
+J plays a Silver and a Gold. (+$5)
+J buys a Gold.
+J gains a Village Green.
+J gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Gold, a Province, a Patron and a Village Green.
+
+Turn 11 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Village Green.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Patron.
+J gets +1 Villager.
+J gets +$2.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Province.
+J draws 2 Golds, an Estate, a Province and a Haggler.
+
+Turn 12 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Haggler.
+J gets +$2.
+J plays 2 Golds. (+$6)
+J buys a Province.
+J gains a Gold.
+J gains a Province.
+J draws a Silver, a Sentry, a Caravan, a Necromancer and a Village Green.
+
+Turn 13 - Lord Rattington
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Village Green.
+J uses 1 Villager.
+J plays a Caravan.
+J draws a Sentry.
+J gets +1 Action.
+J plays a Sentry.
+J shuffles their deck.
+J draws a Province.
+J gets +1 Action.
+J looks at a Patron and a Gold.
+J topdecks a Gold and a Patron.
+J plays a Sentry.
+J draws a Patron.
+J gets +1 Action.
+J looks at a Copper and a Gold.
+J trashes a Copper.
+J topdecks a Gold.
+J plays a Necromancer.
+J plays a Zombie Apprentice.
+J trashes a Patron.
+J draws a Gold, a Province and a Haggler.
+J gets +1 Action.
+J plays a Haggler.
+J gets +$2.
+J plays a Silver and a Gold. (+$5)
+J buys a Gold.
+J gains a Sentry.
+J gains a Gold.
+J draws a Silver, 2 Golds and 2 Provinces.
+
+Turn 14 - Lord Rattington
+L plays 2 Coppers and 2 Golds. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws an Estate.
+J gets +2 Actions.
+J draws a Gold (Caravan).
+J plays a Silver and 3 Golds. (+$11)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Gold, a Caravan, a Necromancer and a Village Green.
+

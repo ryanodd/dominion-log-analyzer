@@ -1,0 +1,669 @@
+Game #82471591, rated.
+lda: 48.51
+Jazzercise: 46.62
+
+Kingdom generated with these relative percentages:
+0%: Sauna, Ghost Ship and Possession
+50%: Tournament
+
+
+l starts with 7 Coppers.
+l starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+l shuffles their deck.
+l draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - lda
+l plays 3 Coppers. (+$3)
+l buys and gains a Market Square.
+l draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Ratcatcher.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - lda
+l plays 4 Coppers. (+$4)
+l buys and gains a Patron.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Ratcatcher.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Ratcatchers.
+
+Turn 3 - lda
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l plays 2 Coppers. (+$2)
+l buys and gains a Ratcatcher.
+l draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Ratcatcher.
+J draws an Estate.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays 3 Coppers. (+$3)
+J buys and gains a Market Square.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - lda
+l plays 4 Coppers. (+$4)
+l buys and gains a Market Square.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Village Green.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Ratcatcher.
+
+Turn 5 - lda
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays 4 Coppers. (+$4)
+l buys and gains 2 Ratcatchers.
+l draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes an Estate.
+J plays a Ratcatcher.
+J draws a Village Green.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Village Green.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Market Square.
+
+Turn 6 - lda
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l plays 3 Coppers. (+$3)
+l buys and gains an Embassy.
+J gains a Silver.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes an Estate.
+J reacts with a Market Square.
+J discards a Market Square.
+J gains a Gold.
+J draws a Copper.
+J gets +2 Actions.
+J plays 4 Coppers. (+$4)
+J buys and gains a Market Square.
+J shuffles their deck.
+J draws a Copper, a Silver, a Market Square, a Ratcatcher and a Village Green.
+
+Turn 7 - lda
+l starts their turn.
+l calls a Ratcatcher.
+l trashes an Estate.
+l reacts with a Market Square.
+l discards a Market Square.
+l gains a Gold.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l plays 2 Coppers. (+$2)
+l buys and gains a Ratcatcher.
+l draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Market Square.
+J draws a Market Square.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Market Square.
+J draws a Ratcatcher.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Ratcatcher.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains 3 Peddlers.
+J draws 3 Coppers, a Silver and a Gold.
+
+Turn 8 - lda
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays an Embassy.
+l draws 5 cards.
+l discards 2 other cards and a Copper.
+l uses 1 Villager.
+l plays a Ratcatcher.
+l shuffles their deck.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays 5 Coppers. (+$5)
+l buys and gains 2 Ratcatchers.
+l draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J calls a Ratcatcher.
+J trashes a Copper.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Council Room.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Peddler and a Market Square.
+
+Turn 9 - lda
+l starts their turn.
+l calls a Ratcatcher.
+l trashes an Estate.
+l calls a Ratcatcher.
+l trashes a Copper.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l plays a Copper and a Gold. (+$4)
+l buys and gains an Embassy.
+J gains a Silver.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Peddler.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Market Square.
+J draws a Village Green.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Hostelry.
+J discards and reveals 3 Coppers.
+J gains 3 Horses.
+J draws a Copper, a Silver, a Council Room, a Peddler and a Ratcatcher.
+
+Turn 10 - lda
+l starts their turn.
+l calls a Ratcatcher.
+l trashes an Estate.
+l calls a Ratcatcher.
+l trashes a Copper.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l uses 1 Villager.
+l plays an Embassy.
+l draws 5 cards.
+l discards 2 other cards and a Market Square.
+l uses 1 Villager.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays 2 Coppers and a Gold. (+$5)
+l buys and gains a Bank.
+l buys and gains a Peddler.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Peddler.
+J draws a Market Square.
+J gets +1 Action.
+J gets +$1.
+J plays a Market Square.
+J draws a Peddler.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Peddler.
+J draws a Ratcatcher.
+J gets +1 Action.
+J gets +$1.
+J plays a Ratcatcher.
+J draws a Gold.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Ratcatcher.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays 2 Coppers, a Silver and a Gold. (+$7)
+J buys and gains a Market Square.
+J buys and gains a Council Room.
+J draws a Copper, a Silver, a Peddler and 2 Horses.
+
+Turn 11 - lda
+l starts their turn.
+l calls a Ratcatcher.
+l trashes a Copper.
+l calls a Ratcatcher.
+l trashes a Copper.
+l calls a Ratcatcher.
+l trashes a Copper.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Peddler.
+l draws a card.
+l gets +1 Action.
+l gets +$1.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l uses 1 Villager.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Gold. (+$3)
+l buys Innovation and a Peddler.
+l gains a Peddler.
+l sets a Peddler aside.
+l plays a Peddler.
+l draws a card.
+l gets +1 Action.
+l gets +$1.
+l draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J plays a Peddler.
+J draws a Hostelry.
+J gets +1 Action.
+J gets +$1.
+J plays a Hostelry.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Horse.
+J draws a Market Square and a Village Green.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Village Green.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Market Square.
+J draws a Horse.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Horse.
+J shuffles their deck.
+J draws a Silver and a Market Square.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Market Square.
+J draws a Council Room.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Council Room.
+J draws a Gold, a Council Room and 2 Peddlers.
+J gets +1 Buy.
+l draws a card.
+J plays a Peddler.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Horse.
+J draws a Copper and a Market Square.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Market Square.
+J gets +1 Action.
+J gets +1 Buy.
+J plays 4 Coppers, 3 Silvers and a Gold. (+$13)
+J buys and gains 4 Peddlers.
+J buys and gains a Province.
+J shuffles their deck.
+J draws 4 Peddlers and a Market Square.
+
+Turn 12 - lda
+l starts their turn.
+l calls a Ratcatcher.
+l trashes a Copper.
+l reacts with a Market Square.
+l discards a Market Square.
+l gains a Gold.
+l calls a Ratcatcher.
+l trashes a Copper.
+l plays a Ratcatcher.
+l shuffles their deck.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Peddler.
+l draws a card.
+l gets +1 Action.
+l gets +$1.
+l plays an Embassy.
+l draws 5 cards.
+l discards 2 other cards and a Market Square.
+l uses 1 Villager.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Peddler.
+l shuffles their deck.
+l draws a card.
+l gets +1 Action.
+l gets +$1.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l plays 2 Golds. (+$6)
+l buys and gains a Bank.
+l buys and gains a Market Square.
+l sets a Market Square aside.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J plays a Peddler.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Market Square.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Peddler.
+J draws a Council Room.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Council Room.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Market Square.
+J gets +1 Action.
+J gets +$1.
+J plays a Market Square.
+J draws a Peddler.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Peddler.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Council Room using Way of the Horse.
+J draws a Province and a Ratcatcher.
+J gets +1 Action.
+J returns a Council Room to the Council Room pile.
+J plays a Ratcatcher.
+J draws a Gold.
+J gets +1 Action.
+J puts a Ratcatcher on their Tavern mat.
+J plays a Council Room.
+J draws a Copper, a Peddler, a Market Square and a Hostelry.
+J gets +1 Buy.
+l draws a card.
+J plays 3 Coppers, a Silver and a Gold. (+$8)
+J buys and gains a Peddler.
+J buys and gains a Province.
+J buys and gains an Embassy.
+l gains a Silver.
+J draws a Copper, 2 Silvers, a Peddler and a Village Green.
+
+Turn 13 - lda
+l starts their turn.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l uses 1 Villager.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays a Ratcatcher.
+l draws a card.
+l gets +1 Action.
+l puts a Ratcatcher on their Tavern mat.
+l plays an Embassy.
+l draws 5 cards.
+l discards 2 other cards and a Market Square.
+l uses 1 Villager.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Market Square.
+l shuffles their deck.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays an Embassy.
+l draws 3 cards.
+l discards 2 other cards and a Silver.
+l uses 1 Villager.
+l plays a Peddler using Way of the Horse.
+l shuffles their deck.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Peddler to the Peddler pile.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Peddler.
+l gets +1 Action.
+l gets +$1.
+l plays a Silver and 2 Golds. (+$8)
+l plays 2 Banks. (+$9)
+l buys and gains 2 Provinces.
+l buys and gains a Ratcatcher.
+l buys and gains a Peddler.
+l shuffles their deck.
+l draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J calls a Ratcatcher.
+J trashes a Copper.
+J plays a Village Green.
+J shuffles their deck.
+J draws a Peddler.
+J gets +2 Actions.
+J plays a Peddler.
+J draws a Peddler.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Peddler.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler using Way of the Horse.
+J draws a Province and a Market Square.
+J gets +1 Action.
+J returns a Peddler to the Peddler pile.
+J plays a Market Square using Way of the Horse.
+J draws a Peddler and an Embassy.
+J gets +1 Action.
+J returns a Market Square to the Market Square pile.
+J plays an Embassy.
+J draws a Copper, a Gold, a Province and 2 Peddlers.
+J discards a Copper and 2 Provinces.
+J plays a Peddler.
+J draws a Market Square.
+J gets +1 Action.
+J gets +$1.
+J plays a Peddler.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Market Square.
+J draws a Peddler.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Peddler.
+J draws a Hostelry.
+J gets +1 Action.
+J gets +$1.
+J plays a Hostelry.
+J draws a Council Room.
+J gets +2 Actions.
+J plays a Council Room.
+J shuffles their deck.
+J draws a Copper, 2 Provinces and a Market Square.
+J gets +1 Buy.
+l draws a card.
+J plays a Market Square.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Peddler.
+J gets +1 Action.
+J gets +$1.
+J plays 3 Coppers, 3 Silvers and a Gold. (+$12)
+J buys and gains 2 Provinces.
+J buys and gains a Market Square.
+J buys and gains a Peddler.
+J shuffles their deck.
+J draws a Silver, 2 Provinces and 2 Peddlers.
+
+Turn 14 - lda
+l starts their turn.
+l plays a Ratcatcher using Way of the Horse.
+l draws 2 cards.
+l gets +1 Action.
+l returns a Ratcatcher to the Ratcatcher pile.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays a Patron.
+l gets +1 Villager.
+l gets +$2.
+l uses 1 Villager.
+l plays a Peddler.
+l draws a card.
+l gets +1 Action.
+l gets +$1.
+l plays a Peddler.
+l draws a card.
+l gets +1 Action.
+l gets +$1.
+l plays a Market Square.
+l draws a card.
+l gets +1 Action.
+l gets +1 Buy.
+l plays an Embassy.
+l draws 3 cards.
+l discards 2 other cards and an Embassy.
+l plays a Silver and 2 Golds. (+$8)
+l plays 2 Banks. (+$9)
+l buys and gains 2 Provinces.
+l buys and gains a Duchy.
+l shuffles their deck.
+l draws 5 cards.
+

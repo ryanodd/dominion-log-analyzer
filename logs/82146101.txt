@@ -1,0 +1,279 @@
+Game #82146101, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Potion.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Potion.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Potion.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Silver and a Copper. (+$3)
+J plays a Potion.
+J buys and gains an Alchemist.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Lord Rattington
+L plays a Silver and a Copper. (+$3)
+L plays a Potion.
+L buys and gains a Scrying Pool.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and an Alchemist.
+
+Turn 4 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Alchemist.
+J draws a Copper and a Silver.
+J gets +1 Action.
+J plays a Silver and 5 Coppers. (+$7)
+J buys and gains an Apprentice.
+J draws a Copper, a Silver, 2 Estates and a Potion.
+
+Turn 5 - Lord Rattington
+L plays a Silver and 3 Coppers. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Silver and a Copper. (+$3)
+J plays a Potion.
+J buys and gains an Apothecary.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 6 - Lord Rattington
+L plays a Scrying Pool.
+L gets +1 Action.
+L reveals a Silver.
+L discards a Silver.
+J reveals an Apprentice.
+J discards an Apprentice.
+L reveals an Estate.
+L puts an Estate into their hand.
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Estate and an Alchemist.
+
+Turn 7 - Lord Rattington
+L plays a Scrying Pool.
+L gets +1 Action.
+L reveals a Silver.
+L discards a Silver.
+J reveals a Copper.
+J topdecks a Copper.
+L reveals a Copper.
+L puts a Copper into their hand.
+L plays a Copper. (+$1)
+L plays a Potion.
+L plays a Copper. (+$1)
+L buys and gains a Scrying Pool.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays an Alchemist.
+J draws a Copper and a Potion.
+J gets +1 Action.
+J plays a Silver and 3 Coppers. (+$5)
+J plays a Potion.
+J buys and gains a Familiar.
+J topdecks an Alchemist.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, an Alchemist and an Apothecary.
+
+Turn 8 - Lord Rattington
+L plays 3 Silvers and 2 Coppers. (+$8)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Alchemist.
+J draws an Estate and a Familiar.
+J gets +1 Action.
+J plays an Apothecary.
+J draws a Silver.
+J gets +1 Action.
+J reveals an Apprentice and 3 Coppers.
+J puts 3 Coppers into their hand.
+J topdecks an Apprentice.
+J plays a Familiar.
+J draws an Apprentice.
+J gets +1 Action.
+L gains a Curse.
+J plays an Apprentice.
+J gets +1 Action.
+J trashes an Estate.
+J draws a Copper and a Potion.
+J plays a Silver and 6 Coppers. (+$8)
+J plays a Potion.
+J buys and gains a Possession.
+J topdecks an Alchemist.
+J draws a Copper, 2 Silvers, an Estate and an Alchemist.
+
+Turn 9 - Lord Rattington
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Alchemist.
+J shuffles their deck.
+J draws a Possession and a Potion.
+J gets +1 Action.
+J plays a Possession.
+J plays 2 Silvers and a Copper. (+$5)
+J plays a Potion.
+J buys and gains a Golem.
+J topdecks an Alchemist.
+J draws a Copper, a Silver, an Alchemist, an Apothecary and a Familiar.
+
+Turn 10 - Lord Rattington [Possession]
+L plays a Scrying Pool.
+L gets +1 Action.
+L reveals a Silver.
+L discards a Silver.
+J reveals a Copper.
+J discards a Copper.
+L reveals a Silver.
+L puts a Silver into their hand.
+L plays 2 Silvers and 3 Coppers. (+$7)
+L buys a Gold.
+J gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Lord Rattington
+L plays a Potion.
+L plays a Silver and a Copper. (+$3)
+L buys and gains a Scrying Pool.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Alchemist.
+J draws 2 Coppers.
+J gets +1 Action.
+J plays an Apothecary.
+J draws a Copper.
+J gets +1 Action.
+J shuffles their deck.
+J reveals an Estate, an Apprentice, a Silver and a Copper.
+J puts a Copper into their hand.
+J topdecks a Silver, an Estate and an Apprentice.
+J plays a Familiar.
+J draws an Apprentice.
+J gets +1 Action.
+L gains a Curse.
+J plays an Apprentice.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Silver and 4 Coppers. (+$6)
+J buys and gains an Apprentice.
+J draws a Copper, a Silver, a Gold, an Estate and a Potion.
+
+Turn 11 - Lord Rattington
+L plays a Scrying Pool.
+L gets +1 Action.
+L reveals an Estate.
+L discards an Estate.
+J reveals a Golem.
+J discards a Golem.
+L reveals a Gold.
+L puts a Gold into their hand.
+L plays 2 Silvers, a Copper and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Silver, a Copper and a Gold. (+$6)
+J plays a Potion.
+J buys and gains an Apothecary.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Golem and a Possession.
+
+Turn 12 - Lord Rattington
+L plays a Potion.
+L plays a Silver and a Copper. (+$3)
+L buys and gains a Scrying Pool.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Golem.
+J reveals an Apprentice and a Familiar.
+J plays an Apprentice.
+J gets +1 Action.
+J trashes an Estate.
+J draws 2 Apothecaries.
+J plays a Familiar.
+J draws a Silver.
+J gets +1 Action.
+L gains a Curse.
+J plays an Apothecary.
+J draws an Estate.
+J gets +1 Action.
+J reveals an Alchemist, a Silver, a Copper and a Potion.
+J puts a Copper and a Potion into their hand.
+J topdecks a Silver and an Alchemist.
+J plays an Apothecary.
+J draws an Alchemist.
+J gets +1 Action.
+J reveals an Apprentice, a Silver, a Copper and a Gold.
+J puts a Copper into their hand.
+J topdecks a Silver, a Gold and an Apprentice.
+J plays an Alchemist.
+J draws a Gold and an Apprentice.
+J gets +1 Action.
+J plays an Apprentice.
+J gets +1 Action.
+J trashes an Estate.
+J draws a Copper and a Silver.
+J plays a Possession.
+J plays 3 Silvers, 4 Coppers and a Gold. (+$13)
+J plays a Potion.
+J buys and gains a Province.
+J topdecks an Alchemist.
+J shuffles their deck.
+J draws 4 Coppers and an Alchemist.
+
+Turn 13 - Lord Rattington [Possession]
+

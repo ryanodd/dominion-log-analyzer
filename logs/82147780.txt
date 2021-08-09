@@ -1,0 +1,557 @@
+Game #82147780, rated.
+Jazzercise: 45.56
+Rosalynn: 36.6
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+R starts with 7 Coppers.
+R starts with 3 Estates.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 1 - Jazzercise
+J draws 5 Coppers.
+
+Turn 1 - Rosalynn
+R plays 4 Coppers. (+$4)
+R buys and gains a Treasure Map.
+R draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Bridge Troll.
+J shuffles their deck.
+J draws a Copper, 3 Estates and a Bridge Troll.
+
+Turn 2 - Rosalynn
+R plays 3 Coppers. (+$3)
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J draws 5 Coppers.
+
+Turn 3 - Rosalynn
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays a Silver and a Copper. (+$3)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays 5 Coppers. (+$5)
+J buys and gains a Hunting Lodge.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - Rosalynn
+R plays 4 Coppers. (+$4)
+R buys and gains a Treasure Map.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys Pageant.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws 3 Coppers, an Estate and a Hunting Lodge.
+
+Turn 5 - Rosalynn
+R plays 3 Coppers. (+$3)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Hunting Lodge.
+J draws a Bridge Troll.
+J gets +2 Actions.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J uses 1 Coffers. (+$1)
+J buys and gains a Bridge Troll.
+J ends their buy phase.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 6 - Rosalynn
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays a Silver. (+$2)
+R buys and gains a Copper.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J buys and gains a Mountain Village.
+J ends their buy phase.
+J draws 4 Coppers and an Estate.
+
+Turn 7 - Rosalynn
+R plays a Silver and 3 Coppers. (+$5)
+R buys and gains a Mountain Village.
+R draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Devil's Workshop.
+J ends their buy phase.
+J shuffles their deck.
+J draws a Copper, an Estate, 2 Bridge Trolls and a Hunting Lodge.
+
+Turn 8 - Rosalynn
+R plays 4 Coppers. (+$4)
+R buys and gains a Jack of All Trades.
+R draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Hunting Lodge.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J draws 3 Coppers, an Estate and a Mountain Village.
+
+Turn 9 - Rosalynn
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays 2 Silvers. (+$4)
+R buys and gains a Worker's Village.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gets +2 Buy.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Hunting Lodge, 2 Estates and a Copper.
+J looks at a Hunting Lodge, 2 Estates and a Copper.
+J puts a Hunting Lodge into their hand.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays 4 Coppers. (+$4)
+J uses 1 Coffers. (+$1)
+J buys and gains a Hunting Lodge.
+J buys and gains a Mountain Village.
+J ends their buy phase.
+J shuffles their deck.
+J draws 4 Coppers and a Devil's Workshop.
+
+Turn 10 - Rosalynn
+R plays a Jack of All Trades.
+R gains a Silver.
+R looks at a card.
+R topdecks a card.
+R draws a card.
+R plays a Copper. (+$1)
+R buys and gains a Copper.
+R draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Mountain Village.
+J ends their buy phase.
+J plays a Devil's Workshop.
+J gains a Mountain Village.
+J draws an Estate, a Bridge Troll, a Mountain Village and 2 Hunting Lodges.
+
+Turn 11 - Rosalynn
+R plays a Silver and 4 Coppers. (+$6)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Devil's Workshop, 4 Coppers and 2 Mountain Villages.
+J puts a Devil's Workshop into their hand.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J draws a Mountain Village.
+J gets +2 Actions.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 4 Coppers and 2 Mountain Villages.
+J looks at 4 Coppers and 2 Mountain Villages.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 4 Coppers and a Mountain Village.
+J looks at 4 Coppers and a Mountain Village.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 4 Coppers.
+J looks at 4 Coppers.
+J puts a Copper into their hand.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J discards 2 Coppers, an Estate and a Devil's Workshop.
+J draws 2 Coppers, 2 Estates and a Bridge Troll.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 2 Coppers. (+$2)
+J buys and gains 2 Ghost Towns.
+J ends their buy phase.
+J plays a Ghost Town.
+J plays a Ghost Town.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Mountain Villages.
+
+Turn 12 - Rosalynn
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays a Silver and a Copper. (+$3)
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gets +2 Buy.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J draws a Devil's Workshop (Ghost Town).
+J gets +1 Action.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Copper.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Gold.
+J ends their buy phase.
+J plays a Devil's Workshop.
+J gains a Mountain Village.
+J draws a Copper, an Estate, a Mountain Village and 2 Hunting Lodges.
+
+Turn 13 - Rosalynn
+R plays a Mountain Village.
+R gets +2 Actions.
+R draws a card.
+R plays a Silver, 3 Coppers and a Gold. (+$8)
+R buys and gains a Province.
+R draws 5 cards.
+
+Between Turns
+J takes 11 debt.
+J gets 8 VP from Mountain Pass.
+
+Turn 14 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Bridge Trolls, 2 Estates, 2 Ghost Towns, a Devil's Workshop, 4 Coppers, 3 Mountain Villages and a Gold.
+J looks at 2 Bridge Trolls, 2 Estates, 2 Ghost Towns, a Devil's Workshop, 4 Coppers, 3 Mountain Villages and a Gold.
+J puts an Estate into their hand.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J discards 3 Coppers and 2 Estates.
+J shuffles their deck.
+J draws a Copper, a Bridge Troll, a Devil's Workshop and 2 Mountain Villages.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Copper.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Bridge Troll.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 2 Coppers. (+$2)
+J repays 2 debt (9 remaining).
+J ends their buy phase.
+J plays a Devil's Workshop.
+J gains a Gold.
+J draws a Copper, a Gold, 2 Estates and a Mountain Village.
+
+Turn 14 - Rosalynn
+R plays a Treasure Map.
+R trashes a Treasure Map.
+R trashes a Treasure Map.
+R gains 4 Golds onto their drawpile.
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays 2 Silvers. (+$4)
+R buys and gains a Mountain Village.
+R draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J gets +2 Buy.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Hunting Lodges, a Devil's Workshop, 2 Coppers, 3 Mountain Villages and a Gold.
+J puts a Devil's Workshop into their hand.
+J plays a Copper and a Gold. (+$4)
+J repays 4 debt (5 remaining).
+J ends their buy phase.
+J plays a Devil's Workshop.
+J gains a Gold.
+J draws 3 Coppers, an Estate and a Mountain Village.
+
+Turn 15 - Rosalynn
+R plays a Copper and 4 Golds. (+$13)
+R buys and gains a Province.
+R draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Hunting Lodges, 2 Bridge Trolls, 2 Estates, a Devil's Workshop, 3 Coppers, 4 Mountain Villages and 3 Golds.
+J puts a Devil's Workshop into their hand.
+J plays 3 Coppers. (+$3)
+J repays 3 debt (2 remaining).
+J ends their buy phase.
+J plays a Devil's Workshop.
+J gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Ghost Towns.
+
+Turn 16 - Rosalynn
+R plays 2 Silvers. (+$4)
+R buys and gains a Mountain Village.
+R draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays 2 Coppers. (+$2)
+J repays 2 debt.
+J ends their buy phase.
+J plays a Ghost Town.
+J plays a Ghost Town.
+J draws a Gold, an Estate, a Bridge Troll, a Devil's Workshop and a Mountain Village.
+
+Turn 17 - Rosalynn
+R plays a Worker's Village.
+R draws a card.
+R gets +2 Actions.
+R gets +1 Buy.
+R plays a Jack of All Trades.
+R gains a Silver.
+R shuffles their deck.
+R looks at a card.
+R topdecks a card.
+R draws a card.
+R plays 4 Coppers and a Gold. (+$7)
+R buys and gains a Gold.
+R buys and gains a Copper.
+R draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J draws an Estate (Ghost Town).
+J gets +1 Action.
+J draws a Bridge Troll (Ghost Town).
+J gets +1 Action.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at an Estate and 2 Coppers.
+J looks at an Estate and 2 Coppers.
+J puts a Copper into their hand.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Bridge Troll.
+J buys and gains a Ghost Town.
+J ends their buy phase.
+J plays a Ghost Town.
+J plays a Devil's Workshop.
+J gains an Imp.
+J draws 2 Coppers, 2 Mountain Villages and a Hunting Lodge.
+
+Turn 18 - Rosalynn
+R plays a Mountain Village.
+R gets +2 Actions.
+R looks at 9 cards.
+R looks at 9 cards.
+R puts a card into their hand.
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays 2 Silvers, a Copper and a Gold. (+$8)
+R buys and gains a Province.
+R draws 5 cards.
+
+Turn 19 - Jazzercise
+J starts their turn.
+J gets +2 Buy.
+J draws a Gold (Ghost Town).
+J gets +1 Action.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Bridge Troll, an Imp, 3 Estates, 2 Ghost Towns, a Devil's Workshop, 2 Coppers, a Mountain Village and a Gold.
+J looks at a Bridge Troll, an Imp, 3 Estates, 2 Ghost Towns, a Devil's Workshop, 2 Coppers, a Mountain Village and a Gold.
+J puts an Imp into their hand.
+J plays an Imp.
+J draws 2 Coppers.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Bridge Troll, 3 Estates, 2 Ghost Towns, a Devil's Workshop, 2 Coppers, a Mountain Village and a Gold.
+J looks at a Bridge Troll, 3 Estates, 2 Ghost Towns, a Devil's Workshop, 2 Coppers, a Mountain Village and a Gold.
+J puts a Bridge Troll into their hand.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 5 Coppers and a Gold. (+$8)
+J buys and gains a Province.
+J buys and gains a Bridge Troll.
+J buys and gains a Mountain Village.
+J ends their buy phase.
+J draws 2 Golds, 2 Mountain Villages and a Hunting Lodge.
+
+Turn 19 - Rosalynn
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays 3 Silvers. (+$6)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 20 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Hunting Lodge, 3 Bridge Trolls, an Imp, 3 Estates, 3 Ghost Towns, a Devil's Workshop, 7 Coppers, 4 Mountain Villages, 2 Golds and a Province.
+J looks at a Hunting Lodge, 3 Bridge Trolls, an Imp, 3 Estates, 3 Ghost Towns, a Devil's Workshop, 7 Coppers, 4 Mountain Villages, 2 Golds and a Province.
+J puts an Imp into their hand.
+J plays an Imp.
+J shuffles their deck.
+J draws an Estate and a Hunting Lodge.
+J plays a Hunting Lodge.
+J draws a Mountain Village.
+J gets +2 Actions.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Devil's Workshop.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Province.
+J plays a Hunting Lodge.
+J draws a Bridge Troll.
+J gets +2 Actions.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 2 Golds. (+$6)
+J buys and gains a Province.
+J ends their buy phase.
+J plays a Devil's Workshop.
+J gains a Bridge Troll.
+J draws 2 Coppers, a Gold, a Bridge Troll and a Ghost Town.
+
+Turn 20 - Rosalynn
+R plays a Mountain Village.
+R gets +2 Actions.
+R looks at 21 cards.
+R looks at 21 cards.
+R puts a card into their hand.
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays 2 Coppers and a Gold. (+$5)
+R buys and gains a Devil's Workshop.
+R draws 5 cards.
+
+Turn 21 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Bridge Troll.
+J buys and gains a Mountain Village.
+J ends their buy phase.
+J plays a Ghost Town.
+J draws 3 Coppers, a Gold and a Ghost Town.
+
+Turn 21 - Rosalynn
+R plays a Mountain Village.
+R gets +2 Actions.
+R looks at 27 cards.
+R looks at 27 cards.
+R puts a card into their hand.
+R plays a Gold. (+$3)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays a Gold. (+$3)
+R buys and gains a Duchy.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 22 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J draws a Bridge Troll (Ghost Town).
+J gets +1 Action.
+J plays a Bridge Troll.
+J gets +1 Buy.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Province.
+J ends their buy phase.
+J plays a Ghost Town.
+J draws an Estate, a Ghost Town and 3 Mountain Villages.
+
+Turn 22 - Rosalynn
+R plays a Copper. (+$1)
+R returns -Coin token set by Bridge Troll. (-$1)
+R plays a Silver and 3 Golds. (+$11)
+R buys and gains a Province.
+R draws 5 cards.
+
+Turn 23 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J draws a Copper (Ghost Town).
+J gets +1 Action.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Hunting Lodges, 5 Bridge Trolls, an Imp, an Estate, a Devil's Workshop, a Ghost Town, 5 Coppers, 4 Mountain Villages, 4 Golds and 3 Provinces.
+J looks at 2 Hunting Lodges, 5 Bridge Trolls, an Imp, an Estate, a Devil's Workshop, a Ghost Town, 5 Coppers, 4 Mountain Villages, 4 Golds and 3 Provinces.
+J puts a Gold into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Hunting Lodges, 5 Bridge Trolls, an Imp, an Estate, a Devil's Workshop, a Ghost Town, 5 Coppers, 4 Mountain Villages, 3 Golds and 3 Provinces.
+J looks at 2 Hunting Lodges, 5 Bridge Trolls, an Imp, an Estate, a Devil's Workshop, a Ghost Town, 5 Coppers, 4 Mountain Villages, 3 Golds and 3 Provinces.
+J puts a Gold into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Hunting Lodges, 5 Bridge Trolls, an Imp, an Estate, a Devil's Workshop, a Ghost Town, 5 Coppers, 4 Mountain Villages, 2 Golds and 3 Provinces.
+J looks at 2 Hunting Lodges, 5 Bridge Trolls, an Imp, an Estate, a Devil's Workshop, a Ghost Town, 5 Coppers, 4 Mountain Villages, 2 Golds and 3 Provinces.
+J puts a Gold into their hand.
+J plays a Copper and 3 Golds. (+$10)
+J buys and gains a Province.
+J ends their buy phase.
+J loses 1 Coin.
+J gets +1 Coffers. (Pageant)
+J shuffles their deck.
+J draws 2 Coppers, a Gold, an Estate and a Mountain Village.
+

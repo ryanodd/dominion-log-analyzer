@@ -1,0 +1,315 @@
+Game #82109782, unrated.
+
+
+J starts with a Magic Lamp.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+L starts with a Magic Lamp.
+L starts with 6 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Secret Cave.
+J draws 3 Coppers, an Estate and a Magic Lamp.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Fortune Teller.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Magic Lamp and 3 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays a Magic Lamp and 2 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Magic Lamp.
+
+Turn 3 - Lord Rattington
+L plays a Magic Lamp and 3 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Magic Lamp and 3 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Secret Cave and a Magic Lamp.
+
+Turn 4 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals an Estate.
+J topdecks an Estate.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Secret Cave.
+J draws an Estate.
+J gets +1 Action.
+J plays a Magic Lamp, 2 Coppers and a Silver. (+$5)
+J buys and gains an Upgrade.
+J draws 3 Coppers and 2 Estates.
+
+Turn 5 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals a Copper and 2 Silvers.
+J shuffles their deck.
+J reveals an Upgrade, a Magic Lamp, 2 Coppers and a Silver and finally Estate.
+J topdecks an Estate.
+J discards 3 Coppers, 3 Silvers, an Upgrade and a Magic Lamp.
+L plays a Magic Lamp and 2 Coppers. (+$3)
+L buys and gains an Upgrade.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys a Plan.
+J moves Trashing token to the Upgrade pile.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Secret Cave.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and 2 Silvers. (+$7)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Secret Cave.
+J draws an Estate.
+J gets +1 Action.
+J discards a Copper and 2 Estates.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Silver.
+J draws a Copper, 2 Silvers, an Upgrade and a Magic Lamp.
+
+Turn 7 - Lord Rattington
+L plays a Copper and 2 Golds. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Magic Lamp, a Copper and 2 Silvers. (+$6)
+J buys and gains an Expand.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Secret Cave.
+
+Turn 8 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes an Estate.
+L gains a Silver.
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Secret Cave.
+J draws a Silver.
+J gets +1 Action.
+J plays 3 Coppers and a Silver. (+$5)
+J buys an Upgrade.
+J trashes an Estate.
+J gains an Upgrade.
+J draws a Copper, 2 Silvers, an Estate and a Magic Lamp.
+
+Turn 9 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals an Upgrade and a Copper and finally Estate.
+J topdecks an Estate.
+J discards a Copper and an Upgrade.
+L plays a Magic Lamp, a Copper and 2 Silvers. (+$6)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Magic Lamp, a Copper and 2 Silvers. (+$6)
+J buys an Upgrade.
+J trashes an Estate.
+J gains an Upgrade.
+J shuffles their deck.
+J draws 2 Silvers, an Estate, an Upgrade and an Expand.
+
+Turn 10 - Lord Rattington
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Upgrade.
+J draws a Silver.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Silver.
+J plays an Expand.
+J trashes a Silver.
+J gains a Gold.
+J plays 2 Silvers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Upgrade and a Magic Lamp.
+
+Turn 11 - Lord Rattington
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Magic Lamp, 2 Coppers and a Silver. (+$5)
+J buys and gains an Upgrade.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Upgrade and a Secret Cave.
+
+Turn 12 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes a Copper.
+L plays a Fortune Teller.
+L gets +$2.
+J reveals 3 Upgrades, a Magic Lamp, 2 Coppers, 4 Silvers, an Expand and a Gold.
+J discards 2 Coppers, 4 Silvers, a Gold, 3 Upgrades, an Expand and a Magic Lamp.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Upgrade.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Secret Cave.
+J draws a Magic Lamp.
+J gets +1 Action.
+J plays a Magic Lamp, a Copper, a Silver and a Gold. (+$7)
+J trashes a Magic Lamp.
+J gains 3 Wishes.
+J buys and gains an Expand.
+J draws 2 Silvers and 3 Upgrades.
+
+Turn 13 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals 2 Coppers, 2 Silvers and an Expand.
+J shuffles their deck.
+J reveals 3 Wishes, an Upgrade, a Secret Cave, a Copper, a Silver, an Expand and a Gold.
+J discards 3 Coppers, 3 Silvers, a Gold, an Upgrade, 2 Expands, a Secret Cave and 3 Wishes.
+L plays a Magic Lamp, a Copper and a Silver. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Upgrade.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J trashes a Silver.
+J gains a Monument.
+J plays an Upgrade.
+J draws an Expand.
+J gets +1 Action.
+J trashes an Upgrade.
+J gains a Gold.
+J plays an Expand.
+J trashes a Silver.
+J gains a Gold.
+J plays a Silver. (+$2)
+J buys and gains a Pearl Diver.
+J draws 2 Coppers, a Gold, an Expand and a Wish.
+
+Turn 14 - Lord Rattington
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Gold.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Province.
+J draws a Copper, a Silver, an Upgrade and 2 Wishes.
+
+Turn 15 - Lord Rattington
+L plays a Copper and 2 Golds. (+$7)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Gold.
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Gold.
+J plays an Upgrade.
+J draws a Secret Cave.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Secret Cave.
+J draws a Silver.
+J gets +1 Action.
+J plays 2 Silvers and 2 Golds. (+$10)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, a Gold, an Upgrade, an Expand and a Monument.
+
+Turn 16 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes a Copper.
+L plays a Silver and 2 Golds. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays an Upgrade.
+J draws a Gold.
+J gets +1 Action.
+J trashes an Expand.
+J gains a Province.
+J plays a Monument.
+J gets +$2.
+J gets 1 VP.
+J plays a Copper and 2 Golds. (+$7)
+J buys and gains a Province.
+J draws a Gold, 2 Provinces, an Upgrade and a Secret Cave.
+

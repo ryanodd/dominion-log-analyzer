@@ -1,0 +1,340 @@
+Game #82144432, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Swindler.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Swindler.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Steward.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Steward.
+J shuffles their deck.
+J draws a Copper, 3 Estates and a Steward.
+
+Turn 3 - Lord Rattington
+L plays a Steward.
+L trashes a Copper and an Estate.
+L plays 2 Coppers. (+$2)
+L draws 5 cards.
+L takes 2 VP from Baths.
+
+Turn 3 - Jazzercise
+J plays a Steward.
+J trashes 2 Estates.
+J draws 5 Coppers.
+J takes 2 VP from Baths.
+
+Turn 4 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J trashes a Swindler.
+J gains a Silver.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains an Upgrade.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and an Upgrade.
+
+Turn 5 - Lord Rattington
+L plays a Steward.
+L trashes a Copper and an Estate.
+L plays 2 Coppers. (+$2)
+L draws 5 cards.
+L takes 2 VP from Baths.
+
+Turn 5 - Jazzercise
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes an Estate.
+J gains a Wishing Well.
+J plays 4 Coppers. (+$4)
+J buys a Messenger.
+J gains a Messenger.
+L gains a Messenger.
+J gains a Messenger.
+J draws 3 Coppers, a Silver and a Steward.
+
+Turn 6 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J shuffles their deck.
+J trashes a Copper.
+J gains a Curse.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Steward.
+J trashes 2 Coppers.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Wishing Well.
+J draws a Copper, an Upgrade, a Wishing Well and 2 Messengers.
+
+Turn 7 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J trashes a Copper.
+J gains a Curse.
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Upgrade.
+J draws a Copper.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Wishing Well.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J wishes for Silver but reveals Curse.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J moves their deck to the discard.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Curse, a Copper, a Silver and 2 Wishing Wells.
+
+Turn 8 - Lord Rattington
+L plays a Messenger.
+L gets +1 Buy.
+L gets +$2.
+L moves their deck to the discard.
+L plays a Copper and a Silver. (+$3)
+L buys and gains an Upgrade.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Wishing Well.
+J draws a Steward.
+J gets +1 Action.
+J wishes for Messenger but reveals Silver.
+J plays a Wishing Well.
+J draws a Silver.
+J gets +1 Action.
+J wishes for Messenger but reveals Upgrade.
+J plays a Steward.
+J trashes a Curse and a Copper.
+J plays 2 Silvers. (+$4)
+J buys and gains a Silver.
+J draws a Curse, a Copper, an Upgrade and 2 Messengers.
+
+Turn 9 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J shuffles their deck.
+J trashes a Silver.
+J gains a Silver.
+L plays 4 Coppers. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Upgrade.
+J draws a Wishing Well.
+J gets +1 Action.
+J trashes a Curse.
+J plays a Wishing Well.
+J draws a Wishing Well.
+J gets +1 Action.
+J wishes for Silver and finds it.
+J plays a Wishing Well.
+J draws a Steward.
+J gets +1 Action.
+J wishes for Silver and finds it.
+J plays a Steward.
+J trashes a Copper and a Messenger.
+J plays 2 Silvers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Silvers, a Steward, an Upgrade and a Wishing Well.
+
+Turn 10 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes an Estate.
+L gains a Silver.
+L plays a Messenger.
+L gets +1 Buy.
+L gets +$2.
+L moves their deck to the discard.
+L plays a Silver and a Gold. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Upgrade.
+J draws a Messenger.
+J gets +1 Action.
+J trashes a Steward.
+J gains a Messenger.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Silvers. (+$4)
+J buys and gains a Trading Post.
+J shuffles their deck.
+J draws 3 Silvers and 2 Wishing Wells.
+
+Turn 11 - Lord Rattington
+L plays an Upgrade.
+L draws a card.
+L gets +1 Action.
+L trashes a Copper.
+L plays a Steward.
+L draws 2 cards.
+L plays 2 Coppers and 2 Golds. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Wishing Well.
+J draws a Trading Post.
+J gets +1 Action.
+J wishes for Messenger and finds it.
+J plays a Wishing Well.
+J draws a Silver.
+J gets +1 Action.
+J wishes for Upgrade but reveals Messenger.
+J plays a Trading Post.
+J trashes a Silver and a Messenger.
+J gains a Silver.
+J plays 4 Silvers. (+$8)
+J buys and gains a Torturer.
+J shuffles their deck.
+J draws a Silver, a Torturer, a Trading Post, an Upgrade and a Messenger.
+
+Turn 12 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J trashes a Wishing Well.
+J gains a Silver.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Upgrade.
+J draws a Wishing Well.
+J gets +1 Action.
+J trashes a Messenger.
+J gains a Replace.
+J plays a Wishing Well.
+J draws a Silver.
+J gets +1 Action.
+J wishes for Silver and finds it.
+J plays a Torturer.
+J shuffles their deck.
+J draws 2 Silvers and a Replace.
+L discards a card and a Copper.
+J plays 5 Silvers. (+$10)
+J buys and gains a Replace.
+J shuffles their deck.
+J draws 3 Silvers, an Upgrade and a Wishing Well.
+
+Turn 13 - Lord Rattington
+L plays a Messenger.
+L gets +1 Buy.
+L gets +$2.
+L moves their deck to the discard.
+L plays 2 Golds. (+$6)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Upgrade.
+J draws a Replace.
+J gets +1 Action.
+J trashes a Wishing Well.
+J gains a Messenger.
+J plays a Replace.
+J trashes a Silver.
+J gains a Swindler.
+J topdecks a Swindler.
+J plays 2 Silvers. (+$4)
+J buys and gains a Swindler.
+J draws 2 Silvers, a Swindler, a Torturer and a Trading Post.
+
+Turn 14 - Lord Rattington
+L plays a Messenger.
+L gets +1 Buy.
+L gets +$2.
+L moves their deck to the discard.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Swindler.
+J gets +$2.
+L trashes a Steward.
+L gains a Swindler.
+J plays 2 Silvers. (+$4)
+J buys and gains a Replace.
+J shuffles their deck.
+J draws a Silver, a Replace, a Torturer, a Trading Post and a Messenger.
+
+Turn 15 - Lord Rattington
+L plays 2 Coppers, a Silver and 2 Golds. (+$10)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Replace.
+J trashes a Trading Post.
+J gains a Gold.
+J topdecks a Gold.
+J plays a Silver. (+$2)
+J buys and gains a Ratcatcher.
+J draws a Silver, a Gold, a Replace, a Swindler and an Upgrade.
+
+Turn 16 - Lord Rattington
+L plays a Messenger.
+L gets +1 Buy.
+L gets +$2.
+L moves their deck to the discard.
+L plays a Copper and 2 Golds. (+$7)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+

@@ -1,0 +1,442 @@
+Game #82675155, rated.
+Barrettsmith81: 45.68
+Jazzercise: 46.36
+
+Kingdom generated with these relative percentages:
+50%: Possession and Swindler
+
+
+Druid sets The Sun's Gift aside.
+Druid sets The River's Gift aside.
+Druid sets The Sky's Gift aside.
+B starts with 7 Coppers.
+B starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+B shuffles their deck.
+B draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - Barrettsmith81
+B plays 3 Coppers. (+$3)
+B buys and gains a Silver.
+B draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Coin of the Realm.
+J draws 5 Coppers.
+
+Turn 2 - Barrettsmith81
+B plays 4 Coppers. (+$4)
+B buys and gains a Miser.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Remake.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Remake.
+
+Turn 3 - Barrettsmith81
+B plays 4 Coppers and a Silver. (+$6)
+B buys and gains a Gold.
+B draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Merchant.
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J draws 4 Coppers and an Estate.
+
+Turn 4 - Barrettsmith81
+B plays a Miser.
+B puts a Copper on their Tavern mat.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Remodel.
+J shuffles their deck.
+J draws 2 Estates, a Merchant, a Remodel and a Coin of the Realm.
+
+Turn 5 - Barrettsmith81
+B plays 4 Coppers. (+$4)
+B buys and gains a Remodel.
+B draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Merchant.
+J draws a Remake.
+J gets +1 Action.
+J plays a Remake.
+J trashes an Estate.
+J gains a Merchant.
+J trashes an Estate.
+J gains a Merchant.
+J plays a Coin of the Realm. (+$1)
+J puts a Coin of the Realm on their Tavern mat.
+J draws 5 Coppers.
+
+Turn 6 - Barrettsmith81
+B plays a Miser.
+B puts a Copper on their Tavern mat.
+B plays a Gold. (+$3)
+B buys and gains a Coin of the Realm.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Merchants and a Remodel.
+
+Turn 7 - Barrettsmith81
+B plays a Coin of the Realm. (+$1)
+B puts a Coin of the Realm on their Tavern mat.
+B plays 2 Coppers and a Silver. (+$4)
+B buys and gains a Contraband.
+B draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays a Remodel.
+J trashes a Copper.
+J gains a Druid.
+J plays 2 Coppers and a Silver. (+$4)
+J gets +$2.
+J buys and gains a Merchant.
+J draws 3 Coppers, a Merchant and a Remake.
+
+Turn 8 - Barrettsmith81
+B plays a Remodel.
+B trashes an Estate.
+B gains a Miser.
+B calls a Coin of the Realm.
+B gets +2 Actions.
+B plays a Miser.
+B puts a Copper on their Tavern mat.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Merchant.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J plays a Remake.
+J trashes 2 Coppers.
+J plays a Copper and a Silver. (+$3)
+J gets +$1.
+J buys and gains a Merchant.
+J draws 2 Coppers, 2 Merchants and a Remodel.
+
+Turn 9 - Barrettsmith81
+B plays a Contraband. (+$3)
+B gets +1 Buy.
+J names Gold.
+B plays 2 Coppers and a Gold. (+$5)
+B buys and gains a Duchy.
+B takes 2 VP from Battlefield.
+B buys and gains a Coin of the Realm.
+B draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Druid.
+J gets +1 Action.
+J plays a Merchant.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J plays a Remodel.
+J trashes a Druid.
+J gains a Remodel.
+J plays 2 Coppers and a Silver. (+$4)
+J gets +$3.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, 2 Merchants, a Remodel and a Remake.
+
+Turn 10 - Barrettsmith81
+B plays a Miser.
+B gets +$3.
+B plays a Coin of the Realm. (+$1)
+B puts a Coin of the Realm on their Tavern mat.
+B plays a Silver. (+$2)
+B buys and gains a Gold.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Remodel.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays a Remake.
+J trashes 2 Coppers.
+J calls a Coin of the Realm.
+J gets +2 Actions.
+J plays a Remodel.
+J trashes a Remodel.
+J gains a Gold.
+J draws a Copper, a Silver, a Gold and 2 Merchants.
+
+Turn 11 - Barrettsmith81
+B plays a Miser.
+B puts a Copper on their Tavern mat.
+B plays a Contraband. (+$3)
+B gets +1 Buy.
+J names Province.
+B plays a Copper. (+$1)
+B buys and gains 2 Coins of the Realm.
+B draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Merchant.
+J shuffles their deck.
+J draws a Remodel.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Remake.
+J gets +1 Action.
+J plays a Remodel.
+J trashes a Copper.
+J gains a Coin of the Realm.
+J plays a Silver. (+$2)
+J gets +$3.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J takes 2 VP from Battlefield.
+J shuffles their deck.
+J draws a Gold, 2 Merchants, a Remake and a Coin of the Realm.
+
+Turn 12 - Barrettsmith81
+B plays a Miser.
+B gets +$4.
+B calls a Coin of the Realm.
+B gets +2 Actions.
+B plays a Remodel.
+B trashes an Estate.
+B gains a Merchant.
+B plays 2 Golds. (+$6)
+B buys and gains a Province.
+B takes 2 VP from Battlefield.
+B draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Merchant.
+J draws a Gold.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Province.
+J gets +1 Action.
+J plays 2 Golds. (+$6)
+J plays a Coin of the Realm. (+$1)
+J puts a Coin of the Realm on their Tavern mat.
+J buys and gains a Duchy.
+J takes 2 VP from Battlefield.
+J draws a Silver, 3 Merchants and a Remodel.
+
+Turn 13 - Barrettsmith81
+B plays a Coin of the Realm. (+$1)
+B puts a Coin of the Realm on their Tavern mat.
+B plays 2 Coppers and a Silver. (+$4)
+B buys and gains a Duchy.
+B takes 2 VP from Battlefield.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Merchant.
+J draws a Coin of the Realm.
+J gets +1 Action.
+J plays a Merchant.
+J shuffles their deck.
+J draws a Duchy.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Remake.
+J gets +1 Action.
+J plays a Remake.
+J trashes a Coin of the Realm.
+J gains a Silver.
+J trashes a Duchy.
+J gains a Gold.
+J plays a Silver. (+$2)
+J gets +$4.
+J buys and gains a Duchy.
+J takes 2 VP from Battlefield.
+J shuffles their deck.
+J draws 2 Golds, a Province, a Merchant and a Remodel.
+
+Turn 14 - Barrettsmith81
+B plays a Merchant.
+B draws a card.
+B gets +1 Action.
+B plays a Coin of the Realm. (+$1)
+B puts a Coin of the Realm on their Tavern mat.
+B plays a Coin of the Realm. (+$1)
+B puts a Coin of the Realm on their Tavern mat.
+B plays a Copper. (+$1)
+B buys and gains a Coin of the Realm.
+B draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Remake.
+J gets +1 Action.
+J plays a Remodel.
+J trashes a Gold.
+J gains a Province.
+J plays a Gold. (+$3)
+J buys and gains a Merchant.
+J draws 2 Silvers, a Gold and 2 Merchants.
+
+Turn 15 - Barrettsmith81
+B plays a Miser.
+B gets +$4.
+B calls a Coin of the Realm.
+B gets +2 Actions.
+B plays a Remodel.
+B trashes a Gold.
+B gains a Province.
+B plays a Coin of the Realm. (+$1)
+B puts a Coin of the Realm on their Tavern mat.
+B plays a Contraband. (+$3)
+B gets +1 Buy.
+J names Province.
+B buys and gains 2 Misers.
+B draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Duchy.
+J gets +1 Action.
+J plays a Merchant.
+J shuffles their deck.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Province.
+J gets +1 Action.
+J plays a Silver. (+$2)
+J gets +$4.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Province.
+J draws a Gold, a Province, a Merchant, a Remodel and a Remake.
+
+Turn 16 - Barrettsmith81
+B plays 2 Coppers and a Gold. (+$5)
+B buys and gains a Duchy.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Remodel.
+J trashes a Gold.
+J gains a Province.
+J shuffles their deck.
+J draws a Gold, a Province and 3 Merchants.
+
+Turn 17 - Barrettsmith81
+B plays a Miser.
+B puts a Copper on their Tavern mat.
+B calls a Coin of the Realm.
+B gets +2 Actions.
+B plays a Remodel.
+B trashes a Silver.
+B gains a Duchy.
+B draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Province.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Province.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Silver.
+J gets +1 Action.
+J plays a Silver. (+$2)
+J gets +$4.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J draws a Silver, a Duchy, a Province, a Merchant and a Remodel.
+
+Turn 18 - Barrettsmith81
+B plays a Merchant.
+B draws a card.
+B gets +1 Action.
+B plays a Coin of the Realm. (+$1)
+B puts a Coin of the Realm on their Tavern mat.
+B plays a Gold. (+$3)
+B buys and gains a Miser.
+B draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Merchant.
+J draws a Merchant.
+J gets +1 Action.
+J plays a Merchant.
+J draws a Remake.
+J gets +1 Action.
+J plays a Remake.
+J trashes a Remodel.
+J gains a Duchy.
+J trashes a Silver.
+J gains a Remodel.
+J shuffles their deck.
+J draws 2 Provinces, a Merchant, a Remodel and a Remake.
+
+Turn 19 - Barrettsmith81
+B plays a Miser.
+B gets +$5.
+B buys and gains a Duchy.
+B shuffles their deck.
+B draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Merchant.
+J draws a Silver.
+J gets +1 Action.
+J plays a Remodel.
+J trashes a Province.
+J gains a Province.
+J draws 2 Duchies, 2 Provinces and a Merchant.
+

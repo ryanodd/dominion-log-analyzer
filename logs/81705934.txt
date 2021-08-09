@@ -1,0 +1,827 @@
+Game #81705934, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Ironmonger.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and an Urchin.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+L discards a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains an Ironmonger.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Ironmonger.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, an Ironmonger and an Urchin.
+
+Turn 5 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper.
+L discards a Copper.
+L gets +$1.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Ironmonger.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J gets +$1.
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+L discards a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains a Charm.
+J draws 3 Coppers, an Estate and an Urchin.
+
+Turn 6 - Lord Rattington
+L plays a Gold, a Copper and 2 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Urchin.
+J draws an Ironmonger.
+J gets +1 Action.
+L discards an Estate.
+J plays an Ironmonger.
+J draws an Estate.
+J gets +1 Action.
+J shuffles their deck.
+J reveals an Ironmonger.
+J topdecks an Ironmonger.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains an Urchin.
+J draws a Copper, an Estate, an Ironmonger, an Urchin and a Charm.
+
+Turn 7 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays an Ironmonger.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+L discards a Copper.
+J plays 3 Coppers. (+$3)
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains an Urchin.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Charm.
+
+Turn 8 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper.
+L discards a Copper.
+L gets +$1.
+L plays 2 Silvers. (+$4)
+L buys and gains an Ironmonger.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Pawn.
+J buys and gains an Urchin.
+J draws a Copper, 2 Estates, an Ironmonger and an Urchin.
+
+Turn 9 - Lord Rattington
+L plays a Gold, 2 Coppers and a Silver. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Ironmonger.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Urchin.
+J draws an Urchin.
+J gets +1 Action.
+L discards a Copper.
+J plays an Urchin.
+J trashes an Urchin.
+J gains a Mercenary.
+J draws a Copper.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains an Ironmonger.
+J shuffles their deck.
+J draws a Silver, 2 Ironmongers and 2 Urchins.
+
+Turn 10 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper.
+L discards a Copper.
+L gets +$1.
+L plays a Copper and 3 Silvers. (+$7)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Ironmonger.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Mercenary.
+J topdecks a Mercenary.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Mercenary.
+J gets +1 Action.
+L discards an Estate.
+J plays an Ironmonger.
+J draws a Copper.
+J gets +1 Action.
+J reveals a Pawn.
+J discards a Pawn.
+J gets +1 Action.
+J plays an Urchin.
+J trashes an Urchin.
+J gains a Mercenary.
+J draws an Estate.
+J gets +1 Action.
+J plays a Mercenary.
+J trashes an Urchin.
+J gains a Mercenary.
+J trashes a Copper and an Estate.
+J draws a Copper and an Urchin.
+J gets +$2.
+L discards an Estate.
+J plays an Urchin.
+J draws a Charm.
+J gets +1 Action.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Charm.
+J gets +1 Buy.
+J buys a Pathfinding.
+J moves +Card token to the Ironmonger pile.
+J draws 3 Coppers, an Estate and an Ironmonger.
+
+Turn 11 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L shuffles their deck.
+L reveals a Gold.
+L discards a Gold.
+L gets +$1.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Ironmonger.
+J draws a Copper (from Pathfinding).
+J draws an Estate.
+J gets +1 Action.
+J reveals an Urchin.
+J topdecks an Urchin.
+J gets +1 Action.
+J plays 4 Coppers. (+$4)
+J buys and gains an Ironmonger.
+J shuffles their deck.
+J draws a Copper, 2 Estates, an Ironmonger and an Urchin.
+
+Turn 12 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Silver.
+L discards a Silver.
+L gets +$1.
+L plays a Copper and a Silver. (+$3)
+L buys and gains an Ironmonger.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Ironmonger.
+J draws an Ironmonger (from Pathfinding).
+J draws a Silver.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Ironmonger.
+J draws an Ironmonger (from Pathfinding).
+J draws an Urchin.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Ironmonger.
+J draws a Mercenary (from Pathfinding).
+J draws a Mercenary.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Urchin.
+J draws an Ironmonger.
+J gets +1 Action.
+L discards a Province.
+J plays an Ironmonger.
+J draws a Pawn (from Pathfinding).
+J draws a Charm.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Urchin.
+J draws a Copper.
+J gets +1 Action.
+J plays a Pawn.
+J draws a Mercenary.
+J gets +1 Action.
+J plays a Mercenary.
+J trashes 2 Estates.
+J shuffles their deck.
+J draws 2 Coppers.
+J gets +$2.
+L discards a Copper.
+J plays 4 Coppers and a Silver. (+$6)
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Charm.
+J buys and gains an Ironmonger.
+J shuffles their deck.
+J draws 3 Coppers, an Ironmonger and a Charm.
+
+Turn 13 - Lord Rattington
+L plays a Gold, a Copper and a Silver. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Ironmonger.
+J draws a Mercenary (from Pathfinding).
+J draws a Silver.
+J gets +1 Action.
+J reveals an Ironmonger.
+J topdecks an Ironmonger.
+J gets +1 Action.
+J plays a Mercenary.
+J trashes 2 Coppers.
+J draws a Copper and an Ironmonger.
+J gets +$2.
+L discards a card and an Estate.
+J plays an Ironmonger.
+J draws a Copper (from Pathfinding).
+J draws a Mercenary.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays a Mercenary.
+J trashes 2 Coppers.
+J draws an Ironmonger and an Urchin.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Gold.
+J buys and gains an Ironmonger.
+J draws a Pawn, 2 Ironmongers, an Urchin and a Charm.
+
+Turn 14 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains an Ironmonger.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Ironmonger.
+J draws a Mercenary (from Pathfinding).
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J reveals an Ironmonger.
+J topdecks an Ironmonger.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws an Ironmonger (from Pathfinding).
+J draws an Ironmonger.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Ironmonger.
+J draws a Gold (from Pathfinding).
+J draws an Urchin.
+J gets +1 Action.
+J reveals a Mercenary.
+J topdecks a Mercenary.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Mercenary (from Pathfinding).
+J draws an Ironmonger.
+J gets +1 Action.
+J reveals a Mercenary.
+J topdecks a Mercenary.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Mercenary (from Pathfinding).
+J draws a Charm.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays an Urchin.
+J draws an Ironmonger.
+J gets +1 Action.
+L discards an Estate.
+J plays an Ironmonger.
+J shuffles their deck.
+J draws a Copper (from Pathfinding).
+J draws a Copper.
+J gets +1 Action.
+J plays an Urchin.
+J gets +1 Action.
+J plays a Mercenary.
+J trashes a Copper and a Mercenary.
+J gets +$2.
+L discards a Copper.
+J plays a Pawn.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold, a Copper and a Silver. (+$6)
+J plays a Charm.
+J gets +1 Buy.
+J plays a Charm.
+J buys a Bazaar.
+J gains a Charm.
+J gains a Bazaar.
+J buys and gains a Coven.
+J buys and gains a Pawn.
+J shuffles their deck.
+J draws a Copper, an Ironmonger, an Urchin, a Charm and a Coven.
+
+Turn 15 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals an Ironmonger.
+L discards an Ironmonger.
+L gets +1 Action.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Bazaar.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Ironmonger.
+J draws an Ironmonger (from Pathfinding).
+J draws an Ironmonger.
+J gets +1 Action.
+J reveals a Pawn.
+J topdecks a Pawn.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Pawn (from Pathfinding).
+J draws a Silver.
+J gets +1 Action.
+J reveals a Charm.
+J discards a Charm.
+J gets +$1.
+J plays an Urchin.
+J draws a Pawn.
+J gets +1 Action.
+L discards a Copper.
+J plays an Ironmonger.
+J draws a Mercenary (from Pathfinding).
+J draws an Ironmonger.
+J gets +1 Action.
+J reveals a Charm.
+J discards a Charm.
+J gets +$1.
+J plays an Ironmonger.
+J draws an Urchin (from Pathfinding).
+J draws an Ironmonger.
+J gets +1 Action.
+J reveals a Gold.
+J discards a Gold.
+J gets +$1.
+J plays an Urchin.
+J draws an Ironmonger.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Mercenary (from Pathfinding).
+J draws a Bazaar.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Gold.
+J discards a Gold.
+J gets +$1.
+J plays an Ironmonger.
+J draws a Charm (from Pathfinding).
+J draws a Charm.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Gold.
+J discards a Gold.
+J gets +$1.
+J plays a Bazaar.
+J shuffles their deck.
+J draws a Gold.
+J gets +2 Actions.
+J gets +$1.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Mercenary.
+J trashes a Copper and a Mercenary.
+J gets +$2.
+L discards a Copper.
+J plays a Pawn.
+J gets +1 Buy.
+J gets +$1.
+J plays a Pawn.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold and a Silver. (+$5)
+J plays a Charm.
+J gets +1 Buy.
+J plays 2 Charms.
+J buys a Bazaar.
+J gains 2 Covens.
+J gains a Bazaar.
+J buys and gains 2 Bazaars.
+J buys and gains a Pawn.
+J shuffles their deck.
+J draws a Pawn, a Bazaar, an Ironmonger, a Charm and a Coven.
+
+Turn 16 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals an Estate.
+L discards an Estate.
+L draws a card.
+L plays 3 Golds and a Silver. (+$11)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays an Ironmonger.
+J draws a Silver (from Pathfinding).
+J draws an Ironmonger.
+J gets +1 Action.
+J reveals a Gold.
+J discards a Gold.
+J gets +$1.
+J plays an Ironmonger.
+J draws an Ironmonger (from Pathfinding).
+J draws an Ironmonger.
+J gets +1 Action.
+J reveals a Mercenary.
+J discards a Mercenary.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws an Urchin (from Pathfinding).
+J draws a Bazaar.
+J gets +1 Action.
+J reveals a Bazaar.
+J topdecks a Bazaar.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Bazaar (from Pathfinding).
+J draws a Bazaar.
+J gets +1 Action.
+J reveals a Coven.
+J discards a Coven.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Charm.
+J gets +1 Action.
+L discards a Copper.
+J plays a Bazaar.
+J draws an Urchin.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Coven.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws an Ironmonger.
+J gets +2 Actions.
+J gets +$1.
+J plays an Ironmonger.
+J draws an Ironmonger (from Pathfinding).
+J draws a Pawn.
+J gets +1 Action.
+J reveals a Pawn.
+J discards a Pawn.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Charm (from Pathfinding).
+J shuffles their deck.
+J draws a Mercenary.
+J gets +1 Action.
+J reveals a Gold.
+J discards a Gold.
+J gets +$1.
+J plays a Bazaar.
+J draws a Coven.
+J gets +2 Actions.
+J gets +$1.
+J plays an Urchin.
+J draws a Pawn.
+J gets +1 Action.
+J plays a Pawn.
+J shuffles their deck.
+J draws a Gold.
+J gets +$1.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Pawn.
+J gets +1 Buy.
+J gets +$1.
+J plays a Pawn.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold and a Silver. (+$5)
+J plays a Charm.
+J gets +1 Buy.
+J plays a Charm.
+J gets +1 Buy.
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains 3 Bazaars.
+J buys and gains a Gold.
+J buys and gains 2 Pawns.
+J shuffles their deck.
+J draws an Ironmonger, a Mercenary, an Urchin, a Charm and a Coven.
+
+Turn 17 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Province.
+L discards a Province.
+L draws a card.
+L plays a Copper and 3 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays an Ironmonger.
+J draws a Pawn (from Pathfinding).
+J draws a Pawn.
+J gets +1 Action.
+J reveals an Ironmonger.
+J topdecks an Ironmonger.
+J gets +1 Action.
+J plays an Urchin.
+J draws an Ironmonger.
+J gets +1 Action.
+L discards a Province.
+J plays an Ironmonger.
+J draws a Pawn (from Pathfinding).
+J draws a Coven.
+J gets +1 Action.
+J reveals a Bazaar.
+J topdecks a Bazaar.
+J gets +1 Action.
+J plays a Pawn.
+J draws a Bazaar.
+J gets +1 Action.
+J plays a Bazaar.
+J draws an Ironmonger.
+J gets +2 Actions.
+J gets +$1.
+J plays an Ironmonger.
+J draws a Gold (from Pathfinding).
+J draws a Charm.
+J gets +1 Action.
+J reveals a Bazaar.
+J topdecks a Bazaar.
+J gets +1 Action.
+J plays a Pawn.
+J draws a Bazaar.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Charm.
+J gets +2 Actions.
+J gets +$1.
+J plays a Pawn.
+J draws a Pawn.
+J gets +1 Action.
+J plays a Pawn.
+J draws a Pawn.
+J gets +$1.
+J plays a Pawn.
+J draws an Ironmonger.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Bazaar (from Pathfinding).
+J draws an Urchin.
+J gets +1 Action.
+J reveals a Bazaar.
+J topdecks a Bazaar.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Coven.
+J gets +2 Actions.
+J gets +$1.
+J plays an Urchin.
+J draws a Gold.
+J gets +1 Action.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays 2 Golds. (+$6)
+J plays a Charm.
+J gets +1 Buy.
+J plays a Charm.
+J gets +1 Buy.
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains 3 Provinces.
+J draws a Silver, 2 Bazaars and 2 Ironmongers.
+
+Turn 18 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Bazaar.
+L discards a Bazaar.
+L gets +1 Action.
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals an Estate.
+L discards an Estate.
+L draws a card.
+L plays 2 Golds, a Copper and 2 Silvers. (+$11)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays an Ironmonger.
+J shuffles their deck.
+J draws a Bazaar (from Pathfinding).
+J draws a Coven.
+J gets +1 Action.
+J reveals a Charm.
+J discards a Charm.
+J gets +$1.
+J plays an Ironmonger.
+J draws a Charm (from Pathfinding).
+J draws a Pawn.
+J gets +1 Action.
+J reveals a Coven.
+J discards a Coven.
+J gets +1 Action.
+J plays a Bazaar.
+J draws a Province.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Pawn.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Bazaar.
+J gets +2 Actions.
+J gets +$1.
+J plays a Bazaar.
+J draws a Gold.
+J gets +2 Actions.
+J gets +$1.
+J plays a Pawn.
+J draws a Bazaar.
+J gets +$1.
+J plays a Bazaar.
+J draws an Ironmonger.
+J gets +2 Actions.
+J gets +$1.
+J plays an Ironmonger.
+J draws a Pawn (from Pathfinding).
+J draws an Urchin.
+J gets +1 Action.
+J reveals a Pawn.
+J discards a Pawn.
+J gets +1 Action.
+J plays a Pawn.
+J draws a Gold.
+J gets +$1.
+J plays an Urchin.
+J draws a Mercenary.
+J gets +1 Action.
+L discards a Copper.
+J plays a Pawn.
+J draws an Urchin.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Charm.
+J gets +1 Action.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays 2 Golds and a Silver. (+$8)
+J plays a Charm.
+J gets +1 Buy.
+J plays a Charm.
+J gets +1 Buy.
+J buys and gains a Province.
+J buys and gains 2 Duchies.
+J draws a Bazaar, 3 Ironmongers and a Coven.
+

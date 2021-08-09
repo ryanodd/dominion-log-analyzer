@@ -1,0 +1,431 @@
+Game #81942011, unrated.
+
+
+J starts with a Pouch.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+L starts with a Pouch.
+L starts with 6 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws a Copper, 3 Estates and a Pouch.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays a Copper. (+$1)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Raze.
+J draws 5 Coppers.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Fortune Teller.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains an Idol.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and an Idol.
+
+Turn 2 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Copper. (+$1)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays an Idol. (+$2)
+J takes The River's Gift.
+J receives The River's Gift.
+J buys and gains a Silver.
+J discards The River's Gift.
+J draws 4 Coppers, an Estate and a Raze.
+
+Turn 3 - Lord Rattington
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Copper. (+$1)
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J shuffles their deck.
+J looks at an Idol and a Pouch.
+J puts an Idol into their hand.
+J discards a Pouch.
+J plays 4 Coppers. (+$4)
+J plays an Idol. (+$2)
+J takes The Wind's Gift.
+J receives The Wind's Gift.
+J draws 2 Coppers.
+J discards 2 Coppers.
+J discards The Wind's Gift.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains an Idol.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, a Gold, a Raze and an Idol.
+
+Turn 5 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals 2 Coppers and a Pouch.
+J shuffles their deck.
+J reveals 2 Coppers and 2 Silvers and finally Estate.
+J topdecks an Estate.
+J discards 4 Coppers, 2 Silvers and a Pouch.
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Silver. (+$2)
+L buys and gains an Idol.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Copper and a Gold. (+$4)
+J plays an Idol. (+$2)
+J takes The Earth's Gift.
+J receives The Earth's Gift.
+J discards The Earth's Gift.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 6 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Raze.
+J draws a Copper, a Silver, a Gold, an Idol and a Pouch.
+
+Turn 7 - Lord Rattington
+L plays a Copper. (+$1)
+L plays an Idol. (+$2)
+L takes The Sun's Gift.
+L receives The Sun's Gift.
+L looks at 4 cards.
+L topdecks 4 cards.
+L discards The Sun's Gift.
+L plays 2 Coppers. (+$2)
+L buys and gains an Idol.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Copper, a Gold and a Silver. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J plays an Idol. (+$2)
+J takes The Flame's Gift.
+J receives The Flame's Gift.
+J discards The Flame's Gift.
+J buys and gains a Bank.
+J buys and gains a Raze.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, an Estate and a Raze.
+
+Turn 8 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays an Idol. (+$2)
+L takes The Sky's Gift.
+L receives The Sky's Gift.
+L discards a card and a Silver.
+L fails to discard for The Sky's Gift
+L discards The Sky's Gift.
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J looks at a Gold and a Pouch.
+J puts a Gold into their hand.
+J discards a Pouch.
+J plays a Copper, 2 Golds and a Silver. (+$9)
+J buys and gains a Bank.
+J draws 2 Coppers, a Silver, an Estate and an Idol.
+
+Turn 9 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals a Bank, 2 Coppers and 2 Razes.
+J shuffles their deck.
+J reveals a Bank, a Copper, 2 Golds, a Raze, a Silver and a Pouch.
+J discards 3 Coppers, a Silver, 2 Golds, 2 Banks, 3 Razes and a Pouch.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J plays an Idol. (+$2)
+J takes The Swamp's Gift.
+J receives The Swamp's Gift.
+J gains a Will-o'-Wisp.
+J discards The Swamp's Gift.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Coppers, a Gold and an Idol.
+
+Turn 10 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L plays an Idol. (+$2)
+L takes The Mountain's Gift.
+L receives The Mountain's Gift.
+L gains a Silver.
+L discards The Mountain's Gift.
+L plays a Copper. (+$1)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays 3 Coppers and a Gold. (+$6)
+J plays an Idol. (+$2)
+J takes The Forest's Gift.
+J receives The Forest's Gift.
+J gets +1 Buy.
+J buys and gains a Province.
+J discards The Forest's Gift.
+J draws 2 Silvers, a Gold, a Bank and a Will-o'-Wisp.
+
+Turn 11 - Lord Rattington
+L plays a Copper. (+$1)
+L plays an Idol. (+$2)
+L takes The Field's Gift.
+L receives The Field's Gift.
+L gets +1 Action.
+L plays a Silver. (+$2)
+L plays an Idol. (+$2)
+J gains a Curse.
+L buys and gains a Province.
+L discards The Field's Gift.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Pouch.
+J gets +1 Action.
+J reveals an Estate.
+J puts an Estate into their hand.
+J plays a Gold and 2 Silvers. (+$7)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J plays a Bank. (+$5)
+J buys and gains a Province.
+J buys and gains an Idol.
+J draws 2 Coppers, a Gold and 2 Razes.
+
+Turn 12 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals a Bank and a Raze.
+J shuffles their deck.
+J reveals a Curse.
+J topdecks a Curse.
+J discards a Bank and a Raze.
+L plays a Copper and a Gold. (+$4)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L buys and gains a Bank.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Gold. (+$3)
+J buys Pursue.
+J gets +1 Buy.
+J names Gold.
+J reveals a Copper, a Curse, a Gold and an Idol.
+J topdecks a Gold.
+J discards a Curse, a Copper and an Idol.
+J draws a Copper, a Gold, a Province, an Idol and a Will-o'-Wisp.
+
+Turn 13 - Lord Rattington
+L plays an Idol. (+$2)
+L takes The Sea's Gift.
+L receives The Sea's Gift.
+L draws a card.
+L discards The Sea's Gift.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Bank.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Silver.
+J topdecks a Silver.
+J plays a Copper, a Gold and a Silver. (+$6)
+J plays an Idol. (+$2)
+J takes The Moon's Gift.
+J receives The Moon's Gift.
+J looks at a Bank, a Copper, a Curse, a Gold, an Idol and 3 Razes.
+J looks at a Bank, a Copper, a Curse, a Gold, an Idol and 3 Razes.
+J topdecks a Raze.
+J discards The Moon's Gift.
+J buys and gains a Province.
+J draws a Silver, an Estate, a Province, a Raze and a Pouch.
+
+Turn 14 - Lord Rattington
+L plays a Fortune Teller.
+L gets +$2.
+J reveals a Bank, a Copper and a Gold.
+J shuffles their deck.
+J reveals a Bank, 2 Coppers, 2 Golds, 2 Idols and a Raze and finally Curse.
+J topdecks a Curse.
+J discards 3 Coppers, 3 Golds, 2 Banks, a Raze and 2 Idols.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J looks at a Curse and a Silver.
+J puts a Curse into their hand.
+J discards a Silver.
+J plays a Silver. (+$2)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J shuffles their deck.
+J draws 3 Provinces, a Raze and a Will-o'-Wisp.
+
+Turn 15 - Lord Rattington
+L plays a Bank. (+$1)
+L plays an Idol. (+$2)
+L takes The Earth's Gift.
+L receives The Earth's Gift.
+L discards The Earth's Gift.
+L plays a Copper, a Gold and a Silver. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Will-o'-Wisp.
+J draws a Gold.
+J gets +1 Action.
+J reveals an Idol.
+J topdecks an Idol.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Raze.
+J looks at an Idol and a Silver.
+J puts an Idol into their hand.
+J discards a Silver.
+J plays a Gold. (+$3)
+J plays an Idol. (+$2)
+J takes The Sky's Gift.
+J receives The Sky's Gift.
+J discards 3 Provinces.
+J gains a Gold.
+J discards The Sky's Gift.
+J buys and gains an Idol.
+J draws a Curse, 2 Coppers, a Gold and a Raze.
+
+Turn 16 - Lord Rattington
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays an Idol. (+$2)
+L takes The Field's Gift.
+L receives The Field's Gift.
+L gets +1 Action.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Duchy.
+L discards The Field's Gift.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Raze.
+J looks at a Bank and a Pouch.
+J puts a Bank into their hand.
+J discards a Pouch.
+J plays 2 Coppers and a Gold. (+$5)
+J plays a Bank. (+$4)
+J buys and gains a Province.
+J draws a Copper, a Gold, a Bank, a Raze and an Idol.
+
+Turn 17 - Lord Rattington
+L plays an Idol. (+$2)
+L takes The Forest's Gift.
+L receives The Forest's Gift.
+L gets +1 Buy.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Duchy.
+L discards The Forest's Gift.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Raze.
+J shuffles their deck.
+J looks at 2 Silvers.
+J puts a Silver into their hand.
+J discards a Silver.
+J plays a Copper, a Gold and a Silver. (+$6)
+J plays an Idol. (+$2)
+J takes The Wind's Gift.
+J receives The Wind's Gift.
+J draws a Bank and a Will-o'-Wisp.
+J discards 2 Banks.
+J discards The Wind's Gift.
+J buys and gains a Province.
+J draws 2 Golds, a Province, an Idol and a Pouch.
+
+Turn 18 - Lord Rattington
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays 2 Golds. (+$6)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J plays an Idol. (+$2)
+J takes The Swamp's Gift.
+J receives The Swamp's Gift.
+J gains a Will-o'-Wisp.
+J discards The Swamp's Gift.
+J buys and gains a Province.
+J draws a Copper, 3 Provinces and an Idol.
+

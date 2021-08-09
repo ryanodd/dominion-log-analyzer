@@ -1,0 +1,203 @@
+Game #82130943, rated.
+Jazzercise: 45.34
+Tomski: 55.16
+
+Kingdom generated with these relative percentages:
+0%: Cavalry and Possession
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+T starts with 7 Coppers.
+T starts with 3 Estates.
+J shuffles their deck.
+J draws 5 Coppers.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Butcher.
+J draws 2 Coppers and 3 Estates.
+
+Turn 1 - Tomski
+T plays 4 Coppers. (+$4)
+T buys and gains a Silver.
+T draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Pearl Diver.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Tomski
+T plays 3 Coppers. (+$3)
+T buys and gains a Leprechaun.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Pearl Diver.
+
+Turn 3 - Tomski
+T plays 3 Coppers. (+$3)
+T buys and gains a Silver.
+T draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Pearl Diver.
+J draws a Butcher.
+J gets +1 Action.
+J looks at a Copper.
+J topdecks a Copper.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes an Estate.
+J uses 2 Coffers. (+$2)
+J gains a Throne Room.
+J plays 3 Coppers. (+$3)
+J buys and gains a Leprechaun.
+J shuffles their deck.
+J draws 4 Coppers and a Throne Room.
+
+Turn 4 - Tomski
+T plays 3 Coppers and a Silver. (+$5)
+T buys and gains a Band of Misfits.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Donate.
+J repays 4 debt (4 remaining).
+J draws a Copper, a Silver, an Estate, a Pearl Diver and a Butcher.
+
+Between Turns
+J puts 4 Coppers and a Throne Room into their hand.
+J puts 2 Coppers, an Estate and a Leprechaun into their hand.
+J trashes 7 Coppers and 2 Estates.
+J shuffles their deck.
+J shuffles a Pearl Diver, a Throne Room, a Butcher, a Silver and a Leprechaun into their deck.
+J draws a Silver, a Throne Room, a Pearl Diver, a Butcher and a Leprechaun.
+
+Turn 5 - Tomski
+T plays a Leprechaun.
+T gains a Gold.
+T takes Delusion.
+T receives Delusion.
+T takes Deluded.
+T discards Delusion.
+T returns Deluded.
+T plays 3 Coppers and a Silver. (+$5)
+T buys a Donate.
+T repays 5 debt (3 remaining).
+T draws 5 cards.
+
+Between Turns
+T puts 5 other cards and a Gold into their hand.
+T puts 4 cards into their hand.
+T trashes 7 Coppers and 3 Estates.
+T shuffles their deck.
+T shuffles 5 cards into their deck.
+T draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Throne Room.
+J plays a Leprechaun.
+J gains a Gold.
+J takes Greed.
+J receives Greed.
+J gains a Copper.
+J discards Greed.
+J plays a Leprechaun again.
+J gains a Gold.
+J takes Famine.
+J receives Famine.
+J shuffles their deck.
+J reveals a Copper and 2 Golds.
+J shuffles their deck.
+J shuffles a Copper and 2 Golds into their deck.
+J discards Famine.
+J plays a Silver. (+$2)
+J repays 2 debt (2 remaining).
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Golds and a Leprechaun.
+
+Turn 6 - Tomski
+T plays a Band of Misfits.
+T plays a Throne Room.
+T plays a Leprechaun.
+T gains a Gold.
+T takes Plague.
+T receives Plague.
+T gains a Curse.
+T discards Plague.
+T plays a Leprechaun again.
+T gains a Gold.
+T takes War.
+T receives War.
+T shuffles their deck.
+T reveals 2 Golds.
+T discards 2 Golds.
+T discards War.
+T plays 2 Silvers and a Gold. (+$7)
+T repays 3 debt.
+T buys and gains a Pearl Diver.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Silver. (+$2)
+J repays 2 debt.
+J plays a Copper and 2 Golds. (+$7)
+J buys and gains a Butcher.
+J shuffles their deck.
+J draws a Copper, a Throne Room, a Pearl Diver, a Butcher and a Leprechaun.
+
+Turn 7 - Tomski
+T plays 2 Silvers and 2 Golds. (+$10)
+T buys and gains a Province.
+T shuffles their deck.
+T draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Throne Room.
+J plays a Pearl Diver.
+J draws a Silver.
+J gets +1 Action.
+J looks at a Butcher.
+J topdecks a Butcher.
+J plays a Pearl Diver again.
+J draws a Butcher.
+J gets +1 Action.
+J looks at a Gold.
+J topdecks a Gold.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Copper.
+J uses 2 Coffers. (+$2)
+J gains a Pearl Diver.
+J plays a Butcher.
+J gets +2 Coffers.
+J trashes a Silver.
+J uses 2 Coffers. (+$2)
+J gains a Band of Misfits.
+J shuffles their deck.
+J draws 2 Golds, a Throne Room, a Pearl Diver and a Butcher.
+
+Turn 8 - Tomski
+T plays a Band of Misfits.
+T plays a Throne Room.
+T plays a Pearl Diver.
+T draws a card.
+T gets +1 Action.
+T looks at a card.
+T puts a card on the bottom of Draw Pile.
+T plays a Pearl Diver again.
+T draws a card.
+T gets +1 Action.
+T looks at a card.
+

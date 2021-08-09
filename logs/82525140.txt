@@ -1,0 +1,723 @@
+Game #82525140, rated.
+takumikuta: 54.88
+Jazzercise: 46.67
+
+Kingdom generated with these relative percentages:
+0%: Black Market, Possession and Swindler
+50%: Mountebank, Torturer, Goons, Masquerade and Witch
+
+
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t shuffles their deck.
+t draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - takumikuta
+t plays 5 Coppers. (+$5)
+t buys and gains a Junk Dealer.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - takumikuta
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Forager.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 3 - takumikuta
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes an Estate.
+t plays 4 Coppers. (+$4)
+t buys and gains a Junk Dealer.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Junk Dealer.
+J draws a Silver, 3 Estates and a Forager.
+
+Turn 4 - takumikuta
+t plays 3 Coppers. (+$3)
+t buys and gains a Silver.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Forager.
+J gets +1 Action.
+J gets +1 Buy.
+J trashes an Estate.
+J shuffles their deck.
+J draws 3 Coppers, a Forager and a Junk Dealer.
+
+Turn 5 - takumikuta
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes an Estate.
+t plays 3 Coppers. (+$3)
+t buys and gains a Fortress.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Junk Dealer.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J trashes an Estate.
+J plays a Forager.
+J gets +1 Action.
+J gets +1 Buy.
+J trashes a Copper.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J buys and gains a Fortress.
+J draws 4 Coppers and an Estate.
+
+Turn 6 - takumikuta
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Copper.
+t plays a Silver and 3 Coppers. (+$5)
+t buys a Seaway.
+t gains a Fortress.
+t moves +Buy token to the Fortress pile.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Forager.
+
+Turn 7 - takumikuta
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes an Estate.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Copper.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays 3 Coppers. (+$3)
+t buys and gains a Leprechaun.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Forager.
+J gets +1 Action.
+J gets +1 Buy.
+J trashes an Estate.
+J gets +$1.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Swashbuckler.
+J draws 2 Coppers, a Silver, a Fortress and a Junk Dealer.
+
+Turn 8 - takumikuta
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Silver and 4 Coppers. (+$6)
+t buys and gains a Forager.
+t buys and gains a Chariot Race.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Fortress.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Junk Dealer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Swashbuckler.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Fortress.
+
+Turn 9 - takumikuta
+t plays a Junk Dealer.
+t shuffles their deck.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Copper.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Chariot Race.
+t gets +1 Action.
+t reveals a Copper.
+t puts a Copper into their hand.
+J reveals a Forager.
+t plays a Forager.
+t gets +1 Action.
+t gets +1 Buy.
+t trashes a Copper.
+t gets +$1.
+t plays a Leprechaun.
+t gains a Gold.
+t gains a Wish.
+t plays a Copper. (+$1)
+t buys and gains a Bishop.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Fortress.
+J draws a Forager.
+J gets +2 Actions.
+J plays a Forager.
+J gets +1 Action.
+J gets +1 Buy.
+J trashes a Copper.
+J gets +$1.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Swashbuckler.
+J draws a Copper, a Silver, a Junk Dealer and 2 Swashbucklers.
+
+Turn 10 - takumikuta
+t plays a Leprechaun.
+t gains a Gold.
+t takes Delusion.
+t receives Delusion.
+t takes Deluded.
+t discards Delusion.
+t returns Deluded.
+t plays a Silver and 3 Coppers. (+$5)
+t buys a Seaway.
+t gains a Fortress.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Junk Dealer.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays a Swashbuckler.
+J shuffles their deck.
+J draws a Copper, a Silver and a Fortress.
+J plays 2 Silvers and 2 Coppers. (+$6)
+J buys a Lost Arts.
+J moves +Action token to the Swashbuckler pile.
+J shuffles their deck.
+J draws 2 Coppers, a Forager and 2 Swashbucklers.
+
+Turn 11 - takumikuta
+t plays a Chariot Race.
+t gets +1 Action.
+t reveals a Wish.
+t puts a Wish into their hand.
+J reveals a Swashbuckler.
+t plays a Wish.
+t gets +1 Action.
+t returns a Wish to the Wish pile.
+t gains a Fortress.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t plays a Forager.
+t gets +1 Action.
+t gets +1 Buy.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t gets +$1.
+t plays a Bishop.
+t gets +$1.
+t gets 1 VP.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t gets 2 VP.
+J trashes a Copper.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t shuffles their deck.
+t draws a card.
+t gets +2 Actions.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Copper and 2 Golds. (+$7)
+t buys and gains 2 Swashbucklers.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Silver, a Junk Dealer and a Swashbuckler.
+J plays a Forager.
+J gets +1 Action.
+J gets +1 Buy.
+J trashes a Copper.
+J gets +$1.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Copper, a Silver and a Fortress.
+J plays a Fortress.
+J gets +2 Actions.
+J plays a Junk Dealer.
+J gets +1 Action.
+J gets +$1.
+J trashes a Copper.
+J plays 2 Silvers. (+$4)
+J buys and gains a Leprechaun.
+J buys and gains a Chariot Race.
+J shuffles their deck.
+J draws a Silver, a Fortress, a Junk Dealer, a Chariot Race and a Swashbuckler.
+
+Turn 12 - takumikuta
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t shuffles their deck.
+t draws a card.
+t gets +2 Actions.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Copper.
+t plays a Bishop.
+t gets +$1.
+t gets 1 VP.
+t trashes a Copper.
+J trashes a Junk Dealer.
+t plays a Leprechaun.
+t gains a Gold.
+t takes Haunting.
+t receives Haunting.
+t discards Haunting.
+t plays a Silver. (+$2)
+t buys and gains a Fortress.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Fortress.
+J draws a Swashbuckler.
+J gets +2 Actions.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Silver, a Forager and a Swashbuckler.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Leprechaun.
+J puts a Leprechaun into their hand.
+t reveals a Forager.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J plays a Forager.
+J gets +1 Action.
+J gets +1 Buy.
+J trashes a Silver.
+J gets +$2.
+J plays a Leprechaun.
+J gains a Gold.
+J gains a Wish.
+J plays a Silver. (+$2)
+J buys and gains a Chariot Race.
+J shuffles their deck.
+J draws a Gold, a Forager, a Fortress and 2 Swashbucklers.
+
+Turn 13 - takumikuta
+t plays a Chariot Race.
+t gets +1 Action.
+t reveals a Forager.
+t puts a Forager into their hand.
+J reveals a Swashbuckler.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Forager.
+t plays a Swashbuckler.
+t draws 3 cards.
+t gets +1 Coffers.
+t plays 2 Golds. (+$6)
+t uses 1 Coffers. (+$1)
+t buys and gains a Province.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Fortress.
+J draws a Swashbuckler.
+J gets +2 Actions.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Silver, a Chariot Race and a Leprechaun.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Chariot Race and a Wish.
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Gold.
+J plays a Chariot Race.
+J gets +1 Action.
+t reveals a Fortress.
+J plays a Chariot Race.
+J gets +1 Action.
+t reveals a Fortress.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J plays a Leprechaun.
+J gains a Gold.
+J gains a Wish.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Gold, a Fortress, 2 Chariot Races and a Wish.
+
+Turn 14 - takumikuta
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Chariot Race.
+t gets +1 Action.
+t reveals a Fortress.
+t puts a Fortress into their hand.
+J reveals a Swashbuckler.
+t plays a Bishop.
+t gets +$1.
+t gets 1 VP.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t gets 2 VP.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Leprechaun.
+t gains a Gold.
+t takes War.
+t receives War.
+t reveals a Fortress.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t discards War.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Silver, a Copper and a Gold. (+$6)
+t buys and gains a Bishop.
+t buys and gains a Chariot Race.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Swashbuckler.
+J puts a Swashbuckler into their hand.
+t reveals a Fortress.
+J gets +$1.
+J gets 1 VP.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Leprechaun.
+J puts a Leprechaun into their hand.
+t reveals a Fortress.
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Bishop.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws 2 Golds and a Swashbuckler.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Silver, a Gold and a Swashbuckler.
+J plays a Fortress.
+J draws a Forager.
+J gets +2 Actions.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J plays a Leprechaun.
+J gains a Gold.
+J gains a Wish.
+J plays a Bishop.
+J gets +$1.
+J gets 1 VP.
+J trashes a Forager.
+J gets 1 VP.
+J plays a Silver and 4 Golds. (+$14)
+J buys a Seaway.
+J gains a Fortress.
+J moves +Buy token to the Fortress pile.
+J shuffles their deck.
+J draws a Gold, 2 Fortresses and 2 Swashbucklers.
+
+Turn 15 - takumikuta
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Swashbuckler.
+t shuffles their deck.
+t draws 3 cards.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t plays a Chariot Race.
+t gets +1 Action.
+t reveals a Fortress.
+t puts a Fortress into their hand.
+J reveals a Silver.
+t gets +$1.
+t gets 1 VP.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Swashbuckler.
+t draws 3 cards.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Chariot Race.
+t gets +1 Action.
+t reveals a Silver.
+t puts a Silver into their hand.
+J reveals a Silver.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Bishop.
+t gets +$1.
+t gets 1 VP.
+t trashes a Gold.
+t gets 3 VP.
+t plays a Leprechaun.
+t gains a Gold.
+t takes Plague.
+t receives Plague.
+t gains a Curse.
+t discards Plague.
+t plays a Silver, a Copper and 3 Golds. (+$12)
+t buys and gains 2 Provinces.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Silver, a Gold and a Wish.
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Fortress.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws 2 Golds and a Chariot Race.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Swashbuckler.
+J puts a Swashbuckler into their hand.
+t reveals a Gold.
+J plays a Fortress.
+J gets +1 Buy (from Seaway).
+J draws a Leprechaun.
+J gets +2 Actions.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Gold, a Bishop and a Chariot Race.
+J plays a Chariot Race.
+J gets +1 Action.
+t reveals a Gold.
+J plays a Leprechaun.
+J gains a Gold.
+J gains a Wish.
+J plays a Bishop.
+J gets +$1.
+J gets 1 VP.
+J trashes a Fortress.
+J puts a Fortress into their hand.
+J gets 2 VP.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+J plays a Silver and 5 Golds. (+$17)
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws a Silver, 2 Golds, a Fortress and a Wish.
+
+Turn 16 - takumikuta
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Swashbuckler.
+t draws 3 cards.
+t plays a Junk Dealer.
+t draws a card.
+t gets +1 Action.
+t gets +$1.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Bishop.
+t gets +$1.
+t gets 1 VP.
+t trashes a Fortress.
+t puts a Fortress into their hand.
+t gets 2 VP.
+J trashes a Fortress.
+J puts a Fortress into their hand.
+t plays a Fortress.
+t gets +1 Buy (from Seaway).
+t draws a card.
+t gets +2 Actions.
+t plays a Silver, a Copper and 3 Golds. (+$12)
+t buys and gains a Province.
+t buys and gains a Duchy.
+t buys and gains an Estate.
+t draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Swashbuckler.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Province, a Bishop and a Fortress.
+J plays a Fortress.
+J gets +1 Buy (from Seaway).
+J draws a Gold.
+J gets +2 Actions.
+J plays a Bishop.
+J gets +$1.
+J gets 1 VP.
+J trashes a Fortress.
+J puts a Fortress into their hand.
+J gets 2 VP.
+t trashes a Curse.
+J plays a Fortress.
+J gets +1 Buy (from Seaway).
+J draws a Swashbuckler.
+J gets +2 Actions.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Province, a Leprechaun and a Swashbuckler.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Gold, a Chariot Race and a Swashbuckler.
+J plays a Leprechaun.
+J gains a Gold.
+J gains a Wish.
+J plays a Chariot Race.
+J gets +1 Action.
+J reveals a Gold.
+J puts a Gold into their hand.
+t reveals a Chariot Race.
+J gets +$1.
+J gets 1 VP.
+J plays a Swashbuckler.
+J gets +1 Action (from Lost Arts).
+J draws a Gold, a Fortress and a Chariot Race.
+J gets +1 Coffers.
+J plays a Chariot Race.
+J gets +1 Action.
+J shuffles their deck.
+J reveals a Gold.
+J puts a Gold into their hand.
+t reveals a Chariot Race.
+J gets +$1.
+J gets 1 VP.
+J plays a Fortress.
+J gets +1 Buy (from Seaway).
+J draws a Wish.
+J gets +2 Actions.
+J plays a Wish.
+J gets +1 Action.
+J returns a Wish to the Wish pile.
+J gains a Duchy.
+J plays a Silver and 7 Golds. (+$23)
+J buys and gains 2 Provinces.
+J buys and gains 2 Duchies.
+J shuffles their deck.
+J draws a Gold, a Province, a Fortress, a Chariot Race and a Swashbuckler.
+

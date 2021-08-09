@@ -34,12 +34,12 @@ def saveErrorToDB(errorMessage):
 
     response = table.update_item(
         Key={
-            'id': str(uuid.uuid4())
+            'id': str(uuid.uuid4()),
+            'modifiedAt': datetime.datetime.now().isoformat()
         },
-        UpdateExpression="set errorMessage=:e, modifiedAt=:t",
+        UpdateExpression="set errorMessage=:e",
         ExpressionAttributeValues={
-            ':e': errorMessage,
-            ':t': datetime.datetime.now().isoformat()
+            ':e': errorMessage
         },
         ReturnValues="UPDATED_NEW"
     )

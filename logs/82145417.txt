@@ -1,0 +1,400 @@
+Game #82145417, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Pirate Ship.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L buys and gains a Lighthouse.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Lookout.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Salvager.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Native Village.
+J draws 4 Coppers and a Pirate Ship.
+
+Turn 3 - Lord Rattington
+L plays a Lighthouse.
+L gets +1 Action.
+L gets +$1.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Pirate Ship.
+J plays 4 Coppers. (+$4)
+J buys and gains a Salvager.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Lookout and a Salvager.
+
+Turn 4 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$2.
+L plays 2 Coppers. (+$2)
+L buys and gains a Merchant Ship.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Native Village and 2 Coppers.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Native Village.
+J plays a Salvager.
+J gets +1 Buy.
+J trashes an Estate.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains a Native Village.
+J buys and gains a Lighthouse.
+J draws 2 Coppers, an Estate, a Native Village and a Pirate Ship.
+
+Turn 5 - Lord Rattington
+L plays a Merchant Ship.
+L gets +$2.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Copper aside with Native Village.
+J plays a Pirate Ship.
+L reveals a Copper and a Lighthouse.
+L trashes a Copper.
+L discards a Lighthouse.
+J plays 2 Coppers. (+$2)
+J buys and gains a Pearl Diver.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Lighthouse and a Salvager.
+
+Turn 6 - Lord Rattington
+L starts their turn.
+L gets +$2.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$2.
+L plays 2 Coppers. (+$2)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Lighthouse.
+J gets +1 Action.
+J gets +$1.
+J plays a Salvager.
+J gets +1 Buy.
+J trashes an Estate.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys and gains an Outpost.
+J draws 2 Coppers, a Lookout and 2 Native Villages.
+
+Turn 7 - Lord Rattington
+L plays a Merchant Ship.
+L gets +$2.
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Pearl Diver aside with Native Village.
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Copper aside with Native Village.
+J plays a Lookout.
+J gets +1 Action.
+J shuffles their deck.
+J looks at an Outpost, an Estate and a Pirate Ship.
+J trashes an Estate.
+J discards a Pirate Ship.
+J topdecks an Outpost.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Native Village, an Outpost and a Salvager.
+
+Turn 8 - Lord Rattington
+L starts their turn.
+L gets +$2.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$2.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Native Village aside with Native Village.
+J plays a Salvager.
+J gets +1 Buy.
+J trashes a Copper.
+J plays an Outpost.
+J plays a Copper. (+$1)
+J draws a Copper, a Lookout and a Pirate Ship.
+
+Turn 9 - Jazzercise [Outpost]
+J starts their turn.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper, a Lighthouse and a Silver.
+J trashes a Copper.
+J discards a Lighthouse.
+J topdecks a Silver.
+J plays a Pirate Ship.
+L reveals a Province and a Gold.
+L trashes a Gold.
+L discards a Province.
+J plays a Copper. (+$1)
+J shuffles their deck.
+J draws a Silver, a Lighthouse, a Lookout, an Outpost and a Pirate Ship.
+
+Turn 9 - Lord Rattington
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Copper.
+L plays 2 Coppers. (+$2)
+L buys and gains a Lighthouse.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Lighthouse.
+J gets +1 Action.
+J gets +$1.
+J plays a Lookout.
+J gets +1 Action.
+J looks at 2 Coppers and a Salvager.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Salvager.
+J plays a Pirate Ship.
+L reveals a Merchant Ship and a Copper.
+L trashes a Copper.
+L discards a Merchant Ship.
+J plays a Silver. (+$2)
+J buys and gains a Pearl Diver.
+J shuffles their deck.
+J draws a Native Village, an Outpost, a Pearl Diver, a Pirate Ship and a Salvager.
+
+Turn 10 - Lord Rattington
+L plays a Lighthouse.
+L gets +1 Action.
+L gets +$1.
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Lookout aside with Native Village.
+J plays a Salvager.
+J gets +1 Buy.
+J trashes an Outpost.
+J gets +$5.
+J plays a Pearl Diver.
+J draws a Copper.
+J gets +1 Action.
+J looks at a Silver.
+J puts a Silver on the bottom of Draw Pile.
+J plays a Pirate Ship.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains a Sea Hag.
+J buys and gains a Merchant Ship.
+J shuffles their deck.
+J draws a Silver, a Lighthouse, a Native Village, a Salvager and a Sea Hag.
+
+Turn 11 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Copper.
+L plays a Silver. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Native Village.
+J gets +2 Actions.
+J puts 2 Coppers, a Lookout, a Native Village and a Pearl Diver into their hand.
+J plays a Lighthouse.
+J gets +1 Action.
+J gets +$1.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Pearl Diver, a Merchant Ship and a Pirate Ship.
+J trashes a Pirate Ship.
+J discards a Pearl Diver.
+J topdecks a Merchant Ship.
+J plays a Pearl Diver.
+J draws a Merchant Ship.
+J gets +1 Action.
+J looks at a Copper.
+J puts a Copper on the bottom of Draw Pile.
+J plays a Merchant Ship.
+J gets +$2.
+J plays a Sea Hag.
+L discards a Copper.
+L gains a Curse.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Navigator.
+J shuffles their deck.
+J draws 2 Coppers, a Native Village, a Pearl Diver and a Salvager.
+
+Turn 12 - Lord Rattington
+L plays a Merchant Ship.
+L gets +$2.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gets +$1.
+J gets +$2.
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Silver aside with Native Village.
+J plays a Pearl Diver.
+J draws a Sea Hag.
+J gets +1 Action.
+J looks at a Pearl Diver.
+J topdecks a Pearl Diver.
+J plays a Salvager.
+J gets +1 Buy.
+J trashes a Copper.
+J plays a Sea Hag.
+L discards a Province.
+L gains a Curse.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J draws a Copper, a Lookout, a Native Village, a Navigator and a Pearl Diver.
+
+Turn 13 - Lord Rattington
+L starts their turn.
+L gets +$2.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Curse.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Navigator.
+J gets +$2.
+J shuffles their deck.
+J looks at a Sea Hag, a Merchant Ship, a Native Village, a Copper and a Silver.
+J topdecks a Copper, a Silver, a Merchant Ship, a Native Village and a Sea Hag.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J draws a Copper, a Silver, a Merchant Ship, a Native Village and a Sea Hag.
+
+Turn 14 - Lord Rattington
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Pearl Diver aside with Native Village.
+J plays a Merchant Ship.
+J gets +$2.
+J plays a Sea Hag.
+L discards a Silver.
+L gains a Curse.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Merchant Ship.
+J shuffles their deck.
+J draws a Copper, a Silver, a Lighthouse, a Merchant Ship and a Salvager.
+
+Turn 15 - Lord Rattington
+L plays a Lighthouse.
+L gets +1 Action.
+L gets +$1.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +$2.
+J plays a Lighthouse.
+J gets +1 Action.
+J gets +$1.
+J plays a Merchant Ship.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Province.
+J draws a Silver, a Lookout, a Native Village, a Navigator and a Sea Hag.
+
+Turn 16 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Lighthouse.
+L gets +1 Action.
+L gets +$1.
+L plays a Gold. (+$3)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J gets +$1.
+J gets +$2.
+J plays a Navigator.
+J gets +$2.
+J shuffles their deck.
+J looks at a Pearl Diver, a Native Village, a Province and 2 Coppers.
+J discards 2 Coppers, a Province, a Native Village and a Pearl Diver.
+

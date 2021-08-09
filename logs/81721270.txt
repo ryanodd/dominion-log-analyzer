@@ -1,0 +1,488 @@
+Game #81721270, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Remake.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Remake.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Bandit Camp.
+J draws 3 Coppers, an Estate and a Remake.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains an Ironmonger.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Sheepdog.
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Crossroads.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Remake.
+
+Turn 4 - Lord Rattington
+L plays a Remake.
+L trashes an Estate.
+L gains a Silver.
+L trashes a Copper.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Sheepdog.
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Black Cat.
+J draws 2 Coppers, an Estate, a Crossroads and a Bandit Camp.
+
+Turn 5 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Silver.
+L discards a Silver.
+L gets +$1.
+L plays a Remake.
+L trashes an Estate.
+L gains a Silver.
+L trashes a Copper.
+L plays a Copper and a Silver. (+$3)
+L buys and gains an Ironmonger.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Crossroads.
+J reveals their hand: 2 Coppers, a Bandit Camp and an Estate.
+J draws a Silver.
+J gets +3 Actions.
+J plays a Bandit Camp.
+J draws a Sheepdog.
+J gets +2 Actions.
+J gains a Spoils.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J shuffles their deck.
+J draws a Copper and a Black Cat.
+J plays a Black Cat.
+J draws a Copper and a Spoils.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Bridge.
+J shuffles their deck.
+J draws a Copper, an Estate, a Remake, a Spoils and a Sheepdog.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Bandit Camp.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Silver.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J draws a Copper and a Crossroads.
+J trashes a Copper.
+J plays a Copper. (+$1)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains an Ironmonger.
+J draws 3 Coppers, a Bridge and a Sheepdog.
+
+Turn 7 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals an Ironmonger.
+L discards an Ironmonger.
+L gets +1 Action.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Bandit Camp.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains a Groundskeeper.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J draws a Bandit Camp and a Black Cat.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Bridge and a Bandit Camp.
+
+Turn 8 - Lord Rattington
+L plays a Remake.
+L trashes 2 Coppers.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Bandit Camp.
+J draws a Copper.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Bridge.
+J buys and gains a Bandit Camp.
+J draws 2 Coppers, a Remake, an Ironmonger and a Groundskeeper.
+
+Turn 9 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper.
+L discards a Copper.
+L gets +$1.
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Bandit Camp.
+L discards a Bandit Camp.
+L gets +1 Action.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Remake.
+L trashes a Copper and a Silver.
+L gains an Ironmonger.
+L plays 2 Silvers. (+$4)
+L buys and gains a Bandit Camp.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Groundskeeper.
+J draws a Black Cat.
+J gets +1 Action.
+J plays an Ironmonger.
+J draws a Sheepdog.
+J gets +1 Action.
+J reveals a Sheepdog.
+J discards a Sheepdog.
+J gets +1 Action.
+J plays a Remake.
+J trashes a Black Cat.
+J gains a Silver.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J shuffles their deck.
+J draws a Bridge and a Crossroads.
+J trashes a Copper.
+J plays a Crossroads.
+J reveals their hand: a Copper and a Bridge.
+J gets +3 Actions.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Copper. (+$1)
+J buys and gains a Sheepdog.
+J draws 2 Silvers, a Bridge and 2 Bandit Camps.
+
+Turn 10 - Lord Rattington
+L plays a Copper and 2 Silvers. (+$5)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Bandit Camp.
+J draws a Silver.
+J gets +2 Actions.
+J gains a Spoils.
+J plays a Bandit Camp.
+J draws a Sheepdog.
+J gets +2 Actions.
+J gains a Spoils.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J draws a Copper and a Spoils.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Copper and 3 Silvers. (+$7)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J buys and gains a Groundskeeper.
+J shuffles their deck.
+J draws a Copper, a Silver, a Bridge, a Remake and a Sheepdog.
+
+Turn 11 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Bandit Camp.
+L discards a Bandit Camp.
+L gets +1 Action.
+L plays 4 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Remake.
+J trashes a Copper and a Sheepdog.
+J gains an Ironmonger.
+J plays a Silver. (+$2)
+J buys and gains a Crossroads.
+J draws a Silver, a Bridge, a Crossroads, a Bandit Camp and a Sheepdog.
+
+Turn 12 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Bandit Camp.
+L discards a Bandit Camp.
+L gets +1 Action.
+L plays a Remake.
+L trashes 2 Coppers.
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Bandit Camp.
+J draws a Spoils.
+J gets +2 Actions.
+J gains a Spoils.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J draws a Province and a Sheepdog.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J draws a Copper and a Spoils.
+J plays a Crossroads.
+J reveals their hand: a Copper, a Province, a Silver, a Bridge and 2 Spoils.
+J draws an Ironmonger.
+J gets +3 Actions.
+J plays an Ironmonger.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Bandit Camp.
+J topdecks a Bandit Camp.
+J gets +1 Action.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Copper and 2 Silvers. (+$5)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J buys and gains a Groundskeeper.
+J shuffles their deck.
+J draws a Copper, a Silver, a Bandit Camp and 2 Groundskeepers.
+
+Turn 13 - Lord Rattington
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Silver.
+L discards a Silver.
+L gets +$1.
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals an Ironmonger.
+L discards an Ironmonger.
+L gets +1 Action.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays 2 Silvers. (+$4)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Bandit Camp.
+J draws a Sheepdog.
+J gets +2 Actions.
+J gains a Spoils.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J draws a Silver and an Ironmonger.
+J plays an Ironmonger.
+J draws a Spoils.
+J gets +1 Action.
+J reveals a Copper.
+J discards a Copper.
+J gets +$1.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Bridge.
+J gets +1 Action.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Copper and 2 Silvers. (+$5)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J gets 2 VP from Groundskeeper.
+J buys and gains an Ironmonger.
+J draws a Crossroads, a Bandit Camp, an Ironmonger, a Groundskeeper and a Sheepdog.
+
+Turn 14 - Lord Rattington
+L plays a Bandit Camp.
+L shuffles their deck.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals an Ironmonger.
+L discards an Ironmonger.
+L gets +1 Action.
+L plays a Remake.
+L trashes a Silver.
+L gains an Ironmonger.
+L trashes a Silver.
+L gains an Ironmonger.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays an Ironmonger.
+J draws a Remake.
+J gets +1 Action.
+J reveals a Province.
+J topdecks a Province.
+J draws a Province.
+J plays a Groundskeeper.
+J draws a Crossroads.
+J gets +1 Action.
+J plays a Bandit Camp.
+J draws a Bridge.
+J gets +2 Actions.
+J gains a Spoils.
+J reacts with a Sheepdog.
+J plays a Sheepdog.
+J shuffles their deck.
+J draws 2 Silvers.
+J plays a Crossroads.
+J reveals their hand: a Remake, a Province, a Crossroads, 2 Silvers and a Bridge.
+J draws a Province.
+J gets +3 Actions.
+J plays a Crossroads.
+J reveals their hand: a Remake, 2 Provinces, 2 Silvers and a Bridge.
+J draws a Copper and a Bridge.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Remake.
+J trashes a Copper.
+J gains a Sheepdog.
+J trashes a Silver.
+J gains an Ironmonger.
+J plays a Silver. (+$2)
+J buys and gains a Duchy.
+J gets 1 VP from Groundskeeper.
+J buys and gains a Crossroads.
+J draws a Copper, a Silver, an Ironmonger, a Spoils and a Sheepdog.
+
+Turn 15 - Lord Rattington
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays a Bandit Camp.
+L draws a card.
+L gets +2 Actions.
+L gains a Spoils.
+L plays an Ironmonger.
+L draws a card.
+L gets +1 Action.
+L reveals a Spoils.
+L discards a Spoils.
+L gets +$1.
+L plays a Silver. (+$2)
+L plays a Spoils. (+$3)
+L returns a Spoils to the Spoils pile.
+L plays a Silver. (+$2)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays an Ironmonger.
+J draws a Spoils.
+J gets +1 Action.
+J reveals a Groundskeeper.
+J topdecks a Groundskeeper.
+J gets +1 Action.
+J plays a Sheepdog using Way of the Turtle.
+J sets a Sheepdog aside.
+J plays a Copper and a Silver. (+$3)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+

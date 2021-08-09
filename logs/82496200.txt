@@ -1,0 +1,271 @@
+Game #82496200, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains an Ambassador.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Militia.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Ambassador.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and an Ambassador.
+
+Turn 2 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Ambassador.
+J reveals an Estate.
+J returns 2 Estates to the Estate pile.
+L gains an Estate.
+J draws 3 Coppers, an Estate and an Ambassador.
+
+Turn 3 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards a Copper and an Estate.
+L plays 2 Coppers. (+$2)
+L buys and gains an Ambassador.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+L gains a Copper.
+J shuffles their deck.
+J draws 4 Coppers and an Ambassador.
+
+Turn 4 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Ambassador.
+J reveals a Copper.
+J returns a Copper to the Copper pile.
+L gains a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and an Ambassador.
+
+Turn 5 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays an Ambassador.
+J reveals an Estate.
+J returns an Estate to the Estate pile.
+L gains an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, 2 Silvers and 2 Ambassadors.
+
+Turn 6 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards 2 Ambassadors.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Coven.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Coven.
+
+Turn 7 - Lord Rattington
+L plays an Ambassador.
+L reveals an Estate.
+L returns an Estate to the Estate pile.
+J gains an Estate.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Ambassadors.
+
+Turn 8 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+L gains a Copper.
+J plays a Silver. (+$2)
+J draws 2 Coppers, a Gold, an Estate and a Coven.
+
+Turn 9 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards a Copper and an Estate.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Coven.
+J shuffles their deck.
+J draws 2 Silvers, a Gold, an Ambassador and a Coven.
+
+Turn 10 - Lord Rattington
+L plays an Ambassador.
+L reveals a Copper.
+L returns 2 Coppers to the Copper pile.
+J gains a Copper.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains a Province.
+J draws 2 Coppers, an Estate, an Ambassador and a Coven.
+
+Turn 11 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Ambassador.
+J reveals a Copper.
+J returns 2 Coppers to the Copper pile.
+L gains a Copper.
+J shuffles their deck.
+J draws a Copper, 2 Ambassadors and 2 Covens.
+
+Turn 12 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards 2 Ambassadors.
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Copper. (+$1)
+J buys and gains an Archive.
+J draws 2 Silvers, a Gold, an Estate and a Province.
+
+Turn 13 - Lord Rattington
+L plays a Copper and 3 Silvers. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays 2 Silvers and a Gold. (+$7)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Gold, an Estate, 2 Ambassadors and a Coven.
+
+Turn 14 - Lord Rattington
+L plays an Ambassador.
+L reveals an Estate.
+L returns an Estate to the Estate pile.
+J gains an Estate.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays an Ambassador.
+J reveals an Estate.
+J returns an Estate to the Estate pile.
+L gains an Estate.
+J plays a Gold. (+$3)
+J buys and gains a Coven.
+J draws a Copper, a Silver, a Gold, a Province and an Archive.
+
+Turn 15 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays an Archive.
+J gets +1 Action.
+J shuffles their deck.
+J looks at a Silver and 2 Covens.
+J puts a Coven into their hand.
+J sets a Silver and a Coven aside.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+L exiles a Curse.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Province.
+J draws a Gold, an Estate, 2 Ambassadors and a Coven.
+
+Turn 16 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards an Estate and an Ambassador.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J puts a Coven in hand (Archive).
+

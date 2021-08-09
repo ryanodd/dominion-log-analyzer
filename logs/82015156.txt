@@ -1,0 +1,576 @@
+Game #82015156, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Navigator.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Patrol.
+J draws 3 Coppers, an Estate and a Navigator.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Navigator.
+J gets +$2.
+J shuffles their deck.
+J looks at 4 Coppers and an Estate.
+J discards 4 Coppers and an Estate.
+J plays 3 Coppers. (+$3)
+J buys and gains a Cursed Village.
+J takes Misery.
+J receives Misery.
+J takes Miserable.
+J discards Misery.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Patrol.
+
+Turn 4 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Patrol.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Patrol.
+J draws 2 Coppers and a Navigator.
+J reveals 2 Coppers, an Estate and a Cursed Village.
+J puts an Estate into their hand.
+J topdecks 2 Coppers and a Cursed Village.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Cursed Village.
+J takes Envy.
+J receives Envy.
+J takes Envious.
+J discards Envy.
+J draws 3 Coppers, an Estate and a Cursed Village.
+
+Turn 5 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Cursed Village.
+J gets +2 Actions.
+J shuffles their deck.
+J draws an Estate and a Cursed Village.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper.
+J returns Envious.
+J plays 4 Coppers. (+$4)
+J buys and gains a Tournament.
+J draws 2 Coppers, an Estate, a Patrol and a Navigator.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Navigator.
+J gets +$2.
+J shuffles their deck.
+J looks at 2 Coppers, an Estate, a Silver and a Cursed Village.
+J discards 2 Coppers, a Silver, an Estate and a Cursed Village.
+J plays 2 Coppers. (+$2)
+J buys and gains a Tournament.
+J draws 2 Coppers, an Estate, a Tournament and a Cursed Village.
+
+Turn 7 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L reveals a Copper, an Estate, a Tournament and a Silver.
+L puts an Estate into their hand.
+L topdecks a Copper, a Silver and a Tournament.
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Cursed Village.
+J gets +2 Actions.
+J shuffles their deck.
+J draws an Estate and a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+J draws an Estate.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains a Patrol.
+J draws 3 Coppers, a Patrol and a Navigator.
+
+Turn 8 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Navigator.
+J gets +$2.
+J shuffles their deck.
+J looks at a Copper, an Estate, a Tournament, a Silver and a Cursed Village.
+J topdecks a Copper, a Silver, an Estate, a Tournament and a Cursed Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Cursed Village.
+J takes Poverty.
+J receives Poverty.
+J discards Poverty.
+J draws a Copper, a Silver, an Estate, a Tournament and a Cursed Village.
+
+Turn 9 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper and an Estate.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Treasury.
+J draws a Copper, an Estate, a Patrol, a Tournament and a Cursed Village.
+
+Turn 10 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 2 Coppers, a Gold and a Silver. (+$7)
+L buys and gains a Patrol.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Copper.
+J gets +$1.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper and a Silver.
+J plays a Patrol.
+J draws an Estate, a Patrol and a Treasury.
+J reveals 3 Coppers and a Cursed Village.
+J topdecks 3 Coppers and a Cursed Village.
+J plays a Treasury.
+J draws a Cursed Village.
+J gets +1 Action.
+J gets +$1.
+J plays a Cursed Village.
+J gets +2 Actions.
+J plays a Patrol.
+J draws 3 Coppers.
+J reveals a Copper, an Estate, a Navigator and a Cursed Village.
+J puts an Estate into their hand.
+J topdecks a Copper, a Navigator and a Cursed Village.
+J plays 6 Coppers and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Navigator, a Tournament and a Cursed Village.
+
+Turn 11 - Lord Rattington
+L plays a Patrol.
+L shuffles their deck.
+L draws 3 cards.
+L reveals 2 Coppers, an Estate and a Tournament.
+L puts an Estate into their hand.
+L topdecks 2 Coppers and a Tournament.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws an Estate and a Patrol.
+J plays a Patrol.
+J draws a Copper, a Silver and a Patrol.
+J reveals 3 Coppers and an Estate.
+J puts an Estate into their hand.
+J topdecks 3 Coppers.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Navigator.
+J gets +$2.
+J looks at 2 Coppers, a Treasury, a Province and a Cursed Village.
+J topdecks 2 Coppers, a Province, a Treasury and a Cursed Village.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Treasury.
+J draws 2 Coppers, a Province, a Treasury and a Cursed Village.
+
+Turn 12 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Tournament and a Cursed Village.
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Princess.
+J draws a Princess.
+J gets +$1.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws an Estate.
+J shuffles their deck.
+J draws an Estate.
+J plays a Princess.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J buys and gains a Cursed Village.
+J takes Locusts.
+J receives Locusts.
+J trashes a Cursed Village.
+J gains a Navigator.
+J discards Locusts.
+J topdecks a Treasury.
+J draws a Copper, a Province, a Navigator and 2 Treasuries.
+
+Turn 13 - Lord Rattington
+L plays a Patrol.
+L shuffles their deck.
+L draws 3 cards.
+L reveals a Copper, a Patrol and 2 Tournaments.
+L topdecks a Copper, a Patrol and 2 Tournaments.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Treasury.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Navigator.
+J gets +$2.
+J looks at a Copper, 2 Patrols, a Tournament and a Silver.
+J discards a Copper, a Silver, 2 Patrols and a Tournament.
+J plays 2 Coppers. (+$2)
+J buys and gains a Cursed Village.
+J takes Bad Omens.
+J receives Bad Omens.
+J moves their deck to the discard.
+J looks at 5 Coppers, a Navigator, 2 Estates, 2 Patrols, 2 Tournaments, a Princess, a Silver and 4 Cursed Villages.
+J topdecks 2 Coppers.
+J looks at 5 Coppers, a Navigator, 2 Estates, 2 Patrols, 2 Tournaments, a Princess, a Silver and 4 Cursed Villages.
+J discards Bad Omens.
+J topdecks 2 Treasuries.
+J shuffles their deck.
+J draws 3 Coppers and 2 Treasuries.
+
+Turn 14 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L reveals an Estate, 2 Tournaments and a Silver.
+L puts an Estate into their hand.
+L topdecks a Silver and 2 Tournaments.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Treasury.
+J draws a Cursed Village.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Navigator.
+J gets +1 Action.
+J gets +$1.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper and a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+J draws an Estate.
+J gets +$1.
+J plays a Navigator.
+J gets +$2.
+J looks at 2 Coppers, an Estate and 2 Cursed Villages.
+J discards 2 Coppers, an Estate and 2 Cursed Villages.
+J plays 4 Coppers. (+$4)
+J buys and gains a Province.
+J draws a Silver, an Estate, a Province, a Navigator and a Tournament.
+
+Turn 15 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Gold and a Silver. (+$5)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Trusty Steed.
+J draws a Trusty Steed.
+J gets +$1.
+J plays a Trusty Steed.
+J draws a Copper and a Princess.
+J gets +2 Actions.
+J plays a Navigator.
+J gets +$2.
+J shuffles their deck.
+J looks at a Treasury, 2 Patrols and 2 Cursed Villages.
+J topdecks 2 Patrols, a Treasury and 2 Cursed Villages.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Province.
+J draws 2 Patrols, a Treasury and 2 Cursed Villages.
+
+Turn 16 - Lord Rattington
+L plays a Patrol.
+L draws 3 cards.
+L reveals 2 Coppers and 2 Tournaments.
+L topdecks 2 Coppers and 2 Tournaments.
+L plays 3 Coppers, a Gold and a Silver. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper and a Province.
+J plays a Treasury.
+J draws a Treasury.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Cursed Village.
+J gets +1 Action.
+J gets +$1.
+J plays a Patrol.
+J draws a Copper, an Estate and a Cursed Village.
+J reveals 3 Coppers and a Navigator.
+J topdecks 3 Coppers and a Navigator.
+J plays a Cursed Village.
+J gets +2 Actions.
+J plays a Cursed Village.
+J gets +2 Actions.
+J plays a Patrol.
+J draws 2 Coppers and a Navigator.
+J reveals 2 Coppers, a Tournament and a Province.
+J puts a Province into their hand.
+J topdecks 2 Coppers and a Tournament.
+J plays a Navigator.
+J gets +$2.
+J shuffles their deck.
+J looks at 2 Coppers, an Estate, a Tournament and a Trusty Steed.
+J topdecks 2 Coppers, an Estate, a Tournament and a Trusty Steed.
+J plays 4 Coppers. (+$4)
+J buys and gains a Province.
+J draws 2 Coppers, an Estate, a Tournament and a Trusty Steed.
+
+Turn 17 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Patrol.
+L draws 3 cards.
+L reveals 2 Estates and 2 Tournaments.
+L puts 2 Estates into their hand.
+L topdecks 2 Tournaments.
+L plays 4 Coppers, a Gold and a Silver. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Trusty Steed.
+J draws an Estate and a Princess.
+J gets +2 Actions.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Silver.
+J gets +$1.
+J plays a Princess.
+J gets +1 Buy.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Patrol.
+J shuffles their deck.
+J draws a Copper, an Estate, a Province, a Navigator and a Tournament.
+
+Turn 18 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Duchy.
+J draws a Duchy.
+J gets +$1.
+J plays a Navigator.
+J gets +$2.
+J looks at 2 Coppers, 2 Patrols and a Province.
+J discards 2 Coppers, a Province and 2 Patrols.
+J plays a Copper. (+$1)
+J draws a Copper, an Estate, a Navigator, a Treasury and a Cursed Village.
+
+Turn 19 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Patrol.
+L draws 3 cards.
+L reveals 2 Coppers, a Tournament and a Province.
+L puts a Province into their hand.
+L topdecks 2 Coppers and a Tournament.
+L plays 3 Coppers, a Gold and a Silver. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Treasury.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper and a Cursed Village.
+J plays a Navigator.
+J gets +$2.
+J looks at 2 Provinces, a Tournament, a Princess and a Silver.
+J topdecks a Silver, 2 Provinces, a Princess and a Tournament.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Princess and a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Province.
+J gets +$1.
+J plays a Princess.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J buys and gains a Province.
+J draws a Silver, a Province, a Treasury, a Trusty Steed and a Cursed Village.
+

@@ -1,0 +1,723 @@
+Game #82326701, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 1 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Salvager.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Highway.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L buys and gains a Squire.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Page.
+J shuffles their deck.
+J draws 3 Coppers, a Highway and a Page.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Highway.
+J draws an Estate.
+J gets +1 Action.
+J plays a Page.
+J draws an Estate.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains a Squire.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 4 Coppers and an Estate.
+
+Turn 4 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$2.
+L plays 2 Coppers. (+$2)
+L buys and gains a Sauna.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Young Witch.
+J shuffles their deck.
+J draws 4 Coppers and a Treasure Hunter.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Sauna.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Treasure Hunter.
+J gets +1 Action.
+J gets +$1.
+J gains a Silver.
+J plays 4 Coppers. (+$4)
+J buys and gains a Highway.
+J takes 2 VP from Labyrinth.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J draws 2 Coppers, an Estate, a Highway and a Squire.
+
+Turn 6 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Copper.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Highway.
+J draws a Young Witch.
+J gets +1 Action.
+J plays a Squire.
+J gets +$1.
+J gets +2 Buys.
+J plays 2 Coppers. (+$2)
+J buys and gains 2 Pages.
+J takes 2 VP from Labyrinth.
+J buys and gains a Page.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Warrior.
+
+Turn 7 - Lord Rattington
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$2.
+L plays 3 Coppers. (+$3)
+L buys and gains a Sauna.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Warrior.
+J draws a Squire and a Page.
+L discards an Estate.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Page.
+J returns a Warrior.
+J receives a Hero.
+J draws 5 Coppers.
+
+Turn 8 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gains a Silver.
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Gold.
+L takes 2 VP from Labyrinth.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Highway.
+J draws a Copper, 2 Highways and 2 Pages.
+
+Turn 9 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Copper.
+L plays a Silver. (+$2)
+L trashes a Copper.
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Page.
+J draws an Estate.
+J gets +1 Action.
+J plays a Page.
+J draws a Young Witch.
+J gets +1 Action.
+J plays a Highway.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays a Highway.
+J draws a Hero.
+J gets +1 Action.
+J plays a Hero.
+J gets +$2.
+J gains a Gold.
+J plays 2 Coppers. (+$2)
+J buys and gains a Highway.
+J takes 2 VP from Labyrinth.
+J returns a Hero.
+J receives a Champion.
+J returns a Page.
+J receives a Treasure Hunter.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws a Copper, a Silver, a Squire and 2 Pages.
+
+Turn 10 - Lord Rattington
+L plays 3 Coppers and a Gold. (+$6)
+L buys and gains a Sauna.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Page.
+J draws an Estate.
+J gets +1 Action.
+J plays a Page.
+J draws a Copper.
+J gets +1 Action.
+J plays a Squire.
+J gets +$1.
+J gets +2 Buys.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains 2 Pages.
+J takes 2 VP from Labyrinth.
+J returns a Page.
+J receives a Treasure Hunter.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 3 Coppers, an Estate and a Highway.
+
+Turn 11 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Highway.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Highway.
+J draws an Estate, a Highway, a Champion, a Page and a Treasure Hunter.
+
+Turn 12 - Lord Rattington
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Copper.
+L plays a Gold and a Silver. (+$5)
+L trashes a Copper.
+L buys and gains a Silver.
+L buys and gains a Squire.
+L takes 2 VP from Labyrinth.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Page.
+J draws a Copper.
+J gets +1 Action.
+J plays a Champion.
+J gets +1 Action.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains 2 Silvers.
+J plays a Highway.
+J gets +1 Action.
+J draws a Gold.
+J gets +1 Action.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Highway.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 2 Coppers, an Estate, a Squire and a Treasure Hunter.
+
+Turn 13 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Silver.
+L gets +$3.
+L plays 2 Silvers. (+$4)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Squire.
+J gets +1 Action.
+J gets +$1.
+J gets +2 Buys.
+J plays 2 Coppers. (+$2)
+J buys and gains 2 Pages.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J draws a Copper, a Young Witch, a Highway, a Page and a Treasure Hunter.
+
+Turn 14 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Page.
+J gets +1 Action.
+J draws a Highway.
+J gets +1 Action.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Highway.
+J gets +1 Action.
+J draws a Treasure Hunter.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Young Witch.
+J gets +1 Action.
+J draws 2 Highways.
+J discards a Copper and a Silver.
+L gains a Curse.
+J plays a Highway.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J plays 2 Coppers. (+$2)
+J buys and gains a Province.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 2 Silvers, a Gold, a Page and a Warrior.
+
+Turn 15 - Lord Rattington
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays 3 Golds and 2 Silvers. (+$13)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Page.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Silver and an Estate.
+L discards a Sauna.
+L trashes a Sauna.
+L discards a Silver.
+L trashes a Silver.
+J plays a Copper, a Gold and 3 Silvers. (+$10)
+J buys and gains a Province.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 3 Coppers, a Squire and a Page.
+
+Turn 16 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes an Estate.
+L gets +$2.
+L plays a Copper. (+$1)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Page.
+J gets +1 Action.
+J draws an Estate.
+J gets +1 Action.
+J plays a Squire.
+J gets +1 Action.
+J gets +$1.
+J gets +2 Buys.
+J plays 3 Coppers. (+$3)
+J buys and gains 2 Pages.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws a Silver, 2 Highways, a Treasure Hunter and a Warrior.
+
+Turn 17 - Lord Rattington
+L plays a Sauna.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Silver. (+$2)
+L trashes a Copper.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J plays a Highway.
+J gets +1 Action.
+J draws an Estate.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Copper and an Estate.
+L discards a Gold and a Squire.
+L trashes a Gold.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Highway.
+J returns a Treasure Hunter.
+J receives a Warrior.
+J draws a Copper, a Silver, a Highway, a Treasure Hunter and a Warrior.
+
+Turn 18 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Curse.
+L plays 2 Silvers. (+$4)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Highway.
+J gets +1 Action.
+J draws a Squire.
+J gets +1 Action.
+J plays a Squire.
+J gets +1 Action.
+J gets +$1.
+J gets +2 Buys.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Copper and a Highway.
+L discards a Province and a Duchy.
+L trashes a Duchy.
+J plays a Highway.
+J gets +1 Action.
+J draws a Page.
+J gets +1 Action.
+J plays a Page.
+J gets +1 Action.
+J draws a Silver.
+J gets +1 Action.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Province.
+J buys and gains 2 Pages.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws a Copper, a Province, a Young Witch, a Highway and a Warrior.
+
+Turn 19 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Copper and 2 Golds. (+$7)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Highway.
+J gets +1 Action.
+J draws a Highway.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Treasure Hunter.
+J gets +1 Action.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Copper and a Silver.
+L discards a Silver and a Sauna.
+J plays a Young Witch.
+J gets +1 Action.
+J draws an Estate and a Province.
+J discards an Estate and a Province.
+L blocks with a Squire.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Duchy.
+J draws a Copper, 2 Silvers, a Page and a Treasure Hunter.
+
+Turn 20 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Salvager.
+L gets +1 Buy.
+L trashes a Silver.
+L gets +$3.
+L plays a Silver. (+$2)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Page.
+J gets +1 Action.
+J draws a Warrior.
+J gets +1 Action.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Warrior.
+J gets +1 Action.
+J shuffles their deck.
+J draws a Gold and a Province.
+L discards a Silver.
+L trashes a Silver.
+L discards a Salvager.
+L trashes a Salvager.
+L discards a Gold.
+J plays a Copper, a Gold and 2 Silvers. (+$8)
+J buys and gains a Province.
+J returns a Page.
+J receives a Treasure Hunter.
+J draws 2 Coppers, 2 Highways and a Warrior.
+
+Turn 21 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays a Highway.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J plays a Warrior.
+J gets +1 Action.
+J draws an Estate and a Treasure Hunter.
+L discards a Duchy.
+L trashes a Duchy.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays 4 Coppers. (+$4)
+J buys and gains a Duchy.
+J draws 2 Silvers, an Estate, a Page and a Warrior.
+
+Turn 22 - Lord Rattington
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Sauna.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L plays a Silver. (+$2)
+L buys and gains an Estate.
+L draws 5 cards.
+
+Turn 22 - Jazzercise
+J plays a Page.
+J gets +1 Action.
+J draws a Province.
+J gets +1 Action.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Duchy and a Highway.
+L discards a Copper and a Squire.
+J plays a Highway.
+J gets +1 Action.
+J draws a Highway.
+J gets +1 Action.
+J plays a Highway.
+J gets +1 Action.
+J draws a Copper.
+J gets +1 Action.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Duchy.
+J draws a Silver, a Province, a Highway, a Squire and a Treasure Hunter.
+
+Turn 23 - Lord Rattington
+L plays a Squire.
+L gets +$1.
+L gets +2 Actions.
+L plays a Sauna.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L plays 2 Golds. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 23 - Jazzercise
+J plays a Highway.
+J gets +1 Action.
+J draws an Estate.
+J gets +1 Action.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains a Silver.
+J plays a Squire.
+J gets +1 Action.
+J gets +$1.
+J gets +2 Buys.
+J plays a Silver. (+$2)
+J buys and gains 3 Estates.
+J draws a Copper, 2 Silvers, a Highway and a Warrior.
+
+Turn 24 - Lord Rattington
+L plays a Sauna.
+L draws a card.
+L gets +1 Action.
+L plays a Squire.
+L gets +$1.
+L gains a Silver.
+L plays a Silver. (+$2)
+L buys and gains an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 24 - Jazzercise
+J plays a Highway.
+J gets +1 Action.
+J draws a Young Witch.
+J gets +1 Action.
+J plays a Warrior.
+J gets +1 Action.
+J draws a Silver and a Highway.
+L discards a Squire.
+J plays a Highway.
+J gets +1 Action.
+J draws a Treasure Hunter.
+J gets +1 Action.
+J plays a Treasure Hunter.
+J gets +2 Action.
+J gets +$1.
+J gains 2 Silvers.
+J plays a Young Witch.
+J gets +1 Action.
+J draws a Page and a Warrior.
+

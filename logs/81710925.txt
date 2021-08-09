@@ -1,0 +1,534 @@
+Game #81710925, unrated.
+
+
+Druid sets The Field's Gift aside.
+Druid sets The Sky's Gift aside.
+Druid sets The Swamp's Gift aside.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 4 Coppers. (+$4)
+L buys and gains an Idol.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Replace.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Replace.
+
+Turn 4 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Replace.
+J trashes an Estate.
+J gains a Tournament.
+J topdecks a card.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Estate and a Tournament.
+
+Turn 5 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 4 Coppers. (+$4)
+L buys and gains a Treasurer.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Treasurer.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 6 - Lord Rattington
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 3 Coppers. (+$3)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Tournament.
+J draws 4 Coppers and a Replace.
+
+Turn 7 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L plays an Idol. (+$2)
+L takes The Mountain's Gift.
+L receives The Mountain's Gift.
+L gains a Silver.
+L discards The Mountain's Gift.
+L buys and gains a Treasurer.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Replace.
+J trashes a Copper.
+J gains a Druid.
+J topdecks a card.
+J plays 3 Coppers. (+$3)
+J buys and gains a City Quarter.
+J repays 3 debt (5 remaining).
+J draws 2 Silvers, a Tournament, a Druid and a Treasurer.
+
+Turn 8 - Lord Rattington
+L plays a Treasurer.
+L gets +$3.
+L takes the Key.
+L plays a Copper. (+$1)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasurer.
+J gets +$3.
+J trashes a Copper.
+J plays 2 Silvers. (+$4)
+J repays 5 debt.
+J buys and gains a Tournament.
+J shuffles their deck.
+J draws 3 Coppers, a Tournament and a City Quarter.
+
+Turn 9 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays 4 Coppers. (+$4)
+L buys and gains a Tournament.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 3 Coppers and a Tournament.
+J draws a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Silver.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Silver.
+J gets +$1.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Province.
+J draws a Copper, a Silver, an Estate, a Replace and a Treasurer.
+
+Turn 10 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 3 Coppers. (+$3)
+L buys and gains a Tournament.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Replace.
+J trashes an Estate.
+J gains a Tournament.
+J topdecks a Tournament.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a City Quarter.
+J repays 3 debt (5 remaining).
+J draws a Copper, an Estate, 2 Tournaments and a Druid.
+
+Turn 11 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Treasurer.
+L gets +$3.
+L plays 2 Coppers. (+$2)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J shuffles their deck.
+J draws a City Quarter.
+J gets +$1.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: an Estate, a Copper and a Tournament.
+J draws a Treasurer.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Silver.
+J gets +$1.
+J plays a Treasurer.
+J gets +$3.
+J trashes a Copper.
+J plays a Silver. (+$2)
+J repays 5 debt.
+J buys and gains a City Quarter.
+J repays 3 debt (5 remaining).
+J draws 3 Coppers, a Replace and a Tournament.
+
+Turn 12 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Treasurer.
+L gets +$3.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Replace.
+J trashes a Copper.
+J gains a Druid.
+J topdecks a Druid.
+J plays 3 Coppers. (+$3)
+J repays 4 debt (1 remaining).
+J draws 2 Silvers, a Province, a City Quarter and a Druid.
+
+Turn 13 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Treasurer.
+L gets +$3.
+L plays an Idol. (+$2)
+L takes The Forest's Gift.
+L receives The Forest's Gift.
+L gets +1 Buy.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Province.
+L discards The Forest's Gift.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Province, a Druid and 2 Silvers.
+J draws a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Trusty Steed.
+J draws a Trusty Steed.
+J gets +$1.
+J plays a Trusty Steed.
+J shuffles their deck.
+J draws a Copper and a Tournament.
+J gets +2 Actions.
+J plays a Tournament.
+J gets +1 Action.
+J draws an Estate.
+J gets +$1.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and 2 Silvers. (+$5)
+J repays 1 debt.
+J buys and gains a Gold.
+J draws a Copper, a Province, 2 Tournaments and a Treasurer.
+
+Turn 14 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Copper. (+$1)
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+J gains a Princess.
+J draws a Princess.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a City Quarter.
+J gets +$1.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Princess and a Treasurer.
+J draws a Silver and a Druid.
+J plays a Treasurer.
+J gets +$3.
+J trashes a Copper.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Silver. (+$2)
+J buys and gains a Province.
+J buys and gains a City Quarter.
+J repays 1 debt (7 remaining).
+J shuffles their deck.
+J draws a Copper, a Silver, a Replace and 2 City Quarters.
+
+Turn 15 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Treasurer.
+L gets +$3.
+L plays a Copper, a Gold and a Silver. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Replace, a Copper, a City Quarter and a Silver.
+J draws a Tournament and a Treasurer.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Replace, a Copper, a Tournament, a Treasurer and a Silver.
+J draws a Silver, a Province and a Tournament.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Druid.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Tournament.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Silver.
+J gets +$1.
+J plays a Treasurer.
+J gets +$3.
+J trashes a Copper.
+J plays a Replace.
+J trashes a Druid.
+J gains a Conclave.
+J topdecks a Conclave.
+J plays a Silver. (+$2)
+J repays 7 debt.
+J plays 2 Silvers. (+$4)
+J buys and gains a City Quarter.
+J repays 5 debt (3 remaining).
+J draws a Province, a Tournament, a City Quarter, a Conclave and a Druid.
+
+Turn 16 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays a Tournament.
+L gets +1 Action.
+J reveals a Province.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Conclave, a Province, a Tournament and a Druid.
+J draws a Copper, a Princess and a City Quarter.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Conclave, a Province, a Copper, a Tournament, a Princess and a Druid.
+J shuffles their deck.
+J draws a Gold, an Estate, a Replace and a Trusty Steed.
+J plays a Conclave.
+J gets +$2.
+J plays a Tournament.
+J gets +1 Action.
+J reveals a Province.
+J discards a Province.
+L reveals a Province.
+J gains a Followers.
+J gets +1 Action.
+J plays a Trusty Steed.
+J draws a Silver and a Followers.
+J gets +$2.
+J plays a Followers.
+J draws a Tournament and a City Quarter.
+J gains an Estate.
+L gains a Curse.
+L discards a card and a Province.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: an Estate, a Replace, a Copper, a Gold, a Tournament, a Princess, a Druid and a Silver.
+J draws a Silver, a Tournament and 2 City Quarters.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: an Estate, a Replace, a Copper, a Gold, 2 Tournaments, a Princess, a City Quarter, a Druid and 2 Silvers.
+J shuffles their deck.
+J draws a Silver, an Estate, 2 Provinces, a Tournament and a Treasurer.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Treasurer.
+J gets +$3.
+J trashes a Copper.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: 2 Estates, a Replace, 2 Provinces, a Gold, 3 Tournaments, a Druid and 3 Silvers.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays a Replace.
+J trashes a Tournament.
+J gains a Gold.
+J topdecks a Gold.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Gold.
+J gets +$1.
+J plays 2 Golds and 3 Silvers. (+$12)
+J repays 3 debt.
+J buys and gains 2 Harems.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, a Replace, 2 City Quarters and a Conclave.
+
+Turn 17 - Lord Rattington
+L starts their turn.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays a Tournament.
+L gets +1 Action.
+L draws a card.
+L gets +$1.
+L plays 3 Coppers. (+$3)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Conclave, a Replace, a Gold and a City Quarter.
+J draws a Province, a Tournament and a Druid.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Conclave, a Replace, a Province, a Gold, a Tournament and a Druid.
+J draws a Silver, a Followers, a Princess and a Trusty Steed.
+J plays a Tournament.
+J gets +1 Action.
+L reveals a Province.
+J plays a Princess.
+J gets +1 Buy.
+J plays a Trusty Steed.
+J draws a Silver and a City Quarter.
+J gets +2 Actions.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Conclave, a Replace, a Province, a Followers, a Gold, a Druid and 2 Silvers.
+J draws 2 Harems, a Tournament and a Treasurer.
+J plays a Conclave.
+J gets +$2.
+J plays a Followers.
+J draws a Province and a City Quarter.
+J gains an Estate.
+L gains a Curse.
+L discards a card and an Idol.
+J gets +1 Action.
+J plays a City Quarter.
+J gets +2 Actions.
+J reveals their hand: a Replace, 2 Provinces, a Gold, a Tournament, 2 Harems, a Treasurer, a Druid and 2 Silvers.
+J draws a Gold, an Estate, a Province and a Tournament.
+J plays a Druid.
+J gets +1 Buy.
+J receives The Field's Gift.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasurer.
+J gets +$3.
+J takes the Key.
+J plays a Replace.
+J trashes a Harem.
+J gains a Province.
+L gains a Curse.
+J plays 2 Golds, a Harem and 2 Silvers. (+$12)
+J buys and gains 2 Provinces.
+J buys and gains a Duchy.
+J shuffles their deck.
+J draws a Silver, an Estate, 2 City Quarters and a Druid.
+

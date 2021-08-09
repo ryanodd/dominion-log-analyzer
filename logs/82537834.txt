@@ -1,0 +1,400 @@
+Game #82537834, rated.
+jumpingjimikers: 50.46
+Jazzercise: 46.37
+
+
+j starts with a Magic Lamp.
+j starts with 6 Coppers.
+j starts with 3 Estates.
+J starts with a Magic Lamp.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+j shuffles their deck.
+j draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Magic Lamp.
+
+Turn 1 - jumpingjimikers
+j plays 4 Coppers and a Magic Lamp. (+$5)
+j buys and gains a Royal Carriage.
+j draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers and a Magic Lamp. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - jumpingjimikers
+j plays 2 Coppers. (+$2)
+j buys and gains a Squire.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Moneylender.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Magic Lamp.
+
+Turn 3 - jumpingjimikers
+j plays 3 Coppers. (+$3)
+j buys and gains a Silver.
+j draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers, a Magic Lamp and a Silver. (+$6)
+J buys a Marauder.
+J takes 2 VP from Basilica.
+J gains a Marauder.
+J draws 2 Coppers, 2 Estates and a Moneylender.
+
+Turn 4 - jumpingjimikers
+j plays a Royal Carriage.
+j gets +1 Action.
+j puts a Royal Carriage on their Tavern mat.
+j plays a Squire.
+j gets +$1.
+j gains a Silver.
+j plays a Copper and a Magic Lamp. (+$2)
+j buys and gains a Silver.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains a Marauder.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Moneylender and a Marauder.
+
+Turn 5 - jumpingjimikers
+j plays 2 Coppers and a Silver. (+$4)
+j buys and gains a Marauder.
+j draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Marauder.
+J gains a Spoils.
+j gains a Ruined Village.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Warehouse.
+J draws 2 Coppers, 2 Estates and a Marauder.
+
+Turn 6 - jumpingjimikers
+j plays a Squire.
+j gets +$1.
+j gains a Silver.
+j plays 2 Coppers and a Magic Lamp. (+$3)
+j buys and gains a Moneylender.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Marauder.
+J gains a Spoils.
+j gains an Abandoned Mine.
+J plays 2 Coppers. (+$2)
+J buys and gains a Native Village.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Spoils and a Magic Lamp.
+
+Turn 7 - jumpingjimikers
+j plays 2 Coppers and 2 Silvers. (+$6)
+j buys a Moneylender.
+j takes 2 VP from Basilica.
+j gains a Moneylender.
+j draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 2 Coppers and a Magic Lamp. (+$3)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Gold.
+J draws 2 Coppers, an Estate, a Marauder and a Spoils.
+
+Turn 8 - jumpingjimikers
+j plays a Marauder.
+j gains a Spoils.
+J gains a Survivors.
+j calls a Royal Carriage.
+j plays a Marauder again.
+j gains a Spoils.
+J gains a Survivors.
+j plays a Copper and a Silver. (+$3)
+j buys and gains a Silver.
+j draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Marauder.
+J gains a Spoils.
+j gains a Survivors.
+J plays 2 Coppers. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Royal Carriage.
+J draws a Copper, a Silver, an Estate, a Native Village and a Marauder.
+
+Turn 9 - jumpingjimikers
+j plays a Moneylender.
+j trashes a Copper.
+j gets +$3.
+j plays a Copper and a Silver. (+$3)
+j buys and gains a Gold.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Warehouse aside with Native Village.
+J plays a Marauder.
+J gains a Spoils.
+j gains a Survivors.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Warehouse.
+J shuffles their deck.
+J draws a Copper, a Silver, a Moneylender, a Spoils and a Royal Carriage.
+
+Turn 10 - jumpingjimikers
+j plays a Squire.
+j gets +$1.
+j gets +2 Actions.
+j plays a Ruined Village using Way of the Squirrel.
+j plays a Copper, a Magic Lamp and a Silver. (+$4)
+j buys a Silver.
+j takes 2 VP from Basilica.
+j gains a Silver.
+j draws 7 cards.
+
+Turn 10 - Jazzercise
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Silver. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J draws 2 Coppers, 2 Estates and a Survivors.
+
+Turn 11 - jumpingjimikers
+j plays a Moneylender.
+j trashes a Copper.
+j gets +$3.
+j plays a Gold and a Silver. (+$5)
+j buys and gains a Province.
+j draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Survivors using Way of the Squirrel.
+J plays 2 Coppers. (+$2)
+J buys and gains a Pawn.
+J draws 2 Coppers, a Native Village, a Marauder, a Spoils, a Survivors and a Magic Lamp.
+
+Turn 12 - jumpingjimikers
+j plays 2 Coppers and 2 Silvers. (+$6)
+j buys and gains a Gold.
+j draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Native Village.
+J gets +2 Actions.
+J puts a Warehouse into their hand.
+J plays a Warehouse.
+J draws a Gold, an Estate and a Warehouse.
+J gets +1 Action.
+J discards a Copper, an Estate and a Survivors.
+J plays a Warehouse.
+J shuffles their deck.
+J draws an Estate, a Marauder and a Survivors.
+J gets +1 Action.
+J discards an Estate, a Survivors and a Magic Lamp.
+J plays a Marauder.
+J gains a Spoils.
+j gains an Abandoned Mine.
+J plays a Marauder.
+J gains a Spoils.
+j gains a Ruined Market.
+J calls a Royal Carriage.
+J plays a Marauder again.
+J gains a Spoils.
+j gains a Ruined Library.
+J plays a Copper and a Gold. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Gold.
+J draws a Copper, an Estate, a Moneylender, a Pawn and a Survivors.
+
+Turn 13 - jumpingjimikers
+j plays a Royal Carriage.
+j gets +1 Action.
+j puts a Royal Carriage on their Tavern mat.
+j plays a Copper. (+$1)
+j plays a Spoils. (+$3)
+j returns a Spoils to the Spoils pile.
+j plays a Spoils. (+$3)
+j returns a Spoils to the Spoils pile.
+j buys and gains a Gold.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Pawn.
+J gets +1 Action.
+J gets +$1.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J buys and gains a Mining Village.
+J draws 2 Coppers, a Silver, an Estate and a Province.
+
+Turn 14 - jumpingjimikers
+j plays a Moneylender.
+j trashes a Copper.
+j gets +$3.
+j plays 2 Silvers. (+$4)
+j buys and gains a Gold.
+j draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Marauder and a Royal Carriage.
+
+Turn 15 - jumpingjimikers
+j plays a Marauder.
+j gains a Spoils.
+J gains a Ruined Village.
+j plays 2 Golds and a Silver. (+$8)
+j buys and gains a Province.
+j draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Royal Carriage.
+J gets +1 Action.
+J puts a Royal Carriage on their Tavern mat.
+J plays a Marauder using Way of the Squirrel.
+J plays 2 Coppers. (+$2)
+J buys and gains a Pawn.
+J draws a Copper, a Gold, 2 Warehouses, a Marauder and 2 Survivors.
+
+Turn 16 - jumpingjimikers
+j plays a Survivors using Way of the Squirrel.
+j plays a Copper, a Magic Lamp and a Silver. (+$4)
+j buys and gains a Mining Village.
+j draws 7 cards.
+
+Turn 16 - Jazzercise
+J plays a Warehouse.
+J draws a Province, a Moneylender and a Spoils.
+J gets +1 Action.
+J discards a Province and 2 Survivors.
+J plays a Warehouse.
+J draws a Silver, a Spoils and a Magic Lamp.
+J gets +1 Action.
+J discards 2 Spoils and a Magic Lamp.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Province.
+J draws a Gold, 2 Estates, a Mining Village and a Native Village.
+
+Turn 17 - jumpingjimikers
+j plays a Squire.
+j gets +$1.
+j gets +2 Actions.
+j calls a Royal Carriage.
+j plays a Squire again.
+j gets +$1.
+j gets +2 Actions.
+j plays an Abandoned Mine, a Ruined Library and a Ruined Village using Way of the Squirrel.
+j plays a Copper and a Silver. (+$3)
+j buys and gains a Duchy.
+j shuffles their deck.
+j draws 11 cards.
+
+Turn 17 - Jazzercise
+J plays a Mining Village.
+J draws a Spoils.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Native Village.
+J gets +2 Actions.
+J sets a Pawn aside with Native Village.
+J plays a Gold. (+$3)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Province, 2 Marauders and a Spoils.
+
+Turn 18 - jumpingjimikers
+j plays a Royal Carriage.
+j gets +1 Action.
+j puts a Royal Carriage on their Tavern mat.
+j plays a Moneylender.
+j trashes a Copper.
+j gets +$3.
+j plays 2 Golds and a Silver. (+$8)
+j buys a Province.
+j takes 2 VP from Basilica.
+j gains a Province.
+j draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Marauder using Way of the Squirrel.
+J plays a Silver. (+$2)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Duchy.
+J draws a Copper, a Gold, an Estate, a Warehouse, a Ruined Village, a Survivors and a Magic Lamp.
+
+Turn 19 - jumpingjimikers
+j plays a Mining Village.
+j draws a card.
+j gets +2 Actions.
+j plays a Ruined Village using Way of the Squirrel.
+j plays a Magic Lamp and 2 Silvers. (+$5)
+j buys and gains a Duchy.
+j draws 7 cards.
+
+Turn 19 - Jazzercise
+J plays a Warehouse.
+J draws a Copper, an Estate and a Province.
+J gets +1 Action.
+J discards 2 Estates and a Province.
+J calls a Royal Carriage.
+J plays a Warehouse again.
+J draws an Estate, a Province and a Warehouse.
+J gets +1 Action.
+J discards an Estate, a Province and a Ruined Village.
+J plays a Warehouse.
+J draws a Silver, a Gold and a Pawn.
+J gets +1 Action.
+J discards 2 Coppers and a Magic Lamp.
+J plays a Pawn.
+J draws a Survivors.
+J gets +$1.
+J plays a Survivors using Way of the Squirrel.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Gold, 2 Provinces, a Moneylender, a Native Village, a Spoils and a Magic Lamp.
+
+Turn 20 - jumpingjimikers
+j plays a Moneylender.
+j trashes a Copper.
+j gets +$3.
+j plays a Gold. (+$3)
+j plays a Spoils. (+$3)
+j returns a Spoils to the Spoils pile.
+j buys and gains a Province.
+j draws 5 cards.
+

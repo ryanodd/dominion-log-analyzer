@@ -1,0 +1,105 @@
+Game #81717758, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys a Swindler.
+L takes 1 Debt from the Swindler pile.
+L gains a Swindler.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Swindler.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L repays 1 debt.
+L buys a Silver.
+L takes 1 Debt from the Silver pile.
+L gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L repays 1 debt.
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys a Displace.
+J takes 1 Debt from the Displace pile.
+J gains a Displace.
+J draws 2 Coppers, 2 Estates and a Swindler.
+
+Turn 4 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Swindler.
+J gets +$2.
+L trashes a Copper.
+L gains a Curse.
+J plays 2 Coppers. (+$2)
+J repays 1 debt.
+J buys a Dungeon.
+J takes 1 Debt from the Dungeon pile.
+J gains a Dungeon.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Dungeon and a Displace.
+
+Turn 5 - Lord Rattington
+L plays a Swindler.
+L gets +$2.
+J trashes an Estate.
+J gains an Estate.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Copper and an Estate.
+J discards a Copper and an Estate.
+J plays a Displace.
+J exiles an Estate.
+J gains a Necromancer.
+J plays 2 Coppers. (+$2)
+J repays 1 debt.
+J draws 3 Coppers, a Silver and a Swindler.
+
+Turn 6 - Lord Rattington
+L plays 2 Coppers and 3 Silvers. (+$8)
+L buys a Province.
+L takes 1 Debt from the Province pile.
+L gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Copper and a Displace.
+

@@ -1,0 +1,257 @@
+Game #81690325, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Remake.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L buys and gains an Embargo.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Remake.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Remake.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Silver.
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and a Remake.
+
+Turn 4 - Lord Rattington
+L plays a Remake.
+L trashes 2 Coppers.
+L plays a Copper. (+$1)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Remake.
+J trashes 2 Coppers.
+J plays 2 Silvers. (+$4)
+J buys and gains a Silver.
+J draws 4 Coppers and a Silver.
+
+Turn 5 - Lord Rattington
+L plays a Remake.
+L trashes an Estate.
+L gains a Silver.
+L trashes a Copper.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Soothsayer.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 6 - Lord Rattington
+L plays an Embargo.
+L gets +$2.
+L trashes an Embargo.
+L plays 3 Coppers. (+$3)
+L buys and gains a Soothsayer.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws a Copper and 4 Silvers.
+
+Turn 7 - Lord Rattington
+L plays a Remake.
+L trashes an Estate.
+L gains a Silver.
+L trashes a Copper.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Copper and 4 Silvers. (+$9)
+J buys a Gold.
+J takes 2 VP from Basilica.
+J gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Remake and a Soothsayer.
+
+Turn 8 - Lord Rattington
+L plays a Soothsayer.
+L gains a Gold.
+J gains a Curse.
+J draws an Estate.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Soothsayer.
+J gains a Gold.
+L gains a Curse.
+L draws a card.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Soothsayer.
+J draws 4 Silvers and an Estate.
+
+Turn 9 - Lord Rattington
+L plays a Remake.
+L trashes a Copper and a Silver.
+L gains a Ranger.
+L plays 3 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays 4 Silvers. (+$8)
+J buys a Gold.
+J takes 2 VP from Basilica.
+J gains a Gold.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Gold.
+
+Turn 10 - Lord Rattington
+L plays a Copper, a Gold and 2 Silvers. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays 3 Coppers, a Gold and a Silver. (+$8)
+J buys and gains a Province.
+J draws a Curse, a Copper, a Silver, a Remake and a Soothsayer.
+
+Turn 11 - Lord Rattington
+L plays a Soothsayer.
+L gains a Gold.
+J gains a Curse.
+J draws a Silver.
+L plays a Copper, a Gold and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Remake.
+J trashes a Curse and a Copper.
+J plays 2 Silvers. (+$4)
+J buys and gains a Silver.
+J draws a Silver, 2 Golds, an Estate and a Soothsayer.
+
+Turn 12 - Lord Rattington
+L plays a Ranger.
+L gets +1 Buy.
+L flips Journey token face down.
+L plays 3 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Soothsayer.
+J gains a Gold.
+L gains a Curse.
+L shuffles their deck.
+L draws a card.
+J plays 2 Golds and a Silver. (+$8)
+J buys a Gold.
+J takes 2 VP from Basilica.
+J gains a Gold.
+J shuffles their deck.
+J draws 3 Silvers, a Gold and an Estate.
+
+Turn 13 - Lord Rattington
+L plays a Remake.
+L trashes 2 Curses.
+L plays a Copper and a Gold. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Gold and 3 Silvers. (+$9)
+J buys and gains a Province.
+J draws a Copper, 2 Silvers, a Remake and a Soothsayer.
+
+Turn 14 - Lord Rattington
+L plays 2 Golds and 3 Silvers. (+$12)
+L buys a Province.
+L takes 2 VP from Basilica.
+L gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Soothsayer.
+J gains a Gold.
+L gains a Curse.
+L draws a card.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Soothsayer.
+J draws a Copper, 2 Golds, an Estate and a Soothsayer.
+
+Turn 15 - Lord Rattington
+L plays a Soothsayer.
+L gains a Gold.
+J gains a Curse.
+J draws a Gold.
+L plays a Copper, a Gold and a Silver. (+$6)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Soothsayer.
+J gains a Gold.
+L gains a Curse.
+L draws a card.
+J plays a Copper and 3 Golds. (+$10)
+J buys a Province.
+J takes 2 VP from Basilica.
+J gains a Province.
+J draws a Curse, a Copper, a Silver, a Gold and a Province.
+
+Turn 16 - Lord Rattington
+L plays a Ranger.
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays a Copper, a Gold and 6 Silvers. (+$16)
+L buys a Province.
+L takes 2 VP from Basilica.
+L gains a Province.
+L buys and gains a Province.
+L draws 5 cards.
+

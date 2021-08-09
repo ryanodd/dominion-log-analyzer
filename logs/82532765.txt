@@ -1,0 +1,707 @@
+Game #82532765, rated.
+dmreynolds: 46.68
+Jazzercise: 46.53
+
+
+d starts with 7 Coppers.
+d starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+d shuffles their deck.
+d draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - dmreynolds
+d plays 3 Coppers. (+$3)
+d buys and gains an Amulet.
+d draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Lookout.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - dmreynolds
+d plays 4 Coppers. (+$4)
+d buys and gains an Envoy.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Moneylender.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - dmreynolds
+d plays an Envoy.
+d reveals an Amulet, 2 Coppers and 2 Estates.
+d discards an Amulet.
+d puts 2 Coppers and 2 Estates into their hand.
+d plays 5 Coppers. (+$5)
+d buys a Borrow.
+d gets +1 Buy.
+d moves -Card token to Draw Pile.
+d gets +$1.
+d buys and gains a Goons.
+d skips a draw (because of Borrow).
+d moves -Card token to Token Limbo.
+d shuffles their deck.
+d draws 4 cards.
+
+Turn 3 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Fortress.
+J draws 2 Coppers, an Estate, a Moneylender and a Lookout.
+
+Turn 4 - dmreynolds
+d plays 3 Coppers. (+$3)
+d buys and gains a Silver.
+d draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Lookout.
+J gets +1 Action.
+J shuffles their deck.
+J looks at 2 Coppers and an Estate.
+J trashes an Estate.
+J discards a Copper.
+J topdecks a Copper.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains a Cavalry.
+J draws 2 Coppers.
+J gets +1 Buy.
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Moneylender and a Fortress.
+
+Turn 5 - dmreynolds
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards an Estate and a Fortress.
+d plays 3 Coppers. (+$3)
+d buys a Festival.
+d gets 1 VP from Goons.
+d gains a Festival.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains a Fortress.
+J draws 4 Coppers and a Cavalry.
+
+Turn 6 - dmreynolds
+d plays a Festival.
+d gets +2 Actions.
+d gets +1 Buy.
+d gets +$2.
+d plays an Envoy.
+d reveals a Copper, a Goons, 2 Estates and a Silver.
+d discards a Goons.
+d puts a Copper, a Silver and 2 Estates into their hand.
+d plays an Amulet.
+d trashes an Estate.
+d plays 2 Coppers and a Silver. (+$4)
+d buys and gains a Goons.
+d draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 4 Coppers. (+$4)
+J buys and gains a Fortress.
+J shuffles their deck.
+J draws a Copper, an Estate, a Lookout, a Fortress and a Horse.
+
+Turn 7 - dmreynolds
+d starts their turn.
+d trashes a Copper.
+d plays 4 Coppers. (+$4)
+d buys and gains a Fortress.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Fortress.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fortress.
+J draws a Cavalry.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Fortress.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Moneylender.
+J gets +2 Actions.
+J plays a Lookout.
+J gets +1 Action.
+J looks at 2 Coppers and a Horse.
+J trashes a Copper.
+J discards a Copper.
+J topdecks a Horse.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Copper. (+$1)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Horse.
+
+Turn 8 - dmreynolds
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Festival.
+d gets +2 Actions.
+d gets +1 Buy.
+d gets +$2.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards 2 Estates.
+d plays 3 Coppers. (+$3)
+d buys a Goons.
+d gets 1 VP from Goons.
+d takes 2 VP from Colonnade.
+d gains a Goons.
+d draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Horse.
+J draws a Moneylender and a Cavalry.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Silver. (+$2)
+J buys and gains a Treasury.
+J draws 2 Coppers, 2 Fortresses and a Horse.
+
+Turn 9 - dmreynolds
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards 2 Coppers.
+d plays 2 Coppers. (+$2)
+d buys a Fortress.
+d gets 1 VP from Goons.
+d gains a Fortress.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Fortress.
+J draws a Fortress.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Lookout.
+J gets +2 Actions.
+J plays a Horse.
+J shuffles their deck.
+J draws a Silver and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and a Treasury.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Copper and 2 Estates.
+J trashes an Estate.
+J discards an Estate.
+J topdecks a Copper.
+J plays a Fortress.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Treasury.
+J draws a Cavalry.
+J gets +1 Action.
+J gets +$1.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Treasury.
+J takes 2 VP from Colonnade.
+J gains a Treasury.
+J topdecks a Treasury.
+J shuffles their deck.
+J draws a Moneylender, a Treasury, a Fortress, a Cavalry and a Horse.
+
+Turn 10 - dmreynolds
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays an Envoy.
+d reveals 3 Coppers, an Estate and a Festival.
+d discards a Festival.
+d puts 3 Coppers and an Estate into their hand.
+d plays an Amulet.
+d trashes an Estate.
+d plays 4 Coppers and a Silver. (+$6)
+d buys a Borrow.
+d gets +1 Buy.
+d moves -Card token to Draw Pile.
+d gets +$1.
+d buys an Envoy.
+d takes 2 VP from Colonnade.
+d gains an Envoy.
+d skips a draw (because of Borrow).
+d moves -Card token to Token Limbo.
+d draws 4 cards.
+
+Turn 10 - Jazzercise
+J plays a Treasury.
+J draws a Fortress.
+J gets +1 Action.
+J gets +$1.
+J plays a Fortress.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Lookout.
+J gets +2 Actions.
+J plays a Horse.
+J draws an Estate and a Treasury.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Treasury.
+J draws a Fortress.
+J gets +1 Action.
+J gets +$1.
+J plays a Fortress.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Silver. (+$2)
+J buys and gains a Goons.
+J topdecks 2 Treasuries.
+J shuffles their deck.
+J draws a Copper, a Moneylender, 2 Treasuries and a Horse.
+
+Turn 11 - dmreynolds
+d starts their turn.
+d gets +$1.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards a Copper and a Moneylender.
+d plays a Copper. (+$1)
+d buys a Fortress.
+d gets 1 VP from Goons.
+d gains a Fortress.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Treasury.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Goons.
+J gets +1 Action.
+J gets +$1.
+J plays a Horse.
+J draws 2 Fortresses.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fortress.
+J draws a Cavalry.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Lookout.
+J gets +2 Actions.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Fortress, a Horse and an Estate.
+J trashes an Estate.
+J discards a Fortress.
+J topdecks a Horse.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+d discards a card and a Copper.
+J plays a Silver. (+$2)
+J buys a Goons.
+J gets 1 VP from Goons.
+J takes 2 VP from Colonnade.
+J gains a Goons.
+J topdecks 2 Treasuries.
+J shuffles their deck.
+J draws 2 Treasuries and 3 Horses.
+
+Turn 12 - dmreynolds
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays an Envoy.
+d reveals 2 Goons, an Envoy, an Estate and a Festival.
+d discards a Goons.
+d puts an Estate, a Festival, a Goons and an Envoy into their hand.
+d plays a Festival.
+d gets +2 Actions.
+d gets +1 Buy.
+d gets +$2.
+d plays an Envoy.
+d reveals an Amulet, a Copper, a Fortress, a Goons and a Silver.
+d discards a Goons.
+d puts a Copper, a Silver, a Fortress and an Amulet into their hand.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays an Amulet.
+d trashes an Estate.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards 2 Treasuries.
+d plays 4 Coppers and a Silver. (+$6)
+d buys a Fortress.
+d gets 1 VP from Goons.
+d takes 2 VP from Colonnade.
+d gains a Fortress.
+d buys an Envoy.
+d gets 1 VP from Goons.
+d takes 2 VP from Colonnade.
+d gains an Envoy.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Fortress.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Silver and a Cavalry.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Lookout and a Fortress.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fortress.
+J draws a Fortress.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Goons.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Moneylender.
+J gets +2 Actions.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+d discards a card and a Copper.
+J plays a Silver. (+$2)
+J buys a Borrow.
+J gets +1 Buy.
+J moves -Card token to Draw Pile.
+J gets +$1.
+J buys a Fortress.
+J gets 1 VP from Goons.
+J gains a Fortress.
+J buys an Envoy.
+J gets 1 VP from Goons.
+J gains an Envoy.
+J skips a draw (because of Borrow).
+J moves -Card token to Token Limbo.
+J shuffles their deck.
+J draws 2 Goons, a Fortress and a Horse.
+
+Turn 13 - dmreynolds
+d starts their turn.
+d gets +$1.
+d plays a Festival.
+d gets +2 Actions.
+d gets +1 Buy.
+d gets +$2.
+d plays an Envoy.
+d reveals 3 Coppers, an Envoy and a Silver.
+d discards an Envoy.
+d puts 3 Coppers and a Silver into their hand.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays an Envoy.
+d reveals 2 Coppers and 3 Fortresses.
+d discards a Fortress.
+d puts 2 Coppers and 2 Fortresses into their hand.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards a Goons.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+d plays 5 Coppers and a Silver. (+$7)
+d buys a Cavalry.
+d gets 2 VP from Goons.
+d gains a Cavalry.
+d shuffles their deck.
+d draws 2 cards.
+d gets +1 Buy.
+d plays a Cavalry.
+d gains 2 Horses.
+d buys a Province.
+d gets 2 VP from Goons.
+d gains a Province.
+d buys a Borrow.
+d gets +1 Buy.
+d moves -Card token to Draw Pile.
+d gets +$1.
+d buys a Silver.
+d gets 2 VP from Goons.
+d gains a Silver.
+d skips a draw (because of Borrow).
+d moves -Card token to Token Limbo.
+d shuffles their deck.
+d draws 4 cards.
+
+Turn 13 - Jazzercise
+J plays a Horse.
+J draws a Treasury and a Fortress.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fortress.
+J draws a Lookout.
+J gets +2 Actions.
+J plays a Treasury.
+J draws an Envoy.
+J gets +1 Action.
+J gets +$1.
+J plays a Fortress.
+J draws a Fortress.
+J gets +2 Actions.
+J plays an Envoy.
+J reveals a Moneylender, a Fortress, 2 Horses and a Treasury.
+J discards a Fortress.
+J puts a Moneylender, a Treasury and 2 Horses into their hand.
+J plays a Horse.
+J draws a Silver and a Cavalry.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fortress.
+J shuffles their deck.
+J draws a Fortress.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Goons.
+J gets +2 Actions.
+J plays a Treasury.
+J gets +1 Action.
+J gets +$1.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+d discards a Copper.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys a Goons.
+J gets 2 VP from Goons.
+J gains a Goons.
+J buys a Borrow.
+J gets +1 Buy.
+J moves -Card token to Draw Pile.
+J gets +$1.
+J buys a Silver.
+J gets 2 VP from Goons.
+J gains a Silver.
+J topdecks 2 Treasuries.
+J skips a draw (because of Borrow).
+J moves -Card token to Token Limbo.
+J shuffles their deck.
+J draws a Silver, 2 Treasuries and a Fortress.
+
+Turn 14 - dmreynolds
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays an Envoy.
+d reveals a Copper, 2 Fortresses, a Province and a Silver.
+d discards a Fortress.
+d puts a Copper, a Silver, a Province and a Fortress into their hand.
+d plays a Horse.
+d draws 2 cards.
+d gets +1 Action.
+d returns a Horse to the Horse pile.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Festival.
+d gets +2 Actions.
+d gets +1 Buy.
+d gets +$2.
+d plays an Envoy.
+d reveals an Amulet, a Copper, a Goons, a Horse and a Silver.
+d discards a Goons.
+d puts a Copper, a Silver, an Amulet and a Horse into their hand.
+d plays a Horse.
+d draws 2 cards.
+d gets +1 Action.
+d returns a Horse to the Horse pile.
+d plays an Envoy.
+d shuffles their deck.
+d reveals 2 Coppers, a Fortress, a Goons and a Cavalry.
+d discards a Goons.
+d puts 2 Coppers, a Fortress and a Cavalry into their hand.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Cavalry.
+d gains 2 Horses.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards a Silver.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+d plays 6 Coppers and 2 Silvers. (+$10)
+d buys a Province.
+d gets 2 VP from Goons.
+d gains a Province.
+d buys a Province.
+d gets 2 VP from Goons.
+d gains a Province.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Treasury.
+J draws a Goons.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Fortress.
+J gets +1 Action.
+J gets +$1.
+J plays a Fortress.
+J draws a Horse.
+J gets +2 Actions.
+J plays a Horse.
+J draws a Silver and a Fortress.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fortress.
+J draws a Cavalry.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Horse.
+J gets +2 Actions.
+J plays a Horse.
+J draws a Goons and a Fortress.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fortress.
+J draws a Moneylender.
+J gets +2 Actions.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+d discards a card and a Silver.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys an Envoy.
+J gets 2 VP from Goons.
+J gains an Envoy.
+J buys a Borrow.
+J gets +1 Buy.
+J moves -Card token to Draw Pile.
+J gets +$1.
+J buys a Festival.
+J gets 2 VP from Goons.
+J gains a Festival.
+J topdecks 2 Treasuries.
+J skips a draw (because of Borrow).
+J moves -Card token to Token Limbo.
+J draws 2 Treasuries, a Goons and a Horse.
+
+Turn 15 - dmreynolds
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Fortress.
+d draws a card.
+d gets +2 Actions.
+d plays a Goons.
+d gets +1 Buy.
+d gets +$2.
+J discards a Goons.
+d plays a Copper. (+$1)
+d buys a Borrow.
+d gets +1 Buy.
+d moves -Card token to Draw Pile.
+d gets +$1.
+d buys an Envoy.
+d gets 1 VP from Goons.
+d gains an Envoy.
+d skips a draw (because of Borrow).
+d moves -Card token to Token Limbo.
+d draws 4 cards.
+
+Turn 15 - Jazzercise
+J plays a Horse.
+J draws a Lookout and an Envoy.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Treasury.
+J shuffles their deck.
+J draws a Cavalry.
+J gets +1 Action.
+J gets +$1.
+J plays a Treasury.
+J draws a Fortress.
+J gets +1 Action.
+J gets +$1.
+J plays an Envoy.
+J reveals a Fortress, 2 Goons and 2 Horses.
+J discards a Goons.
+J puts a Goons, a Fortress and 2 Horses into their hand.
+

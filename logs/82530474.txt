@@ -1,0 +1,349 @@
+Game #82530474, rated.
+Jazzercise: 46.74
+fullmetal_comic: 44.12
+
+
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+f starts with 7 Coppers.
+f starts with a Hovel, a Necropolis and an Overgrown Estate.
+J shuffles their deck.
+J draws 4 Coppers and a Necropolis.
+f shuffles their deck.
+f draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays a Necropolis using Way of the Ox.
+J gets +2 Actions.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, a Hovel and an Overgrown Estate.
+
+Turn 1 - fullmetal_comic
+f plays 4 Coppers. (+$4)
+f buys and gains a Skulk.
+f gains a Gold.
+f draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Hovel.
+
+Turn 2 - fullmetal_comic
+f plays a Necropolis using Way of the Ox.
+f gets +2 Actions.
+f plays 3 Coppers. (+$3)
+f buys and gains a Supplies.
+f shuffles their deck.
+f draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Village Green.
+J draws 3 Coppers, a Silver and an Overgrown Estate.
+
+Turn 3 - fullmetal_comic
+f plays a Skulk.
+f gets +1 Buy.
+f takes War.
+J receives War.
+J reveals a Copper and a Necropolis.
+J shuffles their deck.
+J reveals a Copper and finally Village Green.
+J trashes a Village Green.
+J discards 2 Coppers and a Necropolis.
+f discards War.
+f plays 3 Coppers. (+$3)
+f plays a Supplies.
+f gains a Horse.
+f buys and gains 2 Supplies.
+f draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Storeroom.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Hovel and a Storeroom.
+
+Turn 4 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays 3 Coppers and a Gold. (+$6)
+f buys and gains a Gold.
+f shuffles their deck.
+f draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Storeroom.
+J gets +1 Buy.
+J discards a Copper and a Hovel.
+J draws a Copper and a Necropolis.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and an Overgrown Estate.
+
+Turn 5 - fullmetal_comic
+f plays a Necropolis using Way of the Ox.
+f gets +2 Actions.
+f plays 3 Coppers and a Gold. (+$6)
+f buys and gains a Gold.
+f draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Merchant.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and a Hovel.
+
+Turn 6 - fullmetal_comic
+f plays a Skulk.
+f gets +1 Buy.
+f takes Greed.
+J receives Greed.
+J gains a Copper.
+f discards Greed.
+f plays a Copper and a Gold. (+$4)
+f plays a Supplies.
+f gains a Horse.
+f plays a Supplies.
+f gains a Horse.
+f buys and gains a Supplies.
+f buys and gains a Fortune Teller.
+f draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Gold.
+J draws 4 Coppers and a Silver.
+
+Turn 7 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Horse.
+f shuffles their deck.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays 3 Coppers. (+$3)
+f plays a Supplies.
+f gains a Horse.
+f plays a Supplies.
+f gains a Horse.
+f buys a Duchy.
+f trashes a Hovel.
+f gains a Duchy.
+f gains a Duchess.
+f draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J draws a Copper, a Merchant, a Necropolis, an Overgrown Estate and a Storeroom.
+
+Turn 8 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Necropolis using Way of the Ox.
+f gets +2 Actions.
+f plays 3 Coppers and a Gold. (+$6)
+f plays a Supplies.
+f gains a Horse.
+f plays a Supplies.
+f gains a Horse.
+f buys and gains a Province.
+f draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Merchant.
+J draws a Copper.
+J gets +1 Action.
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 2 Coppers, a Necropolis and an Overgrown Estate.
+J shuffles their deck.
+J draws 3 Coppers and a Gold.
+J plays 3 Coppers and a Gold. (+$6)
+J buys and gains a Gold.
+J draws 3 Coppers, a Silver and an Overgrown Estate.
+
+Turn 9 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Horse.
+f shuffles their deck.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Skulk.
+f gets +1 Buy.
+f takes Locusts.
+J receives Locusts.
+J trashes a Copper.
+J gains a Curse.
+f discards Locusts.
+f plays 2 Coppers and 2 Golds. (+$8)
+f plays a Supplies.
+f gains a Horse.
+f buys and gains a Province.
+f draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Storeroom.
+J draws a Copper, a Silver, a Gold, a Hovel and a Necropolis.
+
+Turn 10 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Duchess.
+f gets +$2.
+f looks at a card.
+f topdecks a card.
+J looks at a Silver.
+J topdecks a Silver.
+f plays 2 Coppers. (+$2)
+f plays a Supplies.
+f gains a Horse.
+f plays a Supplies.
+f gains a Horse.
+f buys and gains a Gold.
+f draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Necropolis and a Storeroom.
+
+Turn 11 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Necropolis using Way of the Ox.
+f gets +2 Actions.
+f plays 2 Coppers and a Gold. (+$5)
+f plays a Supplies.
+f gains a Horse.
+f buys and gains a Gold.
+f shuffles their deck.
+f draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Storeroom.
+J gets +1 Buy.
+J discards a Copper and a Necropolis.
+J draws a Copper and a Gold.
+J plays a Copper, a Silver and 2 Golds. (+$9)
+J buys and gains a Province.
+J draws 2 Coppers, a Silver, a Hovel and a Storeroom.
+
+Turn 12 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Duchess.
+f gets +$2.
+f looks at a card.
+f discards a Copper.
+J looks at a Copper.
+J discards a Copper.
+f plays a Copper and a Gold. (+$4)
+f plays a Supplies.
+f gains a Horse.
+f plays a Supplies.
+f gains a Horse.
+f buys and gains a Province.
+f draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Storeroom.
+J gets +1 Buy.
+J discards 2 Coppers and a Hovel.
+J draws a Curse, a Copper and a Gold.
+J discards a Curse.
+J gets +$1.
+J plays a Copper, a Silver and a Gold. (+$6)
+J buys and gains a Gold.
+J draws a Copper, a Silver, a Gold, a Merchant and an Overgrown Estate.
+
+Turn 13 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays 2 Coppers and 3 Golds. (+$11)
+f buys and gains a Province.
+f draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Merchant.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J plays 2 Coppers and a Silver. (+$4)
+J gets +$1.
+J plays a Gold. (+$3)
+J buys and gains a Province.
+J draws a Copper, 2 Silvers, a Gold and a Province.
+
+Turn 14 - fullmetal_comic
+f plays a Necropolis.
+f gets +2 Actions.
+f plays a Copper. (+$1)
+f plays a Supplies.
+f gains a Horse.
+f plays a Supplies.
+f gains a Horse.
+f buys and gains a Supplies.
+f draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Copper, 2 Silvers and a Gold. (+$8)
+J buys and gains a Province.
+J draws 3 Coppers and 2 Golds.
+
+Turn 15 - fullmetal_comic
+f plays a Horse.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Horse.
+f shuffles their deck.
+f draws 2 cards.
+f gets +1 Action.
+f returns a Horse to the Horse pile.
+f plays a Fortune Teller.
+f gets +$2.
+J reveals 2 Storerooms, a Hovel, a Necropolis and a Gold and finally Curse.
+J topdecks a Curse.
+J discards a Gold, a Hovel, a Necropolis and 2 Storerooms.
+f plays 3 Coppers and a Gold. (+$6)
+f buys and gains a Province.
+f draws 5 cards.
+

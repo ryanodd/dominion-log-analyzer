@@ -1,0 +1,21 @@
+Game #82099908, rated.
+thenewme: 43.91
+Jazzercise: 45.12
+
+
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t shuffles their deck.
+t draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - thenewme
+t plays 5 Coppers. (+$5)
+t buys and gains Dame Sylvia.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+

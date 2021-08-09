@@ -1,0 +1,596 @@
+Game #82495607, unrated.
+
+
+Druid sets The River's Gift aside.
+Druid sets The Moon's Gift aside.
+Druid sets The Field's Gift aside.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Jack of All Trades.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Jack of All Trades.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Potion.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Jack of All Trades.
+J gains a Silver.
+J looks at a Copper.
+J topdecks a Copper.
+J draws a Copper.
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Marauder.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Port.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L plays a Potion.
+L buys and gains an Apothecary.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Counterfeit.
+J draws 2 Coppers, a Jack of All Trades, a Marauder and a Port.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Marauder.
+J gains a Spoils.
+L gains a Ruined Market.
+J plays a Jack of All Trades.
+J gains a Silver.
+J looks at an Estate.
+J topdecks an Estate.
+J draws a Copper and an Estate.
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Marauder.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 6 - Lord Rattington
+L plays a Potion.
+L plays 2 Coppers. (+$2)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Silver. (+$2)
+L buys and gains a Jack of All Trades.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Counterfeit.
+J draws a Copper, a Silver, a Counterfeit and 2 Ports.
+
+Turn 7 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper, a Silver, an Estate and a Jack of All Trades.
+L puts a Copper into their hand.
+L topdecks a Silver, an Estate and a Jack of All Trades.
+L plays 5 Coppers. (+$5)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Port.
+J draws a Marauder.
+J gets +2 Actions.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Marauder.
+J gains a Spoils.
+L gains a Survivors.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Barge.
+J draws 2 Coppers, a Silver, a Jack of All Trades and a Spoils.
+
+Turn 8 - Lord Rattington
+L plays a Jack of All Trades.
+L gains a Silver.
+L looks at a card.
+L topdecks a card.
+L draws a card.
+L trashes an Estate.
+L plays a Copper and a Silver. (+$3)
+L plays a Potion.
+L buys and gains an Apothecary.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Jack of All Trades.
+J gains a Silver.
+J looks at a Marauder.
+J topdecks a Marauder.
+J draws a Marauder.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys Stampede.
+J gains 5 Horses.
+J draws 5 Horses.
+
+Turn 9 - Lord Rattington
+L plays a Ruined Market.
+L gets +1 Buy.
+L plays a Silver. (+$2)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Jack of All Trades.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Horse.
+J shuffles their deck.
+J draws a Copper and a Marauder.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Spoils and a Port.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Port.
+J draws a Jack of All Trades.
+J gets +2 Actions.
+J plays a Horse.
+J draws an Estate and a Counterfeit.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and a Marauder.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and a Silver.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Marauder.
+J gains a Spoils.
+L gains an Abandoned Mine.
+J plays a Jack of All Trades.
+J gains a Silver.
+J looks at a Silver.
+J discards a Silver.
+J trashes an Estate.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains a Barge.
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J draws 3 Coppers, a Counterfeit and a Barge.
+
+Turn 10 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper, an Apothecary, a Counterfeit and a Jack of All Trades.
+L puts a Copper into their hand.
+L topdecks an Apothecary, a Jack of All Trades and a Counterfeit.
+L plays a Potion.
+L plays 5 Coppers. (+$5)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Barge.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Priest.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Port and a Barge.
+
+Turn 11 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L shuffles their deck.
+L reveals a Copper, an Estate, a Survivors and a Jack of All Trades.
+L puts a Copper into their hand.
+L topdecks an Estate, a Jack of All Trades and a Survivors.
+L plays a Jack of All Trades.
+L gains a Silver.
+L looks at a card.
+L discards a Survivors.
+L trashes an Estate.
+L plays a Copper. (+$1)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Copper, a Jack of All Trades and a Spoils.
+J gets +1 Buy.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Barge.
+J draws a Silver, a Marauder and a Priest.
+J gets +1 Buy.
+J plays a Priest.
+J gets +$2.
+J trashes a Jack of All Trades.
+J plays 3 Coppers and 3 Silvers. (+$9)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J buys and gains a Barge.
+J buys and gains a Counterfeit.
+J draws a Copper, 2 Silvers and 2 Ports.
+
+Turn 12 - Lord Rattington
+L plays a Jack of All Trades.
+L gains a Silver.
+L looks at a card.
+L discards an Abandoned Mine.
+L draws a card.
+L trashes a Ruined Market.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Counterfeit.
+J gets +2 Actions.
+J plays a Port.
+J draws a Counterfeit.
+J gets +2 Actions.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Silver. (+$2)
+J plays a Silver again. (+$2)
+J trashes a Silver.
+J plays a Silver. (+$2)
+J buys and gains a Market.
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J shuffles their deck.
+J draws a Silver, a Marauder, 2 Ports and a Priest.
+
+Turn 13 - Lord Rattington
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Copper. (+$1)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays 2 Silvers. (+$4)
+L buys and gains a Counterfeit.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Port.
+J draws a Counterfeit.
+J gets +2 Actions.
+J plays a Priest.
+J gets +$2.
+J trashes a Copper.
+J plays a Marauder.
+J gains a Spoils.
+L gains an Abandoned Mine.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Silver. (+$2)
+J plays a Silver again. (+$2)
+J trashes a Silver.
+J gets +$2.
+J buys Stampede.
+J gains 5 Horses.
+J buys and gains a Marauder.
+J draws 5 Horses.
+
+Turn 14 - Lord Rattington
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper, an Estate, a Silver and a Counterfeit.
+L puts a Copper into their hand.
+L topdecks a Silver, an Estate and a Counterfeit.
+L plays an Apothecary.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper, an Estate and 2 Counterfeits.
+L puts a Copper into their hand.
+L topdecks an Estate and 2 Counterfeits.
+L plays a Copper. (+$1)
+L plays a Potion.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains an Apothecary.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Barge.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Port and a Barge.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Port.
+J draws a Counterfeit.
+J gets +2 Actions.
+J plays a Barge.
+J draws a Silver, a Market and a Barge.
+J gets +1 Buy.
+J plays a Horse.
+J draws a Silver and a Port.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Market.
+J draws a Port.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$1.
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Port.
+J draws a Marauder.
+J gets +2 Actions.
+J plays a Horse.
+J draws a Counterfeit and a Port.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and a Port.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J shuffles their deck.
+J draws a Priest.
+J gets +2 Actions.
+J plays a Port.
+J draws a Marauder.
+J gets +2 Actions.
+J plays a Barge.
+J draws a Spoils and 2 Ports.
+J gets +1 Buy.
+J plays a Port.
+J draws a Counterfeit.
+J gets +2 Actions.
+J plays a Port.
+J draws a Marauder.
+J gets +2 Actions.
+J plays a Marauder.
+J gains a Spoils.
+L gains a Ruined Village.
+J plays a Marauder.
+J gains a Spoils.
+L gains a Ruined Village.
+J plays a Marauder.
+J gains a Spoils.
+L gains a Survivors.
+J plays a Barge.
+J shuffles their deck.
+J draws 3 Spoils.
+J gets +1 Buy.
+J plays a Priest.
+J gets +$2.
+J trashes a Counterfeit.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J gets +$2.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J gets +$2.
+J plays 3 Silvers. (+$6)
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J plays a Spoils. (+$3)
+J returns a Spoils to the Spoils pile.
+J buys and gains 3 Golds.
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J buys and gains a Barge.
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J shuffles their deck.
+J draws a Silver, a Marauder, 2 Ports and a Barge.
+
+Turn 15 - Lord Rattington
+L plays a Survivors.
+L looks at 2 cards.
+L topdecks 2 cards.
+L plays a Silver. (+$2)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L buys and gains a Jack of All Trades.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Barge.
+J draws 3 Ports.
+J gets +1 Buy.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Port.
+J draws a Priest.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Marauder.
+J gets +2 Actions.
+J plays a Port.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Marauder.
+J gains a Spoils.
+L gains an Abandoned Mine.
+J plays a Marauder.
+J gains a Spoils.
+L gains a Ruined Library.
+J plays a Priest.
+J gets +$2.
+J trashes a Silver.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains 2 Barges.
+J draws a Silver, 2 Counterfeits, a Marauder and a Port.
+
+Turn 16 - Lord Rattington
+L plays a Jack of All Trades.
+L gains a Silver.
+L looks at a card.
+L topdecks a card.
+L draws a card.
+L plays a Copper. (+$1)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Counterfeit.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Marauder.
+J gains a Spoils.
+L gains a Ruined Market.
+J plays a Gold and a Silver. (+$5)
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Counterfeit again. (+$1)
+J gets +1 Buy.
+J trashes a Counterfeit.
+J buys and gains a Barge.
+J draws a Market, a Port and 3 Barges.
+
+Turn 17 - Lord Rattington
+L plays a Jack of All Trades.
+L gains a Silver.
+L looks at a card.
+L topdecks a card.
+L draws a card.
+L trashes an Abandoned Mine.
+L plays 2 Silvers. (+$4)
+L plays a Counterfeit. (+$1)
+L gets +1 Buy.
+L plays a Silver. (+$2)
+L buys and gains a Counterfeit.
+L shuffles their deck.
+L draws 5 cards.
+

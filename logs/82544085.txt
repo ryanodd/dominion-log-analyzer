@@ -1,0 +1,730 @@
+Game #82544085, rated.
+Jazzercise: 46.41
+saintidoru: 47.35
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+s starts with 7 Coppers.
+s starts with a Hovel, a Necropolis and an Overgrown Estate.
+J shuffles their deck.
+J draws 4 Coppers and a Necropolis.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, a Hovel and an Overgrown Estate.
+
+Turn 1 - saintidoru
+s plays 3 Coppers. (+$3)
+s buys and gains an Urchin.
+s draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 2 - saintidoru
+s plays 4 Coppers. (+$4)
+s buys and gains a Sacrifice.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Silver and 4 Coppers. (+$6)
+J buys and gains a Recruiter.
+J draws a Copper, a Silver, a Hovel, a Necropolis and an Overgrown Estate.
+
+Turn 3 - saintidoru
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+J discards a Hovel.
+s plays 4 Coppers. (+$4)
+s buys and gains a Conspirator.
+s draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Candlestick Maker.
+J shuffles their deck.
+J draws 4 Coppers and an Overgrown Estate.
+
+Turn 4 - saintidoru
+s plays a Sacrifice.
+s trashes a Copper.
+s gets +$2.
+s plays 2 Coppers. (+$2)
+s buys and gains a Devil's Workshop.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Throne Room.
+J draws a Copper, a Hovel, a Necropolis, a Candlestick Maker and a Recruiter.
+
+Turn 5 - saintidoru
+s plays a Conspirator.
+s gets +$2.
+s plays 2 Coppers. (+$2)
+s buys and gains a Conspirator.
+s plays a Devil's Workshop.
+s gains a Throne Room.
+s draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Recruiter.
+J draws a Copper and a Silver.
+J trashes a Hovel.
+J gets +1 Villager.
+J uses 1 Villager.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Silver and 2 Coppers. (+$4)
+J uses 1 Coffers. (+$1)
+J buys and gains a Recruiter.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Overgrown Estate.
+
+Turn 6 - saintidoru
+s plays a Sacrifice.
+s trashes a Copper.
+s gets +$2.
+s plays 2 Coppers. (+$2)
+s buys and gains a Conspirator.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Recruiter.
+J draws 2 Coppers, a Silver, a Throne Room and a Recruiter.
+
+Turn 7 - saintidoru
+s plays a Necropolis.
+s gets +2 Actions.
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+J discards a Copper.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Sacrifice.
+s trashes an Overgrown Estate.
+s draws a card.
+s gets 2 VP.
+s plays 3 Coppers. (+$3)
+s buys and gains a Recruiter.
+s draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Throne Room.
+J plays a Recruiter.
+J draws a Copper and a Necropolis.
+J trashes a Copper.
+J plays a Recruiter again.
+J draws a Candlestick Maker and a Recruiter.
+J trashes a Necropolis.
+J gets +1 Villager.
+J uses 1 Villager.
+J plays a Recruiter.
+J shuffles their deck.
+J draws 2 Coppers.
+J trashes a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains an Urchin.
+J draws 3 Coppers, a Silver and a Recruiter.
+
+Turn 8 - saintidoru
+s plays a Conspirator.
+s gets +$2.
+s plays a Copper. (+$1)
+s buys and gains an Urchin.
+s plays a Devil's Workshop.
+s gains a Throne Room.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Recruiter.
+J shuffles their deck.
+J draws an Overgrown Estate and a Candlestick Maker.
+J trashes an Overgrown Estate.
+J draws a Throne Room.
+J gets +1 Villager.
+J uses 1 Villager.
+J plays a Throne Room.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Candlestick Maker again.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Silver and 3 Coppers. (+$5)
+J uses 1 Coffers. (+$1)
+J buys and gains 2 Urchins.
+J draws 2 Coppers, a Silver and 2 Recruiters.
+
+Turn 9 - saintidoru
+s plays a Throne Room.
+s plays a Sacrifice.
+s trashes a Recruiter.
+s draws 2 cards.
+s gets +2 Actions.
+s plays a Sacrifice again.
+s trashes a Copper.
+s gets +$2.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays 2 Coppers. (+$2)
+s buys Reap.
+s gains a Gold.
+s sets a Gold aside.
+s draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Recruiter.
+J shuffles their deck.
+J draws a Throne Room and an Urchin.
+J trashes an Urchin.
+J gets +3 Villagers.
+J uses 1 Villager.
+J plays a Throne Room.
+J plays a Recruiter.
+J draws 2 Coppers.
+J trashes a Copper.
+J plays a Recruiter again.
+J draws an Urchin and a Candlestick Maker.
+J trashes a Copper.
+J uses 1 Villager.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays an Urchin.
+J draws an Urchin.
+J gets +1 Action.
+s discards a Throne Room.
+J plays an Urchin.
+J draws a Recruiter.
+J gets +1 Action.
+J plays a Recruiter.
+J draws a Copper and a Silver.
+J trashes a Copper.
+J plays 2 Silvers and 2 Coppers. (+$6)
+J uses 2 Coffers. (+$2)
+J buys and gains 2 Conspirators.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Throne Room and a Conspirator.
+
+Turn 10 - saintidoru
+s starts their turn.
+s plays a Gold. (Reap)
+s plays 2 Coppers. (+$2)
+s buys and gains a Conspirator.
+s plays a Devil's Workshop.
+s gains a Gladiator.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Throne Room.
+J plays a Conspirator.
+J gets +$2.
+J plays a Conspirator again.
+J gets +$2.
+J draws a Recruiter.
+J gets +1 Action.
+J plays a Recruiter.
+J draws a Candlestick Maker and a Recruiter.
+J trashes a Copper.
+J uses 1 Villager.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Recruiter.
+J draws a Silver and an Urchin.
+J trashes a Copper.
+J plays 2 Silvers. (+$4)
+J buys and gains an Urchin.
+J buys and gains a Conspirator.
+J shuffles their deck.
+J draws 2 Conspirators, 2 Urchins and a Recruiter.
+
+Turn 11 - saintidoru
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+J discards a Recruiter.
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Throne Room.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator again.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Gladiator.
+s gets +$2.
+s reveals a Devil's Workshop.
+s gets +$1.
+s trashes a Gladiator.
+s plays a Gold and 2 Coppers. (+$5)
+s buys and gains a Province.
+s plays a Devil's Workshop.
+s gains a Candlestick Maker.
+s draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Urchin.
+J draws a Recruiter.
+J gets +1 Action.
+s discards a Conspirator.
+J plays an Urchin.
+J draws a Silver.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Silver.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws an Urchin.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Recruiter.
+J draws a Candlestick Maker and a Recruiter.
+J trashes a Recruiter.
+J gets +5 Villagers.
+J plays a Recruiter again.
+J shuffles their deck.
+J draws a Recruiter.
+J trashes a Recruiter.
+J gets +5 Villagers.
+J uses 1 Villager.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays 2 Silvers. (+$4)
+J buys and gains a Throne Room.
+J buys and gains a Conspirator.
+J shuffles their deck.
+J draws a Silver, a Conspirator, an Urchin, a Candlestick Maker and a Recruiter.
+
+Turn 12 - saintidoru
+s plays a Throne Room.
+s plays a Sacrifice.
+s trashes a Hovel.
+s plays a Sacrifice again.
+s trashes a Copper.
+s gets +$2.
+s buys and gains a Candlestick Maker.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Urchin.
+J draws a Conspirator.
+J gets +1 Action.
+s discards a Necropolis.
+J plays a Recruiter.
+J draws a Throne Room and a Conspirator.
+J trashes a Silver.
+J gets +3 Villagers.
+J uses 1 Villager.
+J plays a Throne Room.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Candlestick Maker again.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Silver.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws an Urchin.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws an Urchin.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Silver. (+$2)
+J uses 1 Coffers. (+$1)
+J buys and gains a Guide.
+J buys and gains 2 Conspirators.
+J shuffles their deck.
+J draws a Silver, a Throne Room, a Conspirator, an Urchin and a Guide.
+
+Turn 13 - saintidoru
+s plays a Conspirator.
+s gets +$2.
+s plays 2 Coppers. (+$2)
+s buys and gains a Throne Room.
+s plays a Devil's Workshop.
+s gains a Gladiator.
+s draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Throne Room.
+J plays an Urchin.
+J draws a Conspirator.
+J gets +1 Action.
+s discards a Copper.
+J plays an Urchin again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Guide.
+J draws a Conspirator.
+J gets +1 Action.
+J puts a Guide on their Tavern mat.
+J plays a Throne Room.
+J plays a Conspirator.
+J gets +$2.
+J draws a Recruiter.
+J gets +1 Action.
+J plays a Conspirator again.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws an Urchin.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws an Urchin.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Candlestick Maker.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J gets +1 Action.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Silver. (+$2)
+J buys and gains a Province.
+J buys and gains a Candlestick Maker.
+J shuffles their deck.
+J draws 2 Throne Rooms, 2 Conspirators and a Candlestick Maker.
+
+Turn 14 - saintidoru
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+J discards a Throne Room.
+s plays a Sacrifice.
+s trashes a Candlestick Maker.
+s draws 2 cards.
+s gets +2 Actions.
+s plays a Candlestick Maker.
+s gets +1 Action.
+s gets +1 Buy.
+s gets +1 Coffers.
+s plays a Throne Room.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator again.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+s plays a Gold. (+$3)
+s buys and gains a Province.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J plays a Throne Room.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Candlestick Maker again.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Candlestick Maker.
+J gets +1 Action.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J uses 4 Coffers. (+$4)
+J buys and gains a Province.
+J draws a Silver, a Conspirator and 3 Urchins.
+
+Turn 15 - saintidoru
+s plays a Throne Room.
+s plays a Gladiator.
+s gets +$2.
+s reveals a Gladiator.
+s gets +$1.
+s trashes a Gladiator.
+s plays a Gladiator again.
+s gets +$2.
+s reveals a Gladiator.
+s gets +$1.
+s trashes a Gladiator.
+s buys and gains a Duchy.
+s draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J plays an Urchin.
+J draws a Recruiter.
+J gets +1 Action.
+s discards a Province.
+J plays an Urchin.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J shuffles their deck.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays an Urchin.
+J draws a Conspirator.
+J gets +1 Action.
+J plays an Urchin again.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator again.
+J gets +$2.
+J draws a Candlestick Maker.
+J gets +1 Action.
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Silver. (+$2)
+J uses 2 Coffers. (+$2)
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws a Silver, a Province, 2 Conspirators and a Candlestick Maker.
+
+Turn 16 - saintidoru
+s plays a Throne Room.
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+J discards a Province.
+s plays an Urchin again.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Gold and a Copper. (+$4)
+s uses 1 Coffers. (+$1)
+s buys Reap.
+s gains a Gold.
+s sets a Gold aside.
+s plays a Devil's Workshop.
+s gains a Sacrifice.
+s draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J calls a Guide.
+J discards a Silver, 2 Conspirators and a Candlestick Maker.
+J draws 2 Provinces, a Conspirator and 2 Urchins.
+J plays an Urchin.
+J draws a Candlestick Maker.
+J gets +1 Action.
+s discards a Copper.
+J plays an Urchin.
+J draws a Throne Room.
+J gets +1 Action.
+J plays a Throne Room.
+J plays a Conspirator.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator again.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws an Urchin.
+J gets +1 Action.
+J plays an Urchin.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Recruiter.
+J gets +1 Action.
+J plays a Recruiter.
+J shuffles their deck.
+J draws a Throne Room and a Conspirator.
+J trashes a Candlestick Maker.
+J gets +2 Villagers.
+J plays a Throne Room.
+J plays a Conspirator.
+J gets +$2.
+J draws a Silver.
+J gets +1 Action.
+J plays a Conspirator again.
+J gets +$2.
+J draws a Conspirator.
+J gets +1 Action.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Silver. (+$2)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Silver, a Province, 2 Conspirators and a Candlestick Maker.
+
+Turn 17 - saintidoru
+s starts their turn.
+s plays a Gold. (Reap)
+s plays a Candlestick Maker.
+s gets +1 Action.
+s gets +1 Buy.
+s gets +1 Coffers.
+s plays an Urchin.
+s draws a card.
+s gets +1 Action.
+J discards a Province.
+s plays a Throne Room.
+s plays a Conspirator.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Conspirator again.
+s gets +$2.
+s draws a card.
+s gets +1 Action.
+s plays a Sacrifice.
+s trashes a Necropolis.
+s shuffles their deck.
+s draws 2 cards.
+s gets +2 Actions.
+s plays a Gold and a Copper. (+$4)
+s buys and gains 2 Duchies.
+s plays a Devil's Workshop.
+s gains an Imp.
+s draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Candlestick Maker.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +1 Coffers.
+J plays a Conspirator.
+J gets +$2.
+J uses 1 Villager.
+J plays a Conspirator.
+J gets +$2.
+J draws a Province.
+J gets +1 Action.
+J plays a Silver. (+$2)
+J uses 3 Coffers. (+$3)
+J buys and gains a Province.
+J draws 2 Provinces, a Conspirator, an Urchin and a Guide.
+

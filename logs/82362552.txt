@@ -1,0 +1,948 @@
+Game #82362552, rated.
+Ammo111: 52.53
+Jazzercise: 45.77
+
+
+A starts with 7 Coppers.
+A starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+A shuffles their deck.
+A draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Ammo111
+A plays 3 Coppers. (+$3)
+A buys and gains a Silver.
+A draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Warehouse.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Ammo111
+A plays 4 Coppers. (+$4)
+A buys and gains a Groom.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Groom.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Groom.
+
+Turn 3 - Ammo111
+A plays 2 Coppers and a Silver. (+$4)
+A buys and gains a Moneylender.
+A draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Groom.
+J gains a Moneylender.
+J gains a Horse.
+J plays 3 Coppers. (+$3)
+J buys and gains a Scheme.
+J draws 4 Coppers and a Warehouse.
+
+Turn 4 - Ammo111
+A plays a Groom.
+A gains a Plaza.
+A gains a Horse.
+A plays 3 Coppers. (+$3)
+A buys and gains a Scheme.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Warehouse.
+J shuffles their deck.
+J draws 3 Estates.
+J gets +1 Action.
+J discards 3 Estates.
+J plays 4 Coppers. (+$4)
+J buys and gains a Moneylender.
+J draws 3 Coppers, a Scheme and a Horse.
+
+Turn 5 - Ammo111
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Horse.
+J draws a Moneylender and a Groom.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Groom.
+J gains a Wandering Minstrel.
+J gains a Horse.
+J plays 3 Coppers. (+$3)
+J buys and gains a Scheme.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Wandering Minstrel.
+
+Turn 6 - Ammo111
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Scheme.
+A draws a card.
+A gets +1 Action.
+A plays a Moneylender.
+A trashes a Copper.
+A gets +$3.
+A plays 2 Coppers and a Silver. (+$4)
+A buys and gains a King's Court.
+A topdecks a Moneylender.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals a Copper, a Horse and a Moneylender.
+J topdecks a Moneylender and a Horse.
+J discards a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains a Wandering Minstrel.
+J draws an Estate, 2 Moneylenders, a Groom and a Horse.
+
+Turn 7 - Ammo111
+A plays a Scheme.
+A draws a card.
+A gets +1 Action.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Groom.
+A gains a Plaza.
+A gains a Horse.
+A topdecks a Groom.
+A draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Scheme.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Scheme.
+J draws an Estate.
+J gets +1 Action.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J buys and gains a Scheme.
+J topdecks a Moneylender.
+J shuffles their deck.
+J draws a Copper, an Estate, a Moneylender, a Warehouse and a Scheme.
+
+Turn 8 - Ammo111
+A plays a King's Court.
+A plays a Groom.
+A gains an Estate.
+A draws a card.
+A gets +1 Action.
+A plays a Groom again.
+A gains a Plaza.
+A gains a Horse.
+A plays a Groom a third time.
+A gains a Plaza.
+A gains a Horse.
+A plays 4 Coppers. (+$4)
+A uses 2 Coffers. (+$2)
+A buys Crop Rotation.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Scheme.
+J draws a Copper.
+J gets +1 Action.
+J plays a Warehouse.
+J draws a Copper, an Estate and a Wandering Minstrel.
+J gets +1 Action.
+J discards a Copper and 2 Estates.
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J reveals an Estate and 2 Schemes.
+J topdecks 2 Schemes.
+J discards an Estate.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 2 Coppers. (+$2)
+J buys and gains a Hunting Party.
+J topdecks a Moneylender.
+J draws a Moneylender, 2 Schemes, a Wandering Minstrel and a Groom.
+
+Turn 9 - Ammo111
+A starts their turn.
+A discards an Estate.
+A draws 2 cards.
+A plays a Scheme.
+A draws a card.
+A gets +1 Action.
+A plays 4 Coppers and a Silver. (+$6)
+A buys and gains a Hireling.
+A topdecks a Scheme.
+A draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Wandering Minstrel.
+J draws a Copper.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals 2 Coppers and a Moneylender.
+J topdecks a Moneylender.
+J discards 2 Coppers.
+J plays a Scheme.
+J draws a Moneylender.
+J gets +1 Action.
+J plays a Scheme.
+J draws an Estate.
+J gets +1 Action.
+J plays a Groom.
+J gains a Wandering Minstrel.
+J gains a Horse.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J buys and gains a Scheme.
+J topdecks a Moneylender and a Scheme.
+J draws a Copper, an Estate, a Moneylender and 2 Schemes.
+
+Turn 10 - Ammo111
+A starts their turn.
+A plays a King's Court.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Horse again.
+A draws 2 cards.
+A gets +1 Action.
+A plays a Horse a third time.
+A draws 2 cards.
+A gets +1 Action.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Scheme.
+A draws a card.
+A gets +1 Action.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Plaza.
+A shuffles their deck.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Moneylender.
+A trashes a Copper.
+A gets +$3.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Groom.
+A gains 2 Silvers.
+A plays 2 Coppers. (+$2)
+A uses 1 Coffers. (+$1)
+A buys and gains a Hireling.
+A topdecks a King's Court.
+A draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Scheme.
+J draws a Warehouse.
+J gets +1 Action.
+J plays a Scheme.
+J draws a Wandering Minstrel.
+J gets +1 Action.
+J plays a Wandering Minstrel.
+J draws an Estate.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Copper, a Horse and a Hunting Party.
+J topdecks a Hunting Party and a Horse.
+J discards a Copper.
+J plays a Warehouse.
+J draws a Hunting Party, a Scheme and a Horse.
+J gets +1 Action.
+J discards a Copper and 2 Estates.
+J plays a Scheme.
+J draws a Wandering Minstrel.
+J gets +1 Action.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals a Copper, an Estate and a Scheme.
+J topdecks a Scheme.
+J discards a Copper and an Estate.
+J plays a Wandering Minstrel.
+J draws a Scheme.
+J gets +2 Actions.
+J reveals a Copper, a Groom and a Moneylender.
+J topdecks a Moneylender and a Groom.
+J discards a Copper.
+J plays a Hunting Party.
+J draws a Groom.
+J gets +1 Action.
+J reveals their hand: a Horse, a Moneylender, a Groom and a Scheme.
+J reveals a Moneylender.
+J shuffles their deck.
+J reveals a Copper.
+J puts a Copper into their hand.
+J discards a Moneylender.
+J plays a Scheme.
+J draws a Copper.
+J gets +1 Action.
+J plays a Groom.
+J gains 2 Silvers.
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays 3 Coppers. (+$3)
+J buys and gains a Hireling.
+J topdecks a Moneylender, a Hunting Party, a Scheme and a Wandering Minstrel.
+J draws an Estate, a Moneylender, a Hunting Party, a Scheme and a Wandering Minstrel.
+
+Turn 11 - Ammo111
+A starts their turn.
+A discards an Estate.
+A shuffles their deck.
+A draws 2 cards.
+A plays a King's Court.
+A plays a Hireling.
+A plays a Hireling again.
+A plays a Hireling a third time.
+A plays a Copper and a Silver. (+$3)
+A uses 3 Coffers. (+$3)
+A buys and gains a Hireling.
+A draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Wandering Minstrel.
+J draws an Estate.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals an Estate, a Wandering Minstrel and a Groom.
+J topdecks a Wandering Minstrel and a Groom.
+J discards an Estate.
+J plays a Scheme.
+J draws a Wandering Minstrel.
+J gets +1 Action.
+J plays a Wandering Minstrel.
+J draws a Groom.
+J gets +2 Actions.
+J reveals a Hireling, a Moneylender and a Scheme.
+J topdecks a Moneylender, a Scheme and a Hireling.
+J plays a Hunting Party.
+J draws a Moneylender.
+J gets +1 Action.
+J reveals their hand: 2 Estates, 2 Moneylenders and a Groom.
+J reveals a Hireling.
+J puts a Hireling into their hand.
+J plays a Hireling.
+J plays a Groom.
+J gains 2 Silvers.
+J topdecks a Hunting Party.
+J draws 2 Coppers, a Hunting Party and 2 Schemes.
+
+Turn 12 - Ammo111
+A starts their turn.
+A discards an Estate.
+A draws 2 cards.
+A draws 3 cards (Hireling).
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Moneylender.
+A trashes a Copper.
+A gets +$3.
+A plays a Scheme.
+A draws a card.
+A gets +1 Action.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Hireling.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Groom.
+A gains a Plaza.
+A gains a Horse.
+A plays 2 Silvers. (+$4)
+A buys and gains a King's Court.
+A topdecks a Plaza.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Copper (Hireling).
+J plays a Scheme.
+J draws a Scheme.
+J gets +1 Action.
+J plays a Scheme.
+J draws a Silver.
+J gets +1 Action.
+J plays a Scheme.
+J draws a Wandering Minstrel.
+J gets +1 Action.
+J plays a Wandering Minstrel.
+J draws a Warehouse.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals an Estate, a Silver and a Moneylender.
+J topdecks a Moneylender.
+J discards a Silver and an Estate.
+J plays a Hunting Party.
+J draws a Moneylender.
+J gets +1 Action.
+J reveals their hand: 3 Coppers, a Silver, a Warehouse and a Moneylender.
+J reveals an Estate.
+J puts an Estate into their hand.
+J plays a Warehouse.
+J draws 2 Silvers and a Groom.
+J gets +1 Action.
+J discards 2 Coppers and an Estate.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Groom.
+J gains a Plaza.
+J gains a Horse.
+J plays 3 Silvers. (+$6)
+J buys and gains a King's Court.
+J topdecks a Moneylender, a Hunting Party and a Wandering Minstrel.
+J draws an Estate, a Moneylender, a Hunting Party and 2 Wandering Minstrels.
+
+Turn 13 - Ammo111
+A starts their turn.
+A draws 4 cards (Hireling).
+A plays a King's Court.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Horse again.
+A draws 2 cards.
+A gets +1 Action.
+A plays a Horse a third time.
+A draws 2 cards.
+A gets +1 Action.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Hireling.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Copper.
+A gets +1 Coffers.
+A plays a Scheme.
+A draws a card.
+A gets +1 Action.
+A plays a Groom.
+A gains a Plaza.
+A gains a Horse.
+A plays 3 Silvers. (+$6)
+A uses 2 Coffers. (+$2)
+A buys and gains a Province.
+A topdecks a King's Court.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J draws a Moneylender (Hireling).
+J plays a Wandering Minstrel.
+J draws a Scheme.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals a Wandering Minstrel, a Plaza and a Groom.
+J topdecks a Wandering Minstrel, a Plaza and a Groom.
+J plays a Wandering Minstrel.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J reveals a Horse, a Plaza and a Groom.
+J topdecks a Plaza, a Groom and a Horse.
+J plays a Wandering Minstrel.
+J draws a Plaza.
+J gets +2 Actions.
+J reveals a King's Court, a Horse and a Groom.
+J topdecks a King's Court, a Groom and a Horse.
+J plays a Plaza.
+J draws a Groom.
+J gets +2 Actions.
+J plays a Hunting Party.
+J draws a Horse.
+J gets +1 Action.
+J reveals their hand: an Estate, a Horse, 2 Moneylenders, a Groom and a Scheme.
+J reveals a King's Court.
+J puts a King's Court into their hand.
+J plays a King's Court.
+J plays a Horse.
+J draws a Copper and an Estate.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse again.
+J draws a Copper and a Silver.
+J gets +1 Action.
+J plays a Horse a third time.
+J draws a Silver and an Estate.
+J gets +1 Action.
+J plays a Scheme.
+J draws a Warehouse.
+J gets +1 Action.
+J plays a Warehouse.
+J draws a Silver and 2 Schemes.
+J gets +1 Action.
+J discards 3 Estates.
+J plays a Scheme.
+J draws a Silver.
+J gets +1 Action.
+J plays a Scheme.
+J draws a Scheme.
+J gets +1 Action.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Moneylender.
+J trashes a Copper.
+J gets +$3.
+J plays a Groom.
+J gains a Wandering Minstrel.
+J gains a Horse.
+J plays 4 Silvers. (+$8)
+J buys and gains a Province.
+J topdecks a King's Court, a Hunting Party and a Wandering Minstrel.
+J shuffles their deck.
+J draws a Silver, a Province, a King's Court, a Hunting Party and a Wandering Minstrel.
+
+Turn 14 - Ammo111
+A starts their turn.
+A discards an Estate.
+A draws 2 cards.
+A draws 5 cards (Hireling).
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a King's Court.
+A plays a Groom.
+A gains a Plaza.
+A gains a Horse.
+A plays a Groom again.
+A gains a Warehouse.
+A gains a Horse.
+A plays a Groom a third time.
+A gains a Warehouse.
+A gains a Horse.
+A plays a Moneylender.
+A trashes a Copper.
+A gets +$3.
+A uses 5 Coffers. (+$5)
+A buys and gains a Province.
+A draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J draws a Scheme (Hireling).
+J plays a King's Court.
+J plays a Hunting Party.
+J draws an Estate.
+J gets +1 Action.
+J reveals their hand: a Silver, an Estate, a Province, a Wandering Minstrel and a Scheme.
+J reveals a Wandering Minstrel and a Scheme and finally Horse.
+J puts a Horse into their hand.
+J discards a Scheme and a Wandering Minstrel.
+J plays a Hunting Party again.
+J draws a Warehouse.
+J gets +1 Action.
+J reveals their hand: a Silver, an Estate, a Province, a Wandering Minstrel, a Horse, a Warehouse and a Scheme.
+J reveals a Groom.
+J puts a Groom into their hand.
+J plays a Hunting Party a third time.
+J draws a Wandering Minstrel.
+J gets +1 Action.
+J reveals their hand: a Silver, an Estate, a Province, 2 Wandering Minstrels, a Horse, a Warehouse, a Groom and a Scheme.
+J reveals 2 Silvers, an Estate and a Scheme and finally Moneylender.
+J puts a Moneylender into their hand.
+J discards 2 Silvers, an Estate and a Scheme.
+J plays a Scheme.
+J draws a Scheme.
+J gets +1 Action.
+J plays a Scheme.
+J draws an Estate.
+J gets +1 Action.
+J plays a Wandering Minstrel.
+J draws a Moneylender.
+J gets +2 Actions.
+J reveals a Silver, a Wandering Minstrel and a Plaza.
+J topdecks a Wandering Minstrel and a Plaza.
+J discards a Silver.
+J plays a Wandering Minstrel.
+J draws a Plaza.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals an Estate, a Wandering Minstrel and a Scheme.
+J topdecks a Scheme and a Wandering Minstrel.
+J discards an Estate.
+J plays a Plaza.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J plays a Wandering Minstrel.
+J draws a Scheme.
+J gets +2 Actions.
+J reveals a Silver, a Wandering Minstrel and a Scheme.
+J topdecks a Scheme and a Wandering Minstrel.
+J discards a Silver.
+J plays a Scheme.
+J draws a Scheme.
+J gets +1 Action.
+J plays a Scheme.
+J draws a Wandering Minstrel.
+J gets +1 Action.
+J plays a Wandering Minstrel.
+J draws a Silver.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals 2 Silvers and an Estate.
+J discards 2 Silvers and an Estate.
+J plays a Warehouse.
+J shuffles their deck.
+J draws 2 Silvers and an Estate.
+J gets +1 Action.
+J discards 3 Estates.
+J plays 4 Silvers. (+$8)
+J buys and gains a Province.
+J topdecks a King's Court, a Hunting Party and 2 Wandering Minstrels.
+J shuffles their deck.
+J draws a Moneylender, a King's Court, a Hunting Party and 2 Wandering Minstrels.
+
+Turn 15 - Ammo111
+A starts their turn.
+A draws 2 cards (Hireling).
+A shuffles their deck.
+A draws 3 cards (Hireling).
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Scheme.
+A draws a card.
+A gets +1 Action.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Warehouse.
+A draws 3 cards.
+A gets +1 Action.
+A discards 2 other cards and an Estate.
+A plays a Groom.
+A gains a Warehouse.
+A gains a Horse.
+A plays a Warehouse.
+A shuffles their deck.
+A draws 3 cards.
+A gets +1 Action.
+A discards 2 other cards and a Province.
+A plays a Horse.
+A draws 2 cards.
+A gets +1 Action.
+A returns a Horse to the Horse pile.
+A plays a King's Court.
+A plays a Moneylender.
+A trashes a Copper.
+A gets +$3.
+A plays a Moneylender again.
+A trashes a Copper.
+A gets +$3.
+A plays a Moneylender a third time.
+A trashes a Copper.
+A gets +$3.
+A plays a Warehouse.
+A shuffles their deck.
+A draws 3 cards.
+A gets +1 Action.
+A discards 2 other cards and an Estate.
+A buys and gains a Province.
+A topdecks a King's Court.
+A shuffles their deck.
+A draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J draws a Scheme (Hireling).
+J plays a King's Court.
+J plays a Hunting Party.
+J draws a Silver.
+J gets +1 Action.
+J reveals their hand: a Silver, 2 Wandering Minstrels, a Moneylender and a Scheme.
+J reveals 2 Schemes and finally Estate.
+J puts an Estate into their hand.
+J discards 2 Schemes.
+J plays a Hunting Party again.
+J draws a Silver.
+J gets +1 Action.
+J reveals their hand: 2 Silvers, an Estate, 2 Wandering Minstrels, a Moneylender and a Scheme.
+J reveals a Warehouse.
+J puts a Warehouse into their hand.
+J plays a Hunting Party a third time.
+J draws a Scheme.
+J gets +1 Action.
+J reveals their hand: 2 Silvers, an Estate, 2 Wandering Minstrels, a Warehouse, a Moneylender and 2 Schemes.
+J reveals a Province.
+J puts a Province into their hand.
+J plays a Wandering Minstrel.
+J draws a Groom.
+J gets +2 Actions.
+J reveals a Silver, an Estate and a Horse.
+J topdecks a Horse.
+J discards a Silver and an Estate.
+J plays a Wandering Minstrel.
+J draws a Horse.
+J gets +2 Actions.
+J reveals a Wandering Minstrel, a Province and a Plaza.
+J topdecks a Wandering Minstrel and a Plaza.
+J discards a Province.
+J plays a Scheme.
+J draws a Wandering Minstrel.
+J gets +1 Action.
+J plays a Wandering Minstrel.
+J draws a Plaza.
+J gets +2 Actions.
+J reveals a Silver, a Wandering Minstrel and a Moneylender.
+J topdecks a Moneylender and a Wandering Minstrel.
+J discards a Silver.
+J plays a Scheme.
+J draws a Moneylender.
+J gets +1 Action.
+J plays a Plaza.
+J draws a Wandering Minstrel.
+J gets +2 Actions.
+J plays a Wandering Minstrel.
+J draws an Estate.
+J gets +2 Actions.
+J shuffles their deck.
+J reveals an Estate, a Silver and a Scheme.
+J topdecks a Scheme.
+J discards a Silver and an Estate.
+J plays a Warehouse.
+J draws a Province and 2 Schemes.
+J gets +1 Action.
+J discards an Estate and 2 Provinces.
+J plays a Scheme.
+J draws a Silver.
+J gets +1 Action.
+J plays a Scheme.
+J shuffles their deck.
+J draws a Province.
+J gets +1 Action.
+J plays a Horse.
+J draws a Silver and an Estate.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Groom.
+J gains an Estate.
+J draws a Province.
+J gets +1 Action.
+J plays 4 Silvers. (+$8)
+J buys and gains a Province.
+J topdecks a Warehouse, a King's Court, a Hunting Party and a Wandering Minstrel.
+J draws an Estate, a Warehouse, a King's Court, a Hunting Party and a Wandering Minstrel.
+
+Turn 16 - Ammo111
+A starts their turn.
+A draws 5 cards (Hireling).
+A discards a Province.
+A draws 2 cards.
+A plays a Warehouse.
+A draws 3 cards.
+A gets +1 Action.
+A discards 2 other cards and an Estate.
+A plays a King's Court.
+A plays a Groom.
+A gains an Estate.
+A draws a card.
+A gets +1 Action.
+A plays a Groom again.
+A gains an Estate.
+A draws a card.
+A gets +1 Action.
+A plays a Groom a third time.
+A gains an Estate.
+A draws a card.
+A gets +1 Action.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A discards a Silver.
+A gets +1 Coffers.
+A plays a Warehouse.
+A draws 3 cards.
+A gets +1 Action.
+A discards 2 other cards and an Estate.
+A plays a Scheme.
+A shuffles their deck.
+A draws a card.
+A gets +1 Action.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Plaza.
+A draws a card.
+A gets +2 Actions.
+A plays a Warehouse.
+A draws 3 cards.
+A gets +1 Action.
+A discards 2 other cards and an Estate.
+A uses 2 Coffers. (+$2)
+A plays 3 Silvers. (+$6)
+A buys and gains a Province.
+A topdecks a King's Court.
+A draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Plaza (Hireling).
+J plays a King's Court.
+J plays a Hunting Party.
+J draws a Silver.
+J gets +1 Action.
+J reveals their hand: an Estate, a Silver, a Wandering Minstrel, a Warehouse and a Plaza.
+J reveals a Wandering Minstrel and finally Scheme.
+J puts a Scheme into their hand.
+J discards a Wandering Minstrel.
+J plays a Hunting Party again.
+J draws an Estate.
+J gets +1 Action.
+J reveals their hand: 2 Estates, a Silver, a Wandering Minstrel, a Warehouse, a Plaza and a Scheme.
+J reveals a Silver, an Estate and a Wandering Minstrel and finally Province.
+J puts a Province into their hand.
+J discards a Silver, an Estate and a Wandering Minstrel.
+J plays a Hunting Party a third time.
+J draws a Moneylender.
+J gets +1 Action.
+J reveals their hand: 2 Estates, a Silver, a Wandering Minstrel, a Province, a Warehouse, a Plaza, a Moneylender and a Scheme.
+J reveals a Silver and finally Groom.
+J puts a Groom into their hand.
+J discards a Silver.
+

@@ -1,0 +1,542 @@
+Game #82596757, rated.
+sage221: 36.84
+Jazzercise: 46.47
+
+Kingdom generated with these relative percentages:
+0%: Militia
+
+
+s starts with 7 Coppers.
+s starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+s shuffles their deck.
+s draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - sage221
+s plays 3 Coppers. (+$3)
+s buys and gains a Changeling.
+s draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Fisherman.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - sage221
+s plays 4 Coppers. (+$4)
+s buys and gains a Skulk.
+s gains a Gold.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - sage221
+s plays 4 Coppers and a Gold. (+$7)
+s buys and gains a Hoard.
+s draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Fisherman.
+J draws 4 Coppers and a Silver.
+
+Turn 4 - sage221
+s plays a Skulk.
+s gets +1 Buy.
+s takes Misery.
+J receives Misery.
+J takes Miserable.
+s discards Misery.
+s plays 3 Coppers. (+$3)
+s buys and gains a Pawn.
+s plays a Changeling.
+s trashes a Changeling.
+s gains a Skulk.
+s gains a Gold.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Counterfeit.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Fishermen.
+
+Turn 5 - sage221
+s plays a Copper and a Gold. (+$4)
+s buys and gains a Potion.
+s draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Fisherman.
+J draws a Counterfeit.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Counterfeit.
+J buys and gains a Pawn.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 6 - sage221
+s plays a Skulk.
+s gets +1 Buy.
+s takes Bad Omens.
+J receives Bad Omens.
+J moves their deck to the discard.
+J looks at 2 Estates, 3 Coppers, 2 Counterfeits, a Pawn and 2 Fishermen.
+J topdecks 2 Coppers.
+J looks at 2 Estates, 3 Coppers, 2 Counterfeits, a Pawn and 2 Fishermen.
+s discards Bad Omens.
+s plays 2 Coppers and a Gold. (+$5)
+s buys and gains a Fisherman.
+s draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Counterfeit.
+J shuffles their deck.
+J draws 3 Coppers and 2 Fishermen.
+
+Turn 7 - sage221
+s plays a Pawn.
+s draws a card.
+s gets +$1.
+s plays 4 Coppers and a Hoard. (+$6)
+s buys and gains a Hoard.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Fisherman.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Hoard.
+J draws 2 Estates and 3 Counterfeits.
+
+Turn 8 - sage221
+s plays a Skulk.
+s gets +1 Buy.
+s takes Poverty.
+J receives Poverty.
+J discards 2 Estates.
+s discards Poverty.
+s plays 2 Coppers and a Gold. (+$5)
+s buys and gains a Counterfeit.
+s draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J buys and gains a Duchess.
+J shuffles their deck.
+J draws 3 Coppers, a Pawn and a Counterfeit.
+
+Turn 9 - sage221
+s plays 2 Coppers and a Hoard. (+$4)
+s buys and gains a Talisman.
+s draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Pawn.
+J draws a Silver.
+J gets +$1.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Fisherman.
+J buys and gains a Hoard.
+J draws a Copper, 3 Estates and a Fisherman.
+
+Turn 10 - sage221
+s plays a Pawn.
+s gets +1 Buy.
+s gets +$1.
+s plays 2 Coppers and a Gold. (+$5)
+s plays a Potion.
+s buys and gains a Golem.
+s buys and gains a Pawn.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J draws a Copper, a Hoard, a Duchess, a Counterfeit and a Fisherman.
+
+Turn 11 - sage221
+s plays a Fisherman.
+s draws a card.
+s gets +1 Action.
+s gets +$1.
+s plays a Skulk.
+s gets +1 Buy.
+s takes Greed.
+J receives Greed.
+J gains a Copper.
+s discards Greed.
+s plays 2 Coppers, a Gold and a Hoard. (+$7)
+s buys a Province.
+s gains a Gold.
+s gains a Province.
+s draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Duchess.
+J gets +$2.
+J looks at a Counterfeit.
+J topdecks a Counterfeit.
+s looks at a card.
+s topdecks a card.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Hoard. (+$2)
+J buys a Province.
+J gains a Gold.
+J gains a Province.
+J shuffles their deck.
+J draws a Copper, a Province, a Counterfeit and 2 Fishermen.
+
+Turn 12 - sage221
+s plays a Golem.
+s reveals a Skulk, 4 Coppers, an Estate, a Counterfeit and a Pawn.
+s discards 4 Coppers, an Estate and a Counterfeit.
+s plays a Skulk.
+s gets +1 Buy.
+s takes Plague.
+J receives Plague.
+J gains a Curse.
+s discards Plague.
+s plays a Pawn.
+s draws a card.
+s gets +1 Action.
+s plays a Pawn.
+s draws a card.
+s gets +$1.
+s plays a Copper and a Gold. (+$4)
+s plays a Potion.
+s plays a Hoard. (+$2)
+s buys and gains a Golem.
+s buys and gains a Pawn.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Fisherman.
+J draws an Estate.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Copper. (+$1)
+J buys and gains a Fisherman.
+J buys and gains a Duchess.
+J draws a Copper, a Silver, a Duchess, a Counterfeit and a Fisherman.
+
+Turn 13 - sage221
+s plays a Pawn.
+s draws a card.
+s gets +1 Action.
+s plays a Golem.
+s reveals 2 Coppers, a Counterfeit, a Fisherman, a Golem, a Pawn and a Hoard.
+s discards 2 Coppers, a Golem, a Hoard and a Counterfeit.
+s plays a Fisherman.
+s draws a card.
+s gets +1 Action.
+s gets +$1.
+s plays a Pawn.
+s draws a card.
+s gets +$1.
+s plays a Skulk.
+s gets +1 Buy.
+s takes Locusts.
+J receives Locusts.
+J trashes a Counterfeit.
+J gains a Talisman.
+J returns a Talisman.
+J receives a Changeling.
+s discards Locusts.
+s plays a Talisman and a Gold. (+$4)
+s buys and gains a Fisherman.
+s draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Duchess.
+J gets +$2.
+J looks at a Silver.
+J topdecks a Silver.
+s looks at a card.
+s topdecks a card.
+J plays a Copper. (+$1)
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J plays a Silver. (+$2)
+J buys and gains a Province.
+J draws a Copper, a Silver, an Estate and 2 Hoards.
+
+Turn 14 - sage221
+s plays 2 Coppers, a Gold and a Hoard. (+$7)
+s plays a Potion.
+s buys and gains a Golem.
+s draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Copper, a Silver and 2 Hoards. (+$7)
+J buys a Duchy.
+J gains a Gold.
+J returns a Gold.
+J receives a Changeling.
+J gains a Gold.
+J returns a Gold.
+J receives a Changeling.
+J gains a Duchy.
+J gains a Duchess.
+J shuffles their deck.
+J draws a Copper, a Gold, an Estate, a Province and a Pawn.
+
+Turn 15 - sage221
+s plays a Pawn.
+s draws a card.
+s gets +1 Action.
+s plays a Skulk.
+s gets +1 Buy.
+s takes Haunting.
+J receives Haunting.
+J topdecks a Pawn.
+s discards Haunting.
+s plays 2 Coppers and a Gold. (+$5)
+s buys and gains a Counterfeit.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Fisherman.
+J draws a Copper, a Pawn, a Duchess, a Counterfeit and a Changeling.
+
+Turn 16 - sage221
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Gold. (+$3)
+s plays a Gold again. (+$3)
+s trashes a Gold.
+s plays 2 Coppers. (+$2)
+s buys and gains a Province.
+s draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Pawn.
+J draws an Estate.
+J gets +1 Action.
+J plays a Duchess.
+J gets +$2.
+J looks at a Duchess.
+J topdecks a Duchess.
+s looks at a card.
+s discards a Copper.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Copper. (+$1)
+J plays a Copper again. (+$1)
+J trashes a Copper.
+J buys and gains a Duchy.
+J gains a Duchess.
+J plays a Changeling.
+J trashes a Changeling.
+J gains a Counterfeit.
+J draws a Curse, an Estate, a Hoard, a Duchess and a Fisherman.
+
+Turn 17 - sage221
+s plays a Skulk.
+s gets +1 Buy.
+s takes Delusion.
+J receives Delusion.
+J takes Deluded.
+s discards Delusion.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Gold. (+$3)
+s plays a Gold again. (+$3)
+s trashes a Gold.
+s plays a Copper. (+$1)
+s buys and gains a Province.
+s draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Fisherman.
+J draws a Duchy.
+J gets +1 Action.
+J gets +$1.
+J plays a Duchess.
+J gets +$2.
+J looks at a Fisherman.
+J topdecks a Fisherman.
+s looks at a card.
+s topdecks a card.
+J returns Deluded.
+J plays a Hoard. (+$2)
+J buys and gains a Counterfeit.
+J draws a Province, a Hoard and 3 Fishermen.
+
+Turn 18 - sage221
+s plays a Fisherman.
+s draws a card.
+s gets +1 Action.
+s gets +$1.
+s plays a Pawn.
+s gets +1 Action.
+s gets +$1.
+s plays a Golem.
+s reveals 2 Pawns.
+s plays a Pawn.
+s draws a card.
+s gets +1 Action.
+s plays a Pawn.
+s draws a card.
+s gets +$1.
+s plays a Skulk.
+s gets +1 Buy.
+s takes Fear.
+J receives Fear.
+J discards a Fisherman.
+s discards Fear.
+s plays 2 Coppers, a Talisman and a Hoard. (+$5)
+s buys a Province.
+s gains a Gold.
+s gains a Province.
+s draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Fisherman.
+J draws a Changeling.
+J gets +1 Action.
+J gets +$1.
+J plays a Fisherman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays a Copper and a Hoard. (+$3)
+J buys a Duchy.
+J gains a Gold.
+J gains a Duchy.
+J plays a Changeling.
+J trashes a Changeling.
+J gains a Fisherman.
+J draws 2 Silvers, a Duchess, a Counterfeit and a Changeling.
+
+Turn 19 - sage221
+s plays a Golem.
+s reveals a Copper, an Estate, a Potion and a Fisherman.
+s shuffles their deck.
+s reveals a Skulk, 2 Coppers, a Counterfeit and a Gold.
+s discards 3 Coppers, a Gold, an Estate, a Potion and a Counterfeit.
+s plays a Fisherman.
+s draws a card.
+s gets +1 Action.
+s gets +$1.
+s plays a Skulk.
+s gets +1 Buy.
+s takes Famine.
+J receives Famine.
+J shuffles their deck.
+J reveals a Counterfeit, a Fisherman and a Duchess.
+J discards a Duchess and a Fisherman.
+J shuffles their deck.
+J shuffles a Counterfeit into their deck.
+s discards Famine.
+s plays a Pawn.
+s gets +1 Action.
+s gets +$1.
+s plays a Golem.
+s reveals a Copper, a Pawn and a Fisherman.
+s discards a Copper.
+s plays a Pawn.
+s gets +1 Action.
+s gets +$1.
+s plays a Fisherman.
+s draws a card.
+s gets +1 Action.
+s gets +$1.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Gold. (+$3)
+s plays a Gold again. (+$3)
+s trashes a Gold.
+s plays a Hoard. (+$2)
+s buys a Province.
+s gains a Gold.
+s gains a Province.
+s buys a Duchy.
+s gains a Gold.
+s gains a Duchy.
+s gains a Duchess.
+s draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Duchess.
+J gets +$2.
+J looks at a Copper.
+J discards a Copper.
+s looks at a card.
+s topdecks a card.
+J plays a Counterfeit. (+$1)
+J gets +1 Buy.
+J plays a Silver. (+$2)
+J plays a Silver again. (+$2)
+J trashes a Silver.
+J plays a Silver. (+$2)
+J buys and gains a Province.
+J draws a Curse, an Estate, a Province and 2 Duchesses.
+

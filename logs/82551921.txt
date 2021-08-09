@@ -1,0 +1,378 @@
+Game #82551921, rated.
+dai.akahira: 43.29
+Jazzercise: 46.21
+
+
+d starts with 7 Coppers.
+d starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+d shuffles their deck.
+d draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - dai.akahira
+d plays 4 Coppers. (+$4)
+d buys and gains a Bridge.
+d draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Doctor.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - dai.akahira
+d plays 3 Coppers. (+$3)
+d buys and gains a Doctor.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys a Doctor.
+J loses 1 Coin.
+J shuffles their deck.
+J looks at a Copper.
+J trashes a Copper.
+J gains a Doctor.
+J draws 2 Coppers, 2 Estates and a Doctor.
+
+Turn 3 - dai.akahira
+d plays a Doctor.
+d names Estate.
+d reveals a Bridge and 2 Coppers.
+d topdecks 2 Coppers and a Bridge.
+d plays 3 Coppers. (+$3)
+d buys and gains a Village.
+d draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Doctor.
+J names Estate.
+J shuffles their deck.
+J reveals 2 Coppers and an Estate.
+J trashes an Estate.
+J topdecks 2 Coppers.
+J plays 2 Coppers. (+$2)
+J draws 4 Coppers and a Doctor.
+
+Turn 4 - dai.akahira
+d plays a Bridge.
+d gets +1 Buy.
+d gets +$1.
+d plays 3 Coppers. (+$3)
+d buys and gains a Barge.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Doctor.
+J names Estate.
+J shuffles their deck.
+J reveals a Copper, a Doctor and an Estate.
+J trashes an Estate.
+J topdecks a Copper and a Doctor.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, an Estate and 2 Doctors.
+
+Turn 5 - dai.akahira
+d plays a Doctor.
+d names Copper.
+d reveals a Copper, an Estate and a Village.
+d trashes a Copper.
+d topdecks an Estate and a Village.
+d plays 2 Coppers. (+$2)
+d buys and gains a Ducat.
+d draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Doctor.
+J names Copper.
+J reveals a Silver and 2 Coppers.
+J trashes 2 Coppers.
+J topdecks a Silver.
+J plays 2 Coppers. (+$2)
+J buys and gains a Ducat.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Doctor.
+
+Turn 6 - dai.akahira
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays 4 Coppers. (+$4)
+d buys and gains a Bridge.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Doctor.
+J names Estate.
+J reveals a Copper, a Doctor and an Estate.
+J trashes an Estate.
+J topdecks a Copper and a Doctor.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Quarry.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Doctor and a Ducat.
+
+Turn 7 - dai.akahira
+d plays a Barge.
+d plays a Copper. (+$1)
+d draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Doctor.
+J names Copper.
+J reveals a Quarry and 2 Coppers.
+J trashes 2 Coppers.
+J topdecks a Quarry.
+J plays a Silver and 2 Coppers. (+$4)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J buys and gains a Bridge.
+J shuffles their deck.
+J draws a Silver, a Bridge, a Quarry, a Doctor and a Ducat.
+
+Turn 8 - dai.akahira
+d starts their turn.
+d draws 3 cards.
+d gets +1 Buy.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Doctor.
+d names Copper.
+d shuffles their deck.
+d reveals a Bridge, a Copper and an Estate.
+d trashes a Copper.
+d topdecks an Estate and a Bridge.
+d plays 4 Coppers. (+$4)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d buys and gains a Village.
+d shuffles their deck.
+d draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Doctor.
+J names Copper.
+J reveals 2 Coppers and a Doctor.
+J trashes 2 Coppers.
+J topdecks a Doctor.
+J plays a Silver. (+$2)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J plays a Quarry. (+$1)
+J uses 1 Coffers. (+$1)
+J buys and gains a Village.
+J buys and gains a Barge.
+J shuffles their deck.
+J draws a Silver, a Village, a Bridge, a Doctor and a Ducat.
+
+Turn 9 - dai.akahira
+d plays a Bridge.
+d gets +1 Buy.
+d gets +$1.
+d plays a Copper. (+$1)
+d buys and gains a Village.
+d draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Village.
+J draws a Doctor.
+J gets +2 Actions.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Doctor using Way of the Worm.
+J exiles an Estate.
+J plays a Silver. (+$2)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J uses 1 Coffers. (+$1)
+J buys and gains 2 Villages.
+J shuffles their deck.
+J draws a Silver, a Bridge, a Quarry, a Doctor and a Barge.
+
+Turn 10 - dai.akahira
+d plays a Barge.
+d plays 3 Coppers. (+$3)
+d buys and gains a Village.
+d draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Quarry and a Silver. (+$3)
+J buys and gains 2 Villages.
+J draws 3 Villages, a Doctor and a Ducat.
+
+Turn 11 - dai.akahira
+d starts their turn.
+d shuffles their deck.
+d draws 3 cards.
+d gets +1 Buy.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Bridge.
+d gets +1 Buy.
+d gets +$1.
+d plays a Village using Way of the Worm.
+d exiles an Estate.
+d plays 3 Coppers. (+$3)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d uses 2 Coffers. (+$2)
+d buys and gains a Village.
+d buys and gains a Barge.
+d draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Village.
+J shuffles their deck.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J draws a Quarry.
+J gets +2 Actions.
+J plays a Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Village.
+J draws a Barge.
+J gets +2 Actions.
+J plays a Doctor.
+J names Doctor.
+J reveals a Bridge and a Doctor.
+J trashes a Doctor.
+J topdecks a Bridge.
+J plays a Barge.
+J draws a Bridge.
+J gets +1 Buy.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Silver. (+$2)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J plays a Quarry. (+$1)
+J buys and gains 3 Bridges.
+J shuffles their deck.
+J draws a Silver, a Village, a Bridge, a Quarry and a Ducat.
+
+Turn 12 - dai.akahira
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Doctor.
+d names Estate.
+d shuffles their deck.
+d reveals a Ducat and 2 Villages.
+d topdecks 2 Villages and a Ducat.
+d plays a Bridge.
+d gets +1 Buy.
+d gets +$1.
+d plays 2 Coppers. (+$2)
+d buys and gains a Bridge.
+d draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Village.
+J draws a Bridge.
+J gets +2 Actions.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Silver. (+$2)
+J plays a Ducat.
+J gets +1 Coffers.
+J gets +1 Buy.
+J plays a Quarry. (+$1)
+J uses 2 Coffers. (+$2)
+J buys and gains a Barge.
+J buys and gains a Province.
+J draws 3 Villages and 2 Bridges.
+
+Turn 13 - dai.akahira
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Village.
+d draws a card.
+d gets +2 Actions.
+d plays a Village using Way of the Worm.
+d exiles an Estate.
+d plays a Bridge.
+d gets +1 Buy.
+d gets +$1.
+d plays a Copper. (+$1)
+d plays a Ducat.
+d gets +1 Coffers.
+d gets +1 Buy.
+d uses 1 Coffers. (+$1)
+d buys and gains a Bridge.
+d draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Village.
+J draws a Doctor.
+J gets +2 Actions.
+J plays a Village.
+J draws a Barge.
+J gets +2 Actions.
+J plays a Village.
+J draws a Village.
+J gets +2 Actions.
+J plays a Village.
+J shuffles their deck.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Barge.
+J draws a Village, a Bridge and a Quarry.
+J gets +1 Buy.
+J plays a Village.
+J draws a Bridge.
+J gets +2 Actions.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Bridge.
+J gets +1 Buy.
+J gets +$1.
+J plays a Doctor using Way of the Worm.
+J exiles an Estate.
+J plays a Quarry and a Silver. (+$3)
+J uses 1 Coffers. (+$1)
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws a Province, 2 Villages, a Ducat and a Barge.
+
+Turn 14 - dai.akahira
+

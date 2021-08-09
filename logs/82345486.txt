@@ -1,0 +1,858 @@
+Game #82345486, rated.
+Stubsdich: 49.5
+Jazzercise: 45.97
+
+Kingdom generated with these relative percentages:
+0%: Possession, Rebuild, Masquerade and Swindler
+
+
+S starts with 7 Coppers.
+S starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+S shuffles their deck.
+S draws 5 cards.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 1 - Stubsdich
+S plays 3 Coppers. (+$3)
+S buys and gains a Fishing Village.
+S draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Livery.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - Stubsdich
+S plays 4 Coppers. (+$4)
+S buys and gains a Potion.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Coin of the Realm.
+J shuffles their deck.
+J draws 3 Coppers, a Coin of the Realm and a Livery.
+
+Turn 3 - Stubsdich
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays 3 Coppers. (+$3)
+S buys and gains a Fishing Village.
+S draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Livery.
+J gets +$3.
+J plays 3 Coppers. (+$3)
+J plays a Coin of the Realm. (+$1)
+J puts a Coin of the Realm on their Tavern mat.
+J buys and gains a Groom.
+J gains a Horse.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S plays a Copper. (+$1)
+S plays a Potion.
+S buys and gains an Apothecary.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Fishing Village.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Fishing Village.
+
+Turn 5 - Stubsdich
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Copper. (+$1)
+S buys and gains a Fishing Village.
+S draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J draws 3 Coppers, an Estate and a Horse.
+
+Turn 6 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S gets +1 Action.
+S gets +$1.
+S plays 5 Coppers. (+$5)
+S buys and gains a Displace.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Horse.
+J draws a Groom and a Livery.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Livery.
+J gets +$3.
+J plays a Groom.
+J gains a Conclave.
+J gains a Horse.
+J gains a Horse.
+J plays 3 Coppers. (+$3)
+J buys and gains a Displace.
+J gains a Horse.
+J shuffles their deck.
+J draws 4 Coppers and a Horse.
+
+Turn 7 - Stubsdich
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals 2 Coppers, a Displace and a Fishing Village.
+S puts 2 Coppers into their hand.
+S topdecks a Fishing Village and a Displace.
+S plays 4 Coppers. (+$4)
+S plays a Potion.
+S buys and gains an Apothecary.
+S draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Displace.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Displace.
+J exiles a Copper.
+J gains a Coin of the Realm.
+J plays 4 Coppers. (+$4)
+J buys and gains a Conclave.
+J draws 2 Coppers, 2 Estates and a Groom.
+
+Turn 8 - Stubsdich
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Displace.
+S exiles an Estate.
+S gains a Conclave.
+S plays a Copper. (+$1)
+S buys and gains a Fishing Village.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Groom.
+J gains a Conclave.
+J gains a Horse.
+J draws a Silver, a Fishing Village, a Conclave, a Livery and a Horse.
+
+Turn 9 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S gets +1 Action.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays 3 Coppers. (+$3)
+S buys and gains a Livery.
+S draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Conclave.
+J gets +$2.
+J plays a Horse.
+J draws an Estate and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J gets +1 Action.
+J plays a Horse.
+J shuffles their deck.
+J draws a Copper and a Displace.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Displace.
+J exiles an Estate.
+J gains a Trade Route.
+J plays a Livery.
+J gets +$3.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Platinum.
+J gains a Horse.
+J draws 2 Coppers, an Estate, a Conclave and a Horse.
+
+Turn 10 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Conclave using Way of the Seal.
+S gets +$1.
+S plays 3 Coppers. (+$3)
+S buys and gains a Livery.
+S topdecks a Livery with Way of the Seal.
+S draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Conclave.
+J gets +$2.
+J plays a Horse.
+J draws an Estate and a Groom.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J gets +1 Action.
+J plays a Groom.
+J gains a Trade Route.
+J gains a Horse.
+J plays 2 Coppers. (+$2)
+J buys and gains a Livery.
+J draws 3 Coppers, a Coin of the Realm and a Conclave.
+
+Turn 11 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S shuffles their deck.
+S reveals 2 Coppers, a Potion and an Estate.
+S puts 2 Coppers and a Potion into their hand.
+S topdecks an Estate.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals 3 Coppers and a Fishing Village.
+S puts 3 Coppers into their hand.
+S topdecks a Fishing Village.
+S plays a Livery.
+S gets +$3.
+S plays a Displace.
+S exiles an Estate.
+S gains a Trade Route.
+S plays 6 Coppers. (+$6)
+S plays a Potion.
+S buys and gains a Livery.
+S gains a Horse.
+S draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J plays a Coin of the Realm. (+$1)
+J puts a Coin of the Realm on their Tavern mat.
+J buys and gains a Livery.
+J shuffles their deck.
+J draws a Copper, an Estate, a Fishing Village, a Conclave and a Livery.
+
+Turn 12 - Stubsdich
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Conclave.
+S gets +$2.
+S plays a Livery.
+S gets +$3.
+S gets +1 Action.
+S plays a Copper. (+$1)
+S buys and gains a Livery.
+S gains a Horse.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Livery.
+J gets +$3.
+J gets +1 Action.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Copper. (+$1)
+J buys and gains a Trade Route.
+J draws a Silver, an Estate, 2 Conclaves and a Livery.
+
+Turn 13 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S gets +1 Action.
+S gets +$1.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals 2 Coppers, a Livery and an Estate.
+S puts 2 Coppers into their hand.
+S topdecks an Estate and a Livery.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays a Trade Route.
+S gets +1 Buy.
+S trashes a Copper.
+S plays 3 Coppers. (+$3)
+S buys and gains a Livery.
+S gains 2 Horses.
+S buys and gains a Livery.
+S gains 2 Horses.
+S draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Conclave.
+J gets +$2.
+J plays a Livery.
+J gets +$3.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys and gains a Platinum.
+J gains a Horse.
+J draws 2 Coppers, a Platinum, a Trade Route and a Horse.
+
+Turn 14 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Conclave.
+S gets +$2.
+S plays a Livery.
+S gets +$3.
+S gets +1 Action.
+S plays a Livery.
+S gets +$3.
+S plays a Copper. (+$1)
+S buys and gains a Livery.
+S gains 2 Horses.
+S draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Groom.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Groom.
+J gains a Conclave.
+J gains a Horse.
+J calls a Coin of the Realm.
+J gets +2 Actions.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Copper.
+J plays 2 Coppers and a Platinum. (+$7)
+J buys and gains a Fishing Village.
+J buys and gains a Conclave.
+J draws 2 Coppers, a Trade Route, a Displace and a Horse.
+
+Turn 15 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S plays an Apothecary.
+S shuffles their deck.
+S draws a card.
+S gets +1 Action.
+S reveals 2 Coppers, a Livery and a Horse.
+S puts 2 Coppers into their hand.
+S topdecks a Livery and a Horse.
+S plays a Livery.
+S gets +$3.
+S plays a Displace.
+S exiles a Copper.
+S gains a Coin of the Realm.
+S plays 3 Coppers. (+$3)
+S plays a Potion.
+S buys and gains an Apothecary.
+S draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Horse.
+J shuffles their deck.
+J draws a Coin of the Realm and a Livery.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J calls a Coin of the Realm.
+J gets +2 Actions.
+J plays a Livery.
+J gets +$3.
+J plays a Displace.
+J exiles a Copper.
+J gains an Estate.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Copper.
+J gets +$1.
+J plays a Coin of the Realm. (+$1)
+J puts a Coin of the Realm on their Tavern mat.
+J buys and gains a Displace.
+J gains a Horse.
+J draws a Copper, a Trade Route, a Conclave, a Livery and a Horse.
+
+Turn 16 - Stubsdich
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Conclave.
+S gets +$2.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S gets +1 Action.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays 2 Coppers. (+$2)
+S buys and gains a Colony.
+S gains 4 Horses.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Livery.
+J gets +$3.
+J gets +1 Action.
+J plays a Horse.
+J draws a Copper and a Platinum.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Copper.
+J gets +$2.
+J plays a Copper and a Platinum. (+$6)
+J buys and gains a Trade Route.
+J buys and gains a Platinum.
+J gains a Horse.
+J draws a Silver, an Estate, a Fishing Village, a Groom and a Livery.
+
+Turn 17 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S gets +1 Action.
+S gets +$1.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals a Coin of the Realm, 2 Liveries and a Horse.
+S topdecks a Coin of the Realm, 2 Liveries and a Horse.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Trade Route.
+S gets +1 Buy.
+S trashes a Copper.
+S gets +$2.
+S plays a Livery.
+S gets +$3.
+S buys and gains a Displace.
+S gains a Horse.
+S draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Livery.
+J gets +$3.
+J plays a Groom.
+J gains a Conclave.
+J gains a Horse.
+J gains a Horse.
+J plays a Silver. (+$2)
+J buys and gains a Displace.
+J gains a Horse.
+J draws an Estate, a Fishing Village, a Trade Route and 2 Conclaves.
+
+Turn 18 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays a Copper. (+$1)
+S plays a Coin of the Realm. (+$1)
+S puts a Coin of the Realm on their Tavern mat.
+S buys and gains a Province.
+S gains 2 Horses.
+S draws 5 cards.
+
+Turn 18 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Conclave.
+J gets +$2.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes an Estate.
+J gets +$3.
+J gets +1 Action.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Conclave.
+J gets +$2.
+J buys and gains a Platinum.
+J draws a Copper, a Platinum, 2 Conclaves and a Horse.
+
+Turn 19 - Stubsdich
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals a Copper, 2 Horses and a Fishing Village.
+S puts a Copper into their hand.
+S topdecks a Fishing Village and 2 Horses.
+S plays a Conclave.
+S gets +$2.
+S plays a Livery.
+S gets +$3.
+S gets +1 Action.
+S plays 2 Coppers. (+$2)
+S plays a Potion.
+S buys and gains an Apothecary.
+S draws 5 cards.
+
+Turn 19 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Conclave.
+J gets +$2.
+J plays a Horse.
+J shuffles their deck.
+J draws a Coin of the Realm and a Displace.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J plays a Displace.
+J exiles a Copper.
+J gains a Coin of the Realm.
+J gets +1 Action.
+J plays a Platinum. (+$5)
+J plays a Coin of the Realm. (+$1)
+J puts a Coin of the Realm on their Tavern mat.
+J buys and gains a Colony.
+J draws 2 Estates, a Trade Route, a Conclave and a Displace.
+
+Turn 20 - Stubsdich
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S shuffles their deck.
+S reveals a Copper, a Livery, a Conclave and an Apothecary.
+S puts a Copper into their hand.
+S topdecks an Apothecary, a Conclave and a Livery.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals a Copper, a Livery, a Province and an Estate.
+S puts a Copper into their hand.
+S topdecks an Estate, a Province and a Livery.
+S plays a Conclave.
+S gets +$2.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S gets +1 Action.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S calls a Coin of the Realm.
+S gets +2 Actions.
+S plays a Displace.
+S exiles a Province.
+S gains a Trade Route.
+S plays 3 Coppers. (+$3)
+S buys and gains a Colony.
+S gains 3 Horses.
+S draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Displace.
+J exiles an Estate.
+J gains a Conclave.
+J gets +1 Action.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes an Estate.
+J gets +$3.
+J buys and gains a Duchy.
+J draws a Platinum, 2 Conclaves and 2 Liveries.
+
+Turn 21 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals a Livery, a Horse, a Fishing Village and an Apothecary.
+S topdecks a Fishing Village, an Apothecary, a Livery and a Horse.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays an Apothecary.
+S draws a card.
+S gets +1 Action.
+S reveals a Copper, a Livery, a Displace and a Fishing Village.
+S puts a Copper into their hand.
+S topdecks a Fishing Village, a Displace and a Livery.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Livery.
+S gets +$3.
+S plays a Displace.
+S exiles a Colony.
+S gains a Province.
+S gains a Horse.
+S plays a Copper. (+$1)
+S plays a Potion.
+S buys and gains a Trade Route.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays a Conclave.
+J gets +$2.
+J plays a Livery.
+J gets +$3.
+J gets +1 Action.
+J plays a Conclave.
+J gets +$2.
+J calls a Coin of the Realm.
+J gets +2 Actions.
+J plays a Livery.
+J gets +$3.
+J plays a Platinum. (+$5)
+J buys and gains a Colony.
+J gains 2 Horses.
+J draws a Silver, a Platinum, a Trade Route, a Groom and a Horse.
+
+Turn 22 - Stubsdich
+S starts their turn.
+S gets +1 Action.
+S gets +$1.
+S gets +1 Action.
+S gets +$1.
+S gets +1 Action.
+S gets +$1.
+S plays a Horse.
+S draws 2 cards.
+S gets +1 Action.
+S returns a Horse to the Horse pile.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays a Livery.
+S gets +$3.
+S plays a Displace.
+S exiles a Trade Route.
+S gains a Conclave.
+S gains 3 Horses.
+S buys and gains a Colony.
+S gains 3 Horses.
+S draws 5 cards.
+
+Turn 22 - Jazzercise
+J plays a Horse.
+J draws a Fishing Village and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Fishing Village.
+J gets +2 Actions.
+J gets +$1.
+J plays a Horse.
+J draws a Platinum and a Conclave.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Conclave.
+J gets +$2.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Groom.
+J gets +$4.
+J gets +1 Action.
+J plays 2 Platina and a Silver. (+$12)
+J buys and gains a Colony.
+J buys and gains a Province.
+J draws a Copper, 2 Trade Routes, a Displace and a Horse.
+
+Turn 23 - Stubsdich
+S plays a Fishing Village.
+S gets +2 Actions.
+S gets +$1.
+S plays a Conclave.
+S gets +$2.
+S plays 2 Coppers. (+$2)
+S plays a Coin of the Realm. (+$1)
+S puts a Coin of the Realm on their Tavern mat.
+S buys and gains a Conclave.
+S draws 5 cards.
+
+Turn 23 - Jazzercise
+J starts their turn.
+J gets +1 Action.
+J gets +$1.
+J plays a Horse.
+J draws a Livery and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J shuffles their deck.
+J draws a Livery and a Horse.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Platinum and a Conclave.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Conclave.
+J gets +$2.
+J plays a Livery.
+J gets +$3.
+J gets +1 Action.
+J calls a Coin of the Realm.
+J gets +2 Actions.
+J plays a Livery.
+J gets +$3.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Copper.
+J gets +$4.
+J plays a Trade Route.
+J gets +1 Buy.
+J trashes a Displace.
+J gets +$4.
+J plays a Platinum. (+$5)
+J buys and gains a Colony.
+J gains 2 Horses.
+J buys and gains a Colony.
+J gains 2 Horses.
+J draws a Duchy, a Fishing Village, a Trade Route, a Displace and a Livery.
+

@@ -1,0 +1,117 @@
+Game #82361644, rated.
+Jazzercise: 45.98
+richmeyer1: 45.59
+
+
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+r starts with 7 Coppers.
+r starts with a Hovel, a Necropolis and an Overgrown Estate.
+J shuffles their deck.
+J draws 2 Coppers, a Hovel, a Necropolis and an Overgrown Estate.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J buys and gains a Sleigh.
+J draws 5 Coppers.
+
+Turn 1 - richmeyer1
+r plays 4 Coppers. (+$4)
+r buys and gains a Tournament.
+r draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Church.
+J shuffles their deck.
+J draws 3 Coppers, a Church and a Sleigh.
+
+Turn 2 - richmeyer1
+r plays a Necropolis using Way of the Camel.
+r exiles a Gold.
+r plays 3 Coppers. (+$3)
+r buys and gains a Silver.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Church.
+J gets +1 Action.
+J sets nothing aside with Church.
+J plays a Sleigh.
+J gains 2 Horses.
+J plays 3 Coppers. (+$3)
+J buys and gains a Church.
+J draws 4 Coppers and an Overgrown Estate.
+
+Turn 3 - richmeyer1
+r plays 4 Coppers and a Silver. (+$6)
+r buys and gains a Gold.
+r discards a Gold from Exile.
+r draws 5 cards.
+
+Turn 4 - Jazzercise
+J starts their turn.
+J trashes an Overgrown Estate.
+J draws a Necropolis.
+J plays a Necropolis using Way of the Camel.
+J exiles a Gold.
+J plays 4 Coppers. (+$4)
+J buys and gains a Storeroom.
+J shuffles their deck.
+J draws 3 Coppers, a Hovel and a Sleigh.
+
+Turn 4 - richmeyer1
+r plays a Tournament.
+r gets +1 Action.
+r draws a card.
+r gets +$1.
+r plays a Necropolis using Way of the Camel.
+r exiles a Gold.
+r plays 3 Coppers. (+$3)
+r buys and gains a Tournament.
+r shuffles their deck.
+r draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Sleigh.
+J gains 2 Horses.
+J plays 3 Coppers. (+$3)
+J buys and gains a Church.
+J draws 2 Coppers, a Necropolis, a Church and a Horse.
+
+Turn 5 - richmeyer1
+r plays a Tournament using Way of the Camel.
+r exiles a Gold.
+r plays 2 Coppers. (+$2)
+r buys and gains a Sleigh.
+r draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Horse.
+J draws a Copper and a Storeroom.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Church.
+J gets +1 Action.
+J sets a Necropolis aside with Church.
+J plays a Storeroom.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J buys and gains a Dungeon.
+J shuffles their deck.
+J draws 2 Coppers, a Church and 2 Horses.
+
+Turn 6 - richmeyer1
+r plays a Necropolis using Way of the Camel.
+r exiles a Gold.
+r plays 2 Coppers and a Gold. (+$5)
+r buys and gains a Coven.
+r draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J puts a Necropolis in hand (Church).
+

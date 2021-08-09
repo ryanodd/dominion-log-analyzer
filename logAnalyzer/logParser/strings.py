@@ -4,7 +4,7 @@ r_capitalizedWord = re.compile
 r_number = re.compile('[0-9]+')
 r_endsWithPeriod = re.compile('[^ ]*\.')
 
-r_playerLetter = re.compile('[a-zA-Z]')
+r_playerLetter = re.compile('[a-zA-Z]+')
 r_gameNum = re.compile('\#[0-9]*\,')
 r_moneyIndicator = re.compile('\(\+\$[0-9]+\)')
 
@@ -28,6 +28,8 @@ s_receives = 'receives'
 s_returns = 'returns'
 s_sets = 'sets'
 s_puts = 'puts'
+s_calls = 'calls'
+s_Draw = 'Draw'
 
 s_card = 'card'
 s_cards = 'cards'
@@ -36,6 +38,7 @@ s_Pile = 'Pile'
 s_mat = 'mat'
 s_trash = 'trash'
 s_hand = 'hand'
+s_nothing = 'nothing'
 
 s_their = 'their'
 s_and = 'and'
@@ -46,10 +49,13 @@ s_to = 'to'
 s_the = 'the'
 s_with = 'with'
 s_on = 'on'
+s_of = 'of'
 s_aside = 'aside'
 s_onto = 'onto'
 s_into = 'into'
 s_back = 'back'
+s_top = 'top'
+s_bottom = 'bottom'
 
 s_hyphen = '-'
 
@@ -60,7 +66,14 @@ s_Native = 'Native'
 s_Village = 'Village'
 s_Island = 'Island'
 s_Druid = 'Druid'
+s_Sir = 'Sir'
+s_Dame = 'Dame'
 s_CryptBrackets = '(Crypt)'
+s_CathedralBrackets = '(Cathedral)'
+s_SewersBrackets = '(Sewers)'
+s_HavenBrackets = '(Haven)'
+s_ChurchBrackets = '(Church)'
+s_GearBrackets = '(Gear)'
 s_CargoLeftBracket = '(Cargo'
 s_ShipRightBracket = 'Ship)'
 s_minus_Coin = '-Coin'

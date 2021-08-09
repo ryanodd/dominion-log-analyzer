@@ -1,0 +1,108 @@
+Game #82365105, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Shanty Town.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Shanty Town.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Shanty Town.
+J gets +2 Actions.
+J reveals their hand: 2 Coppers, a Silver and an Estate.
+J draws 2 Coppers.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Horn of Plenty.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains an Idol.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Horn of Plenty.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Shanty Town and a Horn of Plenty.
+
+Turn 6 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains an Idol.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Shanty Town.
+J gets +2 Actions.
+J reveals their hand: a Copper, a Silver, an Estate and a Horn of Plenty.
+J draws a Copper and an Estate.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Horn of Plenty.
+J gains a Shanty Town.
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Silvers and a Horn of Plenty.
+
+Turn 7 - Lord Rattington
+L plays a Copper and a Silver. (+$3)
+L plays an Idol. (+$2)
+L takes The Field's Gift.
+L receives The Field's Gift.
+L gets +1 Action.
+L plays a Silver. (+$2)
+L buys and gains a Bank.
+L discards The Field's Gift.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J plays a Horn of Plenty.
+

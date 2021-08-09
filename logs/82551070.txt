@@ -1,0 +1,695 @@
+Game #82551070, rated.
+Kbizzle8: 41.42
+Jazzercise: 46.45
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+K starts with 7 Coppers.
+K starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+K shuffles their deck.
+K draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Kbizzle8
+K plays 3 Coppers. (+$3)
+K buys and gains a Silver.
+K draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Kbizzle8
+K plays 4 Coppers. (+$4)
+K buys Sinister Plot.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Ironworks.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - Kbizzle8
+K starts their turn.
+K plays 4 Coppers. (+$4)
+K buys and gains an Ironworks.
+K draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 4 - Kbizzle8
+K starts their turn.
+K plays 3 Coppers. (+$3)
+K buys and gains a Silver.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Relic.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and an Ironworks.
+
+Turn 5 - Kbizzle8
+K starts their turn.
+K plays an Ironworks.
+K gains a Cavalry.
+K draws 2 cards.
+K gets +1 Buy.
+K gets +1 Action.
+K plays 4 Coppers and a Silver. (+$6)
+K buys and gains a Vagrant.
+K buys and gains a Fortress.
+K draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Vagrant.
+J draws 4 Coppers and a Silver.
+
+Turn 6 - Kbizzle8
+K starts their turn.
+K shuffles their deck.
+K draws 3 cards (Sinister Plot).
+K plays a Cavalry.
+K gains 2 Horses.
+K plays 4 Coppers and a Silver. (+$6)
+K buys and gains a Gold.
+K draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Cursed Village.
+J takes Delusion.
+J receives Delusion.
+J takes Deluded.
+J discards Delusion.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Relic.
+
+Turn 7 - Kbizzle8
+K starts their turn.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Silver.
+K topdecks a Silver.
+K plays an Ironworks.
+K gains an Ironworks.
+K gets +1 Action.
+K plays 3 Coppers. (+$3)
+K buys and gains a Vagrant.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 7 - Jazzercise
+J returns Deluded.
+J plays 3 Coppers. (+$3)
+J plays a Relic. (+$2)
+K moves -Card token to Draw Pile.
+J buys Sinister Plot.
+J draws 2 Coppers, 2 Silvers and a Cursed Village.
+
+Turn 8 - Kbizzle8
+K starts their turn.
+K plays a Horse.
+K skips a draw (because of Relic).
+K moves -Card token to Token Limbo.
+K draws a card.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Copper.
+K topdecks a Copper.
+K plays an Ironworks.
+K gains a Nomad Camp.
+K gets +1 Action.
+K plays an Ironworks.
+K gains a Fortress.
+K gets +1 Action.
+K plays 3 Coppers and a Silver. (+$5)
+K buys and gains a Relic.
+K draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws 2 Estates.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains an Ironworks.
+J draws 2 Coppers, 2 Ironworks and a Vagrant.
+
+Turn 9 - Kbizzle8
+K starts their turn.
+K draws 2 cards (Sinister Plot).
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Cavalry.
+K topdecks a Cavalry.
+K plays a Nomad Camp.
+K gets +1 Buy.
+K gets +$2.
+K plays 3 Coppers. (+$3)
+K buys and gains a City.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J plays a Vagrant.
+J shuffles their deck.
+J draws a Cursed Village.
+J gets +1 Action.
+J reveals a Copper.
+J topdecks a Copper.
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Cavalry.
+J draws a Copper and an Estate.
+J gets +1 Buy.
+J gets +1 Action.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper and an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Nomad Camp.
+J draws 2 Coppers, a Silver, an Ironworks and a Nomad Camp.
+
+Turn 10 - Kbizzle8
+K starts their turn.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays 2 Coppers, a Gold and a Silver. (+$7)
+K buys and gains a City.
+K draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws an Estate and a Relic (Sinister Plot).
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Relic. (+$2)
+K moves -Card token to Draw Pile.
+J buys and gains a Nomad Camp.
+J buys and gains an Ironworks.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Ironworks and a Nomad Camp.
+
+Turn 11 - Kbizzle8
+K starts their turn.
+K plays a Vagrant.
+K skips a draw (because of Relic).
+K moves -Card token to Token Limbo.
+K gets +1 Action.
+K reveals an Estate.
+K puts an Estate into their hand.
+K plays an Ironworks.
+K gains a Cavalry.
+K draws 2 cards.
+K gets +1 Buy.
+K gets +1 Action.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Relic.
+K topdecks a Relic.
+K plays 4 Coppers. (+$4)
+K buys and gains a Fortress.
+K draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J plays an Ironworks.
+J gains a Fortress.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Fortress.
+J gets +1 Action.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Cursed Village.
+J takes Poverty.
+J receives Poverty.
+J discards Poverty.
+J draws 2 Coppers, an Estate and 2 Ironworks.
+
+Turn 12 - Kbizzle8
+K starts their turn.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays a Nomad Camp.
+K gets +1 Buy.
+K gets +$2.
+K plays a Copper and a Silver. (+$3)
+K plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+K buys and gains a City.
+K buys and gains a Vagrant.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J plays an Ironworks.
+J gains a Fortress.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Nomad Camp.
+J gets +1 Action.
+J plays 2 Coppers. (+$2)
+J buys and gains a Vagrant.
+J draws 2 Coppers, an Estate, a Nomad Camp and a Cavalry.
+
+Turn 13 - Kbizzle8
+K starts their turn.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays an Ironworks.
+K gains a Fortress.
+K gets +1 Action.
+K plays an Ironworks.
+K gains a Cavalry.
+K draws 2 cards.
+K gets +1 Buy.
+K gets +1 Action.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays a Nomad Camp.
+K gets +1 Buy.
+K gets +$2.
+K plays a Copper and a Silver. (+$3)
+K buys and gains a City.
+K draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J plays a Cavalry.
+J gains 2 Horses.
+J plays 2 Coppers. (+$2)
+J buys and gains a Vagrant.
+J draws a Copper, 2 Ironworks, a Relic and a Cursed Village.
+
+Turn 14 - Kbizzle8
+K starts their turn.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays 2 Coppers and a Silver. (+$4)
+K buys and gains a Fortress.
+K draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J plays an Ironworks.
+J gains a Fortress.
+J gets +1 Action.
+J plays an Ironworks.
+J gains a Nomad Camp.
+J gets +1 Action.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper, a Silver, an Estate and a Nomad Camp.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Relic. (+$2)
+K moves -Card token to Draw Pile.
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, an Ironworks, a Nomad Camp, a Vagrant and a Cursed Village.
+
+Turn 15 - Kbizzle8
+K starts their turn.
+K plays a Fortress.
+K skips a draw (because of Relic).
+K moves -Card token to Token Limbo.
+K gets +2 Actions.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Copper.
+K topdecks a Copper.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Vagrant.
+K topdecks a Vagrant.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Cavalry.
+K topdecks a Cavalry.
+K plays 3 Coppers and a Gold. (+$6)
+K plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+K buys and gains a Province.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays a Cursed Village.
+J gets +2 Actions.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J draws an Ironworks, a Nomad Camp and a Fortress.
+J plays a Fortress.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Vagrant.
+J draws an Estate.
+J gets +1 Action.
+J reveals an Estate.
+J puts an Estate into their hand.
+J plays an Ironworks.
+J gains an Estate.
+J draws a Cavalry.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Coppers. (+$2)
+J buys Fleet.
+J draws a Copper, an Estate, an Ironworks, a Fortress and a Vagrant.
+
+Turn 16 - Kbizzle8
+K starts their turn.
+K draws 6 cards (Sinister Plot).
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Copper.
+K topdecks a Copper.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays a Nomad Camp.
+K gets +1 Buy.
+K gets +$2.
+K plays 5 Coppers and a Silver. (+$7)
+K plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+K buys and gains a City.
+K buys Fleet.
+K draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J draws 2 Horses.
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Province and a Fortress.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Vagrant.
+J draws an Ironworks.
+J gets +1 Action.
+J reveals a Fortress.
+J topdecks a Fortress.
+J plays a Fortress.
+J draws a Fortress.
+J gets +2 Actions.
+J plays a Fortress.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Fortress.
+J draws an Ironworks.
+J gets +2 Actions.
+J plays an Ironworks.
+J gains an Estate.
+J draws a Vagrant.
+J plays a Vagrant.
+J draws a Silver.
+J gets +1 Action.
+J reveals a Nomad Camp.
+J topdecks a Nomad Camp.
+J plays an Ironworks.
+J gains a Silver.
+J gets +$1.
+J plays an Ironworks.
+J gains a Vagrant.
+J gets +1 Action.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Province.
+J draws a Copper, an Ironworks, 2 Nomad Camps and a Cursed Village.
+
+Turn 17 - Kbizzle8
+K starts their turn.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a City.
+K topdecks a City.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals an Ironworks.
+K topdecks an Ironworks.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K plays an Ironworks.
+K gains a Fortress.
+K gets +1 Action.
+K plays 2 Coppers, a Gold and a Silver. (+$7)
+K buys and gains a City.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J plays an Ironworks.
+J gains an Ironworks.
+J gets +1 Action.
+J plays a Cursed Village.
+J gets +2 Actions.
+J draws a Copper and a Relic.
+J shuffles their deck.
+J draws a Copper.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays a Relic. (+$2)
+K moves -Card token to Draw Pile.
+J plays 3 Coppers. (+$3)
+J buys and gains 3 Vagrants.
+J draws 2 Coppers, an Ironworks, a Nomad Camp and a Fortress.
+
+Turn 18 - Kbizzle8 [Fleet]
+K starts their turn.
+K skips a draw (because of Relic).
+K moves -Card token to Token Limbo.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K draws a card.
+K gets +1 Buy.
+K gets +$1.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K draws a card.
+K gets +1 Buy.
+K gets +$1.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a City.
+K topdecks a City.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K draws a card.
+K gets +1 Buy.
+K gets +$1.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K draws a card.
+K gets +1 Buy.
+K gets +$1.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays an Ironworks.
+K gains an Estate.
+K draws a card.
+K plays an Ironworks.
+K gains an Estate.
+K draws a card.
+K plays a Fortress.
+K draws a card.
+K gets +2 Actions.
+K plays a City.
+K draws a card.
+K gets +2 Actions.
+K draws a card.
+K gets +1 Buy.
+K gets +$1.
+K plays a Vagrant.
+K draws a card.
+K gets +1 Action.
+K reveals a Horse.
+K topdecks a Horse.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays a Cavalry.
+K gains 2 Horses.
+K plays 6 Coppers and 2 Silvers. (+$10)
+K plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+K buys and gains 2 Provinces.
+K draws 5 cards.
+
+Turn 19 - Jazzercise [Fleet]
+J starts their turn.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J plays a Fortress.
+J draws a Copper.
+J gets +2 Actions.
+J plays an Ironworks.
+J gains an Estate.
+J draws a Cavalry.
+J plays a Nomad Camp.
+J gets +1 Buy.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys and gains a Duchy.
+J draws a Silver, an Estate, an Ironworks, a Fortress and a Cursed Village.
+

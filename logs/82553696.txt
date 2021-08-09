@@ -1,0 +1,173 @@
+Game #82553696, rated.
+KleinerDrache: 42.65
+Jazzercise: 46.35
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+K starts with a Pouch.
+K starts with 6 Coppers.
+K starts with 3 Estates.
+J starts with a Pouch.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+K shuffles their deck.
+K draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - KleinerDrache
+K plays 3 Coppers. (+$3)
+K plays a Pouch. (+$1)
+K gets +1 Buy.
+K buys and gains a Flag Bearer.
+K takes the Flag.
+K shuffles their deck.
+K draws 6 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Bounty Hunter.
+J draws 2 Coppers, 2 Estates and a Pouch.
+
+Turn 2 - KleinerDrache
+K plays 3 Coppers. (+$3)
+K buys and gains a Silver.
+K shuffles their deck.
+K draws 6 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Pouch.
+
+Turn 3 - KleinerDrache
+K plays a Flag Bearer.
+K gets +$2.
+K plays 4 Coppers. (+$4)
+K plays a Pouch. (+$1)
+K gets +1 Buy.
+K buys and gains a Bandit Camp.
+K buys and gains a Tracker.
+K draws 6 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Bounty Hunter.
+J draws 2 Coppers, a Silver, an Estate and a Bounty Hunter.
+
+Turn 4 - KleinerDrache
+K plays 2 Coppers and a Silver. (+$4)
+K buys and gains a Bounty Hunter.
+K shuffles their deck.
+K draws 6 cards.
+
+Turn 4 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Copper.
+J gets +$3.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Coven.
+J shuffles their deck.
+J draws 2 Coppers and 3 Estates.
+
+Turn 5 - KleinerDrache
+K plays 4 Coppers. (+$4)
+K buys and gains an Ironmonger.
+K draws 6 cards.
+
+Turn 5 - Jazzercise
+J draws 2 Coppers, a Silver, a Bounty Hunter and a Coven.
+
+Turn 6 - KleinerDrache
+K plays a Flag Bearer.
+K gets +$2.
+K plays a Copper and a Silver. (+$3)
+K plays a Pouch. (+$1)
+K gets +1 Buy.
+K buys and gains a Villain.
+K shuffles their deck.
+K draws 6 cards.
+
+Turn 6 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Copper.
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+K exiles a Curse.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Margrave.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Pouch and a Bounty Hunter.
+
+Turn 7 - KleinerDrache
+K plays a Bandit Camp.
+K draws a card.
+K gets +2 Actions.
+K gains a Spoils.
+K plays a Bounty Hunter.
+K gets +1 Action.
+K exiles an Estate.
+K gets +$3.
+K plays a Tracker.
+K gets +$1.
+K takes The Wind's Gift.
+K receives The Wind's Gift.
+K draws 2 cards.
+K discards a card and a Copper.
+K discards The Wind's Gift.
+K plays an Ironmonger.
+K draws a card.
+K gets +1 Action.
+K reveals a Copper.
+K discards a Copper.
+K gets +$1.
+K plays a Flag Bearer.
+K gets +$2.
+K plays a Pouch. (+$1)
+K gets +1 Buy.
+K buys and gains a Margrave.
+K topdecks a Margrave with Tracker.
+K buys and gains a Silver.
+K draws 6 cards.
+
+Turn 7 - Jazzercise
+J plays a Bounty Hunter.
+J gets +1 Action.
+J exiles a Pouch.
+J gets +$3.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Bandit Camp.
+J draws a Copper, an Estate, a Margrave, a Bounty Hunter and a Coven.
+
+Turn 8 - KleinerDrache
+K plays a Margrave.
+K shuffles their deck.
+K draws 3 cards.
+K gets +1 Buy.
+J draws a Copper.
+J discards 2 Coppers and an Estate.
+K plays 4 Coppers and a Silver. (+$6)
+K buys and gains a Bandit Camp.
+K draws 6 cards.
+
+Turn 8 - Jazzercise
+J plays a Coven.
+J gets +1 Action.
+J gets +$2.
+K exiles a Curse.
+J plays a Margrave.
+J shuffles their deck.
+J draws a Copper and 2 Estates.
+J gets +1 Buy.
+K draws a card.
+

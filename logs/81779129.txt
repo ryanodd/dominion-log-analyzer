@@ -1,0 +1,492 @@
+Game #81779129, rated.
+tmd1210: 40.27
+Jazzercise: 43.83
+
+
+t starts with a Magic Lamp.
+t starts with 6 Coppers.
+t starts with 3 Estates.
+J starts with a Magic Lamp.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+t shuffles their deck.
+t draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Magic Lamp.
+
+Turn 1 - tmd1210
+t plays 4 Coppers. (+$4)
+t buys and gains a Monument.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers and a Magic Lamp. (+$3)
+J buys and gains a Chapel.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - tmd1210
+t plays 2 Coppers and a Magic Lamp. (+$3)
+t buys and gains a Swindler.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Swindler.
+J shuffles their deck.
+J draws 3 Coppers, a Swindler and a Magic Lamp.
+
+Turn 3 - tmd1210
+t plays 4 Coppers and a Magic Lamp. (+$5)
+t buys Stampede.
+t gains 5 Horses.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Swindler.
+J gets +$2.
+t trashes an Estate.
+t gains an Estate.
+J plays 3 Coppers and a Magic Lamp. (+$4)
+J buys Stampede.
+J gains 5 Horses.
+J draws 5 Horses.
+
+Turn 4 - tmd1210
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t shuffles their deck.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Monument.
+t gets +$2.
+t gets 1 VP.
+t plays 4 Coppers and a Magic Lamp. (+$5)
+t buys and gains a Gold.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Horse.
+J draws an Estate and a Chapel.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Copper and an Estate.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws 2 Coppers.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J shuffles their deck.
+J draws a Copper and an Estate.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Horse.
+J draws a Swindler and a Magic Lamp.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Chapel.
+J trashes a Copper and 3 Estates.
+J plays 3 Coppers and a Magic Lamp. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and a Swindler.
+
+Turn 5 - tmd1210
+t plays a Gold and 3 Coppers. (+$6)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Swindler.
+J gets +$2.
+t trashes a Monument.
+t gains a Monument.
+J plays 4 Coppers. (+$4)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Chapel and a Magic Lamp.
+
+Turn 6 - tmd1210
+t plays a Swindler.
+t gets +$2.
+J trashes a Gold.
+J gains a Gold.
+t plays 3 Coppers. (+$3)
+t buys Stampede.
+t gains 5 Horses.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Chapel.
+J trashes 2 Coppers and a Magic Lamp.
+J plays a Silver. (+$2)
+J buys and gains an Encampment.
+J shuffles their deck.
+J draws 3 Coppers, a Chapel and a Swindler.
+
+Turn 7 - tmd1210
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t shuffles their deck.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Gold, 5 Coppers and a Magic Lamp. (+$9)
+t buys and gains a Province.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Swindler.
+J gets +$2.
+t trashes an Estate.
+t gains an Estate.
+J plays 3 Coppers. (+$3)
+J buys a Seaway.
+J gains an Encampment.
+J moves +Buy token to the Encampment pile.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Chapel and an Encampment.
+
+Turn 8 - tmd1210
+t plays a Monument.
+t gets +$2.
+t gets 1 VP.
+t plays a Gold and 2 Coppers. (+$5)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Copper and an Encampment.
+J gets +2 Actions.
+J reveals a Gold.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Copper and a Swindler.
+J gets +2 Actions.
+J reveals a Gold.
+J plays a Swindler.
+J gets +$2.
+t trashes an Estate.
+t gains an Estate.
+J plays a Chapel.
+J trashes 3 Coppers.
+J plays a Gold and a Silver. (+$5)
+J buys and gains 3 Encampments.
+J shuffles their deck.
+J draws a Chapel, a Swindler and 3 Encampments.
+
+Turn 9 - tmd1210
+t plays 3 Coppers and a Magic Lamp. (+$4)
+t buys and gains a Monument.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws 2 Encampments.
+J gets +2 Actions.
+J sets an Encampment aside.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Silver and a Gold.
+J gets +2 Actions.
+J reveals a Gold.
+J plays a Swindler.
+J gets +$2.
+t trashes a Monument.
+t gains a Monument.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Plunder.
+J buys and gains a Settlers.
+J returns an Encampment to the Encampment pile.
+J shuffles their deck.
+J draws a Gold, a Chapel, a Swindler and 2 Encampments.
+
+Turn 10 - tmd1210
+t plays a Gold, 2 Coppers and a Magic Lamp. (+$6)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws an Encampment and a Settlers.
+J gets +2 Actions.
+J reveals a Gold.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Silver and an Encampment.
+J gets +2 Actions.
+J reveals a Gold.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Plunder.
+J gets +2 Actions.
+J reveals a Gold.
+J plays a Swindler.
+J gets +$2.
+t trashes a Copper.
+t gains a Curse.
+J plays a Gold and a Silver. (+$5)
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J buys and gains an Encampment and a Plunder.
+J shuffles their deck.
+J draws a Silver, a Chapel, a Swindler, an Encampment and a Plunder.
+
+Turn 11 - tmd1210
+t plays a Swindler.
+t gets +$2.
+J trashes a Gold.
+J gains a Gold.
+t plays 2 Golds and 2 Coppers. (+$8)
+t buys and gains a Province.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws 2 Encampments.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws 2 Encampments.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Plunder and a Settlers.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J shuffles their deck.
+J draws a Gold.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Chapel.
+J trashes a Settlers.
+J plays a Swindler.
+J gets +$2.
+t shuffles their deck.
+t trashes a Copper.
+t gains a Curse.
+J plays a Gold and a Silver. (+$5)
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J buys and gains 2 Plunders.
+J shuffles their deck.
+J draws a Swindler, 3 Encampments and a Plunder.
+
+Turn 12 - tmd1210
+t plays a Monument.
+t gets +$2.
+t gets 1 VP.
+t plays a Copper. (+$1)
+t buys and gains a Silver.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws 2 Plunders.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Silver and a Chapel.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Gold and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Swindler.
+J gets +$2.
+t trashes a Copper.
+t gains a Curse.
+J plays a Gold and a Silver. (+$5)
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J buys and gains a Plunder.
+J buys and gains a Province.
+J shuffles their deck.
+J draws 4 Encampments and a Plunder.
+
+Turn 13 - tmd1210
+t plays a Gold, 2 Coppers and a Magic Lamp. (+$6)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Silver and a Swindler.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Gold and an Encampment.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws 2 Plunders.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Province and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Chapel and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Swindler.
+J gets +$2.
+t trashes a Monument.
+t gains a Monument.
+J plays a Gold and a Silver. (+$5)
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J buys and gains a Dungeon.
+J buys and gains a Province.
+J buys and gains a Gold.
+J shuffles their deck.
+J draws 3 Encampments and 2 Plunders.
+
+Turn 14 - tmd1210
+t plays a Swindler.
+t gets +$2.
+J trashes a Province.
+J gains a Province.
+t plays 2 Golds. (+$6)
+t buys and gains a Province.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws an Encampment and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Province and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws an Encampment and a Plunder.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Gold and a Chapel.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays an Encampment.
+J gets +1 Buy (from Seaway).
+J draws a Silver and a Dungeon.
+J gets +2 Actions.
+J reveals a Plunder.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Gold and a Swindler.
+J discards a Province and a Chapel.
+J plays a Swindler.
+J gets +$2.
+t trashes a Swindler.
+t gains a Secret Cave.
+J plays 2 Golds and a Silver. (+$8)
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J plays a Plunder. (+$2)
+J gets +1 Buy (from Seaway).
+J gets 1 VP.
+J buys and gains 2 Provinces.
+J shuffles their deck.
+J draws a Province, a Swindler and 3 Encampments.
+

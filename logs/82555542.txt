@@ -1,0 +1,494 @@
+Game #82555542, rated.
+Jazzercise: 46.27
+Schaffy: 43.02
+
+Kingdom generated with these relative percentages:
+0%: Possession
+50%: Ghost Ship, Duchess and Capitalism
+
+
+J starts with a Lucky Coin.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+S starts with a Lucky Coin.
+S starts with 6 Coppers.
+S starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Estates and a Lucky Coin.
+
+Turn 1 - Schaffy
+S plays 4 Coppers. (+$4)
+S buys and gains a Baron.
+S draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Lucky Coin.
+
+Turn 2 - Schaffy
+S plays 2 Coppers. (+$2)
+S plays a Lucky Coin. (+$1)
+S gains a Silver.
+S buys and gains a Snowy Village.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys and gains a Swamp Hag.
+J draws 4 Coppers and an Estate.
+
+Turn 3 - Schaffy
+S plays a Snowy Village.
+S draws a card.
+S gets +4 Actions.
+S gets +1 Buy.
+S plays 3 Coppers. (+$3)
+S plays a Lucky Coin. (+$1)
+S gains a Silver.
+S buys and gains an Improve.
+S draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Baron.
+J shuffles their deck.
+J draws 3 Silvers and 2 Estates.
+
+Turn 4 - Schaffy
+S plays a Baron.
+S gets +1 Buy.
+S discards an Estate.
+S gets +$4.
+S plays a Copper and a Silver. (+$3)
+S buys and gains a Swamp Hag.
+S buys and gains a Courtyard.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 3 Silvers. (+$6)
+J buys and gains a Swamp Hag.
+J draws 4 Coppers and an Estate.
+
+Turn 5 - Schaffy
+S plays a Snowy Village.
+S draws a card.
+S gets +4 Actions.
+S gets +1 Buy.
+S plays 4 Coppers and a Silver. (+$6)
+S buys and gains a Gold.
+S draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Snowy Village.
+J draws 2 Coppers, a Baron, a Swamp Hag and a Lucky Coin.
+
+Turn 6 - Schaffy
+S plays a Swamp Hag.
+S draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Swamp Hag.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Swamp Hag and a Snowy Village.
+
+Turn 7 - Schaffy
+S starts their turn.
+S gets +$3.
+S plays 2 Coppers and a Silver. (+$4)
+S buys a Gold.
+S gains a Curse.
+S gains a Gold.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Snowy Village.
+J draws a Copper.
+J gets +4 Actions.
+J gets +1 Buy.
+J plays a Swamp Hag.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Lost City.
+S draws a card.
+J buys and gains a Wishing Well.
+J draws 2 Coppers, 2 Estates and a Baron.
+
+Turn 8 - Schaffy
+S plays a Swamp Hag.
+S plays a Copper, a Gold and a Silver. (+$6)
+S buys a Gold.
+S gains a Curse.
+S gains a Gold.
+S draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Baron.
+J gets +1 Buy.
+J discards an Estate.
+J gets +$4.
+J plays 2 Coppers. (+$2)
+J buys a Lost City.
+J gains a Curse.
+J gains a Lost City.
+S draws a card.
+J draws 2 Coppers, a Silver, an Estate and a Lucky Coin.
+
+Turn 9 - Schaffy
+S starts their turn.
+S gets +$3.
+S plays a Baron.
+S gets +1 Buy.
+S discards an Estate.
+S gets +$4.
+S plays a Copper and a Silver. (+$3)
+S plays a Lucky Coin. (+$1)
+S gains a Silver.
+S buys and gains a Lost City.
+J draws a Silver.
+S buys and gains a Gold.
+S draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Lost City.
+S draws a card.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Swamp Hag and a Lucky Coin.
+
+Turn 10 - Schaffy
+S plays a Snowy Village.
+S draws a card.
+S gets +4 Actions.
+S gets +1 Buy.
+S plays 4 Coppers and a Gold. (+$7)
+S buys and gains a Fool.
+S buys and gains a Snowy Village.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Swamp Hag.
+J draws a Copper, 2 Silvers, a Lost City and a Swamp Hag.
+
+Turn 11 - Schaffy
+S plays a Fool.
+S takes Lost In The Woods.
+S takes The Moon's Gift.
+S takes The Flame's Gift.
+S takes The Wind's Gift.
+S receives The Flame's Gift.
+S trashes a Copper.
+S discards The Flame's Gift.
+S receives The Wind's Gift.
+S draws 2 cards.
+S discards a card and a Copper.
+S discards The Wind's Gift.
+S receives The Moon's Gift.
+S looks at 2 cards.
+S discards The Moon's Gift.
+S plays a Silver and a Gold. (+$5)
+S plays a Lucky Coin. (+$1)
+S gains a Silver.
+S draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Lost City.
+J draws a Copper and a Snowy Village.
+J gets +2 Actions.
+J plays a Snowy Village.
+J draws an Estate.
+J gets +4 Actions.
+J gets +1 Buy.
+J plays a Swamp Hag.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Lost City.
+S draws a card.
+J buys and gains a Wishing Well.
+J draws a Curse, 2 Silvers, a Baron and a Lost City.
+
+Turn 12 - Schaffy
+S starts their turn.
+S discards a Copper.
+S takes The Mountain's Gift.
+S receives The Mountain's Gift.
+S gains a Silver.
+S discards The Mountain's Gift.
+S plays a Lost City.
+S draws 2 cards.
+S gets +2 Actions.
+S plays a Snowy Village.
+S draws a card.
+S gets +4 Actions.
+S gets +1 Buy.
+S plays an Improve using Way of the Chameleon.
+S would get +$2.
+S draws 2 cards.
+S plays a Baron.
+S gets +1 Buy.
+S discards an Estate.
+S gets +$4.
+S plays a Swamp Hag.
+S plays a Copper, a Silver and a Gold. (+$6)
+S buys a Province.
+S gains a Curse.
+S gains a Province.
+S trashes a Baron.
+S gains a Lost City.
+J draws an Estate.
+S draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Lost City.
+J draws a Copper and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Copper and a Wishing Well.
+J gets +2 Actions.
+J plays a Wishing Well.
+J shuffles their deck.
+J draws a Lost City.
+J gets +1 Action.
+J wishes for Copper and finds it.
+J plays a Lost City.
+J draws an Estate and a Lucky Coin.
+J gets +2 Actions.
+J plays a Baron using Way of the Chameleon.
+J gets +1 Buy.
+J discards an Estate.
+J would get +$4.
+J draws 2 Coppers, an Estate and a Lost City.
+J plays a Lost City.
+J draws a Swamp Hag and a Snowy Village.
+J gets +2 Actions.
+J plays a Snowy Village.
+J draws a Wishing Well.
+J gets +4 Actions.
+J gets +1 Buy.
+J plays a Wishing Well.
+J draws a Copper.
+J wishes for Silver and finds it.
+J plays a Swamp Hag.
+J plays 6 Coppers and 3 Silvers. (+$12)
+J buys a Lost City.
+J gains a Curse.
+J gains a Lost City.
+S draws a card.
+J buys a Lost City.
+J gains a Curse.
+J gains a Lost City.
+S draws a card.
+J shuffles their deck.
+J draws 3 Silvers, a Lost City and a Lucky Coin.
+
+Turn 13 - Schaffy
+S starts their turn.
+S gets +$3.
+S discards an Estate.
+S takes The Earth's Gift.
+S receives The Earth's Gift.
+S discards a Copper.
+S gains a Wishing Well.
+S discards The Earth's Gift.
+S plays a Snowy Village.
+S draws a card.
+S gets +4 Actions.
+S gets +1 Buy.
+S plays a Courtyard.
+S shuffles their deck.
+S draws 3 cards.
+S topdecks a card.
+S plays a Copper, a Silver and 2 Golds. (+$9)
+S buys a Province.
+S gains a Curse.
+S gains a Province.
+S draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Lost City.
+J draws a Silver and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Curse and an Estate.
+J gets +2 Actions.
+J plays 3 Silvers. (+$6)
+J buys and gains a Province.
+J draws 2 Coppers, an Estate and 2 Lost Cities.
+
+Turn 14 - Schaffy
+S starts their turn.
+S discards an Estate.
+S takes The Sky's Gift.
+S receives The Sky's Gift.
+S discards 2 other cards and a Wishing Well.
+S gains a Gold.
+S discards The Sky's Gift.
+S plays a Lost City.
+S draws 2 cards.
+S gets +2 Actions.
+S plays a Silver. (+$2)
+S plays a Lucky Coin. (+$1)
+S gains a Silver.
+S buys and gains a Wishing Well.
+S draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Lost City.
+J draws a Copper and a Wishing Well.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Baron and a Lost City.
+J gets +2 Actions.
+J plays a Baron using Way of the Chameleon.
+J gets +1 Buy.
+J discards an Estate.
+J would get +$4.
+J draws a Curse, a Copper, a Swamp Hag and a Snowy Village.
+J plays a Lost City.
+J draws a Copper and an Estate.
+J gets +2 Actions.
+J plays a Snowy Village.
+J draws a Curse.
+J gets +4 Actions.
+J gets +1 Buy.
+J plays a Wishing Well.
+J draws a Copper.
+J wishes for Silver but reveals Wishing Well.
+J plays a Swamp Hag.
+J plays 6 Coppers. (+$6)
+J buys and gains a Royal Carriage.
+J shuffles their deck.
+J draws a Province, a Wishing Well and 3 Lost Cities.
+
+Turn 15 - Schaffy
+S starts their turn.
+S discards an Estate.
+S takes The Sea's Gift.
+S receives The Sea's Gift.
+S draws a card.
+S discards The Sea's Gift.
+S plays a Copper, 2 Silvers and 2 Golds. (+$11)
+S buys a Province.
+S gains a Curse.
+S gains a Province.
+S draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Lost City.
+J draws 2 Silvers.
+J gets +2 Actions.
+J plays a Lost City.
+J draws an Estate and a Snowy Village.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Lost City and a Lucky Coin.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Copper and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Curse and a Copper.
+J gets +2 Actions.
+J plays a Snowy Village.
+J draws a Silver.
+J gets +4 Actions.
+J gets +1 Buy.
+J plays a Wishing Well.
+J draws an Estate.
+J wishes for Swamp Hag and finds it.
+J plays a Swamp Hag.
+J plays 2 Coppers and 3 Silvers. (+$8)
+J buys and gains a Province.
+J buys and gains a Wishing Well.
+J draws a Curse, a Copper, a Silver, a Baron and a Lost City.
+
+Turn 16 - Schaffy
+S starts their turn.
+S discards a Province.
+S takes The Sun's Gift.
+S receives The Sun's Gift.
+S looks at 4 cards.
+S discards a card and a Silver.
+S topdecks 2 cards.
+S discards The Sun's Gift.
+S plays a Lost City.
+S draws 2 cards.
+S gets +2 Actions.
+S plays an Improve using Way of the Chameleon.
+S would get +$2.
+S shuffles their deck.
+S draws 2 cards.
+S plays a Snowy Village.
+S draws a card.
+S gets +4 Actions.
+S gets +1 Buy.
+S plays a Courtyard.
+S draws 3 cards.
+S topdecks a card.
+S plays a Wishing Well.
+S draws a card.
+S wishes for Gold and finds it.
+S plays 2 Coppers, a Silver and a Gold. (+$7)
+S plays a Lucky Coin. (+$1)
+S gains a Silver.
+S buys a Province.
+S gains a Curse.
+S gains a Province.
+S trashes a Courtyard.
+S gains a Snowy Village.
+S draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Lost City.
+J draws 2 Coppers.
+J gets +2 Actions.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Province.
+J draws a Curse, a Copper, an Estate, a Wishing Well and a Royal Carriage.
+
+Turn 17 - Schaffy
+S starts their turn.
+S discards a Copper.
+S takes The Forest's Gift.
+S receives The Forest's Gift.
+S gets +1 Buy.
+S gets +$1.
+S plays a Snowy Village.
+S draws a card.
+S gets +4 Actions.
+S gets +1 Buy.
+S plays a Swamp Hag.
+S plays a Silver and 2 Golds. (+$8)
+S buys and gains a Province.
+S discards The Forest's Gift.
+S draws 5 cards.
+

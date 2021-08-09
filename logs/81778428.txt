@@ -1,0 +1,703 @@
+Game #81778428, rated.
+tmd1210: 40.36
+Jazzercise: 43.53
+
+
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t shuffles their deck.
+t draws 5 cards.
+J shuffles their deck.
+J draws 5 Coppers.
+
+Turn 1 - tmd1210
+t plays 3 Coppers. (+$3)
+t buys and gains a Silver.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Replace.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - tmd1210
+t plays 4 Coppers. (+$4)
+t buys and gains a Mining Village.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers. (+$2)
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Replace.
+
+Turn 3 - tmd1210
+t plays a Mining Village.
+t draws a card.
+t gets +2 Actions.
+t trashes a Mining Village.
+t gets +$2.
+t plays a Silver and 2 Coppers. (+$4)
+t buys Academy.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Replace.
+J trashes an Estate.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Gear.
+J draws 3 Coppers, an Estate and a Mining Village.
+
+Turn 4 - tmd1210
+t plays 4 Coppers. (+$4)
+t buys and gains an Envoy.
+t gets +1 Villager. (Academy)
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Mining Village.
+J draws an Estate.
+J gets +2 Actions.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Gear.
+
+Turn 5 - tmd1210
+t plays a Silver and 3 Coppers. (+$5)
+t buys and gains a Merchant Guild.
+t gets +1 Villager. (Academy)
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Gear.
+J draws a Copper and a Silver.
+J sets an Estate and a Copper aside with Gear.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Replace.
+J draws 2 Coppers, an Estate, a Mining Village and a Replace.
+
+Turn 6 - tmd1210
+t plays an Envoy.
+t shuffles their deck.
+t reveals an Estate, a Silver and 3 Coppers.
+t discards a Silver.
+t puts 3 Coppers and an Estate into their hand.
+t plays 6 Coppers. (+$6)
+t buys and gains a Gold.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J puts a Copper and an Estate in hand (Gear).
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Replace.
+J trashes an Estate.
+J gains an Envoy.
+J topdecks an Envoy.
+J plays 4 Coppers. (+$4)
+J buys and gains a Mining Village.
+J shuffles their deck.
+J draws a Copper, a Silver, a Replace, a Gear and an Envoy.
+
+Turn 7 - tmd1210
+t plays an Envoy.
+t reveals an Estate, a Silver and 3 Coppers.
+t discards a Silver.
+t puts 3 Coppers and an Estate into their hand.
+t uses 1 Villager.
+t plays a Merchant Guild.
+t gets +1 Buy.
+t gets +$1.
+t plays 5 Coppers. (+$5)
+t buys a Gold.
+t gets +1 Coffers.
+t gains a Gold.
+t buys a Copper.
+t gets +1 Coffers.
+t gains a Copper.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Gear.
+J draws 2 Coppers.
+J sets a Replace and an Envoy aside with Gear.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Lost City.
+t draws a card.
+J draws 3 Coppers, an Estate and a Mining Village.
+
+Turn 8 - tmd1210
+t plays a Gold and 3 Coppers. (+$6)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J puts a Replace and an Envoy in hand (Gear).
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Replace.
+J gets +2 Actions.
+J plays an Envoy.
+J shuffles their deck.
+J reveals a Silver and 4 Coppers.
+J discards a Silver.
+J puts 4 Coppers into their hand.
+J plays a Replace.
+J trashes an Estate.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays a Replace.
+J trashes a Copper.
+J gains a Guardian.
+J plays 6 Coppers. (+$6)
+J buys and gains a Gold.
+J plays a Guardian.
+J shuffles their deck.
+J draws a Copper, 2 Mining Villages, a Replace and a Lost City.
+
+Turn 9 - tmd1210
+t plays a Merchant Guild.
+t gets +1 Buy.
+t gets +$1.
+t plays a Silver and 2 Coppers. (+$4)
+t buys a Lost City.
+t gets +1 Coffers.
+t gains a Lost City.
+J draws a Replace.
+t gets +1 Villager. (Academy)
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Copper and an Envoy.
+J gets +2 Actions.
+J plays an Envoy.
+J reveals a Gear, a Gold, a Silver and 2 Coppers.
+J discards a Gold.
+J puts 2 Coppers, a Silver and a Gear into their hand.
+J plays a Replace.
+J trashes a Copper.
+J gains a Guardian.
+J plays a Replace.
+J trashes a Copper.
+J gains a Guardian.
+J plays a Gear.
+J shuffles their deck.
+J draws a Gold and a Mining Village.
+J sets a Gold and a Mining Village aside with Gear.
+J plays a Silver and 4 Coppers. (+$6)
+J buys and gains a Merchant Guild.
+J plays a Guardian.
+J plays a Guardian.
+J shuffles their deck.
+J draws 2 Coppers, a Mining Village, a Replace and a Merchant Guild.
+
+Turn 10 - tmd1210
+t plays an Envoy.
+t shuffles their deck.
+t reveals a Merchant Guild, 2 Golds, a Lost City and a Copper.
+t discards a Lost City.
+t puts a Copper, 2 Golds and a Merchant Guild into their hand.
+t uses 1 Villager.
+t plays a Merchant Guild.
+t gets +1 Buy.
+t gets +$1.
+t plays 3 Golds and 4 Coppers. (+$13)
+t buys a Dominate.
+t gains a Province.
+t gets 9 VP.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gets +$2.
+J puts a Gold and a Mining Village in hand (Gear).
+J plays a Mining Village.
+J draws a Guardian.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws an Envoy.
+J gets +2 Actions.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Replace.
+J trashes a Guardian.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays an Envoy.
+J reveals a Replace, a Lost City, a Copper and 2 Mining Villages.
+J discards a Lost City.
+J puts a Copper, 2 Mining Villages and a Replace into their hand.
+J plays a Gold and 3 Coppers. (+$6)
+J buys a Merchant Guild.
+J gets +1 Coffers.
+J gains a Merchant Guild.
+J buys a Mining Village.
+J gets +1 Coffers.
+J gains a Mining Village.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Lost City and an Envoy.
+
+Turn 11 - tmd1210
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Lost City.
+J draws 2 Mining Villages.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Replace.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays an Envoy.
+J reveals a Replace, a Merchant Guild, a Guardian, a Copper and a Mining Village.
+J discards a Merchant Guild.
+J puts a Copper, a Mining Village, a Replace and a Guardian into their hand.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Replace.
+J trashes a Guardian.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays a Replace.
+J trashes a Copper.
+J gains a Guardian.
+J plays a Gold, a Silver and 3 Coppers. (+$8)
+J buys and gains a Lost City.
+t draws a card.
+J plays a Guardian.
+J draws 2 Mining Villages, a Merchant Guild, a Gear and a Guardian.
+
+Turn 12 - tmd1210
+t plays a Gold, a Silver and 3 Coppers. (+$8)
+t buys and gains a Province.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J gets +$1.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J shuffles their deck.
+J draws a Replace.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Replace.
+J trashes a Guardian.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays a Gear.
+J draws a Mining Village and a Lost City.
+J sets a Copper and a Mining Village aside with Gear.
+J plays a Lost City.
+J draws a Gold and a Merchant Guild.
+J gets +2 Actions.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold. (+$3)
+J uses 2 Coffers. (+$2)
+J buys a Lost City.
+J gets +2 Coffers.
+J gains a Lost City.
+t draws a card.
+J buys a Gear.
+J gets +2 Coffers.
+J gains a Gear.
+J draws a Copper, a Silver, a Mining Village, a Lost City and an Envoy.
+
+Turn 13 - tmd1210
+t plays a Lost City.
+t draws 2 cards.
+t gets +2 Actions.
+t uses 1 Coffers. (+$1)
+t plays a Gold and 4 Coppers. (+$7)
+t buys and gains a Province.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J puts a Copper and a Mining Village in hand (Gear).
+J plays a Mining Village.
+J draws a Replace.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Lost City.
+J shuffles their deck.
+J draws a Gold and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Gear and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Mining Village and a Merchant Guild.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Guardian.
+J gets +2 Actions.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gear.
+J draws a Replace and a Merchant Guild.
+J sets an Envoy and a Copper aside with Gear.
+J plays a Replace.
+J trashes a Guardian.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays a Replace.
+J trashes a Copper.
+J gains a Guardian.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold, a Silver and a Copper. (+$6)
+J uses 2 Coffers. (+$2)
+J buys a Merchant Guild.
+J gets +2 Coffers.
+J gains a Merchant Guild.
+J buys a Lost City.
+J gets +2 Coffers.
+J gains a Lost City.
+t shuffles their deck.
+t draws a card.
+J plays a Guardian.
+J shuffles their deck.
+J draws 2 Mining Villages, 2 Replaces and a Lost City.
+
+Turn 14 - tmd1210
+t plays an Envoy.
+t reveals an Estate, a Gold and 3 Coppers.
+t discards a Gold.
+t puts 3 Coppers and an Estate into their hand.
+t uses 1 Villager.
+t plays a Merchant Guild.
+t gets +1 Buy.
+t gets +$1.
+t plays a Gold, a Silver and 4 Coppers. (+$9)
+t buys a Province.
+t gets +1 Coffers.
+t gains a Province.
+t buys a Guardian.
+t gets +1 Coffers.
+t gains a Guardian.
+t plays a Guardian.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +$1.
+J puts a Copper and an Envoy in hand (Gear).
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Lost City.
+J draws 2 Mining Villages.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Copper.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Merchant Guild.
+J gets +2 Actions.
+J plays an Envoy.
+J reveals 2 Merchant Guilds, 2 Lost Cities and a Mining Village.
+J discards a Merchant Guild.
+J puts a Mining Village, a Merchant Guild and 2 Lost Cities into their hand.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Gold and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J shuffles their deck.
+J draws a Merchant Guild and a Gear.
+J gets +2 Actions.
+J plays a Mining Village.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Mining Village.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Replace.
+J trashes a Copper.
+J gains a Guardian.
+J plays a Replace.
+J trashes a Copper.
+J gains a Guardian.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gear.
+J sets a Lost City and a Guardian aside with Gear.
+J plays a Gold and a Silver. (+$5)
+J uses 5 Coffers. (+$5)
+J buys a Merchant Guild.
+J gets +3 Coffers.
+J gains a Merchant Guild.
+J buys a Merchant Guild.
+J gets +3 Coffers.
+J gains a Merchant Guild.
+J buys a Merchant Guild.
+J gets +3 Coffers.
+J gains a Merchant Guild.
+J buys a Lost City.
+J gets +3 Coffers.
+J gains a Lost City.
+t draws a card.
+J plays a Guardian.
+J shuffles their deck.
+J draws a Gold, a Merchant Guild, a Gear, a Lost City and a Guardian.
+
+Turn 15 - tmd1210
+t starts their turn.
+t gets +$1.
+t plays a Lost City.
+t draws 2 cards.
+t gets +2 Actions.
+t plays 4 Coppers. (+$4)
+t buys and gains a Silver.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J gets +$1.
+J puts a Lost City and a Guardian in hand (Gear).
+J plays a Lost City.
+J draws a Mining Village and a Merchant Guild.
+J gets +2 Actions.
+J plays a Lost City.
+J draws 2 Merchant Guilds.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Merchant Guild and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Silver and a Replace.
+J gets +2 Actions.
+J plays a Replace.
+J trashes a Guardian.
+J gains a Mining Village.
+J topdecks a Mining Village.
+J plays a Gear.
+J draws a Mining Village and an Envoy.
+J sets a Guardian and a Mining Village aside with Gear.
+J plays an Envoy.
+J reveals a Replace, a Merchant Guild, a Lost City and 2 Mining Villages.
+J discards a Merchant Guild.
+J puts 2 Mining Villages, a Replace and a Lost City into their hand.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays a Lost City.
+J shuffles their deck.
+J draws a Merchant Guild.
+J gets +2 Actions.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold and a Silver. (+$5)
+J uses 12 Coffers. (+$12)
+J buys a Dominate.
+J gains a Province.
+J gets 9 VP.
+J buys a Gear.
+J gets +6 Coffers.
+J gains a Gear.
+J buys a Lost City.
+J gets +6 Coffers.
+J gains a Lost City.
+t draws a card.
+J buys a Guardian.
+J gets +6 Coffers.
+J gains a Guardian.
+J plays a Guardian.
+J shuffles their deck.
+J draws a Mining Village, 2 Merchant Guilds and 2 Lost Cities.
+
+Turn 16 - tmd1210
+t plays a Gold and a Copper. (+$4)
+t uses 1 Coffers. (+$1)
+t buys and gains a Merchant Guild.
+t gets +1 Villager. (Academy)
+t draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +$1.
+J puts a Mining Village and a Guardian in hand (Gear).
+J plays a Mining Village.
+J draws a Gold.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Mining Village and a Gear.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Mining Village and an Envoy.
+J gets +2 Actions.
+J plays a Gear.
+J draws a Province and a Lost City.
+J sets a Lost City and a Province aside with Gear.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J plays an Envoy.
+J reveals a Replace, a Merchant Guild and 3 Lost Cities.
+J discards a Merchant Guild.
+J puts a Replace and 3 Lost Cities into their hand.
+J plays a Lost City.
+J draws a Replace and a Merchant Guild.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Silver and a Merchant Guild.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Merchant Guild and a Gear.
+J gets +2 Actions.
+J plays a Mining Village.
+J draws a Mining Village.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Mining Village.
+J draws a Guardian.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Mining Village.
+J shuffles their deck.
+J draws a Merchant Guild.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Mining Village.
+J gets +2 Actions.
+J trashes a Mining Village.
+J gets +$2.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Merchant Guild.
+J gets +1 Buy.
+J gets +$1.
+J plays a Gold and a Silver. (+$5)
+J uses 19 Coffers. (+$19)
+J buys a Province.
+J gets +6 Coffers.
+J gains a Province.
+J buys a Province.
+J gets +6 Coffers.
+J gains a Province.
+J buys a Province.
+J gets +6 Coffers.
+J gains a Province.
+J buys a Duchy.
+J gets +6 Coffers.
+J gains a Duchy.
+J buys a Duchy.
+J gets +6 Coffers.
+J gains a Duchy.
+J buys a Duchy.
+J gets +6 Coffers.
+J gains a Duchy.
+J shuffles their deck.
+J draws a Silver, a Duchy, a Merchant Guild and 2 Lost Cities.
+

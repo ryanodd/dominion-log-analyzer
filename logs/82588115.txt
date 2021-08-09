@@ -1,0 +1,162 @@
+Game #82588115, rated.
+Jazzercise: 46.17
+zaynes_family: 40.48
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+z starts with 7 Coppers.
+z starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - zaynes_family
+z plays 3 Coppers. (+$3)
+z buys and gains a Storeroom.
+z draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Sea Hag.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Sea Hag.
+
+Turn 2 - zaynes_family
+z plays 4 Coppers. (+$4)
+z buys and gains a Sea Hag.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Sea Hag.
+z discards an Estate.
+z gains a Curse.
+J plays 2 Coppers. (+$2)
+J buys and gains a Peasant.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - zaynes_family
+z plays a Storeroom using Way of the Owl.
+z draws 2 cards.
+z plays 5 Coppers. (+$5)
+z buys and gains a Scepter.
+z draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Sea Hag.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 4 - zaynes_family
+z plays a Sea Hag.
+J discards an Estate.
+J gains a Curse.
+z plays 2 Coppers. (+$2)
+z buys and gains a Peasant.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Tournament.
+J draws a Curse and 4 Coppers.
+
+Turn 5 - zaynes_family
+z plays 3 Coppers. (+$3)
+z buys and gains a Silver.
+z draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Tournament.
+J shuffles their deck.
+J draws a Copper, an Estate, 2 Sea Hags and a Peasant.
+
+Turn 6 - zaynes_family
+z plays a Storeroom.
+z gets +1 Buy.
+z discards 3 other cards and a Curse.
+z draws 4 cards.
+z discards 2 other cards and an Estate.
+z gets +$3.
+z plays a Scepter.
+z buys and gains a Peasant.
+z buys and gains a Silver.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Sea Hag.
+z discards a Silver.
+z gains a Curse.
+J draws a Curse, 2 Coppers and 2 Estates.
+
+Turn 7 - zaynes_family
+z plays a Peasant.
+z gets +1 Buy.
+z gets +$1.
+z plays 2 Coppers. (+$2)
+z buys and gains a Silver.
+z returns a Peasant.
+z receives a Soldier.
+z draws 5 cards.
+
+Turn 8 - Jazzercise
+J draws 3 Coppers and 2 Tournaments.
+
+Turn 8 - zaynes_family
+z plays a Storeroom.
+z gets +1 Buy.
+z discards a card and a Copper.
+z draws 2 cards.
+z plays 2 Coppers and a Silver. (+$4)
+z plays a Scepter.
+z buys and gains a Potion.
+z buys and gains a Peasant.
+z draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Tournament.
+J gets +1 Action.
+J draws a Copper.
+J gets +$1.
+J plays a Tournament.
+J gets +1 Action.
+J draws a Silver.
+J gets +$1.
+J plays 4 Coppers and a Silver. (+$6)
+J buys a Masterpiece.
+J gains 5 Silvers.
+J gains a Masterpiece.
+J shuffles their deck.
+J draws a Curse, a Copper, 2 Silvers and a Sea Hag.
+
+Turn 9 - zaynes_family
+z plays a Sea Hag.
+J discards a Silver.
+J gains a Curse.
+z plays 2 Coppers. (+$2)
+z buys and gains a Peasant.
+z shuffles their deck.
+z draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Sea Hag.
+z discards a Peasant.
+z gains a Curse.
+J plays a Copper and 2 Silvers. (+$5)
+J buys a Summon.
+J gains a Tournament.
+J sets a Tournament aside.
+J draws a Curse, 3 Coppers and a Sea Hag.
+
+Turn 10 - zaynes_family
+

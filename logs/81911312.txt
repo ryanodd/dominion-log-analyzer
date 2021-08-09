@@ -1,0 +1,299 @@
+Game #81911312, rated.
+Kbizzle8: 41.4
+Jazzercise: 44.62
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+K starts with 7 Coppers.
+K starts with a Hovel, a Necropolis and an Overgrown Estate.
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+K shuffles their deck.
+K draws 5 cards.
+J shuffles their deck.
+J draws 2 Coppers, a Hovel, a Necropolis and an Overgrown Estate.
+
+Turn 1 - Kbizzle8
+K plays 3 Coppers. (+$3)
+K buys and gains a Steward.
+K draws 5 cards.
+
+Turn 1 - Jazzercise
+J draws 5 Coppers.
+
+Turn 2 - Kbizzle8
+K plays 4 Coppers. (+$4)
+K buys and gains a Skulk.
+K gains a Gold.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Steward.
+J shuffles their deck.
+J draws 3 Coppers, a Hovel and a Necropolis.
+
+Turn 3 - Kbizzle8
+K plays a Steward.
+K gets +$2.
+K plays 3 Coppers. (+$3)
+K buys and gains a Cultist.
+K draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Steward.
+J draws 3 Coppers, a Steward and an Overgrown Estate.
+
+Turn 4 - Kbizzle8
+K plays a Skulk.
+K gets +1 Buy.
+K takes Plague.
+J receives Plague.
+J gains a Curse.
+K discards Plague.
+K plays 3 Coppers and a Gold. (+$6)
+K buys and gains a Cultist.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Steward.
+J trashes a Curse and an Overgrown Estate.
+J draws a Copper.
+J plays 4 Coppers. (+$4)
+J buys Sinister Plot.
+J shuffles their deck.
+J draws 2 Coppers, a Steward, a Hovel and a Necropolis.
+
+Turn 5 - Kbizzle8
+K plays a Skulk.
+K gets +1 Buy.
+K takes Delusion.
+J receives Delusion.
+J takes Deluded.
+K discards Delusion.
+K draws 5 cards.
+
+Turn 5 - Jazzercise
+J starts their turn.
+J plays a Necropolis.
+J gets +2 Actions.
+J plays a Steward.
+J draws 2 Coppers.
+J returns Deluded.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Steward and a Hovel.
+
+Turn 6 - Kbizzle8
+K plays a Cultist.
+K draws 2 cards.
+J gains a Ruined Library.
+K plays a Cultist.
+K draws 2 cards.
+J gains a Survivors.
+K plays 5 Coppers and a Gold. (+$8)
+K buys and gains a King's Court.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws a Necropolis (Sinister Plot).
+J plays a Steward.
+J trashes a Hovel and a Necropolis.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and a Silver.
+
+Turn 7 - Kbizzle8
+K plays a King's Court.
+K plays a Skulk.
+K gets +1 Buy.
+K takes Misery.
+J receives Misery.
+J takes Miserable.
+K discards Misery.
+K plays a Skulk again.
+K gets +1 Buy.
+K takes Locusts.
+J receives Locusts.
+J trashes a Steward.
+J gains a Ruined Market.
+K discards Locusts.
+K plays a Skulk a third time.
+K gets +1 Buy.
+K takes Haunting.
+J receives Haunting.
+J topdecks a Copper.
+K discards Haunting.
+K plays 3 Coppers. (+$3)
+K buys and gains a Harbinger.
+K draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Cultist.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Cultist and a Ruined Library.
+
+Turn 8 - Kbizzle8
+K plays a Necropolis.
+K gets +2 Actions.
+K plays a Cultist.
+K draws 2 cards.
+J gains a Ruined Library.
+K plays a Cultist.
+K draws 2 cards.
+J gains a Ruined Village.
+K plays a Steward.
+K gets +$2.
+K plays 3 Coppers and a Gold. (+$6)
+K buys and gains a King's Court.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J draws a Steward (Sinister Plot).
+J plays a Cultist.
+J draws 2 Coppers.
+K gains a Ruined Village.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Cultist.
+J draws 2 Coppers, a Silver, a Ruined Market and a Survivors.
+
+Turn 9 - Kbizzle8
+K plays a Copper and a Gold. (+$4)
+K buys Sinister Plot.
+K draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J plays a Survivors.
+J shuffles their deck.
+J looks at a Copper and a Cultist.
+J discards a Copper and a Cultist.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Harbinger.
+J draws 2 Coppers, a Steward, a Ruined Library and a Ruined Village.
+
+Turn 10 - Kbizzle8
+K starts their turn.
+K plays a Necropolis.
+K gets +2 Actions.
+K plays a Cultist.
+K draws 2 cards.
+J gains a Ruined Village.
+K plays a Steward.
+K gets +$2.
+K plays 4 Coppers. (+$4)
+K buys and gains a Gold.
+K draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Cultist (Sinister Plot).
+J plays a Steward.
+J trashes a Ruined Library and a Ruined Village.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Cultist and a Ruined Library.
+
+Turn 11 - Kbizzle8
+K starts their turn.
+K plays a Cultist.
+K shuffles their deck.
+K draws 2 cards.
+J gains a Ruined Village.
+K draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J plays a Cultist.
+J draws a Harbinger and a Ruined Village.
+K gains a Ruined Market.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Harbinger.
+J draws 2 Coppers, a Silver, a Steward and a Cultist.
+
+Turn 12 - Kbizzle8
+K starts their turn.
+K plays a Steward.
+K gets +$2.
+K plays 3 Coppers. (+$3)
+K buys and gains a Cultist.
+K draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J draws a Copper (Sinister Plot).
+J plays a Cultist.
+J draws a Copper and a Survivors.
+K gains a Survivors.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Skulk.
+J gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Ruined Library, a Ruined Market, a Ruined Village and a Skulk.
+
+Turn 13 - Kbizzle8
+K starts their turn.
+K draws 3 cards (Sinister Plot).
+K plays a King's Court.
+K plays a Ruined Village.
+K gets +1 Action.
+K plays a Ruined Village again.
+K gets +1 Action.
+K plays a Ruined Village a third time.
+K gets +1 Action.
+K plays a King's Court.
+K plays a Cultist.
+K shuffles their deck.
+K draws 2 cards.
+K plays a Cultist.
+K draws 2 cards.
+K plays a Cultist again.
+K draws 2 cards.
+K plays a Cultist a third time.
+K draws 2 cards.
+K plays a Harbinger.
+K draws a card.
+K gets +1 Action.
+K plays a Skulk.
+K gets +1 Buy.
+K takes Fear.
+J receives Fear.
+J discards a Ruined Library.
+K discards Fear.
+K plays a Survivors.
+K looks at 2 cards.
+K discards a card and a Hovel.
+K plays 6 Coppers and 2 Golds. (+$12)
+K buys and gains a Province.
+K buys and gains a Poacher.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J plays a Skulk.
+J gets +1 Buy.
+J takes War.
+K receives War.
+K reveals a Hovel, a Copper, a Ruined Village and a Ruined Market and finally Poacher.
+K trashes a Poacher.
+K discards a Copper, a Hovel, a Ruined Market and a Ruined Village.
+J discards War.
+J draws 5 Coppers.
+
+Turn 14 - Kbizzle8
+K starts their turn.
+K plays a Necropolis.
+K gets +2 Actions.
+

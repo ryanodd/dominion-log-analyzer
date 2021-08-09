@@ -1,0 +1,89 @@
+Game #82365468, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Harbinger.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Harbinger.
+J shuffles their deck.
+J draws 4 Coppers and a Harbinger.
+
+Turn 3 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Harbinger.
+J draws a Harbinger.
+J gets +1 Action.
+J plays a Harbinger.
+J draws an Estate.
+J gets +1 Action.
+J plays 4 Coppers. (+$4)
+J buys and gains a Harbinger.
+J draws 3 Coppers and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Harbinger.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Harbinger.
+
+Turn 5 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Harbinger.
+J draws an Estate.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains a Harbinger.
+J draws 2 Coppers, an Estate and 2 Harbingers.
+
+Turn 6 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Harbinger.
+J draws a Copper.
+J gets +1 Action.
+J looks at 2 Harbingers, 3 Coppers and 2 Estates.
+J looks at 2 Harbingers, 3 Coppers and 2 Estates.
+J topdecks an Estate.
+

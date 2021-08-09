@@ -1,0 +1,186 @@
+Game #82423728, rated.
+Jazzercise: 46.16
+Eradicators: 53.89
+
+Kingdom generated with these relative percentages:
+0%: Swamp Hag, Donate, Pirate Ship, Capitalism, Possession, Rebuild, Fleet and Hideout
+50%: Bandit Fort, Knights, Masquerade, Wolf Den, Golem, Cultist and Urchin
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+E starts with 7 Coppers.
+E starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+E shuffles their deck.
+E draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Peasant.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Eradicators
+E plays 4 Coppers. (+$4)
+E buys and gains a Swindler.
+E draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Swindler.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Peasant.
+
+Turn 2 - Eradicators
+E plays 3 Coppers. (+$3)
+E buys and gains a Peasant.
+E shuffles their deck.
+E draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Peasant.
+J gets +1 Buy.
+J gets +$1.
+J plays 3 Coppers. (+$3)
+J buys and gains a Scheme.
+J returns a Peasant.
+J receives a Soldier.
+J draws 3 Coppers, an Estate and a Swindler.
+
+Turn 3 - Eradicators
+E plays a Swindler.
+E gets +$2.
+J trashes a Copper.
+J gains a Curse.
+E plays 3 Coppers. (+$3)
+E buys and gains a Hunting Party.
+E draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Swindler.
+J gets +$2.
+E trashes a Copper.
+E gains a Curse.
+J plays 3 Coppers. (+$3)
+J buys and gains a Hunting Party.
+J shuffles their deck.
+J draws a Curse, 2 Coppers, an Estate and a Scheme.
+
+Turn 4 - Eradicators
+E plays a Peasant.
+E gets +1 Buy.
+E gets +$1.
+E plays 2 Coppers. (+$2)
+E buys and gains a Scheme.
+E returns a Peasant.
+E receives a Soldier.
+E shuffles their deck.
+E draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Scheme.
+J draws a Hunting Party.
+J gets +1 Action.
+J plays a Hunting Party.
+J draws a Copper.
+J gets +1 Action.
+J reveals their hand: a Curse, an Estate and 3 Coppers.
+J reveals a Copper and finally Swindler.
+J puts a Swindler into their hand.
+J discards a Copper.
+J plays a Swindler.
+J gets +$2.
+E trashes a Swindler.
+E gains a Leprechaun.
+J plays 3 Coppers. (+$3)
+J buys and gains a Hunting Party.
+J topdecks a Swindler.
+J draws 2 Coppers, an Estate, a Swindler and a Soldier.
+
+Turn 5 - Eradicators
+E plays a Hunting Party.
+E draws a card.
+E gets +1 Action.
+E reveals their hand: an Estate and 4 Coppers.
+E reveals an Estate and finally Soldier.
+E puts a Soldier into their hand.
+E discards an Estate.
+E plays a Soldier.
+E gets +$2.
+J discards an Estate.
+E plays 4 Coppers. (+$4)
+E buys and gains a Hunting Party.
+E returns a Soldier.
+E receives a Fugitive.
+E draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Soldier.
+J gets +$2.
+E discards a Curse.
+J plays 2 Coppers. (+$2)
+J buys and gains a Peasant.
+J returns a Soldier.
+J receives a Fugitive.
+J shuffles their deck.
+J draws a Copper, an Estate, a Hunting Party, a Scheme and a Peasant.
+
+Turn 6 - Eradicators
+E plays a Scheme.
+E shuffles their deck.
+E draws a card.
+E gets +1 Action.
+E plays 2 Coppers. (+$2)
+E buys and gains a Peasant.
+E topdecks a Scheme.
+E draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Scheme.
+J draws a Hunting Party.
+J gets +1 Action.
+J plays a Hunting Party.
+J draws a Fugitive.
+J gets +1 Action.
+J reveals their hand: an Estate, a Fugitive, a Hunting Party, a Copper and a Peasant.
+J reveals 2 Estates and 3 Coppers and finally Curse.
+J puts a Curse into their hand.
+J discards 3 Coppers and 2 Estates.
+J plays a Fugitive.
+J draws 2 Coppers.
+J gets +1 Action.
+J discards a Curse.
+J plays a Hunting Party.
+J draws a Swindler.
+J gets +1 Action.
+J reveals their hand: a Swindler, an Estate, 3 Coppers and a Peasant.
+J shuffles their deck.
+J reveals 2 Estates and finally Curse.
+J puts a Curse into their hand.
+J discards 2 Estates.
+J plays a Swindler.
+J gets +$2.
+E trashes a Hunting Party.
+E gains a Duchy.
+J plays 3 Coppers. (+$3)
+J buys and gains a Hunting Party.
+J returns a Fugitive.
+J receives a Disciple.
+J topdecks a Hunting Party.
+J shuffles their deck.
+J draws 3 Coppers and 2 Hunting Parties.
+
+Turn 7 - Eradicators
+E plays a Scheme.
+E draws a card.
+E gets +1 Action.
+E plays a Leprechaun.
+E gains a Gold.
+E takes War.
+E receives War.
+E reveals an Estate and finally Fugitive.
+E trashes a Fugitive.
+E discards an Estate.
+E discards War.
+

@@ -1,0 +1,461 @@
+Game #82461838, rated.
+Nertha: 47.35
+Jazzercise: 46.86
+
+
+N starts with 7 Coppers.
+N starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+N shuffles their deck.
+N draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - Nertha
+N plays 3 Coppers. (+$3)
+N buys and gains an Enchantress.
+N draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Masquerade.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - Nertha
+N plays 4 Coppers. (+$4)
+N buys and gains a Devil's Workshop.
+N shuffles their deck.
+N draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Masquerade.
+
+Turn 3 - Nertha
+N plays 3 Coppers. (+$3)
+N buys and gains a Vassal.
+N draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Masquerade.
+J draws 2 Coppers.
+J passes an Estate to N.
+N passes an Estate to J.
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 4 - Nertha
+N plays an Enchantress.
+N plays 3 Coppers. (+$3)
+N buys and gains a Masquerade.
+N shuffles their deck.
+N draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Masquerade.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Masquerade.
+
+Turn 5 - Nertha
+N starts their turn.
+N draws 2 cards (Enchantress).
+N plays a Masquerade.
+N draws 2 cards.
+N passes an Estate to J.
+J passes an Estate to N.
+N trashes an Estate.
+N plays 4 Coppers. (+$4)
+N buys and gains a Devil's Workshop.
+N plays a Devil's Workshop.
+N gains a Vassal.
+N shuffles their deck.
+N draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Masquerade.
+J draws a Copper and a Silver.
+J passes an Estate to N.
+N passes an Estate to J.
+J trashes an Estate.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver, an Estate and a Masquerade.
+
+Turn 6 - Nertha
+N plays a Masquerade.
+N draws 2 cards.
+N passes an Estate to J.
+J passes an Estate to N.
+N trashes an Estate.
+N plays a Devil's Workshop.
+N gains a Gold.
+N draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Masquerade.
+J shuffles their deck.
+J draws a Copper and a Gold.
+J passes an Estate to N.
+N passes an Estate to J.
+J trashes an Estate.
+J plays 3 Coppers, a Gold and a Silver. (+$8)
+J buys and gains a Province.
+J draws 3 Coppers, a Silver and a Masquerade.
+
+Turn 7 - Nertha
+N plays 3 Coppers. (+$3)
+N buys and gains an Enchantress.
+N plays a Devil's Workshop.
+N gains a Devil's Workshop.
+N shuffles their deck.
+N draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Masquerade.
+J shuffles their deck.
+J draws 2 Coppers.
+J passes a Copper to N.
+N passes a Copper to J.
+J trashes a Copper.
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Devil's Workshop.
+J draws 2 Coppers, a Silver, a Province and a Masquerade.
+
+Turn 8 - Nertha
+N plays an Enchantress.
+N draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Masquerade.
+Masquerade is enchanted by Enchantress
+J draws a Gold.
+J gets +1 Action.
+J plays 2 Coppers, a Gold and a Silver. (+$7)
+J buys and gains a Groundskeeper.
+J shuffles their deck.
+J draws a Copper, a Gold, a Masquerade, a Groundskeeper and a Devil's Workshop.
+
+Turn 9 - Nertha
+N starts their turn.
+N draws 2 cards (Enchantress).
+N plays 4 Coppers. (+$4)
+N buys and gains a Death Cart.
+N gains a Ruined Library and a Ruined Village.
+N plays a Devil's Workshop.
+N gains an Imp.
+N plays a Devil's Workshop.
+N gains an Imp.
+N draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays a Masquerade.
+J draws 2 Coppers.
+J passes a Copper to N.
+N passes a Copper to J.
+J trashes a Copper.
+J plays 2 Coppers and a Gold. (+$5)
+J plays a Devil's Workshop.
+J gains a Gold.
+J draws 2 Coppers, 2 Silvers and a Masquerade.
+
+Turn 10 - Nertha
+N plays a Masquerade.
+N shuffles their deck.
+N draws 2 cards.
+N passes a Copper to J.
+J passes a Copper to N.
+N plays 2 Coppers and a Gold. (+$5)
+N buys and gains a Groundskeeper.
+N plays a Devil's Workshop.
+N gains a Horse Traders.
+N plays a Devil's Workshop.
+N gains an Imp.
+N plays a Devil's Workshop.
+N gains an Imp.
+N draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Masquerade.
+J shuffles their deck.
+J draws 2 Coppers.
+J passes a Copper to N.
+N passes a Copper to J.
+J trashes a Copper.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys Canal.
+J draws a Copper, a Gold, a Province, a Masquerade and a Devil's Workshop.
+
+Turn 11 - Nertha
+N plays a Vassal.
+N gets +$2.
+N discards an Imp.
+N plays an Imp.
+N draws 2 cards.
+N plays a Death Cart.
+N trashes a Vassal.
+N gets +$5.
+N plays 3 Coppers. (+$3)
+N buys and gains a Province.
+N draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Masquerade.
+J draws a Gold and a Groundskeeper.
+J passes a Copper to N.
+N passes a Copper to J.
+J trashes a Copper.
+J plays 2 Golds. (+$6)
+J buys and gains a Gold.
+J plays a Devil's Workshop.
+J gains a Groundskeeper.
+J shuffles their deck.
+J draws a Copper, a Gold, a Province, a Masquerade and a Devil's Workshop.
+
+Turn 12 - Nertha
+N plays an Imp.
+N draws 2 cards.
+N plays a Ruined Village.
+N gets +1 Action.
+N plays an Enchantress.
+N shuffles their deck.
+N draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Masquerade.
+Masquerade is enchanted by Enchantress
+J draws a Gold.
+J gets +1 Action.
+J plays a Copper and 2 Golds. (+$7)
+J buys and gains a Province.
+J plays a Devil's Workshop.
+J gains a Groundskeeper.
+J draws a Copper, a Silver, a Gold, a Masquerade and a Groundskeeper.
+
+Turn 13 - Nertha
+N starts their turn.
+N draws 2 cards (Enchantress).
+N plays a Groundskeeper.
+N draws a card.
+N gets +1 Action.
+N plays an Imp.
+N draws 2 cards.
+N plays a Ruined Village.
+N gets +1 Action.
+N plays an Imp.
+N draws 2 cards.
+N plays 6 Coppers. (+$6)
+N buys and gains a Groundskeeper.
+N plays a Devil's Workshop.
+N gains a Death Cart.
+N gains a Ruined Library and a Ruined Market.
+N plays a Devil's Workshop.
+N gains an Imp.
+N draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Groundskeeper.
+J draws a Copper.
+J gets +1 Action.
+J plays a Masquerade.
+J draws a Silver and a Groundskeeper.
+J passes a Copper to N.
+N passes an Estate to J.
+J trashes a Copper.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Province.
+J gets 1 VP from Groundskeeper.
+J shuffles their deck.
+J draws a Copper, a Gold, a Province, a Masquerade and a Devil's Workshop.
+
+Turn 14 - Nertha
+N plays a Horse Traders.
+N gets +1 Buy.
+N gets +$3.
+N discards a card and a Devil's Workshop.
+N plays a Copper and a Gold. (+$4)
+N buys Canal.
+N draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Masquerade.
+J draws a Silver and a Gold.
+J passes a Copper to N.
+N passes a Copper to J.
+J trashes a Copper.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains a Province.
+J plays a Devil's Workshop.
+J gains a Groundskeeper.
+J draws an Estate, a Province and 3 Groundskeepers.
+
+Turn 15 - Nertha
+N plays an Imp.
+N draws 2 cards.
+N plays a Vassal.
+N gets +$2.
+N discards a Masquerade.
+N plays a Masquerade.
+N shuffles their deck.
+N draws 2 cards.
+N passes a Ruined Library to J.
+J passes an Estate to N.
+N plays 2 Coppers. (+$2)
+N buys and gains a Duchy.
+N plays a Devil's Workshop.
+N gains a Werewolf.
+N draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Groundskeeper.
+J draws a Gold.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Silver.
+J gets +1 Action.
+J plays a Ruined Library.
+J draws a Masquerade.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Duchy.
+J gets 3 VP from Groundskeeper.
+J shuffles their deck.
+J draws a Silver, 3 Provinces and a Devil's Workshop.
+
+Turn 16 - Nertha
+N plays a Horse Traders.
+N gets +1 Buy.
+N gets +$3.
+N discards a card and a Devil's Workshop.
+N plays a Copper and a Gold. (+$4)
+N buys and gains a Province.
+N buys and gains a Ruined Library.
+N draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Silver. (+$2)
+J plays a Devil's Workshop.
+J gains a Gold.
+J draws a Gold, a Province, a Masquerade, a Ruined Library and a Groundskeeper.
+
+Turn 17 - Nertha
+N plays an Imp.
+N draws 2 cards.
+N plays a Death Cart.
+N trashes a Ruined Market.
+N gets +$5.
+N plays a Copper. (+$1)
+N buys and gains a Duchy.
+N plays a Devil's Workshop.
+N gains a Falconer.
+N draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Groundskeeper.
+J draws a Gold.
+J gets +1 Action.
+J plays a Masquerade.
+J draws a Duchy and a Groundskeeper.
+J passes a Ruined Library to N.
+N passes a Copper to J.
+J trashes a Groundskeeper.
+J plays a Copper and 2 Golds. (+$7)
+J buys and gains a Province.
+J gets 1 VP from Groundskeeper.
+J draws a Silver, a Gold, a Masquerade and 2 Groundskeepers.
+
+Turn 18 - Nertha
+N plays a Groundskeeper.
+N draws a card.
+N gets +1 Action.
+N plays an Imp.
+N draws 2 cards.
+N plays an Enchantress.
+N plays 3 Coppers. (+$3)
+N buys and gains a Cargo Ship.
+N shuffles their deck.
+N draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Masquerade.
+Masquerade is enchanted by Enchantress
+J shuffles their deck.
+J draws a Masquerade.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Province.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Copper.
+J gets +1 Action.
+J plays a Masquerade.
+J draws 2 Provinces.
+J passes a Copper to N.
+N passes a Copper to J.
+J trashes a Copper.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Duchy.
+J gets 3 VP from Groundskeeper.
+J draws a Gold, a Duchy, 2 Provinces and a Devil's Workshop.
+
+Turn 19 - Nertha
+N starts their turn.
+N draws 2 cards (Enchantress).
+N plays an Imp.
+N draws 2 cards.
+N plays a Groundskeeper.
+N draws a card.
+N gets +1 Action.
+N plays a Groundskeeper.
+N draws a card.
+N gets +1 Action.
+N plays an Imp.
+N draws 2 cards.
+N plays a Ruined Village.
+N gets +1 Action.
+N plays a Falconer.
+N gains a Silver.
+N plays 3 Coppers and a Silver. (+$5)
+N buys and gains a Duchy.
+N gets 2 VP from Groundskeeper.
+N plays a Werewolf.
+N takes Greed.
+J receives Greed.
+J gains a Copper.
+N discards Greed.
+N plays a Devil's Workshop.
+N gains an Imp.
+N draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Gold. (+$3)
+J buys and gains a Death Cart.
+J gains an Abandoned Mine and a Ruined Library.
+J plays a Devil's Workshop.
+J gains an Imp.
+J shuffles their deck.
+J draws a Copper, a Silver and 3 Golds.
+
+Turn 20 - Nertha
+N plays a Horse Traders.
+N gets +1 Buy.
+N gets +$3.
+N discards a card and a Duchy.
+N plays a Copper and a Gold. (+$4)
+N buys and gains a Province.
+N buys and gains a Curse.
+N draws 5 cards.
+

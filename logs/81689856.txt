@@ -1,0 +1,429 @@
+Game #81689856, unrated.
+
+
+L starts with a Pouch.
+L starts with 6 Coppers.
+L starts with 3 Estates.
+J starts with a Pouch.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and a Pouch.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Militia.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Barge.
+J draws 2 Coppers and 3 Estates.
+
+Turn 2 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J shuffles their deck.
+J draws a Copper, 2 Estates, a Pouch and a Barge.
+
+Turn 3 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards 2 Estates.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Barge.
+J draws 2 Coppers and an Estate.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 4 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L plays 2 Coppers. (+$2)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Raider.
+J draws 2 Coppers, an Estate, a Pouch and a Barge.
+
+Turn 5 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Vault.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Barge.
+J shuffles their deck.
+J draws a Copper and 2 Estates.
+J gets +1 Buy.
+J plays 3 Coppers. (+$3)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and a Raider.
+
+Turn 6 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Barge.
+J plays a Raider.
+L discards a Copper.
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 7 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards 2 Coppers.
+L plays 2 Silvers. (+$4)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Gold.
+J draws a Silver, an Estate, a Pouch and 2 Barges.
+
+Turn 8 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Barge using Way of the Pig.
+J draws a Copper.
+J gets +1 Action.
+J plays a Barge.
+J draws a Copper and 2 Estates.
+J gets +1 Buy.
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Barge.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Barge.
+
+Turn 9 - Lord Rattington
+L plays a Vault.
+L shuffles their deck.
+L draws 2 cards.
+L discards 3 other cards and a Copper.
+L gets +$4.
+J discards a Copper and an Estate.
+J draws a Copper.
+L plays 2 Silvers. (+$4)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Barge.
+J draws a Copper, an Estate and a Pouch.
+J gets +1 Buy.
+J plays 3 Coppers and a Silver. (+$5)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver, an Estate and a Barge.
+
+Turn 10 - Lord Rattington
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Barge.
+J draws a Gold, a Raider and a Barge.
+J gets +1 Buy.
+J plays 2 Coppers, a Silver and a Gold. (+$7)
+J buys and gains a Gold.
+J plays a Raider.
+L discards a Copper.
+J shuffles their deck.
+J draws 3 Coppers, a Pouch and a Barge.
+
+Turn 11 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards 2 Coppers.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Vault.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Barge.
+J draws a Copper and 2 Golds.
+J gets +1 Buy.
+J plays 2 Coppers and 2 Golds. (+$8)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Platinum.
+J buys and gains a Sheepdog.
+J draws a Copper, a Gold, 2 Estates and a Barge.
+
+Turn 12 - Lord Rattington
+L plays 2 Coppers and a Silver. (+$4)
+L plays a Pouch. (+$1)
+L gets +1 Buy.
+L buys and gains a Vault.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Barge.
+J draws 2 Silvers and an Estate.
+J gets +1 Buy.
+J plays a Copper, 2 Silvers and a Gold. (+$8)
+J buys and gains a Gold.
+J buys and gains a Tracker.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Pouch and a Barge.
+
+Turn 13 - Lord Rattington
+L plays 2 Coppers, a Silver and a Gold. (+$7)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Barge.
+J draws 2 Coppers and a Silver.
+J gets +1 Buy.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Gold.
+J draws a Copper, 2 Golds, a Raider and a Tracker.
+
+Turn 14 - Lord Rattington
+L plays a Militia.
+L gets +$2.
+J discards a Copper and a Tracker.
+L plays a Copper and a Silver. (+$3)
+L buys and gains a Vault.
+L draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays 2 Golds. (+$6)
+J buys and gains a Gold.
+J plays a Raider.
+L reveals their hand: a Vault, a Copper, 2 Silvers and an Estate.
+J draws 2 Golds, a Platinum, a Sheepdog and a Barge.
+
+Turn 15 - Lord Rattington
+L plays a Vault.
+L shuffles their deck.
+L draws 2 cards.
+L discards 2 other cards and a Vault.
+L gets +$3.
+J discards a Gold and a Sheepdog.
+J draws a Barge.
+L plays 3 Silvers. (+$6)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Barge using Way of the Pig.
+J draws a Copper.
+J gets +1 Action.
+J plays a Barge.
+J draws a Copper and 2 Estates.
+J gets +1 Buy.
+J plays a Platinum, 2 Coppers and a Gold. (+$10)
+J buys and gains a Colony.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Platinum.
+
+Turn 16 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 4 other cards and a Province.
+L gets +$5.
+J discards a Copper and an Estate.
+J draws an Estate.
+L plays a Gold. (+$3)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Platinum and 2 Coppers. (+$7)
+J buys and gains a Gold.
+J draws 2 Coppers, 2 Golds and a Barge.
+
+Turn 17 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 2 other cards and a Pouch.
+L gets +$3.
+J discards 2 Coppers.
+J draws a Barge.
+L plays 2 Silvers and a Gold. (+$7)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Barge using Way of the Pig.
+J draws a Gold.
+J gets +1 Action.
+J plays a Barge.
+J draws a Silver, a Gold and a Tracker.
+J gets +1 Buy.
+J plays a Silver and 4 Golds. (+$14)
+J buys and gains a Colony.
+J draws a Silver, a Gold, an Estate, a Colony and a Pouch.
+
+Turn 18 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 5 other cards and a Copper.
+L gets +$6.
+J discards an Estate and a Colony.
+J draws a Gold.
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Silver and 2 Golds. (+$8)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Platinum.
+J shuffles their deck.
+J draws 2 Coppers, a Raider, a Sheepdog and a Barge.
+
+Turn 19 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 2 other cards and a Province.
+L gets +$3.
+J discards 2 Coppers.
+J draws a Barge.
+L plays 2 Silvers and a Gold. (+$7)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Sheepdog using Way of the Pig.
+J draws an Estate.
+J gets +1 Action.
+J plays a Barge using Way of the Pig.
+J draws a Gold.
+J gets +1 Action.
+J plays a Barge.
+J draws a Silver, a Gold and an Estate.
+J gets +1 Buy.
+J plays a Silver and 2 Golds. (+$8)
+J buys and gains a Gold.
+J plays a Raider.
+L reveals their hand: a Vault, 2 Coppers, a Province and a Pouch.
+J draws 3 Coppers, a Gold and an Estate.
+
+Turn 20 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 5 other cards and a Copper.
+L gets +$6.
+J discards a Copper and an Estate.
+J draws a Gold.
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 20 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays 2 Coppers and 2 Golds. (+$8)
+J buys and gains a Colony.
+J draws a Copper, 2 Golds, a Colony and a Platinum.
+
+Turn 21 - Lord Rattington
+L plays 2 Silvers and a Gold. (+$7)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 21 - Jazzercise
+J plays a Platinum, a Copper and 2 Golds. (+$12)
+J buys and gains a Colony.
+J draws a Silver, a Gold, a Platinum, a Tracker and a Barge.
+
+Turn 22 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 4 other cards and an Estate.
+L gets +$5.
+J discards a Silver and a Tracker.
+J draws a Pouch.
+L plays a Silver. (+$2)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 22 - Jazzercise
+J plays a Barge.
+J shuffles their deck.
+J draws a Silver, an Estate and a Colony.
+J gets +1 Buy.
+J plays a Platinum, a Silver and a Gold. (+$10)
+J plays a Pouch. (+$1)
+J gets +1 Buy.
+J buys and gains a Colony.
+J draws 2 Coppers, a Gold, an Estate and a Platinum.
+
+Turn 23 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 4 other cards and a Copper.
+L gets +$5.
+L plays a Gold. (+$3)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 23 - Jazzercise
+J plays a Platinum, 2 Coppers and a Gold. (+$10)
+J buys and gains a Platinum.
+J draws a Copper, a Gold, a Colony, a Tracker and a Barge.
+
+Turn 24 - Lord Rattington
+L plays a Vault.
+L draws 2 cards.
+L discards 3 other cards and a Duchy.
+L gets +$4.
+J discards a Copper and a Colony.
+J draws a Raider.
+L plays a Silver and a Gold. (+$5)
+L buys and gains a Province.
+L draws 5 cards.
+

@@ -1,0 +1,497 @@
+Game #81741954, rated.
+skizelo: 51.47
+Jazzercise: 41.9
+
+Kingdom generated with these relative percentages:
+0%: Possession, Philosopher's Stone, Harvest, Baths, Counting House and Scrying Pool
+50%: Rebuild, Annex, Invest, Sauna, Swindler, Governor, Urchin and Keep
+
+
+s gets +1 Coffers.
+J gets +1 Coffers.
+s starts with a Goat.
+s starts with 6 Coppers.
+s starts with 3 Estates.
+J starts with a Goat.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+s shuffles their deck.
+s draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - skizelo
+s plays 4 Coppers. (+$4)
+s uses 1 Coffers. (+$1)
+s buys and gains a Swashbuckler.
+s draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Loan.
+J draws 3 Coppers, an Estate and a Goat.
+
+Turn 2 - skizelo
+s plays a Goat. (+$1)
+s trashes an Estate.
+s plays a Copper. (+$1)
+s buys and gains a Pixie.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays a Goat. (+$1)
+J trashes an Estate.
+J plays 3 Coppers. (+$3)
+J uses 1 Coffers. (+$1)
+J buys and gains a Swashbuckler.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Loan and a Goat.
+
+Turn 3 - skizelo
+s plays a Pixie.
+s draws a card.
+s gets +1 Action.
+s takes The Moon's Gift.
+s discards The Moon's Gift.
+s plays 3 Coppers. (+$3)
+s buys and gains a Silver.
+s draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Goat. (+$1)
+J trashes an Estate.
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Worker's Village.
+J draws 3 Coppers, an Estate and a Swashbuckler.
+
+Turn 4 - skizelo
+s plays a Goat. (+$1)
+s trashes a Copper.
+s buys Delay.
+s sets a Swashbuckler aside.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Swashbuckler.
+J shuffles their deck.
+J draws a Copper, a Loan and a Worker's Village.
+J plays a Loan. (+$1)
+J reveals a Copper.
+J trashes a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains a Baker.
+J shuffles their deck.
+J draws 2 Coppers, a Baker, a Goat and a Swashbuckler.
+
+Turn 5 - skizelo
+s starts their turn.
+s plays a Swashbuckler. (Delay)
+s draws 3 cards.
+s plays a Pixie.
+s draws a card.
+s gets +1 Action.
+s takes The Field's Gift.
+s discards The Field's Gift.
+s plays a Goat. (+$1)
+s trashes an Estate.
+s plays a Silver and 5 Coppers. (+$7)
+s buys Canal.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Baker.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Swashbuckler.
+J draws 2 Coppers and a Loan.
+J plays a Loan. (+$1)
+J reveals a Worker's Village.
+J discards a Worker's Village.
+J plays a Goat. (+$1)
+J trashes an Estate.
+J plays 4 Coppers. (+$4)
+J buys and gains a Baker.
+J shuffles their deck.
+J draws 2 Coppers, a Worker's Village, a Baker and a Goat.
+
+Turn 6 - skizelo
+s plays a Goat. (+$1)
+s trashes an Estate.
+s plays 2 Coppers. (+$2)
+s buys and gains a Worker's Village.
+s draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Worker's Village.
+J draws a Loan.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Baker.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Loan. (+$1)
+J reveals a Swashbuckler and a Baker and finally Copper.
+J trashes a Copper.
+J discards a Baker and a Swashbuckler.
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays 2 Coppers. (+$2)
+J uses 2 Coffers. (+$2)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Loan, a Worker's Village, a Goat and a Swashbuckler.
+
+Turn 7 - skizelo
+s plays a Pixie.
+s shuffles their deck.
+s draws a card.
+s gets +1 Action.
+s takes The Swamp's Gift.
+s trashes a Pixie.
+s gains 2 Will-o'-Wisps.
+s discards The Swamp's Gift.
+s plays a Swashbuckler.
+s draws 3 cards.
+s gets +1 Coffers.
+s plays a Goat. (+$1)
+s trashes a Copper.
+s plays a Silver and 3 Coppers. (+$5)
+s buys and gains a Baker.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Worker's Village.
+J draws a Baker.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Baker.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Swashbuckler.
+J draws a Gold and a Baker.
+J plays a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Gold and 2 Coppers. (+$5)
+J plays a Goat. (+$1)
+J plays a Loan. (+$1)
+J buys Canal.
+J shuffles their deck.
+J draws a Copper, a Gold, a Loan, a Baker and a Swashbuckler.
+
+Turn 8 - skizelo
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Swashbuckler.
+s topdecks a Swashbuckler.
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Copper.
+s puts a Copper into their hand.
+s plays a Silver and 4 Coppers. (+$6)
+s buys and gains a Worker's Village.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Baker.
+J draws a Goat.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Swashbuckler.
+J draws a Copper, a Worker's Village and a Baker.
+J plays a Gold and 2 Coppers. (+$5)
+J buys and gains a Baker.
+J shuffles their deck.
+J draws a Copper, a Gold, a Loan and 2 Bakers.
+
+Turn 9 - skizelo
+s plays a Baker.
+s draws a card.
+s gets +1 Action.
+s gets +1 Coffers.
+s plays a Worker's Village.
+s draws a card.
+s gets +2 Actions.
+s gets +1 Buy.
+s plays a Swashbuckler.
+s draws 3 cards.
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Will-o'-Wisp.
+s puts a Will-o'-Wisp into their hand.
+s plays a Goat. (+$1)
+s trashes a Copper.
+s plays a Silver and 3 Coppers. (+$5)
+s buys Delay.
+s sets a Worker's Village aside.
+s buys and gains a Bard.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Baker.
+J draws a Goat.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Worker's Village.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Worker's Village.
+J draws a Copper.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Gold and 2 Coppers. (+$5)
+J plays a Goat. (+$1)
+J plays a Loan. (+$1)
+J reveals a Swashbuckler.
+J discards a Swashbuckler.
+J buys and gains a Baker.
+J buys and gains a Worker's Village.
+J shuffles their deck.
+J draws 2 Coppers, a Loan, a Worker's Village and a Baker.
+
+Turn 10 - skizelo
+s starts their turn.
+s plays a Worker's Village. (Delay)
+s draws a card.
+s gets +2 Actions.
+s gets +1 Buy.
+s plays a Baker.
+s draws a card.
+s gets +1 Action.
+s gets +1 Coffers.
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Bard.
+s topdecks a Bard.
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Copper.
+s puts a Copper into their hand.
+s plays a Bard.
+s gets +$2.
+s takes The Wind's Gift.
+s receives The Wind's Gift.
+s draws a card.
+s discards a card and a Copper.
+s discards The Wind's Gift.
+s plays a Swashbuckler.
+s shuffles their deck.
+s draws 2 cards.
+s plays a Goat. (+$1)
+s trashes a Copper.
+s plays a Silver and 2 Coppers. (+$4)
+s buys and gains a Worker's Village.
+s buys and gains a Bard.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Worker's Village.
+J draws a Baker.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Baker.
+J draws a Gold.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Swashbuckler.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Swashbuckler.
+J draws a Worker's Village, a Baker and a Goat.
+J plays a Worker's Village.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Goat. (+$1)
+J trashes a Loan.
+J plays a Gold and 2 Coppers. (+$5)
+J uses 5 Coffers. (+$5)
+J buys and gains 2 Bakers.
+J buys and gains a Worker's Village.
+J shuffles their deck.
+J draws a Copper, a Gold, a Worker's Village, a Baker and a Goat.
+
+Turn 11 - skizelo
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Bard.
+s topdecks a Bard.
+s plays a Baker.
+s draws a card.
+s gets +1 Action.
+s gets +1 Coffers.
+s plays a Worker's Village.
+s draws a card.
+s gets +2 Actions.
+s gets +1 Buy.
+s plays a Bard.
+s gets +$2.
+s takes The Earth's Gift.
+s receives The Earth's Gift.
+s discards a Copper.
+s gains a Worker's Village.
+s discards The Earth's Gift.
+s plays a Worker's Village.
+s draws a card.
+s gets +2 Actions.
+s gets +1 Buy.
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Worker's Village.
+s topdecks a Worker's Village.
+s plays a Swashbuckler.
+s draws 3 cards.
+s gets +1 Coffers.
+s takes the Treasure Chest.
+s plays a Bard.
+s gets +$2.
+s takes The River's Gift.
+s receives The River's Gift.
+s gains a Gold.
+s plays a Goat. (+$1)
+s trashes a Copper.
+s plays a Silver. (+$2)
+s buys Delay.
+s sets a Worker's Village aside.
+s buys and gains 2 Worker's Villages.
+s discards The River's Gift.
+s shuffles their deck.
+s draws 6 cards.
+
+Turn 11 - Jazzercise
+J plays a Worker's Village.
+J draws a Swashbuckler.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Swashbuckler.
+J draws a Copper and 2 Bakers.
+J plays a Baker.
+J draws a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Worker's Village.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J draws a Worker's Village.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Baker.
+J gets +1 Action.
+J gets +1 Coffers.
+J plays a Worker's Village.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Worker's Village.
+J gets +2 Actions.
+J gets +1 Buy.
+J plays a Goat. (+$1)
+J trashes a Copper.
+J plays a Gold and a Copper. (+$4)
+J uses 8 Coffers. (+$8)
+J buys and gains a Worker's Village.
+J buys and gains a Bard.
+J buys and gains a Baker.
+J buys and gains a Bard.
+J shuffles their deck.
+J draws a Copper, a Worker's Village, 2 Bakers and a Bard.
+
+Turn 12 - skizelo
+s starts their turn.
+s plays a Worker's Village. (Delay)
+s draws a card.
+s gets +2 Actions.
+s gets +1 Buy.
+s plays a Baker.
+s draws a card.
+s gets +1 Action.
+s gets +1 Coffers.
+s plays a Bard.
+s gets +$2.
+s takes The Flame's Gift.
+s receives The Flame's Gift.
+s discards The Flame's Gift.
+s plays a Worker's Village.
+s draws a card.
+s gets +2 Actions.
+s gets +1 Buy.
+s plays a Will-o'-Wisp.
+s draws a card.
+s gets +1 Action.
+s reveals a Copper.
+s puts a Copper into their hand.
+s plays a Bard.
+s gets +$2.
+s takes The Forest's Gift.
+s receives The Forest's Gift.
+s gets +1 Buy.
+s gets +$1.
+s plays a Worker's Village.
+s draws a card.
+s gets +2 Actions.
+s gets +1 Buy.
+s plays a Swashbuckler.
+s draws 3 cards.
+s plays a Worker's Village.
+s gets +2 Actions.
+s gets +1 Buy.
+s gains a Gold.
+s plays a Goat. (+$1)
+s trashes a Copper.
+s plays a Gold and a Silver. (+$5)
+s uses 3 Coffers. (+$3)
+s buys Delay.
+s sets a Worker's Village aside.
+s buys Delay.
+s sets a Worker's Village aside.
+s buys Delay.
+s sets a Will-o'-Wisp aside.
+s buys and gains 2 Mills.
+s buys and gains a Province.
+s discards The Forest's Gift.
+s shuffles their deck.
+s draws 5 cards.
+
+Turn 12 - Jazzercise
+

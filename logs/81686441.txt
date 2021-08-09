@@ -1,0 +1,485 @@
+Game #81686441, unrated.
+
+
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L shuffles their deck.
+L draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Potion.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Silver.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Flag Bearer.
+L takes the Flag.
+L draws 6 cards.
+
+Turn 3 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Potion.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 4 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L plays a Potion.
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 6 cards.
+
+Turn 4 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Hamlet.
+J shuffles their deck.
+J draws 3 Coppers, a Potion and a Hamlet.
+
+Turn 5 - Lord Rattington
+L plays a Copper. (+$1)
+L plays a Potion.
+L plays 2 Silvers and a Copper. (+$5)
+L buys and gains a Gold.
+L draws 6 cards.
+
+Turn 5 - Jazzercise
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays 4 Coppers. (+$4)
+J plays a Potion.
+J buys and gains a Golem.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 6 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Flag Bearer.
+L shuffles their deck.
+L draws 6 cards.
+
+Turn 6 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Hamlet.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Potion.
+
+Turn 7 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Gold.
+L draws 6 cards.
+
+Turn 7 - Jazzercise
+J plays a Silver and a Copper. (+$3)
+J plays a Potion.
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver and 2 Hamlets.
+
+Turn 8 - Lord Rattington
+L plays a Silver. (+$2)
+L plays a Potion.
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 6 cards.
+
+Turn 8 - Jazzercise
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Golem.
+J gets +1 Action.
+J plays a Golem.
+J reveals 3 Coppers and an Estate.
+J shuffles their deck.
+J reveals 2 Silvers, a Copper, 2 Estates and a Potion.
+J discards 4 Coppers, 2 Silvers, 3 Estates and a Potion.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Potion.
+
+Turn 9 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays 3 Coppers. (+$3)
+L buys and gains a Flag Bearer.
+L draws 6 cards.
+
+Turn 9 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J plays a Potion.
+J buys and gains a Golem.
+J draws a Copper, 2 Silvers, an Estate and a Hamlet.
+
+Turn 10 - Lord Rattington
+L plays a Copper and 2 Golds. (+$7)
+L plays a Potion.
+L buys and gains a Gold.
+L draws 6 cards.
+
+Turn 10 - Jazzercise
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays 3 Silvers. (+$6)
+J buys and gains a Grand Market.
+J draws 3 Coppers, an Estate and a Golem.
+
+Turn 11 - Lord Rattington
+L plays 2 Silvers, 3 Coppers and a Gold. (+$10)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 6 cards.
+
+Turn 11 - Jazzercise
+J plays a Golem.
+J reveals a Copper and a Hamlet.
+J shuffles their deck.
+J reveals a Silver, a Grand Market and a Copper.
+J discards 2 Coppers and a Silver.
+J plays a Hamlet.
+J draws an Estate.
+J gets +1 Action.
+J plays a Grand Market.
+J draws a Hamlet.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hamlet.
+J draws an Estate.
+J gets +1 Action.
+J plays 3 Coppers. (+$3)
+J buys and gains 2 Hamlets.
+J draws a Copper, 2 Silvers, a Golem and a Potion.
+
+Turn 12 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays a Silver, a Copper and a Gold. (+$6)
+L buys and gains a Province.
+L draws 6 cards.
+
+Turn 12 - Jazzercise
+J plays a Golem.
+J reveals a Silver and a Copper.
+J shuffles their deck.
+J reveals a Silver, a Golem, a Copper, an Estate and 2 Hamlets.
+J discards 2 Coppers, 2 Silvers, an Estate and a Golem.
+J plays a Hamlet.
+J draws an Estate.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J discards an Estate.
+J gets +1 Buy.
+J plays 2 Silvers and 2 Coppers. (+$6)
+J plays a Potion.
+J buys and gains a Golem.
+J buys and gains a Hamlet.
+J draws 2 Coppers, an Estate and 2 Hamlets.
+
+Turn 13 - Lord Rattington
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Flag Bearer.
+L draws 6 cards.
+
+Turn 13 - Jazzercise
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Grand Market.
+J gets +1 Action.
+J discards an Estate.
+J gets +1 Buy.
+J plays a Grand Market.
+J shuffles their deck.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays 3 Coppers. (+$3)
+J buys and gains 2 Hamlets.
+J draws 3 Coppers, an Estate and a Golem.
+
+Turn 14 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays 3 Coppers and 2 Golds. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 6 cards.
+
+Turn 14 - Jazzercise
+J plays a Golem.
+J reveals 2 Silvers, a Copper, a Golem and 2 Hamlets.
+J discards a Copper, 2 Silvers and a Golem.
+J plays a Hamlet.
+J draws a Hamlet.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Potion.
+J gets +1 Action.
+J plays a Silver and 3 Coppers. (+$5)
+J plays a Potion.
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Golem and a Hamlet.
+
+Turn 15 - Lord Rattington
+L plays a Silver, 2 Coppers and a Gold. (+$7)
+L plays a Potion.
+L buys and gains a Gold.
+L draws 6 cards.
+
+Turn 15 - Jazzercise
+J plays a Golem.
+J reveals a Copper and 2 Hamlets.
+J discards a Copper.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays 2 Silvers and 3 Coppers. (+$7)
+J buys and gains a Gold.
+J draws a Copper, an Estate, a Grand Market and 2 Hamlets.
+
+Turn 16 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 6 cards.
+
+Turn 16 - Jazzercise
+J plays a Grand Market.
+J draws a Potion.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays 2 Silvers. (+$4)
+J buys and gains a Grand Market.
+J draws an Estate, 2 Golems and 2 Hamlets.
+
+Turn 17 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays 3 Golds. (+$9)
+L buys and gains a Province.
+L draws 6 cards.
+
+Turn 17 - Jazzercise
+J plays a Golem.
+J reveals a Silver and 2 Coppers.
+J shuffles their deck.
+J reveals 2 Coppers and 2 Hamlets.
+J discards 4 Coppers and a Silver.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays a Golem.
+J reveals a Silver, a Grand Market and a Hamlet.
+J discards a Silver.
+J plays a Grand Market.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hamlet.
+J draws a Gold.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Hamlet.
+J gets +1 Action.
+J discards an Estate.
+J gets +1 Buy.
+J plays a Hamlet.
+J draws a Hamlet.
+J gets +1 Action.
+J discards an Estate.
+J gets +1 Buy.
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Silver.
+J gets +1 Action.
+J plays 3 Silvers, a Copper and a Gold. (+$10)
+J buys and gains 2 Goons.
+J draws 2 Coppers, an Estate, a Golem and a Potion.
+
+Turn 18 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 6 cards.
+
+Turn 18 - Jazzercise
+J plays a Golem.
+J reveals a Grand Market.
+J shuffles their deck.
+J reveals a Silver, a Golem, a Copper, a Gold and a Hamlet.
+J discards a Copper, a Silver, a Gold and a Golem.
+J plays a Grand Market.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hamlet.
+J draws a Hamlet.
+J gets +1 Action.
+J discards an Estate.
+J gets +1 Buy.
+J plays a Hamlet.
+J draws an Estate.
+J gets +1 Action.
+J plays a Silver and 2 Coppers. (+$4)
+J plays a Potion.
+J buys and gains a Golem.
+J draws a Copper, 2 Silvers, a Goons and a Hamlet.
+
+Turn 19 - Lord Rattington
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Duchy.
+L draws 6 cards.
+
+Turn 19 - Jazzercise
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+L discards 2 other cards and a Silver.
+J plays 2 Silvers. (+$4)
+J buys a Grand Market.
+J gets 1 VP from Goons.
+J gains a Grand Market.
+J draws a Copper, a Silver, a Goons and 2 Hamlets.
+
+Turn 20 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays a Gold. (+$3)
+L buys and gains a Duchy.
+L draws 6 cards.
+
+Turn 20 - Jazzercise
+J plays a Hamlet.
+J draws a Golem.
+J gets +1 Action.
+J plays a Golem.
+J reveals a Grand Market, an Estate and a Hamlet.
+J discards an Estate.
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays a Grand Market.
+J draws a Hamlet.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hamlet.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J plays a Hamlet.
+J draws a Copper.
+J gets +1 Action.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+L discards 2 other cards and a Province.
+J plays 2 Silvers and 3 Coppers. (+$7)
+J buys a Goons.
+J gets 1 VP from Goons.
+J gains a Goons.
+J draws 2 Coppers, a Silver, a Gold and a Golem.
+
+Turn 21 - Lord Rattington
+L plays 2 Coppers and a Gold. (+$5)
+L buys and gains a Duchy.
+L draws 6 cards.
+
+Turn 21 - Jazzercise
+J plays a Golem.
+J reveals 2 Silvers, a Goons, a Hamlet and a Potion.
+J discards 2 Silvers and a Potion.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+L discards 2 other cards and a Gold.
+J plays a Hamlet.
+J draws a Grand Market.
+J gets +1 Action.
+J plays a Grand Market.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver, 2 Coppers and a Gold. (+$7)
+J buys a Goons.
+J gets 1 VP from Goons.
+J gains a Goons.
+J buys a Hamlet.
+J gets 1 VP from Goons.
+J gains a Hamlet.
+J buys a Hamlet.
+J gets 1 VP from Goons.
+J gains a Hamlet.
+J draws a Copper, an Estate, 2 Golems and a Grand Market.
+
+Turn 22 - Lord Rattington
+L plays a Flag Bearer.
+L gets +$2.
+L plays a Gold. (+$3)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 6 cards.
+
+Turn 22 - Jazzercise
+

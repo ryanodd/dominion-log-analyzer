@@ -1,0 +1,619 @@
+Game #82492755, rated.
+Jazzercise: 46.31
+Johan: 50.62
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+
+Ja starts with 7 Coppers.
+Ja starts with 3 Estates.
+Jo starts with 7 Coppers.
+Jo starts with 3 Estates.
+Ja shuffles their deck.
+Ja draws 4 Coppers and an Estate.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 1 - Jazzercise
+Ja plays 4 Coppers. (+$4)
+Ja buys and gains a Lookout.
+Ja draws 3 Coppers and 2 Estates.
+
+Turn 1 - Johan
+Jo plays 3 Coppers. (+$3)
+Jo buys and gains a Lookout.
+Jo draws 5 cards.
+
+Turn 2 - Jazzercise
+Ja plays 3 Coppers. (+$3)
+Ja buys and gains a Lookout.
+Ja shuffles their deck.
+Ja draws 3 Coppers, an Estate and a Lookout.
+
+Turn 2 - Johan
+Jo plays 4 Coppers. (+$4)
+Jo buys and gains a Poacher.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 3 - Jazzercise
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja looks at a Lookout and 2 Coppers.
+Ja trashes a Copper.
+Ja discards a Copper.
+Ja topdecks a Lookout.
+Ja plays 3 Coppers. (+$3)
+Ja buys and gains a Silver.
+Ja draws 2 Coppers, 2 Estates and a Lookout.
+
+Turn 3 - Johan
+Jo plays a Lookout.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes a Copper.
+Jo discards a Copper.
+Jo topdecks a card.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays 4 Coppers. (+$4)
+Jo buys and gains a Council Room.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 4 - Jazzercise
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja shuffles their deck.
+Ja looks at a Lookout, a Copper and a Silver.
+Ja trashes a Copper.
+Ja discards a Silver.
+Ja topdecks a Lookout.
+Ja plays 2 Coppers. (+$2)
+Ja draws 3 Coppers, an Estate and a Lookout.
+
+Turn 4 - Johan
+Jo plays 2 Coppers. (+$2)
+Jo buys and gains a Duchess.
+Jo draws 5 cards.
+
+Turn 5 - Jazzercise
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja shuffles their deck.
+Ja looks at 2 Estates and a Copper.
+Ja trashes an Estate.
+Ja discards an Estate.
+Ja topdecks a Copper.
+Ja plays 3 Coppers. (+$3)
+Ja buys and gains a Merchant.
+Ja shuffles their deck.
+Ja draws 2 Coppers, a Silver, a Merchant and a Lookout.
+
+Turn 5 - Johan
+Jo plays a Council Room.
+Jo shuffles their deck.
+Jo draws 4 cards.
+Jo gets +1 Buy.
+Ja draws an Estate.
+Jo plays 5 Coppers. (+$5)
+Jo buys and gains a Villa.
+Jo puts a Villa into their hand.
+Jo gets +1 Action.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Lookout.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes an Estate.
+Jo discards an Estate.
+Jo topdecks a card.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Duchess.
+Jo gets +$2.
+Jo looks at a card.
+Jo discards a Copper.
+Ja looks at an Estate.
+Ja topdecks an Estate.
+Jo buys and gains a Royal Carriage.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 6 - Jazzercise
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja looks at an Estate and 2 Coppers.
+Ja trashes an Estate.
+Ja discards a Copper.
+Ja topdecks a Copper.
+Ja plays a Merchant.
+Ja draws a Copper.
+Ja gets +1 Action.
+Ja plays 3 Coppers and a Silver. (+$5)
+Ja gets +$1.
+Ja buys and gains a Border Village.
+Ja gains a Ranger.
+Ja shuffles their deck.
+Ja draws 2 Coppers, 2 Lookouts and a Ranger.
+
+Turn 6 - Johan
+Jo plays a Lookout.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes an Estate.
+Jo discards a Copper.
+Jo topdecks a card.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Duchess.
+Jo gets +$2.
+Jo looks at a card.
+Jo topdecks a card.
+Ja looks at a Merchant.
+Ja topdecks a Merchant.
+Jo plays 2 Coppers. (+$2)
+Jo buys and gains a Royal Carriage.
+Jo draws 5 cards.
+
+Turn 7 - Jazzercise
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja looks at a Border Village, a Merchant and a Copper.
+Ja trashes a Copper.
+Ja discards a Border Village.
+Ja topdecks a Merchant.
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja looks at a Merchant, an Estate and a Silver.
+Ja trashes an Estate.
+Ja discards a Merchant.
+Ja topdecks a Silver.
+Ja plays a Ranger.
+Ja gets +1 Buy.
+Ja flips Journey token face down.
+Ja shuffles their deck.
+Ja draws 2 Coppers, a Silver, a Merchant and a Lookout.
+
+Turn 7 - Johan
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Council Room.
+Jo shuffles their deck.
+Jo draws 4 cards.
+Jo gets +1 Buy.
+Ja draws a Border Village.
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Lookout.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes an Estate.
+Jo discards a Copper.
+Jo topdecks a card.
+Jo calls a Royal Carriage.
+Jo plays a Lookout again.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes a Copper.
+Jo discards a Duchess.
+Jo topdecks a card.
+Jo plays 4 Coppers. (+$4)
+Jo buys and gains a Silver.
+Jo buys and gains a Duchess.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 8 - Jazzercise
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja looks at 2 Coppers and a Ranger.
+Ja trashes a Copper.
+Ja discards a Copper.
+Ja topdecks a Ranger.
+Ja plays a Merchant.
+Ja draws a Ranger.
+Ja gets +1 Action.
+Ja plays a Border Village.
+Ja draws a Lookout.
+Ja gets +2 Actions.
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja shuffles their deck.
+Ja looks at a Copper.
+Ja trashes a Copper.
+Ja plays a Ranger.
+Ja gets +1 Buy.
+Ja flips Journey token face up.
+Ja plays 2 Coppers and a Silver. (+$4)
+Ja gets +$1.
+Ja buys and gains a Merchant.
+Ja buys and gains a Duchess.
+Ja shuffles their deck.
+Ja draws a Copper, a Silver, 2 Lookouts and a Ranger.
+
+Turn 8 - Johan
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo calls a Royal Carriage.
+Jo plays a Poacher again.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Council Room.
+Jo draws 4 cards.
+Jo gets +1 Buy.
+Ja draws a Merchant.
+Jo plays a Duchess.
+Jo gets +$2.
+Jo looks at a card.
+Jo topdecks a card.
+Ja looks at a Merchant.
+Ja topdecks a Merchant.
+Jo plays 5 Coppers. (+$5)
+Jo buys and gains a Border Village.
+Jo gains a Villa.
+Jo puts a Villa into their hand.
+Jo gets +1 Action.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Duchess.
+Jo gets +$2.
+Jo looks at a card.
+Jo topdecks a card.
+Ja looks at a Merchant.
+Ja topdecks a Merchant.
+Jo buys and gains a Border Village.
+Jo gains a Ranger.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 9 - Jazzercise
+Ja plays a Merchant.
+Ja draws a Merchant.
+Ja gets +1 Action.
+Ja plays a Merchant.
+Ja draws a Duchess.
+Ja gets +1 Action.
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja looks at a Border Village and a Copper.
+Ja trashes a Copper.
+Ja discards a Border Village.
+Ja plays a Ranger.
+Ja gets +1 Buy.
+Ja flips Journey token face down.
+Ja plays a Copper and a Silver. (+$3)
+Ja gets +$2.
+Ja buys and gains a Royal Carriage.
+Ja shuffles their deck.
+Ja draws a Merchant, a Lookout, a Duchess, a Ranger and a Royal Carriage.
+
+Turn 9 - Johan
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Ranger.
+Jo gets +1 Buy.
+Jo flips Journey token face down.
+Jo calls a Royal Carriage.
+Jo plays a Ranger again.
+Jo gets +1 Buy.
+Jo flips Journey token face up.
+Jo draws 5 cards.
+Jo plays a Border Village.
+Jo draws a card.
+Jo gets +2 Actions.
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Lookout.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes a Copper.
+Jo discards a Council Room.
+Jo topdecks a card.
+Jo calls a Royal Carriage.
+Jo plays a Lookout again.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes a Copper.
+Jo discards a Duchess.
+Jo topdecks a card.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Duchess.
+Jo gets +$2.
+Jo looks at a card.
+Jo topdecks a card.
+Ja looks at a Silver.
+Ja discards a Silver.
+Jo plays 3 Coppers and a Silver. (+$5)
+Jo buys and gains a Border Village.
+Jo gains a Royal Carriage.
+Jo buys and gains a Poacher.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 10 - Jazzercise
+Ja plays a Royal Carriage.
+Ja gets +1 Action.
+Ja puts a Royal Carriage on their Tavern mat.
+Ja plays a Merchant.
+Ja draws a Border Village.
+Ja gets +1 Action.
+Ja plays a Border Village.
+Ja draws a Copper.
+Ja gets +2 Actions.
+Ja plays a Duchess.
+Ja gets +$2.
+Ja looks at a Lookout.
+Ja topdecks a Lookout.
+Jo looks at a card.
+Jo topdecks a card.
+Ja calls a Royal Carriage.
+Ja plays a Duchess again.
+Ja gets +$2.
+Ja looks at a Lookout.
+Ja topdecks a Lookout.
+Jo looks at a card.
+Jo topdecks a card.
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja shuffles their deck.
+Ja looks at a Merchant, a Lookout and a Silver.
+Ja trashes a Lookout.
+Ja discards a Silver.
+Ja topdecks a Merchant.
+Ja plays a Ranger.
+Ja gets +1 Buy.
+Ja flips Journey token face up.
+Ja shuffles their deck.
+Ja draws a Silver and a Merchant.
+Ja plays a Copper and a Silver. (+$3)
+Ja gets +$1.
+Ja buys and gains a Ranger.
+Ja buys and gains a Villa.
+Ja puts a Villa into their hand.
+Ja gets +1 Action.
+Ja plays a Villa.
+Ja gets +2 Actions.
+Ja gets +1 Buy.
+Ja gets +$1.
+Ja buys an Animal Fair.
+Ja trashes a Merchant.
+Ja gains an Animal Fair.
+Ja shuffles their deck.
+Ja draws a Border Village, a Duchess, a Royal Carriage, a Villa and an Animal Fair.
+
+Turn 10 - Johan
+Jo plays a Border Village.
+Jo draws a card.
+Jo gets +2 Actions.
+Jo plays a Border Village.
+Jo draws a card.
+Jo gets +2 Actions.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo calls a Royal Carriage.
+Jo plays a Poacher again.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Lookout.
+Jo gets +1 Action.
+Jo looks at 3 cards.
+Jo trashes a Copper.
+Jo discards a Royal Carriage.
+Jo topdecks a card.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Copper and a Silver. (+$3)
+Jo buys and gains a Border Village.
+Jo gains a Villa.
+Jo puts a Villa into their hand.
+Jo gets +1 Action.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo buys and gains a Merchant.
+Jo draws 5 cards.
+
+Turn 11 - Jazzercise
+Ja plays a Royal Carriage.
+Ja gets +1 Action.
+Ja puts a Royal Carriage on their Tavern mat.
+Ja plays a Border Village.
+Ja draws a Lookout.
+Ja gets +2 Actions.
+Ja calls a Royal Carriage.
+Ja plays a Border Village again.
+Ja draws a Merchant.
+Ja gets +2 Actions.
+Ja plays a Merchant.
+Ja draws a Ranger.
+Ja gets +1 Action.
+Ja plays a Ranger.
+Ja gets +1 Buy.
+Ja flips Journey token face down.
+Ja plays a Villa.
+Ja gets +2 Actions.
+Ja gets +1 Buy.
+Ja gets +$1.
+Ja plays an Animal Fair.
+Ja gets +$4.
+Ja plays a Lookout.
+Ja gets +1 Action.
+Ja looks at a Copper, a Ranger and a Silver.
+Ja trashes a Copper.
+Ja discards a Silver.
+Ja topdecks a Ranger.
+Ja plays a Duchess.
+Ja gets +$2.
+Ja looks at a Ranger.
+Ja discards a Ranger.
+Jo looks at a card.
+Jo topdecks a card.
+Ja buys and gains a Border Village.
+Ja gains a Royal Carriage.
+Ja shuffles their deck.
+Ja draws a Silver, 2 Border Villages, a Ranger and a Royal Carriage.
+
+Turn 11 - Johan
+Jo plays a Border Village.
+Jo draws a card.
+Jo gets +2 Actions.
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Ranger.
+Jo gets +1 Buy.
+Jo flips Journey token face down.
+Jo calls a Royal Carriage.
+Jo plays a Ranger again.
+Jo gets +1 Buy.
+Jo flips Journey token face up.
+Jo shuffles their deck.
+Jo draws 5 cards.
+Jo plays a Border Village.
+Jo draws a card.
+Jo gets +2 Actions.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Border Village.
+Jo draws a card.
+Jo gets +2 Actions.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Merchant.
+Jo draws a card.
+Jo gets +1 Action.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Council Room.
+Jo draws 4 cards.
+Jo gets +1 Buy.
+Ja draws a Duchess.
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Border Village.
+Jo draws a card.
+Jo gets +2 Actions.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo plays a Poacher.
+Jo draws a card.
+Jo gets +1 Action.
+Jo gets +$1.
+Jo plays a Royal Carriage.
+Jo gets +1 Action.
+Jo puts a Royal Carriage on their Tavern mat.
+Jo plays a Duchess.
+Jo gets +$2.
+Ja looks at a Royal Carriage.
+Ja topdecks a Royal Carriage.
+Jo calls a Royal Carriage.
+Jo plays a Duchess again.
+Jo gets +$2.
+Ja looks at a Royal Carriage.
+Ja topdecks a Royal Carriage.
+Jo plays a Silver. (+$2)
+Jo gets +$1.
+Jo plays 2 Coppers. (+$2)
+Jo buys and gains a Border Village.
+Jo gains a Royal Carriage.
+Jo buys and gains a Border Village.
+Jo gains a Villa.
+Jo puts a Villa into their hand.
+Jo gets +1 Action.
+Jo plays a Villa.
+Jo gets +2 Actions.
+Jo gets +1 Buy.
+Jo gets +$1.
+Jo buys an Animal Fair.
+Jo trashes a Lookout.
+Jo gains an Animal Fair.
+Jo buys an Animal Fair.
+Jo trashes a Duchess.
+Jo gains an Animal Fair.
+Jo buys and gains a Merchant.
+Jo shuffles their deck.
+Jo draws 5 cards.
+
+Turn 12 - Jazzercise
+Ja plays a Border Village.
+Ja draws a Royal Carriage.
+Ja gets +2 Actions.
+Ja plays a Ranger.
+Ja gets +1 Buy.
+Ja flips Journey token face up.
+Ja draws a Merchant, a Lookout, a Ranger, a Villa and an Animal Fair.
+Ja plays a Royal Carriage.
+Ja gets +1 Action.
+Ja puts a Royal Carriage on their Tavern mat.
+Ja plays a Royal Carriage.
+Ja gets +1 Action.
+Ja puts a Royal Carriage on their Tavern mat.
+Ja plays an Animal Fair.
+Ja gets +$4.
+Ja calls a Royal Carriage.
+Ja plays an Animal Fair again.
+Ja gets +$4.
+Ja calls a Royal Carriage.
+Ja plays an Animal Fair again.
+Ja gets +$4.
+

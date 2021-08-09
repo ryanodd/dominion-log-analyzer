@@ -1,0 +1,487 @@
+Game #82150443, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Bishop.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Bishop.
+
+Turn 3 - Jazzercise
+J plays a Bishop.
+J gets +$1.
+J gets 1 VP.
+J trashes an Estate.
+J gets 1 VP.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Counting House.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 5 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 4 Coppers and a Counting House.
+
+Turn 6 - Jazzercise
+J plays a Counting House.
+J looks at 2 Coppers, 2 Silvers and 2 Estates.
+J looks at 2 Coppers, 2 Silvers and 2 Estates.
+J puts 2 Coppers into their hand.
+J plays 6 Coppers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Gold and a Bishop.
+
+Turn 7 - Jazzercise
+J plays a Bishop.
+J gets +$1.
+J gets 1 VP.
+J trashes a Copper.
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Forge.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 8 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a City.
+J draws 3 Coppers, an Estate and a Counting House.
+
+Turn 9 - Jazzercise
+J plays a Counting House.
+J looks at 3 Coppers, a Forge, a Bishop, a Gold, a City, 3 Silvers and an Estate.
+J looks at 3 Coppers, a Forge, a Bishop, a Gold, a City, 3 Silvers and an Estate.
+J puts 3 Coppers into their hand.
+J plays 6 Coppers. (+$6)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Bishop and a Counting House.
+
+Turn 10 - Jazzercise
+J plays a Bishop.
+J gets +$1.
+J gets 1 VP.
+J trashes a Copper.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a Grand Market.
+J draws 2 Coppers, a Gold, a City and a Forge.
+
+Turn 11 - Jazzercise
+J plays a City.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Forge.
+J trashes 3 Coppers.
+J gains a Copper.
+J plays a Gold. (+$3)
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 12 - Jazzercise
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys and gains a Goons.
+J shuffles their deck.
+J draws a Gold, an Estate, a Bishop, a Forge and a Grand Market.
+
+Turn 13 - Jazzercise
+J plays a Grand Market.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Bishop.
+J gets +$1.
+J gets 1 VP.
+J trashes an Estate.
+J gets 1 VP.
+J plays a Gold and a Silver. (+$5)
+J buys and gains a City.
+J draws a Copper, a Silver, a Gold, an Estate and a Counting House.
+
+Turn 14 - Jazzercise
+J plays a Counting House.
+J looks at a Forge, a Grand Market, a Bishop, a Gold, a City and a Silver.
+J plays a Copper, a Gold and a Silver. (+$6)
+J buys and gains a Goons.
+J draws 2 Coppers, a Silver, a City and a Goons.
+
+Turn 15 - Jazzercise
+J plays a City.
+J shuffles their deck.
+J draws a Grand Market.
+J gets +2 Actions.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys a Grand Market.
+J gets 1 VP from Goons.
+J gains a Grand Market.
+J draws a Copper, a Gold, a Bishop, a Forge and a Goons.
+
+Turn 16 - Jazzercise
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Copper and a Gold. (+$4)
+J buys a City.
+J gets 1 VP from Goons.
+J gains a City.
+J draws 2 Silvers, a Gold, a Counting House and a City.
+
+Turn 17 - Jazzercise
+J plays a City.
+J shuffles their deck.
+J draws a Goons.
+J gets +2 Actions.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Counting House.
+J plays a Gold and 2 Silvers. (+$7)
+J buys a Grand Market.
+J gets 1 VP from Goons.
+J gains a Grand Market.
+J draws a Copper, 2 Cities, a Forge and a Grand Market.
+
+Turn 18 - Jazzercise
+J plays a City.
+J draws a Copper.
+J gets +2 Actions.
+J plays a City.
+J draws a Bishop.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Goons.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Forge.
+J trashes 2 Coppers and a Bishop.
+J gains a Bishop.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J draws a Copper, a Silver, a Gold, an Estate and a Grand Market.
+
+Turn 19 - Jazzercise
+J plays a Grand Market.
+J shuffles their deck.
+J draws a Gold.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Golds and a Silver. (+$8)
+J buys and gains 2 Cities.
+J draws 2 Silvers, a Forge and 2 Grand Markets.
+
+Turn 20 - Jazzercise
+J plays a Grand Market.
+J draws a Goons.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a Bishop.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Forge.
+J trashes 2 Silvers and a Bishop.
+J draws a Counting House, 3 Cities and a Goons.
+
+Turn 21 - Jazzercise
+J plays a City.
+J shuffles their deck.
+J draws an Estate.
+J gets +2 Actions.
+J plays a City.
+J draws a Silver.
+J gets +2 Actions.
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J plays a City.
+J draws a Grand Market.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Counting House.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Copper and a Silver. (+$3)
+J buys an Expand.
+J gets 1 VP from Goons.
+J gains an Expand.
+J draws 2 Golds, a City and 2 Grand Markets.
+
+Turn 22 - Jazzercise
+J plays a City.
+J draws a Goons.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Forge.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J shuffles their deck.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Forge.
+J trashes a Copper and a Gold.
+J gains a Gold.
+J plays a Gold. (+$3)
+J buys a Platinum.
+J gets 1 VP from Goons.
+J gains a Platinum.
+J draws a Counting House, 2 Cities, an Expand and a Grand Market.
+
+Turn 23 - Jazzercise
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J plays a City.
+J draws a Goons.
+J gets +2 Actions.
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J plays a City.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays an Expand.
+J trashes a Counting House.
+J gains a Grand Market.
+J plays a Silver. (+$2)
+J buys a Grand Market.
+J gets 1 VP from Goons.
+J gains a Grand Market.
+J shuffles their deck.
+J draws a Gold, 2 Cities, a Forge and a Grand Market.
+
+Turn 24 - Jazzercise
+J plays a City.
+J draws a Platinum.
+J gets +2 Actions.
+J plays a City.
+J draws a Grand Market.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a City.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a City.
+J draws a Grand Market.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Goons.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a City.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a City.
+J draws an Expand.
+J gets +2 Actions.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays an Expand.
+J trashes a Gold.
+J gains a Platinum.
+J plays a Platinum. (+$5)
+J buys a Colony.
+J gets 1 VP from Goons.
+J gains a Colony.
+J draws a Silver, a Gold, a City and 2 Grand Markets.
+
+Turn 25 - Jazzercise
+J plays a City.
+J draws a Goons.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws an Estate.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J shuffles their deck.
+J draws a City.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a City.
+J draws a Forge.
+J gets +2 Actions.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Forge.
+J trashes a Silver and an Estate.
+J gains a City.
+J plays a Gold. (+$3)
+J buys a Platinum.
+J gets 1 VP from Goons.
+J gains a Platinum.
+J draws a City, an Expand, a Grand Market, a Goons and a Platinum.
+
+Turn 26 - Jazzercise
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J plays a City.
+J draws a City.
+J gets +2 Actions.
+J plays a City.
+J draws a Grand Market.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Platinum.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a Colony.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Platina. (+$10)
+J shuffles their deck.
+J draws a Gold, 2 Cities and 2 Grand Markets.
+
+Turn 27 - Jazzercise
+J plays a City.
+J draws a Goons.
+J gets +2 Actions.
+J plays a City.
+J draws a Platinum.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Platinum.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a City.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a City.
+J draws a Forge.
+J gets +2 Actions.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays 2 Platina and a Gold. (+$13)
+J buys a Colony.
+J gets 1 VP from Goons.
+J gains a Colony.
+J draws 2 Cities, 2 Grand Markets and a Goons.
+
+Turn 28 - Jazzercise
+J plays a City.
+J draws a Colony.
+J gets +2 Actions.
+J plays a City.
+J draws an Expand.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Platinum.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a Grand Market.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Grand Market.
+J draws a City.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a City.
+J shuffles their deck.
+J draws a Goons.
+J gets +2 Actions.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Goons.
+J gets +1 Buy.
+J gets +$2.
+J plays a Platinum. (+$5)
+J buys a Colony.
+J gets 2 VP from Goons.
+J gains a Colony.
+J draws a Gold, a Colony, a City, a Forge and a Grand Market.
+
+Turn 29 - Jazzercise
+J plays a City.
+J draws a Grand Market.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a City.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a City.
+J draws a Platinum.
+J gets +2 Actions.
+J plays a Grand Market.
+J draws a Platinum.
+J gets +1 Action.
+J gets +1 Buy.
+J gets +$2.
+J plays a Forge.
+J trashes a Gold and a Platinum.
+J plays a Platinum. (+$5)
+J shuffles their deck.
+J draws a Colony, 2 Cities, a Forge and a Grand Market.
+
+Turn 30 - Jazzercise
+

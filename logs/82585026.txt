@@ -1,0 +1,721 @@
+Game #82585026, rated.
+Jazzercise: 46.07
+telephoneeye: 40.39
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+t starts with 7 Coppers.
+t starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Doctor.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - telephoneeye
+t plays 3 Coppers. (+$3)
+t buys and gains a Doctor.
+t draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains an Inventor.
+J shuffles their deck.
+J draws 3 Coppers, a Doctor and an Inventor.
+
+Turn 2 - telephoneeye
+t plays 4 Coppers. (+$4)
+t buys and gains an Inventor.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays an Inventor.
+J gains a Mountain Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Mountain Village.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - telephoneeye
+t plays a Doctor.
+t names Copper.
+t reveals 2 Coppers and an Estate.
+t trashes 2 Coppers.
+t topdecks an Estate.
+t plays 2 Coppers. (+$2)
+t buys and gains a Supplies.
+t draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Doctor.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Mountain Village.
+
+Turn 4 - telephoneeye
+t plays an Inventor.
+t gains a Mountain Village.
+t plays 3 Coppers. (+$3)
+t buys and gains a Temple.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Copper.
+J plays 4 Coppers. (+$4)
+J buys and gains a Mountain Village.
+J draws a Copper, 2 Estates, a Doctor and an Inventor.
+
+Turn 5 - telephoneeye
+t plays an Inventor.
+t gains a Mountain Village.
+t plays 2 Coppers. (+$2)
+t buys and gains a Silver.
+t draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Doctor.
+J names Copper.
+J reveals a Copper, a Mountain Village and a Doctor.
+J trashes a Copper.
+J topdecks a Doctor and a Mountain Village.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Doctor and a Mountain Village.
+J takes 2 VP from Baths.
+
+Turn 6 - telephoneeye
+t plays a Temple.
+t gets 1 VP.
+t trashes an Estate.
+t plays 2 Coppers. (+$2)
+t plays a Supplies.
+t gains a Horse.
+t buys and gains a Silver.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws an Estate.
+J plays a Doctor.
+J names Copper.
+J reveals a Mountain Village, a Copper and a Doctor.
+J trashes a Copper.
+J topdecks a Doctor and a Mountain Village.
+J draws 2 Coppers, a Doctor and 2 Mountain Villages.
+J takes 2 VP from Baths.
+
+Turn 7 - telephoneeye
+t plays a Mountain Village.
+t gets +2 Actions.
+t draws a card.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Mountain Village.
+t gets +2 Actions.
+t draws a card.
+t plays an Inventor.
+t gains a Mountain Village.
+t plays 3 Coppers and a Silver. (+$5)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Coppers, a Mountain Village, 2 Estates and a Doctor.
+J puts a Doctor into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Coppers, a Mountain Village and 2 Estates.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Coppers and 2 Estates.
+J looks at 2 Coppers and 2 Estates.
+J puts a Copper into their hand.
+J plays a Doctor.
+J names Copper.
+J reveals a Copper, an Estate and an Inventor.
+J trashes a Copper.
+J topdecks an Estate and an Inventor.
+J plays a Doctor.
+J names Estate.
+J shuffles their deck.
+J reveals 2 Estates and an Inventor.
+J trashes 2 Estates.
+J topdecks an Inventor.
+J plays 3 Coppers. (+$3)
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Doctor and an Inventor.
+J takes 2 VP from Baths.
+
+Turn 8 - telephoneeye
+t plays a Doctor.
+t names Copper.
+t shuffles their deck.
+t reveals a Copper, a Supplies and a Temple.
+t trashes a Copper.
+t topdecks a Temple and a Supplies.
+t plays 2 Coppers and a Silver. (+$4)
+t buys and gains a Mountain Village.
+t draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays an Inventor.
+J gains a Mountain Village.
+J draws a Copper, a Doctor and 3 Mountain Villages.
+
+Turn 9 - telephoneeye
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 6 cards.
+t looks at 6 cards.
+t puts a card into their hand.
+t plays a Temple.
+t gets 1 VP.
+t trashes an Estate.
+t plays a Gold and a Silver. (+$5)
+t plays a Supplies.
+t gains a Horse.
+t buys and gains a Groundskeeper.
+t draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Mountain Village, 2 Coppers, a Doctor, an Estate and an Inventor.
+J puts an Inventor into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Mountain Village, 2 Coppers, a Doctor and an Estate.
+J looks at a Mountain Village, 2 Coppers, a Doctor and an Estate.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Coppers, a Doctor and an Estate.
+J looks at 2 Coppers, a Doctor and an Estate.
+J puts a Copper into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Copper, a Doctor and an Estate.
+J looks at a Copper, a Doctor and an Estate.
+J puts a Copper into their hand.
+J plays a Doctor.
+J names Estate.
+J shuffles their deck.
+J reveals a Copper, a Doctor and an Estate.
+J trashes an Estate.
+J topdecks a Copper and a Doctor.
+J plays an Inventor.
+J gains a Mountain Village.
+J plays 3 Coppers. (+$3)
+J buys and gains a Mountain Village.
+J shuffles their deck.
+J draws 2 Coppers, a Doctor and 2 Mountain Villages.
+
+Turn 10 - telephoneeye
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 11 cards.
+t looks at 11 cards.
+t puts a card into their hand.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 10 cards.
+t looks at 10 cards.
+t puts a card into their hand.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Groundskeeper.
+t shuffles their deck.
+t draws a card.
+t gets +1 Action.
+t plays a Temple.
+t gets 1 VP.
+t trashes an Estate.
+t plays an Inventor.
+t gains a Temple.
+t takes 3 VP from the Temple pile.
+t plays 3 Coppers. (+$3)
+t buys and gains a Silver.
+t draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Mountain Village.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Copper.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Doctor.
+J plays a Doctor.
+J names Copper.
+J reveals 2 Mountain Villages and an Inventor.
+J topdecks an Inventor and 2 Mountain Villages.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws a Copper, an Inventor and 3 Mountain Villages.
+
+Turn 11 - telephoneeye
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 10 cards.
+t looks at 10 cards.
+t puts a card into their hand.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 9 cards.
+t looks at 9 cards.
+t puts a card into their hand.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 8 cards.
+t looks at 8 cards.
+t puts a card into their hand.
+t plays a Groundskeeper.
+t draws a card.
+t gets +1 Action.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 7 cards.
+t looks at 7 cards.
+t puts a card into their hand.
+t plays a Doctor.
+t names Copper.
+t shuffles their deck.
+t reveals a Copper, a Supplies and a Silver.
+t trashes a Copper.
+t topdecks a Silver and a Supplies.
+t plays a Temple.
+t gets 1 VP.
+t trashes a Copper.
+t plays a Gold and a Silver. (+$5)
+t buys and gains a Giant.
+t draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 3 Mountain Villages, 3 Coppers, 2 Doctors and a Silver.
+J looks at 3 Mountain Villages, 3 Coppers, 2 Doctors and a Silver.
+J puts a Doctor into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 3 Mountain Villages, 3 Coppers, a Doctor and a Silver.
+J looks at 3 Mountain Villages, 3 Coppers, a Doctor and a Silver.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Mountain Villages, 3 Coppers, a Doctor and a Silver.
+J looks at 2 Mountain Villages, 3 Coppers, a Doctor and a Silver.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Mountain Village, 3 Coppers, a Doctor and a Silver.
+J looks at a Mountain Village, 3 Coppers, a Doctor and a Silver.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 3 Coppers, a Doctor and a Silver.
+J looks at 3 Coppers, a Doctor and a Silver.
+J puts a Silver into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 3 Coppers and a Doctor.
+J looks at 3 Coppers and a Doctor.
+J puts a Copper into their hand.
+J plays a Doctor.
+J names Copper.
+J shuffles their deck.
+J reveals 2 Coppers and a Doctor.
+J trashes 2 Coppers.
+J topdecks a Doctor.
+J plays an Inventor.
+J gains an Inventor.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Catacombs.
+J shuffles their deck.
+J draws a Silver, a Doctor, an Inventor and 2 Mountain Villages.
+
+Turn 12 - telephoneeye
+t plays an Inventor.
+t gains a Silver.
+t plays a Copper and 2 Silvers. (+$5)
+t plays a Supplies.
+t gains a Horse.
+t buys and gains a Giant.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Copper.
+J plays a Doctor.
+J names Doctor.
+J reveals 2 Mountain Villages and a Doctor.
+J trashes a Doctor.
+J topdecks 2 Mountain Villages.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Mountain Village.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Mountain Village.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Copper.
+J plays an Inventor.
+J gains an Inventor.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Catacombs.
+J shuffles their deck.
+J draws a Catacombs, an Inventor and 3 Mountain Villages.
+
+Turn 13 - telephoneeye
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Groundskeeper.
+t draws a card.
+t gets +1 Action.
+t plays a Mountain Village.
+t gets +2 Actions.
+t draws a card.
+t plays a Mountain Village.
+t gets +2 Actions.
+t draws a card.
+t plays a Mountain Village.
+t gets +2 Actions.
+t draws a card.
+t plays a Temple.
+t gets 1 VP.
+t trashes a Copper.
+t plays an Inventor.
+t gains a Temple.
+t takes 2 VP from the Temple pile.
+t plays a Copper, a Gold and a Silver. (+$6)
+t buys and gains a Gold.
+t draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Copper.
+J plays a Catacombs.
+J looks at 2 Mountain Villages and a Doctor.
+J discards a Doctor and 2 Mountain Villages.
+J draws a Catacombs, an Inventor and a Mountain Village.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at 2 Mountain Villages and a Doctor.
+J looks at 2 Mountain Villages and a Doctor.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Mountain Village and a Doctor.
+J puts a Mountain Village into their hand.
+J plays a Catacombs.
+J looks at a Copper, a Silver and an Inventor.
+J puts a Copper, a Silver and an Inventor into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Doctor.
+J puts a Doctor into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J plays an Inventor.
+J gains an Inventor.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays an Inventor.
+J gains a Catacombs.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Catacombs, a Groundskeeper and an Inventor.
+J looks at a Catacombs, a Groundskeeper and an Inventor.
+J puts an Inventor into their hand.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Mission.
+J takes an extra turn after this one.
+J shuffles their deck.
+J draws a Copper, 2 Inventors and 2 Mountain Villages.
+
+Turn 14 - Jazzercise [Mission]
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Doctor.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Mountain Village.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws an Inventor.
+J plays an Inventor.
+J gains an Inventor.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays a Doctor.
+J names Copper.
+J reveals a Catacombs, a Groundskeeper and a Silver.
+J topdecks a Silver, a Catacombs and a Groundskeeper.
+J draws a Silver, 2 Catacombs and 2 Groundskeepers.
+
+Turn 14 - telephoneeye
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 11 cards.
+t looks at 11 cards.
+t puts a card into their hand.
+t plays a Groundskeeper.
+t draws a card.
+t gets +1 Action.
+t plays a Giant.
+t flips Journey token face down.
+t gets +$1.
+t plays a Giant.
+t flips Journey token face up.
+t gets +$5.
+J reveals a Catacombs.
+J trashes a Catacombs.
+J gains an Inventor.
+t plays a Silver. (+$2)
+t plays a Supplies.
+t gains a Horse.
+t buys and gains a Province.
+t gets 1 VP from Groundskeeper.
+t shuffles their deck.
+t draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Groundskeeper.
+J draws a Copper.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Mountain Village.
+J gets +1 Action.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Copper, 3 Mountain Villages, 2 Groundskeepers, a Doctor and 5 Inventors.
+J looks at a Copper, 3 Mountain Villages, 2 Groundskeepers, a Doctor and 5 Inventors.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Copper, 2 Mountain Villages, 2 Groundskeepers, a Doctor and 5 Inventors.
+J looks at a Copper, 2 Mountain Villages, 2 Groundskeepers, a Doctor and 5 Inventors.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Copper, a Mountain Village, 2 Groundskeepers, a Doctor and 5 Inventors.
+J looks at a Copper, a Mountain Village, 2 Groundskeepers, a Doctor and 5 Inventors.
+J puts a Mountain Village into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Copper, 2 Groundskeepers, a Doctor and 5 Inventors.
+J looks at a Copper, 2 Groundskeepers, a Doctor and 5 Inventors.
+J puts a Groundskeeper into their hand.
+J plays a Catacombs.
+J looks at 2 Mountain Villages and an Inventor.
+J puts an Inventor and 2 Mountain Villages into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Copper, a Groundskeeper, a Doctor and 5 Inventors.
+J looks at a Copper, a Groundskeeper, a Doctor and 5 Inventors.
+J puts a Doctor into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Copper, a Groundskeeper and 5 Inventors.
+J looks at a Copper, a Groundskeeper and 5 Inventors.
+J puts a Groundskeeper into their hand.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws an Inventor.
+J gets +1 Action.
+J plays a Doctor.
+J names Inventor.
+J reveals 3 Inventors.
+J trashes 3 Inventors.
+J plays a Catacombs.
+J looks at a Copper and an Inventor.
+J puts a Copper and an Inventor into their hand.
+J plays a Groundskeeper.
+J gets +1 Action.
+J plays an Inventor.
+J gains an Inventor.
+J plays an Inventor.
+J gains a Catacombs.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Duchy.
+J gets 4 VP from Groundskeeper.
+J shuffles their deck.
+J draws a Copper, a Doctor, 2 Groundskeepers and a Mountain Village.
+
+Turn 15 - telephoneeye
+t plays a Mountain Village.
+t gets +2 Actions.
+t draws a card.
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Mountain Village.
+t gets +2 Actions.
+t draws a card.
+t plays a Temple.
+t gets 1 VP.
+t trashes a Temple.
+t plays 3 Silvers. (+$6)
+t plays a Supplies.
+t gains a Horse.
+t buys and gains a Groundskeeper.
+t draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws an Inventor.
+J plays a Groundskeeper.
+J draws an Inventor.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Mountain Village.
+J gets +1 Action.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Catacombs.
+J plays a Catacombs.
+J looks at a Copper, a Catacombs and an Inventor.
+J puts a Copper, a Catacombs and an Inventor into their hand.
+J plays a Catacombs.
+J looks at a Catacombs, a Silver and an Inventor.
+J discards a Silver, a Catacombs and an Inventor.
+J draws a Groundskeeper and 2 Mountain Villages.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Catacombs, a Silver and an Inventor.
+J looks at a Catacombs, a Silver and an Inventor.
+J puts a Catacombs into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Silver and an Inventor.
+J puts an Inventor into their hand.
+J plays a Catacombs.
+J looks at 2 Mountain Villages and a Groundskeeper.
+J puts a Groundskeeper and 2 Mountain Villages into their hand.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at a Silver.
+J puts a Silver into their hand.
+J plays a Groundskeeper.
+J draws a Duchy.
+J gets +1 Action.
+J plays a Groundskeeper.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays an Inventor.
+J gains an Inventor.
+J plays a Mountain Village.
+J gets +2 Actions.
+J looks at an Inventor.
+J puts an Inventor into their hand.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays a Groundskeeper.
+J shuffles their deck.
+J draws a Groundskeeper.
+J gets +1 Action.
+J plays an Inventor.
+J gains a Groundskeeper.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Province.
+J gets 6 VP from Groundskeeper.
+J shuffles their deck.
+J draws 2 Groundskeepers and 3 Mountain Villages.
+
+Turn 16 - telephoneeye
+t plays a Horse.
+t draws 2 cards.
+t gets +1 Action.
+t returns a Horse to the Horse pile.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 8 cards.
+t looks at 8 cards.
+t puts a card into their hand.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 7 cards.
+t looks at 7 cards.
+t puts a card into their hand.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 6 cards.
+t looks at 6 cards.
+t puts a card into their hand.
+t plays a Mountain Village.
+t gets +2 Actions.
+t looks at 5 cards.
+t looks at 5 cards.
+t puts a card into their hand.
+t plays a Groundskeeper.
+t draws a card.
+t gets +1 Action.
+t plays a Groundskeeper.
+t draws a card.
+t gets +1 Action.
+t plays a Temple.
+t gets 1 VP.
+t trashes a Doctor.
+t plays an Inventor.
+t gains a Temple.
+t takes 2 VP from the Temple pile.
+t plays 2 Golds. (+$6)
+t buys a Mission.
+t takes an extra turn after this one.
+t draws 5 cards.
+
+Turn 16 - telephoneeye [Mission]
+t plays a Temple.
+t gets 1 VP.
+t trashes a Copper.
+t shuffles their deck.
+t draws 5 cards.
+t takes 2 VP from Baths.
+
+Turn 17 - Jazzercise
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws an Inventor.
+J plays a Mountain Village.
+J gets +2 Actions.
+J draws a Groundskeeper.
+J plays an Inventor.
+

@@ -1,0 +1,401 @@
+Game #81906732, rated.
+Jazzercise: 44.04
+jamesters: 46.71
+
+Kingdom generated with these relative percentages:
+0%: Possession
+50%: Rats and Transmute
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+j starts with 7 Coppers.
+j starts with 3 Estates.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Hermit.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - jamesters
+j plays 3 Coppers. (+$3)
+j buys and gains a Hermit.
+j draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 2 - jamesters
+j plays 4 Coppers. (+$4)
+j buys and gains a Silver.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Haggler.
+J draws 3 Coppers and 2 Estates.
+
+Turn 3 - jamesters
+j plays 3 Coppers and a Silver. (+$5)
+j buys and gains a Witch.
+j draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Raze.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Haggler and a Hermit.
+
+Turn 4 - jamesters
+j plays 4 Coppers. (+$4)
+j buys and gains a Hermit.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Hermit.
+J trashes an Estate.
+J gains a Border Guard.
+J trashes a Hermit.
+J gains a Madman.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - jamesters
+j plays a Hermit.
+j trashes an Estate.
+j gains a Border Guard.
+j plays 3 Coppers. (+$3)
+j buys and gains a Silver.
+j draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains a Hermit.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Hermit and a Raze.
+
+Turn 6 - jamesters
+j plays a Witch.
+j draws 2 cards.
+J gains a Curse.
+j plays 4 Coppers and a Silver. (+$6)
+j buys and gains a Gold.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J looks at an Estate and a Border Guard.
+J puts a Border Guard into their hand.
+J discards an Estate.
+J plays a Hermit.
+J looks at an Estate and a Curse.
+J looks at an Estate and a Curse.
+J trashes a Curse.
+J gains a Hermit.
+J trashes a Hermit.
+J gains a Madman.
+J draws 3 Coppers, a Silver and a Madman.
+
+Turn 7 - jamesters
+j plays a Hermit using Way of the Horse.
+j draws 2 cards.
+j gets +1 Action.
+j returns a Hermit to the Hermit pile.
+j plays a Hermit using Way of the Horse.
+j draws 2 cards.
+j gets +1 Action.
+j returns a Hermit to the Hermit pile.
+j plays a Witch.
+j draws 2 cards.
+J gains a Curse.
+j plays 4 Coppers and 2 Silvers. (+$8)
+j buys and gains a Prince.
+j draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Madman.
+J gets +2 Actions.
+J returns a Madman to the Madman pile.
+J shuffles their deck.
+J draws a Curse, 2 Coppers and a Haggler.
+J plays a Haggler.
+J gets +$2.
+J plays 5 Coppers and a Silver. (+$7)
+J buys a Province.
+J gains a Gold.
+J gains a Province.
+J draws a Copper, an Estate, a Madman, a Raze and a Border Guard.
+
+Turn 8 - jamesters
+j plays a Border Guard.
+j gets +1 Action.
+j shuffles their deck.
+j reveals an Estate and a Silver.
+j puts a Silver into their hand.
+j discards an Estate.
+j plays 3 Coppers, a Gold and a Silver. (+$8)
+j buys and gains a Province.
+j draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Madman.
+J gets +2 Actions.
+J returns a Madman to the Madman pile.
+J shuffles their deck.
+J draws a Curse, 2 Coppers and a Hermit.
+J plays a Raze.
+J gets +1 Action.
+J trashes an Estate.
+J looks at a Haggler and a Silver.
+J puts a Haggler into their hand.
+J discards a Silver.
+J plays a Border Guard.
+J gets +1 Action.
+J reveals 2 Coppers.
+J puts a Copper into their hand.
+J discards a Copper.
+J plays a Hermit.
+J looks at a Copper and a Silver.
+J trashes a Curse.
+J gains a Night Watchman.
+J plays a Haggler.
+J gets +$2.
+J plays 4 Coppers. (+$4)
+J buys a Gold.
+J gains a Silver.
+J gains a Gold.
+J plays a Night Watchman.
+J shuffles their deck.
+J looks at 2 Coppers, a Gold, a Province and a Silver.
+J discards 2 Coppers, a Silver and a Province.
+J topdecks a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Golds and a Night Watchman.
+
+Turn 9 - jamesters
+j plays a Witch.
+j draws 2 cards.
+J gains a Curse.
+j plays 4 Coppers and a Silver. (+$6)
+j buys and gains a Night Watchman.
+j plays a Night Watchman.
+j shuffles their deck.
+j looks at 5 cards.
+j discards 3 other cards and a Gold.
+j topdecks a card.
+j draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Copper, 2 Golds and a Silver. (+$9)
+J buys and gains a Province.
+J plays a Night Watchman.
+J looks at 3 Coppers, a Province and a Silver.
+J discards 3 Coppers, a Silver and a Province.
+J draws 2 Coppers, a Haggler, a Raze and a Border Guard.
+
+Turn 10 - jamesters
+j plays a Prince.
+j sets a Border Guard aside with Prince.
+j plays a Copper and a Silver. (+$3)
+j buys and gains a Border Guard.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Border Guard.
+J gets +1 Action.
+J reveals a Copper and a Hermit.
+J puts a Hermit into their hand.
+J discards a Copper.
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Hermit.
+J looks at 5 Coppers, a Curse, 2 Provinces, 2 Golds, 2 Silvers and a Night Watchman.
+J looks at 5 Coppers, a Curse, 2 Provinces, 2 Golds, 2 Silvers and a Night Watchman.
+J trashes a Curse.
+J gains a Border Guard.
+J trashes a Hermit.
+J gains a Madman.
+J shuffles their deck.
+J draws 2 Coppers, a Gold, a Raze and a Border Guard.
+
+Turn 11 - jamesters
+j starts their turn.
+j plays a Border Guard.
+j gets +1 Action.
+j reveals 2 Coppers.
+j puts a Copper into their hand.
+j discards a Copper.
+j plays 3 Coppers, a Gold and a Silver. (+$8)
+j buys and gains a Province.
+j plays a Night Watchman.
+j looks at 5 cards.
+j discards 3 other cards and a Copper.
+j topdecks a card.
+j sets a Border Guard aside.
+j draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Border Guard.
+J gets +1 Action.
+J reveals a Copper and a Province.
+J puts a Copper into their hand.
+J discards a Province.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Swashbuckler.
+J draws a Copper, a Silver, a Province, a Madman and a Border Guard.
+
+Turn 12 - jamesters
+j starts their turn.
+j plays a Border Guard.
+j gets +1 Action.
+j shuffles their deck.
+j reveals a Copper and an Estate.
+j puts a Copper into their hand.
+j discards an Estate.
+j plays a Border Guard.
+j gets +1 Action.
+j reveals a Copper and a Silver.
+j puts a Silver into their hand.
+j discards a Copper.
+j plays a Witch.
+j draws 2 cards.
+J gains a Curse.
+j plays 3 Coppers and 2 Silvers. (+$7)
+j buys and gains a Haggler.
+j sets a Border Guard aside.
+j draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Border Guard.
+J gets +1 Action.
+J reveals a Copper and a Night Watchman.
+J puts a Night Watchman into their hand.
+J discards a Copper.
+J plays a Madman.
+J gets +2 Actions.
+J returns a Madman to the Madman pile.
+J draws a Copper, a Silver, a Gold and a Haggler.
+J plays a Haggler.
+J gets +$2.
+J plays 2 Coppers, a Gold and 2 Silvers. (+$9)
+J buys a Province.
+J gains a Gold.
+J gains a Province.
+J plays a Night Watchman.
+J shuffles their deck.
+J looks at a Copper, a Curse, 2 Provinces and a Border Guard.
+J discards a Curse, a Copper and 2 Provinces.
+J topdecks a Border Guard.
+J draws 2 Coppers, a Gold, a Raze and a Border Guard.
+
+Turn 13 - jamesters
+j starts their turn.
+j plays a Border Guard.
+j gets +1 Action.
+j shuffles their deck.
+j reveals an Estate and a Gold.
+j puts a Gold into their hand.
+j discards an Estate.
+j plays 3 Coppers and a Gold. (+$6)
+j buys and gains a Duchy.
+j plays a Night Watchman.
+j looks at 5 cards.
+j discards a card and a Province.
+j topdecks 3 cards.
+j sets a Border Guard aside.
+j draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Raze.
+J gets +1 Action.
+J trashes a Copper.
+J plays a Border Guard.
+J gets +1 Action.
+J reveals a Swashbuckler and a Gold.
+J puts a Swashbuckler into their hand.
+J discards a Gold.
+J plays a Swashbuckler.
+J shuffles their deck.
+J draws 2 Coppers and a Silver.
+J plays 3 Coppers, a Gold and a Silver. (+$8)
+J buys and gains a Province.
+J draws a Curse, a Copper, 2 Provinces and a Haggler.
+
+Turn 14 - jamesters
+j starts their turn.
+j plays a Border Guard.
+j gets +1 Action.
+j reveals a Copper and a Silver.
+j puts a Silver into their hand.
+j discards a Copper.
+j plays a Witch.
+j draws 2 cards.
+J gains a Curse.
+j plays a Border Guard.
+j gets +1 Action.
+j shuffles their deck.
+j reveals a Copper and an Estate.
+j puts a Copper into their hand.
+j discards an Estate.
+j plays a Haggler.
+j gets +$2.
+j plays 3 Coppers and 2 Silvers. (+$7)
+j buys a Province.
+j gains a Rabble.
+j gains a Province.
+j sets a Border Guard aside.
+j draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Haggler using Way of the Horse.
+J draws a Gold and a Night Watchman.
+J gets +1 Action.
+J returns a Haggler to the Haggler pile.
+J plays a Copper and a Gold. (+$4)
+J buys and gains a Night Watchman.
+J plays a Night Watchman.
+J shuffles their deck.
+J looks at a Swashbuckler, a Gold, a Province, a Border Guard and a Silver.
+J discards a Province, a Border Guard and a Swashbuckler.
+J topdecks a Silver and a Gold.
+J plays a Night Watchman.
+J looks at a Curse, 2 Golds, a Raze and a Silver.
+J discards a Curse and a Raze.
+J topdecks a Silver and 2 Golds.
+J draws a Copper, a Silver, 2 Golds and a Border Guard.
+
+Turn 15 - jamesters
+j starts their turn.
+j plays a Border Guard.
+j gets +1 Action.
+j reveals an Estate and a Duchy.
+j puts an Estate into their hand.
+j discards a Duchy.
+j plays 4 Coppers and a Gold. (+$7)
+j buys and gains a Duchy.
+j sets a Border Guard aside.
+j shuffles their deck.
+j draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Copper, 2 Golds and a Silver. (+$9)
+J buys and gains a Province.
+J shuffles their deck.
+J draws 2 Coppers, a Silver and 2 Provinces.
+

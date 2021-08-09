@@ -1,0 +1,45 @@
+Game #81721051, unrated.
+
+
+J starts with 7 Coppers.
+J starts with a Hovel, a Necropolis and an Overgrown Estate.
+L starts with 7 Coppers.
+L starts with a Hovel, a Necropolis and an Overgrown Estate.
+J shuffles their deck.
+J draws 2 Coppers, a Hovel, a Necropolis and an Overgrown Estate.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J buys an Alms.
+J gains a Remake.
+J draws 5 Coppers.
+
+Turn 1 - Lord Rattington
+L plays a Necropolis.
+L gets +2 Actions.
+L plays 3 Coppers. (+$3)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 5 Coppers. (+$5)
+J buys and gains a Swashbuckler.
+J shuffles their deck.
+J draws 2 Coppers, a Remake, a Necropolis and an Overgrown Estate.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Remake.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Remake.
+J trashes an Overgrown Estate.
+J draws a Copper.
+J gains a Fool's Gold.
+J trashes a Necropolis.
+J gains a Fool's Gold.
+J plays 3 Coppers. (+$3)
+

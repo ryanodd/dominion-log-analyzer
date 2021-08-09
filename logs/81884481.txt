@@ -1,0 +1,535 @@
+Game #81884481, rated.
+SkyterZ2: 44.71
+Jazzercise: 44.53
+
+Kingdom generated with these relative percentages:
+50%: Torturer and Cultist
+
+
+S starts with 7 Coppers.
+S starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+S shuffles their deck.
+S draws 5 cards.
+J shuffles their deck.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - SkyterZ2
+S plays 3 Coppers. (+$3)
+S buys and gains a Trade Route.
+S draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Remake.
+J draws 3 Coppers and 2 Estates.
+
+Turn 2 - SkyterZ2
+S plays 4 Coppers. (+$4)
+S buys a Delve.
+S gets +1 Buy.
+S gains a Silver.
+S buys a Delve.
+S gets +1 Buy.
+S gains a Silver.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 3 - SkyterZ2
+S plays a Silver and 3 Coppers. (+$5)
+S buys and gains a Recruiter.
+S draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Hunting Lodge.
+J draws 2 Coppers, 2 Estates and a Remake.
+
+Turn 4 - SkyterZ2
+S plays a Trade Route.
+S gets +1 Buy.
+S trashes an Estate.
+S plays 2 Coppers. (+$2)
+S buys a Delve.
+S gets +1 Buy.
+S gains a Silver.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Market Square.
+J trashes an Estate.
+J gains a Market Square.
+J plays 2 Coppers. (+$2)
+J buys a Delve.
+J gets +1 Buy.
+J gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, 2 Silvers and an Estate.
+
+Turn 5 - SkyterZ2
+S plays a Trade Route using Way of the Worm.
+S exiles an Estate.
+S plays a Silver and 3 Coppers. (+$5)
+S buys and gains a Hunting Lodge.
+S draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays 2 Silvers and 2 Coppers. (+$6)
+J buys and gains a Hunting Lodge.
+J draws 2 Coppers, a Remake, a Market Square and a Hunting Lodge.
+
+Turn 6 - SkyterZ2
+S plays 2 Silvers and 2 Coppers. (+$6)
+S buys and gains a Hunting Lodge.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Market Square.
+J draws a Market Square.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Market Square.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Remake.
+J trashes 2 Coppers.
+J plays 2 Coppers. (+$2)
+J buys a Delve.
+J gets +1 Buy.
+J gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Market Square.
+
+Turn 7 - SkyterZ2
+S plays a Recruiter.
+S draws 2 cards.
+S trashes an Estate.
+S gets +2 Villagers.
+S plays a Silver and 3 Coppers. (+$5)
+S buys and gains a Recruiter.
+S draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Market Square.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J plays 2 Silvers and 2 Coppers. (+$6)
+J buys and gains a Hunting Lodge.
+J draws 2 Coppers, a Silver and 2 Hunting Lodges.
+
+Turn 8 - SkyterZ2
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Trade Route using Way of the Worm.
+S exiles an Estate.
+S plays a Silver and 3 Coppers. (+$5)
+S buys and gains a Duchy.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Hunting Lodge.
+J draws a Remake.
+J gets +2 Actions.
+J plays a Remake.
+J trashes 2 Coppers.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Market Square.
+J shuffles their deck.
+J draws a Copper, a Silver, an Estate, a Remake and a Market Square.
+
+Turn 9 - SkyterZ2
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Recruiter.
+S draws 2 cards.
+S trashes a Copper.
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Recruiter.
+S draws 2 cards.
+S trashes a Copper.
+S plays 2 Silvers and 3 Coppers. (+$7)
+S buys and gains a Hunting Lodge.
+S draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Market Square.
+J draws a Market Square.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Market Square.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Remake.
+J trashes an Estate.
+J gains a Night Watchman.
+J trashes a Copper.
+J plays 2 Silvers. (+$4)
+J buys a Messenger.
+J gains a Messenger.
+S gains a Messenger.
+J gains a Messenger.
+J plays a Night Watchman.
+J looks at a Silver, 2 Coppers and 2 Hunting Lodges.
+J discards 2 Coppers and a Silver.
+J topdecks 2 Hunting Lodges.
+J shuffles their deck.
+J draws a Market Square, a Night Watchman and 3 Hunting Lodges.
+
+Turn 10 - SkyterZ2
+S plays a Trade Route.
+S gets +1 Buy.
+S trashes a Copper.
+S gets +$1.
+S plays a Silver and a Copper. (+$3)
+S buys and gains a Market Square.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Hunting Lodge.
+J draws a Remake.
+J gets +2 Actions.
+J plays a Market Square.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J draws a Messenger.
+J gets +2 Actions.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Remake.
+J trashes a Copper and a Night Watchman.
+J gains a Messenger.
+J plays a Hunting Lodge.
+J draws a Silver.
+J gets +2 Actions.
+J discards a Silver.
+J draws 2 Silvers, 2 Market Squares and a Messenger.
+J plays a Market Square.
+J draws a Copper.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Market Square.
+J shuffles their deck.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays 3 Silvers and a Copper. (+$7)
+J buys and gains a Hunting Lodge.
+J buys and gains a Messenger.
+J shuffles their deck.
+J draws a Market Square, 3 Messengers and a Hunting Lodge.
+
+Turn 11 - SkyterZ2
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S discards 4 other cards and a Recruiter.
+S draws 5 cards.
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Messenger.
+S gets +1 Buy.
+S gets +$2.
+S moves their deck to the discard.
+S plays a Trade Route.
+S gets +1 Buy.
+S trashes a Silver.
+S gets +$1.
+S plays a Hunting Lodge.
+S shuffles their deck.
+S draws a card.
+S gets +2 Actions.
+S discards a card and an Estate.
+S draws 5 cards.
+S plays a Recruiter.
+S draws 2 cards.
+S trashes a Copper.
+S reacts with a Market Square.
+S discards a Market Square.
+S gains a Gold.
+S plays a Recruiter.
+S draws 2 cards.
+S trashes a Copper.
+S plays a Silver and 2 Coppers. (+$4)
+S buys and gains a Hunting Lodge.
+S buys and gains an Estate.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Market Square.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Hunting Lodge.
+J buys and gains a Messenger.
+J draws a Silver, a Remake, a Market Square and 2 Hunting Lodges.
+
+Turn 12 - SkyterZ2
+S plays a Market Square.
+S draws a card.
+S gets +1 Action.
+S gets +1 Buy.
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Recruiter.
+S draws 2 cards.
+S trashes an Estate.
+S gets +2 Villagers.
+S plays a Recruiter.
+S draws 2 cards.
+S trashes an Estate.
+S gets +2 Villagers.
+S uses 1 Villager.
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Messenger.
+S gets +1 Buy.
+S gets +$2.
+S moves their deck to the discard.
+S plays a Trade Route using Way of the Worm.
+S exiles an Estate.
+S plays a Gold and 2 Silvers. (+$7)
+S buys and gains a Province.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Market Square.
+J draws a Market Square.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Market Square.
+J draws a Silver.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Remake.
+J trashes a Silver.
+J gains a Messenger.
+J trashes a Silver.
+J gains a Messenger.
+J shuffles their deck.
+J draws a Copper, a Market Square, a Messenger and 2 Hunting Lodges.
+
+Turn 13 - SkyterZ2
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Recruiter using Way of the Worm.
+S exiles an Estate.
+S plays a Messenger.
+S gets +1 Buy.
+S gets +$2.
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S discards 2 other cards and a Trade Route.
+S draws 5 cards.
+S plays a Market Square.
+S draws a card.
+S gets +1 Action.
+S gets +1 Buy.
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Recruiter using Way of the Worm.
+S exiles an Estate.
+S plays a Gold, a Silver and a Copper. (+$6)
+S buys and gains a Province.
+S shuffles their deck.
+S draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Hunting Lodge.
+J draws a Messenger.
+J gets +2 Actions.
+J plays a Market Square.
+J draws a Remake.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Market Square.
+J gets +2 Actions.
+J plays a Market Square.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Messenger.
+J gets +2 Actions.
+J discards a Copper, a Remake and a Messenger.
+J draws a Silver, 2 Messengers and 2 Hunting Lodges.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Messenger.
+J gets +2 Actions.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Messenger.
+J gets +2 Actions.
+J discards a Silver and 2 Messengers.
+J shuffles their deck.
+J draws a Silver, a Remake, a Market Square and 2 Messengers.
+J plays a Market Square.
+J draws a Messenger.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Silver. (+$2)
+J buys and gains a Province.
+J buys and gains a Hunting Lodge.
+J shuffles their deck.
+J draws a Copper, a Province, 2 Market Squares and a Hunting Lodge.
+
+Turn 14 - SkyterZ2
+S plays a Hunting Lodge.
+S draws a card.
+S gets +2 Actions.
+S plays a Recruiter.
+S draws 2 cards.
+S trashes a Copper.
+S plays a Messenger.
+S gets +1 Buy.
+S gets +$2.
+S plays a Gold and a Silver. (+$5)
+S buys and gains a Gold.
+S draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Market Square.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Market Square.
+J draws a Messenger.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J draws a Remake.
+J gets +2 Actions.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Hunting Lodge.
+J gets +2 Actions.
+J discards a Copper, a Province, a Remake and a Hunting Lodge.
+J draws a Market Square, 3 Messengers and a Hunting Lodge.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Market Square.
+J draws a Hunting Lodge.
+J gets +1 Action.
+J gets +1 Buy.
+J plays a Hunting Lodge.
+J draws a Silver.
+J gets +2 Actions.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Messenger.
+J gets +2 Actions.
+J discards a Silver and 2 Messengers.
+J shuffles their deck.
+J draws a Silver, 3 Messengers and a Hunting Lodge.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J discards a Copper, a Silver and 2 Messengers.
+J shuffles their deck.
+J draws a Silver, a Province, a Remake, a Messenger and a Hunting Lodge.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Hunting Lodge.
+J draws a Copper.
+J gets +2 Actions.
+J discards a Copper, a Silver, a Province and a Remake.
+J shuffles their deck.
+J draws a Silver, a Province, a Remake and 2 Messengers.
+J plays a Messenger.
+J gets +1 Buy.
+J gets +$2.
+J plays a Remake.
+J trashes a Silver.
+J gains a Messenger.
+J trashes a Messenger.
+J gains a Treasure Trove.
+J shuffles their deck.
+J draws a Copper, 3 Messengers and a Hunting Lodge.
+
+Turn 15 - SkyterZ2
+

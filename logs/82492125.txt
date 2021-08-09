@@ -1,0 +1,567 @@
+Game #82492125, rated.
+Jazzercise: 46.42
+blackngoldaus: 52.7
+
+
+J starts with a Lucky Coin.
+J starts with 6 Coppers.
+J starts with 3 Estates.
+b starts with a Lucky Coin.
+b starts with 6 Coppers.
+b starts with 3 Estates.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Lucky Coin.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 2 Coppers. (+$2)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys and gains a Dungeon.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - blackngoldaus
+b plays 3 Coppers. (+$3)
+b buys and gains a Fool.
+b draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys Seize The Day.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Dungeon.
+
+Turn 2 - Jazzercise [Seize The Day]
+J plays a Dungeon.
+J gets +1 Action.
+J draws 2 Estates.
+J discards 2 Estates.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Silver.
+J draws 4 Coppers and a Lucky Coin.
+
+Turn 2 - blackngoldaus
+b plays 3 Coppers. (+$3)
+b plays a Lucky Coin. (+$1)
+b gains a Silver.
+b buys and gains a Monastery.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 3 - Jazzercise
+J starts their turn.
+J shuffles their deck.
+J draws a Silver and an Estate.
+J discards a Copper and an Estate.
+J plays 3 Coppers and a Silver. (+$5)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys and gains a Kiln.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 3 - blackngoldaus
+b plays 3 Coppers. (+$3)
+b plays a Lucky Coin. (+$1)
+b gains a Silver.
+b buys and gains a Candlestick Maker.
+b plays a Monastery.
+b trashes 2 Coppers.
+b draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Monastery.
+J shuffles their deck.
+J draws 3 Coppers, a Silver and a Dungeon.
+
+Turn 4 - blackngoldaus
+b plays a Fool.
+b takes Lost In The Woods.
+b takes The Wind's Gift.
+b takes The Flame's Gift.
+b takes The Sea's Gift.
+b receives The Sea's Gift.
+b draws a card.
+b discards The Sea's Gift.
+b receives The Wind's Gift.
+b draws 2 cards.
+b discards a card and an Estate.
+b discards The Wind's Gift.
+b receives The Flame's Gift.
+b trashes an Estate.
+b discards The Flame's Gift.
+b plays 3 Coppers and a Silver. (+$5)
+b buys and gains a Wine Merchant.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Silver and a Kiln.
+J discards 2 Coppers.
+J plays a Kiln.
+J gets +$2.
+J plays a Silver. (+$2)
+J gains a Silver.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Gold.
+J draws a Copper, 2 Estates, a Monastery and a Lucky Coin.
+
+Turn 5 - blackngoldaus
+b starts their turn.
+b discards a Fool.
+b takes The Sun's Gift.
+b receives The Sun's Gift.
+b looks at 4 cards.
+b discards 3 other cards and a Monastery.
+b discards The Sun's Gift.
+b plays a Candlestick Maker.
+b gets +1 Action.
+b gets +1 Buy.
+b gets +1 Coffers.
+b plays 2 Coppers and a Silver. (+$4)
+b buys and gains 2 Border Guards.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J draws a Copper and a Silver.
+J discards an Estate and a Lucky Coin.
+J plays 2 Coppers and a Silver. (+$4)
+J buys and gains a Dungeon.
+J plays a Monastery.
+J trashes an Estate.
+J shuffles their deck.
+J draws 2 Coppers, an Estate, a Dungeon and a Monastery.
+
+Turn 6 - blackngoldaus
+b starts their turn.
+b discards a Copper.
+b takes The Forest's Gift.
+b receives The Forest's Gift.
+b gets +1 Buy.
+b gets +$1.
+b plays a Candlestick Maker.
+b gets +1 Action.
+b gets +1 Buy.
+b gets +1 Coffers.
+b plays a Wine Merchant.
+b gets +1 Buy.
+b gets +$4.
+b puts a Wine Merchant on their Tavern mat.
+b plays a Silver. (+$2)
+b plays a Lucky Coin. (+$1)
+b gains a Silver.
+b uses 2 Coffers. (+$2)
+b buys and gains 2 Border Guards.
+b buys and gains 2 Destriers.
+b discards The Forest's Gift.
+b draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Silver and an Estate.
+J discards a Copper and an Estate.
+J plays a Copper and a Silver. (+$3)
+J buys and gains a Border Guard.
+J plays a Monastery.
+J trashes an Estate.
+J draws 2 Coppers, a Silver, a Gold and a Kiln.
+
+Turn 7 - blackngoldaus
+b starts their turn.
+b discards a Fool.
+b takes The Field's Gift.
+b receives The Field's Gift.
+b gets +1 Action.
+b gets +$1.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Border Guard and an Estate.
+b puts a Border Guard into their hand.
+b discards an Estate.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Copper and an Estate.
+b puts a Copper into their hand.
+b discards an Estate.
+b plays 2 Coppers and a Silver. (+$4)
+b buys and gains a Relic.
+b plays a Monastery.
+b trashes a Copper.
+b discards The Field's Gift.
+b shuffles their deck.
+b draws 5 cards.
+
+Turn 8 - Jazzercise
+J starts their turn.
+J draws a Copper and a Silver.
+J discards 2 Coppers.
+J plays a Kiln.
+J gets +$2.
+J plays a Gold. (+$3)
+J gains a Gold.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Province.
+J shuffles their deck.
+J draws a Copper, 2 Silvers, a Dungeon and a Lucky Coin.
+
+Turn 8 - blackngoldaus
+b starts their turn.
+b discards an Estate.
+b takes The Sky's Gift.
+b receives The Sky's Gift.
+b fails to discard for The Sky's Gift
+b discards The Sky's Gift.
+b plays a Destrier.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Destrier.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals 2 Border Guards.
+b puts a Border Guard into their hand.
+b discards a Border Guard.
+b takes the Horn.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Border Guard and a Relic.
+b puts a Relic into their hand.
+b discards a Border Guard.
+b plays a Candlestick Maker.
+b gets +1 Action.
+b gets +1 Buy.
+b gets +1 Coffers.
+b plays 2 Coppers and 2 Silvers. (+$6)
+b plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+b buys and gains a Province.
+b topdecks a Border Guard.
+b draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Dungeon.
+J gets +1 Action.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J draws an Estate.
+J discards a Copper and an Estate.
+J plays 2 Silvers. (+$4)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys and gains a Wine Merchant.
+J draws 2 Coppers, a Gold, a Province and a Dungeon.
+
+Turn 9 - blackngoldaus
+b starts their turn.
+b discards a Fool.
+b takes The River's Gift.
+b receives The River's Gift.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Monastery and an Estate.
+b puts a Monastery into their hand.
+b discards an Estate.
+b plays a Copper and a Silver. (+$3)
+b plays a Lucky Coin. (+$1)
+b gains a Silver.
+b buys and gains a Border Guard.
+b ends their buy phase.
+b discards a Wine Merchant.
+b plays a Monastery.
+b trashes a Copper.
+b topdecks a Border Guard.
+b discards The River's Gift.
+b shuffles their deck.
+b draws 6 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J draws a Copper and a Silver.
+J discards a Copper and a Province.
+J plays a Dungeon.
+J gets +1 Action.
+J draws a Monastery and a Border Guard.
+J discards 2 Coppers.
+J plays a Border Guard.
+J gets +1 Action.
+J reveals a Kiln and a Silver.
+J puts a Kiln into their hand.
+J discards a Silver.
+J plays a Kiln.
+J gets +$2.
+J plays a Gold. (+$3)
+J gains a Gold.
+J buys and gains a Destrier.
+J plays a Monastery.
+J trashes a Silver.
+J shuffles their deck.
+J draws 2 Coppers, 2 Golds and a Wine Merchant.
+
+Turn 10 - blackngoldaus
+b starts their turn.
+b discards an Estate.
+b takes The Mountain's Gift.
+b receives The Mountain's Gift.
+b gains a Silver.
+b discards The Mountain's Gift.
+b plays a Destrier.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Monastery and a Silver.
+b puts a Monastery into their hand.
+b discards a Silver.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Copper and a Province.
+b puts a Copper into their hand.
+b discards a Province.
+b plays a Copper and 2 Silvers. (+$5)
+b plays a Lucky Coin. (+$1)
+b gains a Silver.
+b buys and gains a Gold.
+b plays a Monastery.
+b trashes an Estate.
+b trashes a Copper.
+b topdecks a Border Guard.
+b draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J draws a Copper and a Kiln.
+J discards a Copper and a Wine Merchant.
+J plays a Kiln.
+J gets +$2.
+J plays a Gold. (+$3)
+J gains a Gold.
+J plays 2 Coppers and a Gold. (+$5)
+J buys and gains a Province.
+J draws a Copper, 2 Silvers, a Province and a Border Guard.
+
+Turn 11 - blackngoldaus
+b starts their turn.
+b discards a Candlestick Maker.
+b takes The Swamp's Gift.
+b receives The Swamp's Gift.
+b gains a Will-o'-Wisp.
+b discards The Swamp's Gift.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Border Guard and a Copper.
+b puts a Border Guard into their hand.
+b discards a Copper.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Border Guard and a Fool.
+b puts a Border Guard into their hand.
+b discards a Fool.
+b takes the Lantern.
+b plays a Border Guard.
+b gets +1 Action.
+b shuffles their deck.
+b reveals a Border Guard, a Wine Merchant and a Candlestick Maker.
+b puts a Wine Merchant into their hand.
+b discards a Candlestick Maker and a Border Guard.
+b plays a Destrier.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Wine Merchant.
+b gets +1 Buy.
+b gets +$4.
+b puts a Wine Merchant on their Tavern mat.
+b plays 3 Silvers. (+$6)
+b plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+b uses 1 Coffers. (+$1)
+b buys and gains a Province.
+b buys and gains a Destrier.
+b topdecks a Border Guard.
+b draws 5 cards.
+
+Turn 12 - Jazzercise
+J plays a Border Guard.
+J gets +1 Action.
+J reveals a Lucky Coin and a Silver.
+J puts a Silver into their hand.
+J discards a Lucky Coin.
+J plays a Copper and 3 Silvers. (+$7)
+J buys and gains a Wine Merchant.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J draws 2 Coppers, a Silver and an Estate.
+
+Turn 12 - blackngoldaus
+b starts their turn.
+b discards a Fool.
+b takes The Earth's Gift.
+b receives The Earth's Gift.
+b discards a Lucky Coin.
+b gains a Dungeon.
+b discards The Earth's Gift.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Gold, a Monastery and a Silver.
+b puts a Silver into their hand.
+b discards a Gold and a Monastery.
+b plays a Silver. (+$2)
+b buys and gains a Border Guard.
+b topdecks a Border Guard.
+b draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys Pursue.
+J gets +1 Buy.
+J names Gold.
+J reveals a Destrier, a Gold, a Dungeon and a Monastery.
+J topdecks a Gold.
+J discards a Dungeon, a Monastery and a Destrier.
+J buys and gains a Border Guard.
+J shuffles their deck.
+J draws 2 Golds, a Dungeon, a Monastery and a Border Guard.
+
+Turn 13 - blackngoldaus
+b starts their turn.
+b discards a Copper.
+b takes The Moon's Gift.
+b receives The Moon's Gift.
+b looks at 21 cards.
+b looks at 21 cards.
+b topdecks a card.
+b discards The Moon's Gift.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Will-o'-Wisp, a Silver and a Relic.
+b puts a Relic into their hand.
+b discards a Silver and a Will-o'-Wisp.
+b plays a Destrier.
+b shuffles their deck.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Copper, a Will-o'-Wisp and an Estate.
+b puts a Will-o'-Wisp into their hand.
+b discards a Copper and an Estate.
+b plays a Will-o'-Wisp.
+b draws a card.
+b gets +1 Action.
+b reveals a Silver.
+b topdecks a Silver.
+b plays a Destrier.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Fool.
+b plays 3 Silvers. (+$6)
+b plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+b buys and gains a Province.
+b topdecks a Border Guard.
+b draws 5 cards.
+
+Turn 14 - Jazzercise
+J plays a Border Guard.
+J gets +1 Action.
+J reveals a Copper and a Destrier.
+J puts a Destrier into their hand.
+J discards a Copper.
+J plays a Dungeon.
+J gets +1 Action.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J draws a Gold.
+J discards a Monastery and a Destrier.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J draws a Copper, 2 Silvers, a Province and a Wine Merchant.
+
+Turn 14 - blackngoldaus
+b starts their turn.
+b discards a Province.
+b takes The Earth's Gift.
+b receives The Earth's Gift.
+b discards The Earth's Gift.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals 3 Border Guards.
+b puts a Border Guard into their hand.
+b discards 2 Border Guards.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Border Guard, a Dungeon and a Silver.
+b puts a Border Guard into their hand.
+b discards a Silver and a Dungeon.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Lucky Coin, a Candlestick Maker and a Silver.
+b puts a Candlestick Maker into their hand.
+b discards a Silver and a Lucky Coin.
+b plays a Destrier.
+b shuffles their deck.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Candlestick Maker.
+b gets +1 Action.
+b gets +1 Buy.
+b gets +1 Coffers.
+b plays a Gold and 2 Silvers. (+$7)
+b buys and gains an Estate.
+b buys Seize The Day.
+b topdecks a Border Guard.
+b draws 5 cards.
+
+Turn 14 - blackngoldaus [Seize The Day]
+b starts their turn.
+b discards a Lucky Coin.
+b takes The Forest's Gift.
+b receives The Forest's Gift.
+b gets +1 Buy.
+b gets +$1.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Border Guard, a Will-o'-Wisp and a Province.
+b puts a Border Guard into their hand.
+b discards a Province and a Will-o'-Wisp.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Destrier, a Province and a Silver.
+b puts a Destrier into their hand.
+b discards a Silver and a Province.
+b plays a Destrier.
+b draws 2 cards.
+b gets +1 Action.
+b plays a Border Guard.
+b gets +1 Action.
+b reveals a Fool, a Destrier and a Relic.
+b puts a Relic into their hand.
+b discards a Fool and a Destrier.
+b plays a Copper and 2 Silvers. (+$5)
+b plays a Relic. (+$2)
+J moves -Card token to Draw Pile.
+b buys and gains a Province.
+b topdecks a Border Guard.
+b discards The Forest's Gift.
+b draws 5 cards.
+
+Turn 15 - Jazzercise
+J starts their turn.
+J skips a draw (because of Relic).
+J moves -Card token to Token Limbo.
+J draws a Copper.
+J discards a Copper and a Province.
+J plays a Wine Merchant.
+J gets +1 Buy.
+J gets +$4.
+J puts a Wine Merchant on their Tavern mat.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Province.
+J draws a Copper, a Province, a Wine Merchant, a Border Guard and a Kiln.
+

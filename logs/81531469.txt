@@ -1,0 +1,239 @@
+Game #81531469, unrated.
+
+
+J starts with 7 Coppers.
+J starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 5 Coppers. (+$5)
+L buys and gains a Remake.
+L draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Remake.
+J shuffles their deck.
+J draws 2 Coppers, 2 Estates and a Remake.
+
+Turn 2 - Lord Rattington
+L plays 2 Coppers. (+$2)
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Remake.
+J trashes an Estate.
+J gains a Scrap.
+J trashes an Estate.
+J gains a Night Watchman.
+J plays a Night Watchman.
+J looks at 4 Coppers and an Estate.
+J discards 2 Coppers and an Estate.
+J topdecks 2 Coppers.
+J shuffles their deck.
+J draws 4 Coppers and a Silver.
+
+Turn 3 - Lord Rattington
+L plays a Remake.
+L trashes an Estate.
+L gains a Silver.
+L trashes a Copper.
+L plays 2 Coppers. (+$2)
+L draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 4 Coppers and a Silver. (+$6)
+J buys and gains a Lost City.
+L draws a card.
+J draws 3 Coppers, an Estate and a Remake.
+
+Turn 4 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Smithy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Remake.
+J trashes a Copper and an Estate.
+J gains a Silver.
+J shuffles their deck.
+J draws 3 Coppers, a Night Watchman and a Scrap.
+
+Turn 5 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 5 Coppers. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Scrap.
+J trashes a Night Watchman.
+J draws a Copper.
+J gets +1 Action.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Lost City.
+L draws a card.
+J draws 2 Coppers, 2 Silvers and a Lost City.
+
+Turn 6 - Lord Rattington
+L plays a Remake.
+L trashes an Estate.
+L gains a Silver.
+L trashes an Estate.
+L gains a Silver.
+L plays 2 Coppers and a Silver. (+$4)
+L buys and gains a Silver.
+L draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Lost City.
+J shuffles their deck.
+J draws a Remake and a Scrap.
+J gets +2 Actions.
+J plays a Remake.
+J trashes a Copper and a Scrap.
+J gains a Smithy.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains a Lost City.
+L draws a card.
+J draws 4 Coppers and a Lost City.
+
+Turn 7 - Lord Rattington
+L plays a Smithy.
+L shuffles their deck.
+L draws 3 cards.
+L plays 4 Coppers and 4 Silvers. (+$12)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Lost City.
+J shuffles their deck.
+J draws a Silver and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Copper and a Smithy.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Silver, a Remake and a Lost City.
+J plays a Lost City.
+J gets +2 Actions.
+J plays a Remake.
+J trashes 2 Coppers.
+J plays 3 Coppers and 2 Silvers. (+$7)
+J buys and gains a Gold.
+J shuffles their deck.
+J draws a Copper, a Silver, a Smithy and 2 Lost Cities.
+
+Turn 8 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 4 Coppers and 2 Silvers. (+$8)
+L buys and gains a Province.
+L draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Lost City.
+J draws a Gold and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws 2 Coppers.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Silver and a Remake.
+J plays a Lost City.
+J gets +2 Actions.
+J plays a Remake.
+J trashes 2 Coppers.
+J plays a Copper, 2 Silvers and a Gold. (+$8)
+J buys Fair.
+J shuffles their deck.
+J draws a Silver, a Gold, a Smithy and 2 Lost Cities.
+
+Turn 9 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 10 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Lost City.
+J draws a Copper and a Remake.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Silver and a Lost City.
+J gets +2 Actions.
+J plays a Copper, 2 Silvers and a Gold. (+$8)
+J buys and gains a Scrap.
+J buys and gains a Governor.
+J shuffles their deck.
+J draws a Silver, a Smithy, 2 Lost Cities and a Governor.
+
+Turn 10 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 11 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Lost City.
+J draws a Copper and a Gold.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Silver and a Scrap.
+J gets +2 Actions.
+J plays a Smithy.
+J draws a Remake and a Lost City.
+J plays a Scrap.
+J trashes a Copper.
+J plays a Governor.
+J gets +1 Action.
+J gains a Gold.
+L gains a Silver.
+J plays a Lost City.
+J shuffles their deck.
+J draws a Gold.
+J gets +2 Actions.
+J plays 2 Silvers and 2 Golds. (+$10)
+J buys and gains 2 Treasure Maps.
+J shuffles their deck.
+J draws a Silver, a Treasure Map, a Lost City, a Governor and a Scrap.
+
+Turn 11 - Lord Rattington
+L plays 2 Coppers and 2 Silvers. (+$6)
+L buys and gains a Gold.
+L draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J gets +1 Buy.
+J plays a Lost City.
+J draws a Treasure Map and a Lost City.
+J gets +2 Actions.
+J plays a Lost City.
+J draws a Gold and a Remake.
+J gets +2 Actions.
+J plays a Treasure Map.
+J trashes a Treasure Map.
+J trashes a Treasure Map.
+J gains 4 Golds onto their drawpile.
+

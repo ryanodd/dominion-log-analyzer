@@ -1,0 +1,571 @@
+Game #81975942, rated.
+KingClout: 42.74
+Jazzercise: 44.64
+
+
+K starts with 7 Coppers.
+K starts with 3 Estates.
+J starts with 7 Coppers.
+J starts with 3 Estates.
+K shuffles their deck.
+K draws 5 cards.
+J shuffles their deck.
+J draws 3 Coppers and 2 Estates.
+
+Turn 1 - KingClout
+K plays 3 Coppers. (+$3)
+K buys and gains a Scrap.
+K draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J buys and gains a Scrap.
+J draws 4 Coppers and an Estate.
+
+Turn 2 - KingClout
+K plays 4 Coppers. (+$4)
+K buys and gains a Scrap.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 4 Coppers. (+$4)
+J buys and gains a Scrap.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Scrap.
+
+Turn 3 - KingClout
+K plays 3 Coppers. (+$3)
+K buys and gains a Silver.
+K draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays a Scrap.
+J trashes an Estate.
+J draws a Copper.
+J gets +$1.
+J plays 4 Coppers. (+$4)
+J buys and gains a Mountebank.
+J draws 2 Coppers, 2 Estates and a Scrap.
+
+Turn 4 - KingClout
+K plays a Scrap.
+K trashes an Estate.
+K gains a Silver.
+K gains a Horse.
+K plays 3 Coppers. (+$3)
+K buys and gains a Silver.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays a Scrap.
+J trashes an Estate.
+J draws a Copper.
+J gains a Silver.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 4 Coppers and a Scrap.
+
+Turn 5 - KingClout
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Scrap.
+K trashes a Copper.
+K plays a Silver and 3 Coppers. (+$5)
+K buys and gains a Mountebank.
+K draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Scrap.
+J trashes a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, an Estate, a Mountebank and a Scrap.
+
+Turn 6 - KingClout
+K plays a Silver and 2 Coppers. (+$4)
+K buys and gains a Silver.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 6 - Jazzercise
+J plays a Scrap using Way of the Frog.
+J gets +1 Action.
+J plays a Mountebank.
+J gets +$2.
+K gains a Curse.
+K gains a Copper.
+J plays 2 Coppers. (+$2)
+J buys and gains a Silver.
+J topdecks a Scrap.
+J shuffles their deck.
+J draws a Copper, 3 Silvers and a Scrap.
+
+Turn 7 - KingClout
+K plays a Scrap.
+K trashes a Copper.
+K plays 2 Silvers and a Copper. (+$5)
+K buys and gains a Mountebank.
+K draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Scrap.
+J trashes a Copper.
+J plays 3 Silvers. (+$6)
+J buys and gains a Mountebank.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 8 - KingClout
+K plays a Silver and 3 Coppers. (+$5)
+K buys and gains a Crypt.
+K draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Crypt.
+J shuffles their deck.
+J draws 3 Coppers, a Mountebank and a Scrap.
+
+Turn 9 - KingClout
+K plays a Scrap.
+K trashes an Estate.
+K gets +1 Action.
+K gains a Silver.
+K plays a Mountebank.
+K gets +$2.
+J gains a Curse.
+J gains a Copper.
+K plays a Silver and a Copper. (+$3)
+K buys and gains an Ill-Gotten Gains.
+K returns an Ill-Gotten Gains.
+K receives a Changeling.
+J gains a Curse.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 9 - Jazzercise
+J plays a Scrap using Way of the Frog.
+J gets +1 Action.
+J plays a Mountebank.
+J gets +$2.
+K gains a Curse.
+K gains a Copper.
+J plays 3 Coppers. (+$3)
+J buys and gains a Silver.
+J topdecks a Scrap.
+J draws 2 Silvers, a Mountebank and 2 Scraps.
+
+Turn 10 - KingClout
+K plays a Scrap.
+K trashes a Changeling.
+K gets +1 Action.
+K gains a Silver.
+K gains a Horse.
+K plays a Mountebank.
+K gets +$2.
+J gains a Curse.
+J gains a Copper.
+K plays 2 Silvers. (+$4)
+K buys and gains a Gold.
+K draws 5 cards.
+
+Turn 10 - Jazzercise
+J plays a Scrap.
+J trashes a Silver.
+J draws a Silver.
+J gets +1 Action.
+J gains a Horse.
+J plays a Scrap.
+J trashes a Silver.
+J gets +1 Action.
+J gains a Silver.
+J gains a Horse.
+J plays a Mountebank.
+J gets +$2.
+K gains a Curse.
+K gains a Copper.
+J plays a Silver. (+$2)
+J buys and gains a Silver.
+J draws 2 Coppers, a Silver, an Estate and a Crypt.
+
+Turn 11 - KingClout
+K plays a Mountebank.
+K gets +$2.
+J gains a Curse.
+J gains a Copper.
+K plays a Silver and 2 Coppers. (+$4)
+K buys and gains a Gold.
+K draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Silver.
+J plays a Crypt.
+J sets 2 Coppers and a Silver aside.
+J shuffles their deck.
+J draws a Curse, 2 Coppers, an Estate and a Horse.
+
+Turn 12 - KingClout
+K plays a Silver and 4 Coppers. (+$6)
+K buys and gains a Gold.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J puts a Silver in hand (Crypt).
+J plays a Horse.
+J draws a Curse and a Copper.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Silver and 3 Coppers. (+$5)
+J buys and gains a Crypt.
+J draws a Curse, a Copper, 2 Silvers and a Mountebank.
+
+Turn 13 - KingClout
+K plays a Scrap.
+K trashes a Curse.
+K plays 2 Silvers. (+$4)
+K buys and gains a Lookout.
+K plays a Crypt.
+K sets 2 Silvers aside.
+K draws 5 cards.
+
+Turn 13 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Mountebank.
+J gets +$2.
+K gains a Curse.
+K gains a Copper.
+J plays 2 Silvers and 2 Coppers. (+$6)
+J buys and gains a Gold.
+J draws a Curse, 2 Silvers, a Scrap and a Horse.
+
+Turn 14 - KingClout
+K starts their turn.
+K puts a card in hand (Crypt).
+K plays a Gold, 2 Silvers and 3 Coppers. (+$10)
+K buys and gains a Platinum.
+K draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Horse.
+J draws a Mountebank and a Scrap.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Scrap using Way of the Frog.
+J gets +1 Action.
+J plays a Mountebank.
+J gets +$2.
+K gains a Curse.
+K gains a Copper.
+J plays 2 Silvers and a Copper. (+$5)
+J buys and gains a Gold.
+J topdecks a Scrap.
+J shuffles their deck.
+J draws a Curse, 2 Coppers, a Silver and a Scrap.
+
+Turn 15 - KingClout
+K starts their turn.
+K puts a card in hand (Crypt).
+K plays a Scrap.
+K trashes a Silver.
+K draws a card.
+K gets +1 Action.
+K gains a Silver.
+K plays a Mountebank.
+K gets +$2.
+J discards a Curse.
+K plays a Gold, a Silver and a Copper. (+$6)
+K buys and gains a Gold.
+K draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Scrap.
+J trashes a Copper.
+J plays a Silver and a Copper. (+$3)
+J buys and gains a Silver.
+J draws 2 Coppers, 2 Silvers and a Gold.
+
+Turn 16 - KingClout
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Gold, 2 Silvers and 3 Coppers. (+$10)
+K buys and gains a Platinum.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 16 - Jazzercise
+J plays a Gold, 2 Silvers and 2 Coppers. (+$9)
+J buys and gains a Platinum.
+J draws a Curse, 2 Coppers, a Silver and a Mountebank.
+
+Turn 17 - KingClout
+K draws 5 cards.
+
+Turn 17 - Jazzercise
+J plays a Mountebank.
+J gets +$2.
+K discards a Curse.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Gold.
+J draws 2 Coppers, a Silver, a Mountebank and a Scrap.
+
+Turn 18 - KingClout
+K plays 2 Coppers and 2 Platina. (+$12)
+K buys and gains a Colony.
+K draws 5 cards.
+
+Turn 18 - Jazzercise
+J plays a Scrap using Way of the Frog.
+J gets +1 Action.
+J plays a Mountebank.
+J gets +$2.
+K gains a Curse.
+K gains a Copper.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Gold.
+J topdecks a Scrap.
+J draws a Curse, a Silver, an Estate, a Crypt and a Scrap.
+
+Turn 19 - KingClout
+K plays a Lookout.
+K gets +1 Action.
+K looks at 3 cards.
+K trashes a Copper.
+K discards a Copper.
+K topdecks a card.
+K plays a Scrap.
+K trashes a Copper.
+K plays 2 Silvers. (+$4)
+K buys and gains a Lookout.
+K draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Scrap.
+J trashes a Curse.
+J plays a Silver. (+$2)
+J plays a Crypt.
+J sets a Silver aside.
+J shuffles their deck.
+J draws 2 Curses, a Silver, a Gold and a Crypt.
+
+Turn 20 - KingClout
+K plays 3 Golds, a Silver and a Copper. (+$12)
+K buys and gains a Colony.
+K draws 5 cards.
+
+Turn 20 - Jazzercise
+J starts their turn.
+J puts a Silver in hand (Crypt).
+J plays a Gold and 2 Silvers. (+$7)
+J buys and gains a Gold.
+J plays a Crypt.
+J sets 2 Silvers and a Gold aside.
+J draws 2 Coppers, a Silver, a Gold and a Mountebank.
+
+Turn 21 - KingClout
+K plays a Gold, 2 Silvers and a Copper. (+$8)
+K buys and gains a Gold.
+K plays a Crypt.
+K sets a Copper, 2 Silvers and a Gold aside.
+K draws 5 cards.
+
+Turn 21 - Jazzercise
+J starts their turn.
+J puts a Silver in hand (Crypt).
+J plays a Mountebank.
+J gets +$2.
+K discards a Curse.
+J plays a Gold, 2 Silvers and 2 Coppers. (+$9)
+J buys and gains a Colony.
+J draws 2 Coppers, a Silver, a Gold and a Platinum.
+
+Turn 22 - KingClout
+K starts their turn.
+K puts a card in hand (Crypt).
+K plays a Scrap.
+K trashes a Mountebank.
+K draws a card.
+K gets +1 Action.
+K gets +1 Buy.
+K gets +$1.
+K gains a Horse.
+K plays a Mountebank.
+K gets +$2.
+J gains a Copper.
+K plays 2 Silvers and a Copper. (+$5)
+K buys and gains a Lookout.
+K buys and gains a Scholar.
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 22 - Jazzercise
+J starts their turn.
+J puts a Silver in hand (Crypt).
+J plays a Gold, 2 Silvers, 2 Coppers and a Platinum. (+$14)
+J buys and gains a Colony.
+J draws a Copper, 2 Silvers, an Estate and a Scrap.
+
+Turn 23 - KingClout
+K starts their turn.
+K puts a card in hand (Crypt).
+K plays a Lookout.
+K gets +1 Action.
+K looks at 3 cards.
+K trashes a Silver.
+K discards a Scholar.
+K topdecks a card.
+K plays a Scrap.
+K trashes a Copper.
+K plays a Gold and 2 Silvers. (+$7)
+K buys and gains a Gold.
+K draws 5 cards.
+
+Turn 23 - Jazzercise
+J starts their turn.
+J puts a Gold in hand (Crypt).
+J plays a Scrap.
+J trashes an Estate.
+J gets +$1.
+J gains a Horse.
+J plays a Gold, 2 Silvers and a Copper. (+$8)
+J buys and gains a Platinum.
+J draws a Curse, 2 Coppers, a Silver and a Scrap.
+
+Turn 24 - KingClout
+K starts their turn.
+K puts a card in hand (Crypt).
+K plays a Lookout.
+K gets +1 Action.
+K looks at 3 cards.
+K trashes a Copper.
+K discards a Copper.
+K topdecks a card.
+K plays 2 Golds, a Silver, a Copper and a Platinum. (+$14)
+K buys and gains a Colony.
+K draws 5 cards.
+
+Turn 24 - Jazzercise
+J plays a Scrap.
+J trashes a Curse.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Lookout.
+J shuffles their deck.
+J draws a Copper, a Silver, a Gold, a Mountebank and a Platinum.
+
+Turn 25 - KingClout
+K starts their turn.
+K puts a card in hand (Crypt).
+K plays a Lookout.
+K gets +1 Action.
+K looks at 3 cards.
+K trashes a Silver.
+K discards a Silver.
+K topdecks a card.
+K plays a Scrap.
+K trashes a Curse.
+K plays a Gold and a Copper. (+$4)
+K buys and gains a Silver.
+K draws 5 cards.
+
+Turn 25 - Jazzercise
+J plays a Mountebank.
+J gets +$2.
+K gains a Copper.
+J plays a Gold, a Silver, a Copper and a Platinum. (+$11)
+J buys and gains a Colony.
+J draws 3 Coppers, a Gold and a Horse.
+
+Turn 26 - KingClout
+K plays 3 Coppers and a Platinum. (+$8)
+K buys and gains a Duchy.
+K draws 5 cards.
+
+Turn 26 - Jazzercise
+J plays a Horse.
+J draws a Silver and a Lookout.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Lookout.
+J gets +1 Action.
+J looks at a Gold and 2 Silvers.
+J trashes a Silver.
+J discards a Silver.
+J topdecks a Gold.
+J plays a Gold, a Silver and 3 Coppers. (+$8)
+J buys Fleet.
+J draws a Curse, 3 Golds and a Scrap.
+
+Turn 27 - KingClout
+K shuffles their deck.
+K draws 5 cards.
+
+Turn 27 - Jazzercise
+J plays a Scrap.
+J trashes a Curse.
+J plays 3 Golds. (+$9)
+J buys and gains a Province.
+J draws a Curse, a Copper, 2 Colonies and a Crypt.
+
+Turn 28 - KingClout
+K plays a Horse.
+K draws 2 cards.
+K gets +1 Action.
+K returns a Horse to the Horse pile.
+K plays a Scrap.
+K trashes a Curse.
+K plays a Silver and a Copper. (+$3)
+K buys and gains a Silver.
+K draws 5 cards.
+
+Turn 28 - Jazzercise
+J plays a Copper. (+$1)
+J plays a Crypt.
+J sets a Copper aside.
+J draws 2 Coppers, a Silver, a Platinum and a Scrap.
+
+Turn 29 - KingClout
+K plays a Lookout.
+K gets +1 Action.
+K looks at 3 cards.
+K trashes a Copper.
+K discards a Duchy.
+K topdecks a card.
+K plays a Mountebank.
+K gets +$2.
+J gains a Copper.
+K plays a Gold, a Copper and a Platinum. (+$9)
+K buys and gains a Colony.
+K draws 5 cards.
+
+Turn 29 - Jazzercise
+J starts their turn.
+J puts a Copper in hand (Crypt).
+J plays a Scrap.
+J trashes a Silver.
+J draws a Silver.
+J gets +1 Action.
+J gets +$1.
+J plays a Silver, 3 Coppers and a Platinum. (+$10)
+J buys and gains a Colony.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, a Mountebank and a Crypt.
+
+Turn 30 - Jazzercise [Fleet]
+J plays a Mountebank.
+J gets +$2.
+K discards a Curse.
+J plays a Silver and 2 Coppers. (+$4)
+J buys and gains a Duchy.
+J draws 2 Coppers, a Silver, a Mountebank and a Scrap.
+

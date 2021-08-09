@@ -1,0 +1,729 @@
+Game #81910389, rated.
+Jazzercise: 44.43
+amatobat: 38.4
+
+Kingdom generated with these relative percentages:
+0%: Militia, Torturer and Pirate Ship
+50%: Minion and Bridge
+
+
+J starts with a Lucky Coin and a Pasture.
+J starts with 5 Coppers.
+J starts with 3 Estates.
+a starts with a Lucky Coin and a Pasture.
+a starts with 5 Coppers.
+a starts with 3 Estates.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Lucky Coin.
+a shuffles their deck.
+a draws 5 cards.
+
+Turn 1 - Jazzercise
+J plays 3 Coppers. (+$3)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys and gains a Shepherd.
+J draws 2 Coppers, 2 Estates and a Pasture.
+
+Turn 1 - amatobat
+a plays 3 Coppers and a Pasture. (+$4)
+a buys a Port.
+a gains a Port.
+a gains a Port.
+a draws 5 cards.
+
+Turn 2 - Jazzercise
+J plays 2 Coppers and a Pasture. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws 2 Coppers, a Silver, an Estate and a Lucky Coin.
+
+Turn 2 - amatobat
+a plays 2 Coppers. (+$2)
+a plays a Lucky Coin. (+$1)
+a gains a Silver.
+a buys and gains a Fool.
+a shuffles their deck.
+a draws 5 cards.
+
+Turn 3 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys and gains a Swamp Hag.
+J draws 2 Coppers, 2 Estates and a Pasture.
+
+Turn 3 - amatobat
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Fool.
+a takes Lost In The Woods.
+a takes The Sun's Gift.
+a takes The Field's Gift.
+a takes The Sky's Gift.
+a receives The Sky's Gift.
+a discards 2 other cards and a Copper.
+a gains a Gold.
+a discards The Sky's Gift.
+a receives The Sun's Gift.
+a looks at 4 cards.
+a discards an Estate.
+a topdecks 3 cards.
+a discards The Sun's Gift.
+a receives The Field's Gift.
+a gets +1 Action.
+a gets +$1.
+a plays a Copper. (+$1)
+a discards The Field's Gift.
+a draws 5 cards.
+
+Turn 4 - Jazzercise
+J plays 2 Coppers and a Pasture. (+$3)
+J buys and gains a Silver.
+J shuffles their deck.
+J draws a Copper, a Silver, a Swamp Hag, a Shepherd and a Lucky Coin.
+
+Turn 4 - amatobat
+a starts their turn.
+a discards an Estate.
+a takes The Moon's Gift.
+a receives The Moon's Gift.
+a looks at 9 cards.
+a looks at 9 cards.
+a topdecks a card.
+a discards The Moon's Gift.
+a plays 3 Coppers and a Silver. (+$5)
+a buys and gains a Swamp Hag.
+a shuffles their deck.
+a draws 5 cards.
+
+Turn 5 - Jazzercise
+J plays a Shepherd.
+J gets +1 Action.
+J discards nothing.
+J plays a Swamp Hag.
+J plays a Copper and a Silver. (+$3)
+J plays a Lucky Coin. (+$1)
+J gains a Silver.
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J draws 3 Coppers, a Silver and an Estate.
+
+Turn 5 - amatobat
+a starts their turn.
+a discards a Lucky Coin.
+a takes The Forest's Gift.
+a receives The Forest's Gift.
+a gets +1 Buy.
+a gets +$1.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Fool.
+a plays a Copper, a Gold and a Silver. (+$6)
+a buys a Shepherd.
+a gains a Curse.
+a gains a Shepherd.
+a buys a Silver.
+a gains a Curse.
+a gains a Silver.
+a discards The Forest's Gift.
+a draws 5 cards.
+
+Turn 6 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays 3 Coppers and a Silver. (+$5)
+J buys and gains an Expand.
+J draws a Copper, a Silver, 2 Estates and a Pasture.
+
+Turn 6 - amatobat
+a starts their turn.
+a discards an Estate.
+a takes The Mountain's Gift.
+a receives The Mountain's Gift.
+a gains a Silver.
+a discards The Mountain's Gift.
+a plays 3 Coppers. (+$3)
+a buys and gains a Fool.
+a shuffles their deck.
+a draws 5 cards.
+
+Turn 7 - Jazzercise
+J plays a Copper, a Pasture and a Silver. (+$4)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J shuffles their deck.
+J draws 2 Silvers and 3 Ports.
+
+Turn 7 - amatobat
+a starts their turn.
+a discards an Estate.
+a takes The Wind's Gift.
+a receives The Wind's Gift.
+a draws 2 cards.
+a discards a card and an Estate.
+a discards The Wind's Gift.
+a plays a Swamp Hag.
+a plays a Copper, a Pasture and a Silver. (+$4)
+a buys a Port.
+a gains a Port.
+a gains a Port.
+a draws 5 cards.
+
+Turn 8 - Jazzercise
+J plays a Port.
+J draws a Swamp Hag.
+J gets +2 Actions.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Swamp Hag.
+J plays 2 Coppers and 2 Silvers. (+$6)
+J buys a Swamp Hag.
+J gains a Curse.
+J gains a Swamp Hag.
+J draws a Copper, an Expand, a Shepherd, a Lucky Coin and a Pasture.
+
+Turn 8 - amatobat
+a starts their turn.
+a gets +$3.
+a discards a Fool.
+a takes The Swamp's Gift.
+a receives The Swamp's Gift.
+a gains a Will-o'-Wisp.
+a discards The Swamp's Gift.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Shepherd.
+a gets +1 Action.
+a discards nothing.
+a plays a Copper and 2 Silvers. (+$5)
+a buys a Province.
+a gains a Curse.
+a gains a Province.
+a draws 5 cards.
+
+Turn 9 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture.
+J draws 2 Silvers.
+J plays an Expand.
+J trashes a Lucky Coin.
+J gains an Expand.
+J plays a Copper and 2 Silvers. (+$5)
+J buys and gains an Expand.
+J draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 9 - amatobat
+a starts their turn.
+a discards an Estate.
+a takes The River's Gift.
+a receives The River's Gift.
+a plays a Fool.
+a plays 3 Coppers. (+$3)
+a buys and gains a Silver.
+a discards The River's Gift.
+a shuffles their deck.
+a draws 6 cards.
+
+Turn 10 - Jazzercise
+J plays 2 Coppers and a Silver. (+$4)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J shuffles their deck.
+J draws 3 Coppers, an Estate and a Swamp Hag.
+
+Turn 10 - amatobat
+a starts their turn.
+a discards a Curse.
+a takes The Sea's Gift.
+a receives The Sea's Gift.
+a draws a card.
+a discards The Sea's Gift.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Fool.
+a plays a Gold and 2 Silvers. (+$7)
+a plays a Lucky Coin. (+$1)
+a gains a Silver.
+a buys and gains a Province.
+a draws 5 cards.
+
+Turn 11 - Jazzercise
+J plays a Swamp Hag.
+J plays 3 Coppers. (+$3)
+J buys and gains a Fool.
+J draws 3 Silvers, an Expand and a Port.
+
+Turn 11 - amatobat
+a starts their turn.
+a discards a Curse.
+a takes The Flame's Gift.
+a receives The Flame's Gift.
+a trashes a Copper.
+a discards The Flame's Gift.
+a plays a Will-o'-Wisp.
+a draws a card.
+a gets +1 Action.
+a reveals a Port.
+a topdecks a Port.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Pasture and a Silver. (+$3)
+a buys a Silver.
+a gains a Curse.
+a gains a Silver.
+a draws 5 cards.
+
+Turn 12 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws an Estate.
+J gets +2 Actions.
+J plays an Expand.
+J trashes a Silver.
+J gains a Shepherd.
+J plays 2 Silvers. (+$4)
+J buys a Port.
+J gains a Port.
+J gains a Port.
+J draws a Copper, an Expand, a Swamp Hag, a Shepherd and a Pasture.
+
+Turn 12 - amatobat
+a starts their turn.
+a discards an Estate.
+a takes The Earth's Gift.
+a receives The Earth's Gift.
+a discards a Copper.
+a gains a Patron.
+a discards The Earth's Gift.
+a plays a Swamp Hag.
+a plays 2 Coppers. (+$2)
+a draws 5 cards.
+
+Turn 13 - Jazzercise
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture.
+J draws an Expand and a Port.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Swamp Hag.
+J plays an Expand.
+J trashes a Copper.
+J gains a Silver.
+J draws a Curse, 2 Silvers, an Estate and a Port.
+
+Turn 13 - amatobat
+a starts their turn.
+a gets +$3.
+a discards an Estate.
+a takes The Flame's Gift.
+a receives The Flame's Gift.
+a trashes a Copper.
+a discards The Flame's Gift.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Fool.
+a plays a Silver. (+$2)
+a buys a Potion.
+a gains a Curse.
+a gains a Potion.
+a shuffles their deck.
+a draws 5 cards.
+
+Turn 14 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays 2 Silvers. (+$4)
+J buys and gains an Expand.
+J shuffles their deck.
+J draws a Copper, an Expand, a Port, a Swamp Hag and a Pasture.
+
+Turn 14 - amatobat
+a starts their turn.
+a discards a Curse.
+a takes The Wind's Gift.
+a receives The Wind's Gift.
+a draws 2 cards.
+a discards a card and a Fool.
+a discards The Wind's Gift.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Shepherd.
+a gets +1 Action.
+a discards an Estate.
+a draws 2 cards.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Gold and a Silver. (+$5)
+a buys and gains a Duchy.
+a draws 5 cards.
+
+Turn 15 - Jazzercise
+J plays a Port.
+J draws a Fool.
+J gets +2 Actions.
+J plays a Swamp Hag.
+J plays an Expand.
+J trashes a Copper.
+J gains a Silver.
+J draws 2 Silvers, an Estate, a Port and a Swamp Hag.
+
+Turn 15 - amatobat
+a starts their turn.
+a discards a Copper.
+a takes The Sea's Gift.
+a receives The Sea's Gift.
+a draws a card.
+a discards The Sea's Gift.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Will-o'-Wisp.
+a draws a card.
+a gets +1 Action.
+a reveals a Province.
+a topdecks a Province.
+a plays a Pasture and 2 Silvers. (+$5)
+a buys Bargain.
+a gains a Patron.
+J gains a Horse.
+a draws 5 cards.
+
+Turn 16 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Port.
+J draws an Expand.
+J gets +2 Actions.
+J plays an Expand.
+J trashes a Silver.
+J gains a Shepherd.
+J plays a Swamp Hag.
+J plays a Silver. (+$2)
+J buys and gains a Shepherd.
+J draws a Copper, a Silver, 2 Estates and a Port.
+
+Turn 16 - amatobat
+a starts their turn.
+a discards a Province.
+a takes The Sun's Gift.
+a receives The Sun's Gift.
+a looks at 4 cards.
+a topdecks 4 cards.
+a discards The Sun's Gift.
+a plays a Swamp Hag.
+a plays 2 Coppers. (+$2)
+a draws 5 cards.
+
+Turn 17 - Jazzercise
+J starts their turn.
+J gets +$3.
+J plays a Port.
+J draws an Expand.
+J gets +2 Actions.
+J plays an Expand.
+J trashes a Silver.
+J gains a Duchy.
+J plays a Copper. (+$1)
+J buys Bargain.
+J gains a Shepherd.
+a gains a Horse.
+J draws a Copper, a Silver and 3 Ports.
+
+Turn 17 - amatobat
+a starts their turn.
+a gets +$3.
+a discards an Estate.
+a takes The River's Gift.
+a receives The River's Gift.
+a plays a Fool.
+a plays a Silver. (+$2)
+a plays a Potion.
+a plays a Lucky Coin. (+$1)
+a gains a Silver.
+a buys and gains a Golem.
+a discards The River's Gift.
+a shuffles their deck.
+a draws 6 cards.
+
+Turn 18 - Jazzercise
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Port.
+J draws an Expand.
+J gets +2 Actions.
+J plays a Port.
+J draws a Shepherd.
+J gets +2 Actions.
+J plays an Expand.
+J trashes a Copper.
+J gains a Fool.
+J plays a Copper and a Silver. (+$3)
+J shuffles their deck.
+J draws a Curse, a Silver, a Port and 2 Shepherds.
+
+Turn 18 - amatobat
+a starts their turn.
+a discards a Curse.
+a takes The Moon's Gift.
+a receives The Moon's Gift.
+a looks at a card.
+a discards The Moon's Gift.
+a plays a Fool.
+a plays 2 Silvers. (+$4)
+a buys and gains a Bard.
+a draws 5 cards.
+
+Turn 19 - Jazzercise
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws an Expand.
+J gets +2 Actions.
+J plays an Expand.
+J trashes a Curse.
+J gains a Silver.
+J plays a Silver. (+$2)
+J draws an Expand, a Port, a Swamp Hag, a Pasture and a Horse.
+
+Turn 19 - amatobat
+a starts their turn.
+a discards an Estate.
+a takes The Field's Gift.
+a receives The Field's Gift.
+a gets +1 Action.
+a gets +$1.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Golem.
+a reveals 2 Coppers, an Estate, a Curse, a Shepherd and a Patron.
+a gets a Coffers from Patron.
+a discards a Curse, 2 Coppers and an Estate.
+a plays a Shepherd.
+a gets +1 Action.
+a discards a Duchy.
+a draws 2 cards.
+a plays a Patron.
+a gets +1 Villager.
+a gets +$2.
+a plays a Will-o'-Wisp.
+a draws a card.
+a gets +1 Action.
+a reveals a Port.
+a topdecks a Port.
+a plays a Patron.
+a gets +1 Villager.
+a gets +$2.
+a plays a Fool.
+a plays a Gold and a Silver. (+$5)
+a buys and gains a Platinum.
+a discards The Field's Gift.
+a draws 5 cards.
+
+Turn 20 - Jazzercise
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Copper.
+J gets +2 Actions.
+J plays a Horse.
+J draws a Port and a Shepherd.
+J gets +1 Action.
+J returns a Horse to the Horse pile.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws an Estate.
+J gets +2 Actions.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Pasture and an Estate.
+J draws a Silver, a Duchy, a Swamp Hag and a Shepherd.
+J plays a Swamp Hag.
+J plays a Swamp Hag.
+J plays a Shepherd.
+J gets +1 Action.
+J discards a Duchy.
+J draws an Estate and a Fool.
+J plays a Fool.
+J takes Lost In The Woods.
+J takes The Earth's Gift.
+J takes The Sky's Gift.
+J takes The Forest's Gift.
+J receives The Earth's Gift.
+J discards a Copper.
+J gains a Shepherd.
+J discards The Earth's Gift.
+J receives The Forest's Gift.
+J gets +1 Buy.
+J gets +$1.
+J receives The Sky's Gift.
+J fails to discard for The Sky's Gift
+J discards The Sky's Gift.
+J plays an Expand.
+J trashes a Silver.
+J gains a Shepherd.
+J discards The Forest's Gift.
+J draws 2 Expands, a Port, a Fool and a Shepherd.
+
+Turn 20 - amatobat
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Horse.
+a draws 2 cards.
+a gets +1 Action.
+a returns a Horse to the Horse pile.
+a plays a Copper and 2 Silvers. (+$5)
+a plays a Lucky Coin. (+$1)
+a gains a Silver.
+a uses 1 Coffers. (+$1)
+a buys an Expand.
+a gains 2 Curses.
+a gains an Expand.
+a draws 5 cards.
+
+Turn 21 - Jazzercise
+J starts their turn.
+J gets +$6.
+J plays a Port.
+J draws a Silver.
+J gets +2 Actions.
+J plays an Expand.
+J trashes a Fool.
+J gains a Shepherd.
+J plays an Expand.
+J trashes a Silver.
+J gains a Shepherd.
+J shuffles their deck.
+J draws a Copper, a Silver, 2 Estates and a Port.
+
+Turn 21 - amatobat
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Swamp Hag.
+a plays a Silver. (+$2)
+a plays a Potion.
+a shuffles their deck.
+a draws 5 cards.
+
+Turn 22 - Jazzercise
+J starts their turn.
+J discards a Copper.
+J takes The Mountain's Gift.
+J receives The Mountain's Gift.
+J gains a Silver.
+J discards The Mountain's Gift.
+J plays a Port.
+J draws a Shepherd.
+J gets +2 Actions.
+J plays a Shepherd.
+J gets +1 Action.
+J discards 2 Estates.
+J draws a Port and 3 Shepherds.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Shepherd.
+J gets +2 Actions.
+J plays a Silver. (+$2)
+J buys an Estate.
+J gains a Curse.
+J gains an Estate.
+J draws an Estate, a Duchy, an Expand, a Swamp Hag and a Shepherd.
+
+Turn 22 - amatobat
+a starts their turn.
+a gets +$3.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Port.
+a draws a card.
+a gets +2 Actions.
+a plays a Pasture and 3 Silvers. (+$7)
+a buys and gains a Platinum.
+a draws 5 cards.
+
+Turn 23 - Jazzercise
+J starts their turn.
+J discards a Swamp Hag.
+J takes The Swamp's Gift.
+J receives The Swamp's Gift.
+J gains a Will-o'-Wisp.
+J discards The Swamp's Gift.
+J plays a Shepherd.
+J gets +1 Action.
+J discards an Estate and a Duchy.
+J draws a Silver, an Expand, a Port and a Shepherd.
+J plays a Port.
+J draws a Port.
+J gets +2 Actions.
+J plays a Port.
+J draws a Shepherd.
+J gets +2 Actions.
+J plays an Expand.
+J trashes a Shepherd.
+J gains a Duchy.
+J plays an Expand.
+J trashes a Shepherd.
+J gains a Duchy.
+J plays a Silver. (+$2)
+J buys and gains a Curse.
+J draws 2 Expands, a Port, a Fool and a Shepherd.
+
