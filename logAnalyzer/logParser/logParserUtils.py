@@ -10,3 +10,9 @@ def getGameIdFromLog(log):
                 return None
             if words[0] == s_intro_game:
                 return words[1][1:-1]
+
+
+def stripPunctuation(string):
+    if string[-1] == '.' or string[-1] == ',':
+        return string[0:-1]
+    return string
